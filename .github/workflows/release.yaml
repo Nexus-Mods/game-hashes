@@ -30,7 +30,7 @@ jobs:
 
       - name: Pack JSON Folder
         run: |
-          dotnet NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli/NexusMods.Archives.Nx.Cli.csproj -- pack --source ./json --target ./packed_output.nx --deduplicate-chunked=true --chunkedlevel=22
+          dotnet run --project NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli/NexusMods.Archives.Nx.Cli.csproj -- pack --source ./json --target ./packed_output.nx --deduplicate-chunked=true --chunkedlevel=22
 
       - name: Create GitHub Release
         id: create_release
