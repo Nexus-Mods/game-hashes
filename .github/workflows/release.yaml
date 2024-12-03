@@ -32,6 +32,11 @@ jobs:
         run: |
           dotnet run --project NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli/NexusMods.Archives.Nx.Cli.csproj -- pack --source ./json --target ./minimal_hashes.nx --deduplicate-chunked=true --chunkedlevel=22
 
+      - name: Create Tag
+        run: |
+          git tag v-$(date +'%Y%m%d%H%M%S')
+          git push origin --tags
+
       - name: Create GitHub Release
         id: create_release
         uses: actions/create-release@v1
