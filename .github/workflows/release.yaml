@@ -1,0 +1,55 @@
+name: Pack JSON Folder and Release
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  pack-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Download NexusMods.Archives.Nx Repository
+        run: |
+          git clone https://github.com/Nexus-Mods/NexusMods.Archives.Nx.git
+
+      - name: Set Up .NET Core
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.x'
+
+      - name: Restore Dependencies for NexusMods.Archives.Nx.Cli
+        run: |
+          cd NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli
+          dotnet restore
+
+      - name: Pack JSON Folder
+        run: |
+          cd NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli
+          dotnet run -- pack --source ../../../../json --target ../../../../packed_output.nx --deduplicate-chunked=true --chunkedlevel=22
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.sha }}
+          release_name: Release ${{ github.sha }}
+          draft: false
+          prerelease: false
+
+      - name: Upload .nx File to Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          release_id: ${{ steps.create_release.outputs.id }}
+          asset_path: ./packed_output.nx
+          asset_name: packed_output.nx
+          asset_content_type: application/octet-stream
