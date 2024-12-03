@@ -52,7 +52,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          release_id: ${{ steps.create_release.outputs.id }}
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./minimal_hashes.nx
           asset_name: minimal_hashes.nx
           asset_content_type: application/octet-stream
