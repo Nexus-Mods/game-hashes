@@ -34,11 +34,12 @@ jobs:
         run: |
           apt-get update && apt-get install -y xxhash
           version_hash=$(xxhsum -H3 ./minimal_hashes.nx | awk '{print $1}')
+          echo "Calculated version hash: $version_hash"
           echo "::set-output name=version::$version_hash"
 
       - name: Create Tag
         run: |
-          git tag v${{ steps.calculate_version.outputs.version }}
+          git tag "v${{ steps.calculate_version.outputs.version }}"
           git push origin --tags
       - name: Create GitHub Release
         id: create_release
@@ -46,8 +47,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: "v${{ steps.calculate_version.outputs.version }}"
-          release_name: "Release v${{ steps.calculate_version.outputs.version }}"
+          tag_name: "version-${{ steps.calculate_version.outputs.version }}"
+          release_name: "Release version-${{ steps.calculate_version.outputs.version }}"
           draft: false
           prerelease: false
 
@@ -60,4 +61,5 @@ jobs:
           asset_path: ./minimal_hashes.nx
           asset_name: minimal_hashes.nx
           asset_content_type: application/octet-stream
+
 
