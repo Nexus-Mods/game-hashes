@@ -29,11 +29,15 @@ jobs:
       - name: Pack JSON Folder
         run: |
           dotnet run --project NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli/NexusMods.Archives.Nx.Cli.csproj -- pack --source ./json --target ./minimal_hashes.nx --deduplicate-chunked=true --chunkedlevel=22
+
+      - name: Install Python xxhash
+        run: |
+          pip install xxhash
+
       - name: Calculate Version from xxHash3
         id: calculate_version
         run: |
-          apt-get update && apt-get install -y xxhash
-          version_hash=$(xxhsum -H3 ./minimal_hashes.nx | awk '{print $1}')
+          version_hash=$(python -c "import xxhash; print(xxhash.xxh3_64_hexdigest(open('./minimal_hashes.nx', 'rb').read()))")
           echo "Calculated version hash: $version_hash"
           echo "::set-output name=version::$version_hash"
 
@@ -61,5 +65,6 @@ jobs:
           asset_path: ./minimal_hashes.nx
           asset_name: minimal_hashes.nx
           asset_content_type: application/octet-stream
+
 
 
