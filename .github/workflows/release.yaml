@@ -17,7 +17,6 @@ jobs:
       - name: Download NexusMods.Archives.Nx Repository
         run: |
           git clone https://github.com/Nexus-Mods/NexusMods.Archives.Nx.git
-
       - name: Set Up .NET Core
         uses: actions/setup-dotnet@v3
         with:
@@ -27,14 +26,14 @@ jobs:
         run: |
           cd NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli
           dotnet restore
-
       - name: Pack JSON Folder
         run: |
           dotnet run --project NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli/NexusMods.Archives.Nx.Cli.csproj -- pack --source ./json --target ./minimal_hashes.nx --deduplicate-chunked=true --chunkedlevel=22
 
       - name: Create Tag
         run: |
-          git tag v$(date +'%Y%m%d%H%M%S')
+          version="v$(echo $GITHUB_RUN_ID)"
+          git tag $version
           git push origin --tags
 
       - name: Create GitHub Release
@@ -43,8 +42,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: "v$(date +'%Y%m%d%H%M%S')"
-          release_name: "Release $(date +'%Y-%m-%d %H:%M:%S')"
+          tag_name: "v${{ github.run_id }}"
+          release_name: "Release ${{ github.run_id }}"
           draft: false
           prerelease: false
 
