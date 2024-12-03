@@ -29,21 +29,25 @@ jobs:
       - name: Pack JSON Folder
         run: |
           dotnet run --project NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli/NexusMods.Archives.Nx.Cli.csproj -- pack --source ./json --target ./minimal_hashes.nx --deduplicate-chunked=true --chunkedlevel=22
+      - name: Calculate Version from xxHash3
+        id: calculate_version
+        run: |
+          apt-get update && apt-get install -y xxhash
+          version_hash=$(xxhsum -H3 ./minimal_hashes.nx | awk '{print $1}')
+          echo "::set-output name=version::$version_hash"
 
       - name: Create Tag
         run: |
-          version="v$(echo $GITHUB_RUN_ID)"
-          git tag $version
+          git tag v${{ steps.calculate_version.outputs.version }}
           git push origin --tags
-
       - name: Create GitHub Release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: "v${{ github.run_id }}"
-          release_name: "Release ${{ github.run_id }}"
+          tag_name: "v${{ steps.calculate_version.outputs.version }}"
+          release_name: "Release v${{ steps.calculate_version.outputs.version }}"
           draft: false
           prerelease: false
 
@@ -56,3 +60,4 @@ jobs:
           asset_path: ./minimal_hashes.nx
           asset_name: minimal_hashes.nx
           asset_content_type: application/octet-stream
+
