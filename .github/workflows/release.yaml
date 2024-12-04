@@ -14,21 +14,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Download NexusMods.Archives.Nx Repository
-        run: |
-          git clone https://github.com/Nexus-Mods/NexusMods.Archives.Nx.git
-      - name: Set Up .NET Core
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '8.x'
-
-      - name: Restore Dependencies for NexusMods.Archives.Nx.Cli
-        run: |
-          cd NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli
-          dotnet restore
       - name: Pack JSON Folder
         run: |
-          dotnet run --project NexusMods.Archives.Nx/NexusMods.Archives.Nx.Cli/NexusMods.Archives.Nx.Cli.csproj -- pack --source ./json --target ./minimal_hashes.nx --deduplicate-chunked=true --chunkedlevel=22
+          zip -r -9 minimal_hashes.zip ./json
 
       - name: Install Python xxhash
         run: |
@@ -37,7 +25,7 @@ jobs:
       - name: Calculate Version from xxHash3
         id: calculate_version
         run: |
-          version_hash=$(python -c "import xxhash; print(xxhash.xxh3_64_hexdigest(open('./minimal_hashes.nx', 'rb').read()))")
+          version_hash=$(python -c "import xxhash; print(xxhash.xxh3_64_hexdigest(open('./minimal_hashes.zip', 'rb').read()))").read()))")
           echo "Calculated version hash: $version_hash"
           echo "::set-output name=version::$version_hash"
 
@@ -52,7 +40,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: "v${{ steps.calculate_version.outputs.version }}"
-          release_name: "Release ${{ steps.calculate_version.outputs.version }}"
+          release_name: "Release v${{ steps.calculate_version.outputs.version }}"
           draft: false
           prerelease: false
 
@@ -62,9 +50,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./minimal_hashes.nx
-          asset_name: minimal_hashes.nx
-          asset_content_type: application/octet-stream
+          asset_path: ./minimal_hashes.zip
+          asset_name: minimal_hashes.zip
+          asset_content_type: application/zip
 
 
 
