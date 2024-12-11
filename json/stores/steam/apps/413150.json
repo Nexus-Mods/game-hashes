@@ -1,0 +1,105 @@
+{
+  "ChangeNumber": 26552526,
+  "AppId": 413150,
+  "Depots": [
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 413151,
+      "Manifests": {
+        "public": {
+          "ManifestId": 1364246008775303529,
+          "Size": 690853004,
+          "DownloadSize": 453279296
+        },
+        "legacy_1.5.6": {
+          "ManifestId": 5609262347030774375,
+          "Size": 650810621,
+          "DownloadSize": 429122928
+        },
+        "compatibility": {
+          "ManifestId": 5538941793102260869,
+          "Size": 580692110,
+          "DownloadSize": 416526640
+        },
+        "legacy_1.6.8": {
+          "ManifestId": 1777024427851858279,
+          "Size": 675607362,
+          "DownloadSize": 448271536
+        },
+        "previous_version": {
+          "ManifestId": 1289391404978285152,
+          "Size": 690836347,
+          "DownloadSize": 453273632
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 413152,
+      "Manifests": {
+        "public": {
+          "ManifestId": 4280144724332332812,
+          "Size": 710475570,
+          "DownloadSize": 456372352
+        },
+        "legacy_1.5.6": {
+          "ManifestId": 7794216274031597899,
+          "Size": 672863431,
+          "DownloadSize": 432497296
+        },
+        "compatibility": {
+          "ManifestId": 6139543768754880429,
+          "Size": 696274296,
+          "DownloadSize": 442395824
+        },
+        "legacy_1.6.8": {
+          "ManifestId": 2235726939199153098,
+          "Size": 694277959,
+          "DownloadSize": 451513744
+        },
+        "previous_version": {
+          "ManifestId": 623935949123772484,
+          "Size": 710457889,
+          "DownloadSize": 456367120
+        }
+      }
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 413153,
+      "Manifests": {
+        "public": {
+          "ManifestId": 5957588574415759106,
+          "Size": 707908859,
+          "DownloadSize": 457260096
+        },
+        "legacy_1.5.6": {
+          "ManifestId": 5898757968212855302,
+          "Size": 673045222,
+          "DownloadSize": 433542112
+        },
+        "compatibility": {
+          "ManifestId": 7913605651179937163,
+          "Size": 691528345,
+          "DownloadSize": 444936400
+        },
+        "legacy_1.6.8": {
+          "ManifestId": 4264972535478467767,
+          "Size": 693441242,
+          "DownloadSize": 452461920
+        },
+        "previous_version": {
+          "ManifestId": 8095929248374658484,
+          "Size": 707892202,
+          "DownloadSize": 457255296
+        }
+      }
+    }
+  ]
+}
