@@ -14,10 +14,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Replace Folder Names with Game IDs
-        run: |
-          python scripts/rename_folders.py  
-
       - name: Pack JSON Folder
         run: |
           zip -r -9 minimal_hashes.zip ./json
