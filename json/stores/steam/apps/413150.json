@@ -1,5 +1,5 @@
 {
-  "ChangeNumber": 26552526,
+  "ChangeNumber": 27075003,
   "AppId": 413150,
   "Depots": [
     {
@@ -9,9 +9,9 @@
       "DepotId": 413151,
       "Manifests": {
         "public": {
-          "ManifestId": 1364246008775303529,
-          "Size": 690853004,
-          "DownloadSize": 453279296
+          "ManifestId": 4278718763097142923,
+          "Size": 691846347,
+          "DownloadSize": 453699840
         },
         "legacy_1.5.6": {
           "ManifestId": 5609262347030774375,
@@ -19,9 +19,9 @@
           "DownloadSize": 429122928
         },
         "compatibility": {
-          "ManifestId": 5538941793102260869,
-          "Size": 580692110,
-          "DownloadSize": 416526640
+          "ManifestId": 4848991934266309406,
+          "Size": 580712810,
+          "DownloadSize": 416535552
         },
         "legacy_1.6.8": {
           "ManifestId": 1777024427851858279,
@@ -29,9 +29,9 @@
           "DownloadSize": 448271536
         },
         "previous_version": {
-          "ManifestId": 1289391404978285152,
-          "Size": 690836347,
-          "DownloadSize": 453273632
+          "ManifestId": 1364246008775303529,
+          "Size": 690853004,
+          "DownloadSize": 453279296
         }
       }
     },
@@ -42,9 +42,9 @@
       "DepotId": 413152,
       "Manifests": {
         "public": {
-          "ManifestId": 4280144724332332812,
-          "Size": 710475570,
-          "DownloadSize": 456372352
+          "ManifestId": 2618652301291810021,
+          "Size": 711467377,
+          "DownloadSize": 456794576
         },
         "legacy_1.5.6": {
           "ManifestId": 7794216274031597899,
@@ -52,9 +52,9 @@
           "DownloadSize": 432497296
         },
         "compatibility": {
-          "ManifestId": 6139543768754880429,
-          "Size": 696274296,
-          "DownloadSize": 442395824
+          "ManifestId": 8537850295833278518,
+          "Size": 696291924,
+          "DownloadSize": 442400128
         },
         "legacy_1.6.8": {
           "ManifestId": 2235726939199153098,
@@ -62,9 +62,9 @@
           "DownloadSize": 451513744
         },
         "previous_version": {
-          "ManifestId": 623935949123772484,
-          "Size": 710457889,
-          "DownloadSize": 456367120
+          "ManifestId": 4280144724332332812,
+          "Size": 710475570,
+          "DownloadSize": 456372352
         }
       }
     },
@@ -75,9 +75,9 @@
       "DepotId": 413153,
       "Manifests": {
         "public": {
-          "ManifestId": 5957588574415759106,
-          "Size": 707908859,
-          "DownloadSize": 457260096
+          "ManifestId": 6005910083361727734,
+          "Size": 708901690,
+          "DownloadSize": 457681328
         },
         "legacy_1.5.6": {
           "ManifestId": 5898757968212855302,
@@ -85,9 +85,9 @@
           "DownloadSize": 433542112
         },
         "compatibility": {
-          "ManifestId": 7913605651179937163,
-          "Size": 691528345,
-          "DownloadSize": 444936400
+          "ManifestId": 8332166493523218127,
+          "Size": 691545973,
+          "DownloadSize": 444940704
         },
         "legacy_1.6.8": {
           "ManifestId": 4264972535478467767,
@@ -95,9 +95,9 @@
           "DownloadSize": 452461920
         },
         "previous_version": {
-          "ManifestId": 8095929248374658484,
-          "Size": 707892202,
-          "DownloadSize": 457255296
+          "ManifestId": 5957588574415759106,
+          "Size": 707908859,
+          "DownloadSize": 457260096
         }
       }
     }
