@@ -19,10 +19,16 @@ jobs:
           git submodule update --init --recursive
 
       # Set up .NET (make sure to match the .NET version NexusMods.App requires)
-      - name: Setup .NET
+      - name: Setup .NET 9.0 (for the app)
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '9.0.x'
+
+      - name: Setup .NET 8.0 (for source generators)
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+          
 
       # Build using NexusMods.App CLI:
       # -p points to the JSON folder from *this* repo (checkout above).
