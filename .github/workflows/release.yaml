@@ -1,36 +1,58 @@
-name: Pack JSON Folder and Release
+name: Build and Release
 
 on:
   workflow_dispatch:
 
 jobs:
-  pack-and-release:
+  build-and-release:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Pack JSON Folder
+      # Clone the NexusMods.App repo
+      - name: Clone NexusMods.App
         run: |
-          zip -r -9 minimal_hashes.zip ./json
+          git clone https://github.com/Nexus-Mods/NexusMods.App
 
+      # Set up .NET (make sure to match the .NET version NexusMods.App requires)
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '9.0.x'
+
+      # Build using NexusMods.App CLI:
+      # -p points to the JSON folder from *this* repo (checkout above).
+      # -o points to some output folder, e.g. $GITHUB_WORKSPACE/output
+      - name: Build DB
+        run: |
+          cd NexusMods.App/src/NexusMods.App
+          dotnet run -- as-main game-hashes-db build \
+            -p $GITHUB_WORKSPACE/json \
+            -o $GITHUB_WORKSPACE/output
+
+      # Install Python xxhash for version hashing
       - name: Install Python xxhash
         run: |
           pip install xxhash
 
+      # Calculate version hash from the resulting ZIP
       - name: Calculate Version from xxHash3
         id: calculate_version
         run: |
-          version_hash=$(python -c "import xxhash; print(xxhash.xxh3_64_hexdigest(open('./minimal_hashes.zip', 'rb').read()))")
+          version_hash=$(python -c "import xxhash; \
+            print(xxhash.xxh3_64_hexdigest(open('${GITHUB_WORKSPACE}/output/game_hashes_db.zip', 'rb').read()))")
           echo "Calculated version hash: $version_hash"
           echo "::set-output name=version::$version_hash"
 
+      # Create a Git tag from that version hash and push it
       - name: Create Tag
         run: |
           git tag "v${{ steps.calculate_version.outputs.version }}"
           git push origin --tags
 
+      # Create a Release from that new tag
       - name: Create GitHub Release
         id: create_release
         uses: actions/create-release@v1
@@ -42,12 +64,24 @@ jobs:
           draft: false
           prerelease: false
 
-      - name: Upload .nx File to Release
+      # Upload manifest.json
+      - name: Upload manifest.json
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./minimal_hashes.zip
-          asset_name: minimal_hashes.zip
+          asset_path: ${{ github.workspace }}/output/manifest.json
+          asset_name: manifest.json
+          asset_content_type: application/json
+
+      # Upload game_hashes_db.zip
+      - name: Upload game_hashes_db.zip
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ${{ github.workspace }}/output/game_hashes_db.zip
+          asset_name: game_hashes_db.zip
           asset_content_type: application/zip
