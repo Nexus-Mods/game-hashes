@@ -37,7 +37,7 @@ jobs:
         run: |
           cd NexusMods.App/src/NexusMods.App
           dotnet run -- as-main game-hashes-db build \
-            -p $GITHUB_WORKSPACE/json \
+            -p $GITHUB_WORKSPACE \
             -o $GITHUB_WORKSPACE/output
 
       # Install Python xxhash for version hashing
