@@ -18,7 +18,8 @@ Stardew Valley:
         - 1.6.14.24317.8331381720
       Steam:
         - 1364246008775303529
-    # This version only exists in some repos, and was only the latest version for about 2 days, likely just created for testing
+    # This version only exists in some repos, and was only the latest version for about 2 days, looks like the next version removed a file that
+    # was no longer needed
     - Name: 1.6.15 (unused)
       GOG:
         - 1.6.15.24355.8684237877
