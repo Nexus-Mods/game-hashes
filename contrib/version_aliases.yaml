@@ -1,24 +1,37 @@
 # These are hand-crafted mappings from commonly used version names to internal GOG/Steam/whatever version strings. Applications
 # are expected to do further filtering of this data, so do not worry about multiple aliases going to the same version (for different OSes
 # for example)
----
 Stardew Valley:
   Windows:
-    Name: 1.6.12
-    GOG:
-      - 1.6.12.24312.8292123749
-    Name: 1.6.13
-    GOG:
-      - 1.6.13.24313.8303763006
-    Name: 1.6.14
-    GOG:
-      - 1.6.14.24317.8331381720
-    Name: 1.6.15
-    GOG:
-      - 1.6.15.24355.8684237877
+    - Name: 1.6.12
+      GOG:
+        - 1.6.12.24312.8292123749
+      Steam:
+        - 7276192310056789702
+    - Name: 1.6.13
+      GOG:
+        - 1.6.13.24313.8303763006
+      Steam:
+        - 1289391404978285152
+    - Name: 1.6.14
+      GOG:
+        - 1.6.14.24317.8331381720
+      Steam:
+        - 1364246008775303529
+    # This version only exists in some repos, and was only the latest version for about 2 days, likely just created for testing
+    - Name: 1.6.15 (unused)
+      GOG:
+        - 1.6.15.24355.8684237877
+      Steam:
+        - 6757974702735282197
+    - Name: 1.6.15
+      GOG:
+        - 1.6.15.24357.8705766150
+      Steam:
+        - 4278718763097142923
 Cyberpunk 2077:
   Windows:
-    Name: 2.2(1)
-    GOG:
-      - 2.2(1)
+    - Name: 2.2(1)
+      GOG:
+        - 2.2(1)
 
