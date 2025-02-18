@@ -1,0 +1,39 @@
+{
+  "ChangeNumber": 27539623,
+  "AppId": 2457220,
+  "Depots": [
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2457221,
+      "Manifests": {
+        "public": {
+          "ManifestId": 9189483736493893648,
+          "Size": 76696915150,
+          "DownloadSize": 73127281904
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 3361650,
+      "Manifests": {
+        "public": {
+          "ManifestId": 5002057258522529215,
+          "Size": 2016054618,
+          "DownloadSize": 1218945376
+        }
+      }
+    },
+    {
+      "OsList": [
+        ""
+      ],
+      "DepotId": 2457222,
+      "Manifests": {}
+    }
+  ]
+}
