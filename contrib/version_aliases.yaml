@@ -3,27 +3,85 @@
 # for example)
 Stardew Valley:
   Windows:
+    - Name: compatibility # betas -> compatibility
+      Steam:
+        - 4848991934266309406
+    - Name: 1.5.6 # betas -> legacy_1.5.6
+      Steam:
+        - 5609262347030774375
+    - Name: 1.6.8
+      Steam:
+        - 1777024427851858279
     - Name: 1.6.12
       GOG:
         - 1.6.12.24312.8292123749
+      # Steam:
+      #  - 7276192310056789702 # for reference only, we didn't index this.
     - Name: 1.6.13
       GOG:
-        - 1.6.13.24313.8303763006
+       - 1.6.13.24313.8303763006
+      # Steam:
+      #  - 1289391404978285152 # for reference only, we didn't index this.
     - Name: 1.6.14
       GOG:
         - 1.6.14.24317.8331381720
       Steam:
         - 1364246008775303529
     # This version only exists in some repos, and was only the latest version for about 2 days, looks like the next version removed a file that
-    # was no longer needed
+    # was no longer needed. (accidentally included library from MacOS build on other platforms)
     - Name: 1.6.15 (unused)
       GOG:
         - 1.6.15.24355.8684237877
+      # Steam:
+      #  - 6757974702735282197 # for reference only, we didn't index this.
     - Name: 1.6.15
       GOG:
         - 1.6.15.24357.8705766150
       Steam:
         - 4278718763097142923
+  MacOS:
+    - Name: compatibility # betas -> compatibility
+      Steam:
+        - 8537850295833278518
+    - Name: 1.5.6 # betas -> legacy_1.5.6
+      Steam:
+        - 7794216274031597899
+    - Name: 1.6.8
+      Steam:
+        - 2235726939199153098
+    - Name: 1.6.14
+      Steam:
+        - 4280144724332332812
+    - Name: 1.6.15
+      Steam:
+        - 2618652301291810021
+  Linux:
+    - Name: compatibility # betas -> compatibility
+      Steam:
+        - 8332166493523218127
+    - Name: 1.5.6 # betas -> legacy_1.5.6
+      Steam:
+        - 5898757968212855302
+    - Name: 1.6.8
+      Steam:
+        - 4264972535478467767
+    - Name: 1.6.12
+      # Steam:
+      #  - 354045480657147132 # for reference only, we didn't index this
+    - Name: 1.6.13
+      # Steam:
+      #  - 8095929248374658484 # for reference only, we didn't index this
+    - Name: 1.6.14
+      Steam:
+        - 5957588574415759106
+    # Accidentally included library from MacOS build on other platforms
+    # and so was pulled.
+    - Name: 1.6.15 (unused)
+      # Steam:
+      #  - 3983657410305550278 # for reference only, we didn't index this.
+    - Name: 1.6.15
+      Steam:
+        - 6005910083361727734
 Cyberpunk 2077:
   Windows:
     - Name: 1.63_Hotfix
@@ -56,4 +114,3 @@ Cyberpunk 2077:
         - 2.21
       Steam:
         - 8420445566849588826
-
