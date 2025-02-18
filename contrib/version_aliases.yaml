@@ -15,13 +15,13 @@ Stardew Valley:
     - Name: 1.6.12
       GOG:
         - 1.6.12.24312.8292123749
-      Steam:
-        - 7276192310056789702
+      # Steam:
+      #  - 7276192310056789702 # for reference only, we didn't index this.
     - Name: 1.6.13
       GOG:
-        - 1.6.13.24313.8303763006
-      Steam:
-        - 1289391404978285152 
+       - 1.6.13.24313.8303763006
+      # Steam:
+      #  - 1289391404978285152 # for reference only, we didn't index this.
     - Name: 1.6.14
       GOG:
         - 1.6.14.24317.8331381720
@@ -32,8 +32,8 @@ Stardew Valley:
     - Name: 1.6.15 (unused)
       GOG:
         - 1.6.15.24355.8684237877
-      Steam:
-        - 6757974702735282197
+      # Steam:
+      #  - 6757974702735282197 # for reference only, we didn't index this.
     - Name: 1.6.15
       GOG:
         - 1.6.15.24357.8705766150
@@ -66,19 +66,19 @@ Stardew Valley:
       Steam:
         - 4264972535478467767
     - Name: 1.6.12
-      Steam:
-        - 354045480657147132
+      # Steam:
+      #  - 354045480657147132 # for reference only, we didn't index this
     - Name: 1.6.13
-      Steam:
-        - 8095929248374658484
+      # Steam:
+      #  - 8095929248374658484 # for reference only, we didn't index this
     - Name: 1.6.14
       Steam:
         - 5957588574415759106
     # Accidentally included library from MacOS build on other platforms
     # and so was pulled.
     - Name: 1.6.15 (unused)
-      Steam:
-        - 3983657410305550278
+      # Steam:
+      #  - 3983657410305550278 # for reference only, we didn't index this.
     - Name: 1.6.15
       Steam:
         - 6005910083361727734
