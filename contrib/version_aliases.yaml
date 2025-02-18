@@ -3,6 +3,15 @@
 # for example)
 Stardew Valley:
   Windows:
+    - Name: compatibility # betas -> compatibility
+      Steam:
+        - 4848991934266309406
+    - Name: 1.5.6 # betas -> legacy_1.5.6
+      Steam:
+        - 5609262347030774375
+    - Name: 1.6.8
+      Steam:
+        - 1777024427851858279
     - Name: 1.6.12
       GOG:
         - 1.6.12.24312.8292123749
@@ -30,7 +39,32 @@ Stardew Valley:
         - 1.6.15.24357.8705766150
       Steam:
         - 4278718763097142923
+  macOS:
+    - Name: compatibility # betas -> compatibility
+      Steam:
+        - 8537850295833278518
+    - Name: 1.5.6 # betas -> legacy_1.5.6
+      Steam:
+        - 7794216274031597899
+    - Name: 1.6.8
+      Steam:
+        - 2235726939199153098
+    - Name: 1.6.14
+      Steam:
+        - 4280144724332332812
+    - Name: 1.6.15
+      Steam:
+        - 2618652301291810021
   Linux:
+    - Name: compatibility # betas -> compatibility
+      Steam:
+        - 8332166493523218127
+    - Name: 1.5.6 # betas -> legacy_1.5.6
+      Steam:
+        - 5898757968212855302
+    - Name: 1.6.8
+      Steam:
+        - 4264972535478467767
     - Name: 1.6.12
       Steam:
         - 354045480657147132
@@ -78,4 +112,3 @@ Cyberpunk 2077:
         - 2.21
       Steam:
         - 8420445566849588826
-
