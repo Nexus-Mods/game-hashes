@@ -28,7 +28,7 @@ Stardew Valley:
       Steam:
         - 1364246008775303529
     # This version only exists in some repos, and was only the latest version for about 2 days, looks like the next version removed a file that
-    # was no longer needed. (accidentally included library from macOS build on Windows)
+    # was no longer needed. (accidentally included library from MacOS build on other platforms)
     - Name: 1.6.15 (unused)
       GOG:
         - 1.6.15.24355.8684237877
@@ -39,7 +39,7 @@ Stardew Valley:
         - 1.6.15.24357.8705766150
       Steam:
         - 4278718763097142923
-  macOS:
+  MacOS:
     - Name: compatibility # betas -> compatibility
       Steam:
         - 8537850295833278518
@@ -74,6 +74,8 @@ Stardew Valley:
     - Name: 1.6.14
       Steam:
         - 5957588574415759106
+    # Accidentally included library from MacOS build on other platforms
+    # and so was pulled.
     - Name: 1.6.15 (unused)
       Steam:
         - 3983657410305550278
