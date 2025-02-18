@@ -6,24 +6,46 @@ Stardew Valley:
     - Name: 1.6.12
       GOG:
         - 1.6.12.24312.8292123749
+      Steam:
+        - 7276192310056789702
     - Name: 1.6.13
       GOG:
         - 1.6.13.24313.8303763006
+      Steam:
+        - 1289391404978285152 
     - Name: 1.6.14
       GOG:
         - 1.6.14.24317.8331381720
       Steam:
         - 1364246008775303529
     # This version only exists in some repos, and was only the latest version for about 2 days, looks like the next version removed a file that
-    # was no longer needed
+    # was no longer needed. (accidentally included library from macOS build on Windows)
     - Name: 1.6.15 (unused)
       GOG:
         - 1.6.15.24355.8684237877
+      Steam:
+        - 6757974702735282197
     - Name: 1.6.15
       GOG:
         - 1.6.15.24357.8705766150
       Steam:
         - 4278718763097142923
+  Linux:
+    - Name: 1.6.12
+      Steam:
+        - 354045480657147132
+    - Name: 1.6.13
+      Steam:
+        - 8095929248374658484
+    - Name: 1.6.14
+      Steam:
+        - 5957588574415759106
+    - Name: 1.6.15 (unused)
+      Steam:
+        - 3983657410305550278
+    - Name: 1.6.15
+      Steam:
+        - 6005910083361727734
 Cyberpunk 2077:
   Windows:
     - Name: 1.63_Hotfix
