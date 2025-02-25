@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-release:
+  update-game-hashes:
     strategy:
       matrix:
         store:
@@ -12,7 +12,7 @@ jobs:
         game:
           - StardewValley
           
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
       - name: Checkout Repository
@@ -40,6 +40,6 @@ jobs:
       - name: Index ${{ matrix.game }} from ${{ matrix.store }} 
         run: |
           cd NexusMods.App/src/NexusMods.App
-          dotnet run -- as-main ${{matrix.store}} app index \
+          dotnet run --property WarningLevel=0 -- as-main ${{matrix.store}} app index \
             -o $GITHUB_WORKSPACE \json
             -g ${{ matrix.game }}
