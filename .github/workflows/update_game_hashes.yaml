@@ -40,6 +40,4 @@ jobs:
       - name: Index ${{ matrix.game }} from ${{ matrix.store }} 
         run: |
           cd NexusMods.App/src/NexusMods.App
-          dotnet run --property WarningLevel=0 -- as-main ${{matrix.store}} app index \
-            -o $GITHUB_WORKSPACE \json
-            -g ${{ matrix.game }}
+          dotnet run --property WarningLevel=0 -- as-main ${{matrix.store}} app index -o $GITHUB_WORKSPACE \json -g ${{ matrix.game }}
