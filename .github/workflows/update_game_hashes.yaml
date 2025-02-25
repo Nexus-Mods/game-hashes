@@ -1,0 +1,45 @@
+name: Update Game Hashes
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-and-release:
+    strategy:
+      matrix:
+        store:
+          - steam 
+        game:
+          - StardewValley
+          
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Clone the NexusMods.App repo
+      - name: Clone NexusMods.App & Make Folders
+        run: |
+          mkdir output
+          git clone https://github.com/Nexus-Mods/NexusMods.App
+          cd NexusMods.App
+          git submodule update --init --recursive
+
+      # Set up .NET (make sure to match the .NET version NexusMods.App requires)
+      - name: Setup .NET 9.0 (for the app)
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '9.0.x'
+
+      - name: Setup .NET 8.0 (for source generators)
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+          
+      - name: Index ${{ matrix.game }} from ${{ matrix.store }} 
+        run: |
+          cd NexusMods.App/src/NexusMods.App
+          dotnet run -- as-main ${{matrix.store}} app index \
+            -o $GITHUB_WORKSPACE \json
+            -g ${{ matrix.game }}
