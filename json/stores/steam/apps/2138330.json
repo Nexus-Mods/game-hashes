@@ -1,0 +1,281 @@
+{
+  "ChangeNumber": 28251541,
+  "AppId": 2138330,
+  "Depots": [
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138330,
+      "Manifests": {
+        "public": {
+          "ManifestId": 6387618923890239308,
+          "Size": 24745654120,
+          "DownloadSize": 23651119216
+        },
+        "2_13_old": {
+          "ManifestId": 7007045647006068627,
+          "Size": 24735732527,
+          "DownloadSize": 23641286608
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138331,
+      "Manifests": {
+        "public": {
+          "ManifestId": 1180890704594297344,
+          "Size": 2025201664,
+          "DownloadSize": 1961423152
+        },
+        "2_13_old": {
+          "ManifestId": 781283383458573073,
+          "Size": 2025201664,
+          "DownloadSize": 1961419024
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138332,
+      "Manifests": {
+        "public": {
+          "ManifestId": 243454000450973454,
+          "Size": 1770672128,
+          "DownloadSize": 1706949456
+        },
+        "2_13_old": {
+          "ManifestId": 2506459317086392895,
+          "Size": 1770672128,
+          "DownloadSize": 1706942976
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138333,
+      "Manifests": {
+        "public": {
+          "ManifestId": 2566154460690311405,
+          "Size": 1690636288,
+          "DownloadSize": 1626277808
+        },
+        "2_13_old": {
+          "ManifestId": 695571406283132317,
+          "Size": 1690636288,
+          "DownloadSize": 1626270016
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138334,
+      "Manifests": {
+        "public": {
+          "ManifestId": 4244055668565136881,
+          "Size": 1706594304,
+          "DownloadSize": 1643248272
+        },
+        "2_13_old": {
+          "ManifestId": 2839991916154164543,
+          "Size": 1706594304,
+          "DownloadSize": 1643234416
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138335,
+      "Manifests": {
+        "public": {
+          "ManifestId": 3076319316504337387,
+          "Size": 1878884352,
+          "DownloadSize": 1813625792
+        },
+        "2_13_old": {
+          "ManifestId": 8316307084834852093,
+          "Size": 1878884352,
+          "DownloadSize": 1813626032
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138336,
+      "Manifests": {
+        "public": {
+          "ManifestId": 3270971240246640308,
+          "Size": 1636634624,
+          "DownloadSize": 1573250256
+        },
+        "2_13_old": {
+          "ManifestId": 712278886235526499,
+          "Size": 1636634624,
+          "DownloadSize": 1573244416
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138337,
+      "Manifests": {
+        "public": {
+          "ManifestId": 6081977771879133481,
+          "Size": 1761579008,
+          "DownloadSize": 1697639264
+        },
+        "2_13_old": {
+          "ManifestId": 7427138624942960668,
+          "Size": 1761579008,
+          "DownloadSize": 1697630672
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138338,
+      "Manifests": {
+        "public": {
+          "ManifestId": 5212394083984087937,
+          "Size": 1794711552,
+          "DownloadSize": 1730144032
+        },
+        "2_13_old": {
+          "ManifestId": 5016898539511776017,
+          "Size": 1794711552,
+          "DownloadSize": 1730136592
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2138339,
+      "Manifests": {
+        "public": {
+          "ManifestId": 646910679289277821,
+          "Size": 1589665792,
+          "DownloadSize": 1525773840
+        },
+        "2_13_old": {
+          "ManifestId": 2290796573560588320,
+          "Size": 1589682176,
+          "DownloadSize": 1525788832
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2224070,
+      "Manifests": {
+        "public": {
+          "ManifestId": 5715529876307151501,
+          "Size": 1846870016,
+          "DownloadSize": 1782369328
+        },
+        "2_13_old": {
+          "ManifestId": 3421707574222199970,
+          "Size": 1846870016,
+          "DownloadSize": 1782361120
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224071,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224072,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224073,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224074,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224075,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224076,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224077,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224078,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224079,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224080,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2224089,
+      "Manifests": {}
+    }
+  ]
+}
