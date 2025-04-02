@@ -5,15 +5,11 @@ on:
 
 jobs:
   update-game-hashes:
-    strategy:
-      matrix:
-        store:
-          - steam 
-        game:
-          - StardewValley
-          
     runs-on: self-hosted
-
+    env:
+        STEAM_USER: ${{ secrets.STEAM_USER }}
+        STEAM_PASS: ${{ secrets.STEAM_PASS }}
+        
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -31,10 +27,49 @@ jobs:
           cd NexusMods.App/src/NexusMods.App
           dotnet build -c Release
           
-      - name: Index ${{ matrix.game }} from ${{ matrix.store }}
-        env:
-          STEAM_USER: ${{ secrets.STEAM_USER }}
-          STEAM_PASS: ${{ secrets.STEAM_PASS }}
+      - name: Index Stardew Valley (Steam)
         run: |
           cd NexusMods.App/src/NexusMods.App
-          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main ${{matrix.store}} app index -o $GITHUB_WORKSPACE/json -g ${{ matrix.game }}
+          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main steam app index -o $GITHUB_WORKSPACE/json -a 413150 
+
+      - name: Index Cyberpunk (Steam)
+        run: |
+          cd NexusMods.App/src/NexusMods.App
+          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main steam app index -o $GITHUB_WORKSPACE/json -a 1091500
+
+      - name: Index Cyberpunk - Phantom Liberty (Steam)
+        run: |
+          cd NexusMods.App/src/NexusMods.App
+          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main steam app index -o $GITHUB_WORKSPACE/json -a 2138330
+
+      - name: Index Baldurs Gate 3 (Steam)
+        run: |
+          cd NexusMods.App/src/NexusMods.App
+          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main steam app index -o $GITHUB_WORKSPACE/json -a 1086940
+
+      - name: Set up Git config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      
+      - name: Detect new and modified .json files
+        id: detect-changes
+        run: |
+          git fetch origin
+          git status
+          git add json/*.json
+          git status --short json/*.json > changed_files.txt
+      
+          echo "New files:" > report.txt
+          grep '^??' changed_files.txt | awk '{print $2}' >> report.txt
+          echo "" >> report.txt
+          echo "Modified files:" >> report.txt
+          grep '^ M' changed_files.txt | awk '{print $2}' >> report.txt
+      
+          cat report.txt
+          
+
+     
+      
+          
+          
