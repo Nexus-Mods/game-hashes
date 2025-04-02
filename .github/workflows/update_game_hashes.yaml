@@ -37,4 +37,4 @@ jobs:
           STEAM_PASS: ${{ secrets.STEAM_PASS }}
         run: |
           cd NexusMods.App/src/NexusMods.App
-          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main ${{matrix.store}} app index -o $GITHUB_WORKSPACE\json -g ${{ matrix.game }}
+          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main ${{matrix.store}} app index -o $GITHUB_WORKSPACE/json -g ${{ matrix.game }}
