@@ -12,7 +12,7 @@ jobs:
         game:
           - StardewValley
           
-    runs-on: windows-latest
+    runs-on: self-hosted
 
     steps:
       - name: Checkout Repository
