@@ -5,6 +5,15 @@ on:
 
 jobs:
   update-game-hashes:
+    strategy:
+      matrix:
+        cmd: 
+          - steam app index -a 413150 # Steam - Stardew Valley 
+          - steam app index -a 1091500 # Steam - Cyberpunk 2077
+          - steam app index -a 2138330 # Steam - Cyberpunk 2077 - Phantom Liberty
+          - steam app index -a 1086940 # Steam = Baldurs Gate 3
+        
+  
     runs-on: self-hosted
     env:
         STEAM_USER: ${{ secrets.STEAM_USER }}
@@ -27,25 +36,10 @@ jobs:
           cd NexusMods.App/src/NexusMods.App
           dotnet build -c Release
           
-      - name: Index Stardew Valley (Steam)
+      - name: Run Indexer ${{ matrix.cmd }}
         run: |
           cd NexusMods.App/src/NexusMods.App
-          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main steam app index -o $GITHUB_WORKSPACE/json -a 413150 
-
-      - name: Index Cyberpunk (Steam)
-        run: |
-          cd NexusMods.App/src/NexusMods.App
-          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main steam app index -o $GITHUB_WORKSPACE/json -a 1091500
-
-      - name: Index Cyberpunk - Phantom Liberty (Steam)
-        run: |
-          cd NexusMods.App/src/NexusMods.App
-          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main steam app index -o $GITHUB_WORKSPACE/json -a 2138330
-
-      - name: Index Baldurs Gate 3 (Steam)
-        run: |
-          cd NexusMods.App/src/NexusMods.App
-          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main steam app index -o $GITHUB_WORKSPACE/json -a 1086940
+          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main ${{ matrix.cmd }} -o $GITHUB_WORKSPACE/json 
 
       - name: Set up Git config
         run: |
