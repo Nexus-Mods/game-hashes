@@ -9,9 +9,9 @@ jobs:
       matrix:
         cmd: 
           - steam app index -a 413150 # Steam - Stardew Valley 
-          - steam app index -a 1091500 # Steam - Cyberpunk 2077
-          - steam app index -a 2138330 # Steam - Cyberpunk 2077 - Phantom Liberty
-          - steam app index -a 1086940 # Steam = Baldurs Gate 3
+          #- steam app index -a 1091500 # Steam - Cyberpunk 2077
+          #- steam app index -a 2138330 # Steam - Cyberpunk 2077 - Phantom Liberty
+          #- steam app index -a 1086940 # Steam = Baldurs Gate 3
         
   
     runs-on: self-hosted
