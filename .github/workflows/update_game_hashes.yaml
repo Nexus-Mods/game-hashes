@@ -25,8 +25,13 @@ jobs:
           git clone https://github.com/Nexus-Mods/NexusMods.App
           cd NexusMods.App
           git submodule update --init --recursive
+
+      - name: Build
+        run: |
+          cd NexusMods.App/src/NexusMods.App
+          dotnet build -c Release
           
       - name: Index ${{ matrix.game }} from ${{ matrix.store }} 
         run: |
           cd NexusMods.App/src/NexusMods.App
-          dotnet run --property WarningLevel=0 -- as-main ${{matrix.store}} app index -o $GITHUB_WORKSPACE \json -g ${{ matrix.game }}
+          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main ${{matrix.store}} app index -o $GITHUB_WORKSPACE \json -g ${{ matrix.game }}
