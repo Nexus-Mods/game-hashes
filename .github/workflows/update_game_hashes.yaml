@@ -51,7 +51,7 @@ jobs:
         run: |
           git fetch origin
           git status
-          git add json/*.json
+          git add json/**/*.json json/*.json
           git status --short json/*.json > changed_files.txt
       
           echo "New files:" > report.txt
