@@ -62,6 +62,32 @@ jobs:
       
           cat report.txt
           
+      - name: Generate unique branch name
+        if: steps.check-json.outputs.changed == 'true'
+        id: branch-name
+        run: |
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          BRANCH="update-game-hashes-${TIMESTAMP}"
+          echo "branch=${BRANCH}" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.check-json.outputs.changed == 'true'
+        run: |
+          git checkout -b ${{ steps.branch-name.outputs.branch }}
+          git add json/*.json
+          git commit -m "Update game hashes"
+          git push origin ${{ steps.branch-name.outputs.branch }}
+
+      - name: Create Pull Request
+        if: steps.check-json.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ steps.branch-name.outputs.branch }}
+          title: "Update game hashes"
+          body: |
+            This PR updates the game hashes based on the latest index run.
+          delete-branch: true
 
      
       
