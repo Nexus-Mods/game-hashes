@@ -70,7 +70,7 @@ jobs:
           fi
           
       - name: Generate unique branch name
-        if: steps.check-json.outputs.changed == 'true'
+        if: steps.detect-changes.outputs.changed == 'true'
         id: branch-name
         run: |
           TIMESTAMP=$(date +%Y%m%d-%H%M%S)
@@ -78,7 +78,7 @@ jobs:
           echo "branch=${BRANCH}" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
-        if: steps.check-json.outputs.changed == 'true'
+        if: steps.detect-changes.outputs.changed == 'true'
         run: |
           git checkout -b ${{ steps.branch-name.outputs.branch }}
           git add json/**/*.json json/*.json
@@ -86,7 +86,7 @@ jobs:
           git push origin ${{ steps.branch-name.outputs.branch }}
 
       - name: Create Pull Request
-        if: steps.check-json.outputs.changed == 'true'
+        if: steps.detect-changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
