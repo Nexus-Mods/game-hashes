@@ -27,8 +27,8 @@ jobs:
       - name: Clone NexusMods.App & Make Folders
         run: |
           mkdir app
-          wget https://github.com/Nexus-Mods/NexusMods.App/releases/latest/download/NexusMods.App-0.9.2-1.linux-x64.zip
-          unzip NexusMods.App-0.9.2-1.linux-x64.zip -d ./app
+          wget https://github.com/Nexus-Mods/NexusMods.App/actions/runs/14471960574/artifacts/2948748418 -O app.zip
+          unzip app.zip -d ./app
           
       - name: Run Indexer ${{ matrix.cmd }}
         run: |
