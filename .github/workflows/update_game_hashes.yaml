@@ -91,6 +91,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ steps.branch-name.outputs.branch }}
+          base: main
           title: "Update game hashes"
           body: |
             This PR updates the game hashes based on the latest index run.
