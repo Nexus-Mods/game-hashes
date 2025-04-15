@@ -1,0 +1,23 @@
+{
+  "ManifestId": 8946837401961877512,
+  "Files": [
+    {
+      "Path": "Baldur\u0027s Gate 3.app/Contents/Data/Localization/language.lsx",
+      "Size": 573,
+      "Hash": "6D131DE4246DB11BADD7002AA818BFA8385693C6",
+      "Chunks": [
+        {
+          "ChunkId": "6D131DE4246DB11BADD7002AA818BFA8385693C6",
+          "Checksum": "A5925617",
+          "Offset": 0,
+          "CompressedSize": 304,
+          "UncompressedSize": 573
+        }
+      ]
+    }
+  ],
+  "DepotId": 1419664,
+  "CreationTime": "2020-10-02T14:47:36+00:00",
+  "TotalCompressedSize": 304,
+  "TotalUncompressedSize": 573
+}

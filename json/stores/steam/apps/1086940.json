@@ -1,0 +1,948 @@
+{
+  "ChangeNumber": 28493998,
+  "AppId": 1086940,
+  "Depots": [
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1086941,
+      "Manifests": {
+        "public": {
+          "ManifestId": 769633398849801734,
+          "Size": 154486652060,
+          "DownloadSize": 127319396912
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 4016443084035836922,
+          "Size": 152183877341,
+          "DownloadSize": 125009080016
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 5026713417664092526,
+          "Size": 153767636998,
+          "DownloadSize": 126617826880
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1086942,
+      "Manifests": {
+        "public": {
+          "ManifestId": 17875152607970122,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 17875152607970122,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 17875152607970122,
+          "Size": 573,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1086943,
+      "Manifests": {
+        "public": {
+          "ManifestId": 2162431862046349348,
+          "Size": 16028009,
+          "DownloadSize": 13885152
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 8704250069811909913,
+          "Size": 15867624,
+          "DownloadSize": 13702080
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 1107708890965171808,
+          "Size": 15923304,
+          "DownloadSize": 13758464
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1086944,
+      "Manifests": {
+        "public": {
+          "ManifestId": 4930137335148397663,
+          "Size": 14501654,
+          "DownloadSize": 12558144
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 3292885662645325731,
+          "Size": 14347670,
+          "DownloadSize": 12426608
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 4428239725755415705,
+          "Size": 14398871,
+          "DownloadSize": 12470336
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1086945,
+      "Manifests": {
+        "public": {
+          "ManifestId": 1794511063412668336,
+          "Size": 15733608,
+          "DownloadSize": 13630736
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 8237530545437607331,
+          "Size": 15577257,
+          "DownloadSize": 13498288
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 6028240894531217739,
+          "Size": 15629096,
+          "DownloadSize": 13541968
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1086946,
+      "Manifests": {
+        "public": {
+          "ManifestId": 7663758842464813410,
+          "Size": 17066096,
+          "DownloadSize": 14885456
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 5080467222606749123,
+          "Size": 16892782,
+          "DownloadSize": 14730368
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 8814279930504850804,
+          "Size": 16952815,
+          "DownloadSize": 14784144
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1086947,
+      "Manifests": {
+        "public": {
+          "ManifestId": 281359422046886183,
+          "Size": 24486778,
+          "DownloadSize": 21478768
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 8260264646733091175,
+          "Size": 24338218,
+          "DownloadSize": 21351872
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 7055405863172719745,
+          "Size": 24389178,
+          "DownloadSize": 21396432
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1086948,
+      "Manifests": {
+        "public": {
+          "ManifestId": 3314845888094443271,
+          "Size": 32955537,
+          "DownloadSize": 28705792
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 9059714744390918940,
+          "Size": 32806524,
+          "DownloadSize": 28578992
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 1177849686188402038,
+          "Size": 32857489,
+          "DownloadSize": 28623728
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1086949,
+      "Manifests": {
+        "public": {
+          "ManifestId": 202995941488814103,
+          "Size": 14629531,
+          "DownloadSize": 12605152
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 8465180551353127518,
+          "Size": 14478234,
+          "DownloadSize": 12477072
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 7900372690999400037,
+          "Size": 14527834,
+          "DownloadSize": 12519200
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419660,
+      "Manifests": {
+        "public": {
+          "ManifestId": 470707593036074791,
+          "Size": 156492570315,
+          "DownloadSize": 128625591696
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 8019419030609893988,
+          "Size": 153731808011,
+          "DownloadSize": 126235626272
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 5876424103664158083,
+          "Size": 155446634501,
+          "DownloadSize": 127876992768
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419661,
+      "Manifests": {
+        "public": {
+          "ManifestId": 4191530919188121973,
+          "Size": 574,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 4191530919188121973,
+          "Size": 574,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 4191530919188121973,
+          "Size": 574,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419662,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8097823216044026480,
+          "Size": 572,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 155056616988897828,
+          "Size": 572,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 155056616988897828,
+          "Size": 572,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419663,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8896941866941316819,
+          "Size": 572,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 723954999732581088,
+          "Size": 572,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 723954999732581088,
+          "Size": 572,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419664,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8946837401961877512,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 1107219692270677752,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 1107219692270677752,
+          "Size": 573,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419665,
+      "Manifests": {
+        "public": {
+          "ManifestId": 9163518180824517655,
+          "Size": 572,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 747776678919642180,
+          "Size": 572,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 747776678919642180,
+          "Size": 572,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419666,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8629788676253570279,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 314330023803655538,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 314330023803655538,
+          "Size": 573,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419667,
+      "Manifests": {
+        "public": {
+          "ManifestId": 9207822680779415618,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 63003823326025800,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 63003823326025800,
+          "Size": 573,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1419650,
+      "Manifests": {
+        "public": {
+          "ManifestId": 1315473531902051262,
+          "Size": 15510565,
+          "DownloadSize": 13365024
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 8372184514980148361,
+          "Size": 15354916,
+          "DownloadSize": 13263392
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 2476340684195286569,
+          "Size": 15407653,
+          "DownloadSize": 13300480
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1419651,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8636577881270988558,
+          "Size": 13751489,
+          "DownloadSize": 11904720
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 6120897092515926605,
+          "Size": 13602088,
+          "DownloadSize": 11775936
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 6806914915590760927,
+          "Size": 13650818,
+          "DownloadSize": 11818928
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1419652,
+      "Manifests": {
+        "public": {
+          "ManifestId": 3296848716230631620,
+          "Size": 241507445,
+          "DownloadSize": 67762832
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 6054390892227846984,
+          "Size": 213407838,
+          "DownloadSize": 60935344
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 4560720842929068408,
+          "Size": 221957710,
+          "DownloadSize": 62674640
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1419653,
+      "Manifests": {
+        "public": {
+          "ManifestId": 575880542738975575,
+          "Size": 388135304,
+          "DownloadSize": 109570752
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 5004287504333497038,
+          "Size": 388020149,
+          "DownloadSize": 109544896
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 813968981771126782,
+          "Size": 388019613,
+          "DownloadSize": 109545248
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419657,
+      "Manifests": {
+        "public": {
+          "ManifestId": 4548607990756240099,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 4548607990756240099,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 4548607990756240099,
+          "Size": 573,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1419658,
+      "Manifests": {
+        "public": {
+          "ManifestId": 4437190728368898088,
+          "Size": 14296075,
+          "DownloadSize": 12339264
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 4835577404029430904,
+          "Size": 14145737,
+          "DownloadSize": 12212592
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 4522073111045687015,
+          "Size": 14195531,
+          "DownloadSize": 12254160
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1419668,
+      "Manifests": {
+        "public": {
+          "ManifestId": 7974265286609216212,
+          "Size": 21137207,
+          "DownloadSize": 18493952
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 7928402143006248738,
+          "Size": 20981223,
+          "DownloadSize": 18357840
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 5757806648215906392,
+          "Size": 21031979,
+          "DownloadSize": 18402880
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 1419669,
+      "Manifests": {
+        "public": {
+          "ManifestId": 781501818228068420,
+          "Size": 20452253,
+          "DownloadSize": 17854128
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 5988027054563412068,
+          "Size": 20301896,
+          "DownloadSize": 17725824
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 2801378419093995952,
+          "Size": 20352605,
+          "DownloadSize": 17770384
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 1419659,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8400262381541838772,
+          "Size": 572,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 2290135083393841644,
+          "Size": 572,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 2290135083393841644,
+          "Size": 572,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2330350,
+      "Manifests": {
+        "public": {
+          "ManifestId": 5969152992298117383,
+          "Size": 16272798,
+          "DownloadSize": 14145440
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 7410969271902313996,
+          "Size": 16040799,
+          "DownloadSize": 13971488
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 3531144885724029944,
+          "Size": 16163870,
+          "DownloadSize": 14054912
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2330351,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8235026200012353755,
+          "Size": 14578281,
+          "DownloadSize": 12553744
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 2538495863540404322,
+          "Size": 14438186,
+          "DownloadSize": 12432880
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 8566425517764903600,
+          "Size": 14476330,
+          "DownloadSize": 12466448
+        }
+      }
+    },
+    {
+      "OsList": [
+        ""
+      ],
+      "DepotId": 2378500,
+      "Manifests": {
+        "public": {
+          "ManifestId": 6453229909780803137,
+          "Size": 3700167797,
+          "DownloadSize": 2728905872
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 6453229909780803137,
+          "Size": 3700167797,
+          "DownloadSize": 2728905872
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 6453229909780803137,
+          "Size": 3700167797,
+          "DownloadSize": 2728905872
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2330352,
+      "Manifests": {
+        "public": {
+          "ManifestId": 3405764980446251715,
+          "Size": 584,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 3405764980446251715,
+          "Size": 584,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 3405764980446251715,
+          "Size": 584,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2330353,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8378176246974336587,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 612529264506102109,
+          "Size": 573,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 612529264506102109,
+          "Size": 573,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2330354,
+      "Manifests": {
+        "public": {
+          "ManifestId": 7630747791077435590,
+          "Size": 575,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 1136714084285757218,
+          "Size": 575,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 1136714084285757218,
+          "Size": 575,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2330355,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8819605045630475220,
+          "Size": 578,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 452643942447089812,
+          "Size": 578,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 452643942447089812,
+          "Size": 578,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2330356,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8907182068373780168,
+          "Size": 585,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 1557196838441808705,
+          "Size": 585,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 1557196838441808705,
+          "Size": 585,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "macos"
+      ],
+      "DepotId": 2330357,
+      "Manifests": {
+        "public": {
+          "ManifestId": 8923782065545322276,
+          "Size": 574,
+          "DownloadSize": 304
+        },
+        "release_patch6_hf9": {
+          "ManifestId": 526819239596718219,
+          "Size": 574,
+          "DownloadSize": 304
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 526819239596718219,
+          "Size": 574,
+          "DownloadSize": 304
+        }
+      }
+    },
+    {
+      "OsList": [
+        "windows"
+      ],
+      "DepotId": 2330358,
+      "Manifests": {
+        "public": {
+          "ManifestId": 6587098301632560423,
+          "Size": 11227127580,
+          "DownloadSize": 1035318384
+        },
+        "release_patch_7_hf3": {
+          "ManifestId": 266583646441752360,
+          "Size": 10952544136,
+          "DownloadSize": 1026275712
+        }
+      }
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2330359,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378501,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378503,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378504,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378505,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378506,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378507,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378508,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378509,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378511,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378512,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378513,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378514,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378515,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378516,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378517,
+      "Manifests": {}
+    },
+    {
+      "OsList": [
+        "linux"
+      ],
+      "DepotId": 2378518,
+      "Manifests": {}
+    }
+  ]
+}
