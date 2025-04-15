@@ -26,14 +26,20 @@ jobs:
       # Clone the NexusMods.App repo
       - name: Clone NexusMods.App & Make Folders
         run: |
-          mkdir app
-          wget https://github.com/Nexus-Mods/NexusMods.App/releases/latest/download/NexusMods.App-0.9.2-1.linux-x64.zip
-          unzip NexusMods.App-0.9.2-1.linux-x64.zip -d ./app
+          mkdir output
+          git clone https://github.com/Nexus-Mods/NexusMods.App
+          cd NexusMods.App
+          git submodule update --init --recursive
+
+      - name: Build
+        run: |
+          cd NexusMods.App/src/NexusMods.App
+          dotnet build -c Release
           
       - name: Run Indexer ${{ matrix.cmd }}
         run: |
-          cd app
-          ./NexusMods.App as-main ${{ matrix.cmd }} -o $GITHUB_WORKSPACE/json 
+          cd NexusMods.App/src/NexusMods.App
+          dotnet run --no-restore --no-build -c Release --property WarningLevel=0 -- as-main ${{ matrix.cmd }} -o $GITHUB_WORKSPACE/json 
 
       - name: Set up Git config
         run: |
