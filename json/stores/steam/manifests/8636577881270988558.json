@@ -1,0 +1,146 @@
+{
+  "ManifestId": 8636577881270988558,
+  "Files": [
+    {
+      "Path": "Data",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Data/Localization",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Data/Localization/language.lsx",
+      "Size": 573,
+      "Hash": "2C85332C4901A1133C468BDBE1DB2E41A922F8D2",
+      "Chunks": [
+        {
+          "ChunkId": "2C85332C4901A1133C468BDBE1DB2E41A922F8D2",
+          "Checksum": "B2920727",
+          "Offset": 0,
+          "CompressedSize": 304,
+          "UncompressedSize": 573
+        }
+      ]
+    },
+    {
+      "Path": "Data/Localization/Turkish",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Data/Localization/Turkish/Turkish.pak",
+      "Size": 13750916,
+      "Hash": "5D67C7985D52B5A98A210A379FE395D0A943D1E1",
+      "Chunks": [
+        {
+          "ChunkId": "068AE6D2DC4143E877E061AC88732972971B70EB",
+          "Checksum": "9FE50273",
+          "Offset": 8388608,
+          "CompressedSize": 966144,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "085F8D31C79DD2E482F020AD0F545693FFC1C276",
+          "Checksum": "AD64743C",
+          "Offset": 1048576,
+          "CompressedSize": 850048,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "0FB5BE953C200DD2B742014E941D34276A29DDE7",
+          "Checksum": "8D0CD19B",
+          "Offset": 10485760,
+          "CompressedSize": 966128,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3EBB4B1269CDE04B72C77B2A734FE86A67815129",
+          "Checksum": "E71E705C",
+          "Offset": 6291456,
+          "CompressedSize": 900032,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "416128FC0F51D818448D1B7BCFE46B4012733291",
+          "Checksum": "C0F1CF71",
+          "Offset": 7340032,
+          "CompressedSize": 966416,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4E2711E49554EF12C935BC050A1280B9D02B758A",
+          "Checksum": "B49DC8FF",
+          "Offset": 9437184,
+          "CompressedSize": 966304,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "62C5E456D6A808A73DF1741E9109305612714ED2",
+          "Checksum": "CDCED330",
+          "Offset": 3145728,
+          "CompressedSize": 849680,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "73B382B9B6957AE118648641D4BDAFE88125B783",
+          "Checksum": "820CFE4B",
+          "Offset": 0,
+          "CompressedSize": 846928,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "7D707444ACAB4C5DC782E137804E9818AA30306C",
+          "Checksum": "89C6600C",
+          "Offset": 4194304,
+          "CompressedSize": 849904,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "860D0FB21A9968B67290DD6EFC15C1B7DFB91761",
+          "Checksum": "85F8AE3E",
+          "Offset": 5242880,
+          "CompressedSize": 849856,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8C894BA222F779ECAE36FBD0E32AF61BD8BB7D31",
+          "Checksum": "FEC6378C",
+          "Offset": 11534336,
+          "CompressedSize": 965904,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "AF5AFD216F69A8243748F654F92D3A6C722405F6",
+          "Checksum": "0FF4D9A9",
+          "Offset": 13631488,
+          "CompressedSize": 110816,
+          "UncompressedSize": 119428
+        },
+        {
+          "ChunkId": "C4E9C1F4E603B8EB8BC3CF962C8A7695C75DD9D5",
+          "Checksum": "638D2B5A",
+          "Offset": 2097152,
+          "CompressedSize": 849840,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "F2D40961A94051C919234D3AB57AFFEF4449978D",
+          "Checksum": "7435352A",
+          "Offset": 12582912,
+          "CompressedSize": 966416,
+          "UncompressedSize": 1048576
+        }
+      ]
+    }
+  ],
+  "DepotId": 1419651,
+  "CreationTime": "2025-03-31T23:59:03+00:00",
+  "TotalCompressedSize": 11904720,
+  "TotalUncompressedSize": 13751489
+}

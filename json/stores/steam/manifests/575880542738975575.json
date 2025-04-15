@@ -1,0 +1,5438 @@
+{
+  "ManifestId": 575880542738975575,
+  "Files": [
+    {
+      "Path": "Launcher/Backtrace.dll",
+      "Size": 74752,
+      "Hash": "CA22F7019B4320D0A6155F82CCAA9897C9C0BB64",
+      "Chunks": [
+        {
+          "ChunkId": "CA22F7019B4320D0A6155F82CCAA9897C9C0BB64",
+          "Checksum": "76C93611",
+          "Offset": 0,
+          "CompressedSize": 27888,
+          "UncompressedSize": 74752
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/CefSharp.Wpf.dll",
+      "Size": 217088,
+      "Hash": "EDC108D826C8CE6D0B55EAE7C9BED2817E8F3496",
+      "Chunks": [
+        {
+          "ChunkId": "EDC108D826C8CE6D0B55EAE7C9BED2817E8F3496",
+          "Checksum": "56D0846F",
+          "Offset": 0,
+          "CompressedSize": 144816,
+          "UncompressedSize": 217088
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/CrashReporter.deps.json",
+      "Size": 4935,
+      "Hash": "06AE3D1931001287FBF849A7BE0EAD560B051021",
+      "Chunks": [
+        {
+          "ChunkId": "06AE3D1931001287FBF849A7BE0EAD560B051021",
+          "Checksum": "84D51529",
+          "Offset": 0,
+          "CompressedSize": 1200,
+          "UncompressedSize": 4935
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/CrashReporter.dll",
+      "Size": 543232,
+      "Hash": "53CEE2F9D34949358B19C9511BB39EE8E3D2CE40",
+      "Chunks": [
+        {
+          "ChunkId": "53CEE2F9D34949358B19C9511BB39EE8E3D2CE40",
+          "Checksum": "CC73D881",
+          "Offset": 0,
+          "CompressedSize": 165792,
+          "UncompressedSize": 543232
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/CrashReporter.exe",
+      "Size": 531968,
+      "Hash": "799A29AC2F69499449474565CF54BAA9B06B6F0D",
+      "Chunks": [
+        {
+          "ChunkId": "799A29AC2F69499449474565CF54BAA9B06B6F0D",
+          "Checksum": "8D612071",
+          "Offset": 0,
+          "CompressedSize": 93456,
+          "UncompressedSize": 531968
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/CrashReporter.runtimeconfig.json",
+      "Size": 372,
+      "Hash": "04855D8B7A76B7EC74633043EF9986D4500CA63C",
+      "Chunks": [
+        {
+          "ChunkId": "04855D8B7A76B7EC74633043EF9986D4500CA63C",
+          "Checksum": "44628CBF",
+          "Offset": 0,
+          "CompressedSize": 240,
+          "UncompressedSize": 372
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/DbgHelper.dll",
+      "Size": 56320,
+      "Hash": "525C23C145A74443F490FC7B789E4DED41F419F2",
+      "Chunks": [
+        {
+          "ChunkId": "525C23C145A74443F490FC7B789E4DED41F419F2",
+          "Checksum": "9EA0B0FA",
+          "Offset": 0,
+          "CompressedSize": 19184,
+          "UncompressedSize": 56320
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/DriverVersionChecker.exe",
+      "Size": 27136,
+      "Hash": "BFB4265CB1A8A20D259612205BDAF703239A9CF7",
+      "Chunks": [
+        {
+          "ChunkId": "BFB4265CB1A8A20D259612205BDAF703239A9CF7",
+          "Checksum": "8289A8E5",
+          "Offset": 0,
+          "CompressedSize": 14304,
+          "UncompressedSize": 27136
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/LariLauncher.deps.json",
+      "Size": 14585,
+      "Hash": "4128F11EA46D2AD7CCC2E563A5650797A575897E",
+      "Chunks": [
+        {
+          "ChunkId": "4128F11EA46D2AD7CCC2E563A5650797A575897E",
+          "Checksum": "41B24614",
+          "Offset": 0,
+          "CompressedSize": 2304,
+          "UncompressedSize": 14585
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/LariLauncher.dll",
+      "Size": 5743616,
+      "Hash": "9A0274C7E3B61B5249D3AE9F47FB746A300C4461",
+      "Chunks": [
+        {
+          "ChunkId": "6550A3E7F78F3039CB8E4BF307A6B167CAAAEF73",
+          "Checksum": "707D325A",
+          "Offset": 3148655,
+          "CompressedSize": 1032208,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "6EEA02190E07C07207B4B82C1D476C28807A46C4",
+          "Checksum": "C1E7426B",
+          "Offset": 2100079,
+          "CompressedSize": 1035760,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "9AB0E500CED3F490FD41BE04455F414E32EDAB20",
+          "Checksum": "61EAE15A",
+          "Offset": 5245807,
+          "CompressedSize": 131696,
+          "UncompressedSize": 497809
+        },
+        {
+          "ChunkId": "A902BB2890348A15ACFE8489256E8B53F8FA7D48",
+          "Checksum": "D03A4EE8",
+          "Offset": 4197231,
+          "CompressedSize": 1044720,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "BB4111011C487F4063B9EADCAB0331A6DF912AAB",
+          "Checksum": "07317088",
+          "Offset": 1051503,
+          "CompressedSize": 1034016,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "BCA2E758D3AEA5F8A3F820F37214CC640B4D8CAE",
+          "Checksum": "C6430616",
+          "Offset": 1048576,
+          "CompressedSize": 2960,
+          "UncompressedSize": 2927
+        },
+        {
+          "ChunkId": "ED56BFB6558B1E43FE6C99B34CE165C746E4606A",
+          "Checksum": "43003ECD",
+          "Offset": 0,
+          "CompressedSize": 929488,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/LariLauncher.exe",
+      "Size": 534016,
+      "Hash": "B0CE950818409E186BFC21BD52DC4D8638ADB360",
+      "Chunks": [
+        {
+          "ChunkId": "B0CE950818409E186BFC21BD52DC4D8638ADB360",
+          "Checksum": "A2AA3583",
+          "Offset": 0,
+          "CompressedSize": 94096,
+          "UncompressedSize": 534016
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/LariLauncher.runtimeconfig.json",
+      "Size": 372,
+      "Hash": "04855D8B7A76B7EC74633043EF9986D4500CA63C",
+      "Chunks": [
+        {
+          "ChunkId": "04855D8B7A76B7EC74633043EF9986D4500CA63C",
+          "Checksum": "44628CBF",
+          "Offset": 0,
+          "CompressedSize": 240,
+          "UncompressedSize": 372
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/launcher.cfg",
+      "Size": 129,
+      "Hash": "7CCB3403D095239E6AB6710B61DCB07E9B577AB5",
+      "Chunks": [
+        {
+          "ChunkId": "7CCB3403D095239E6AB6710B61DCB07E9B577AB5",
+          "Checksum": "711E1C8B",
+          "Offset": 0,
+          "CompressedSize": 128,
+          "UncompressedSize": 129
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/LayersChecker.exe",
+      "Size": 26112,
+      "Hash": "5000BD2926217116AAB393D930BE1B0D22A42743",
+      "Chunks": [
+        {
+          "ChunkId": "5000BD2926217116AAB393D930BE1B0D22A42743",
+          "Checksum": "B1A87BD1",
+          "Offset": 0,
+          "CompressedSize": 10208,
+          "UncompressedSize": 26112
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/locales/de.csv",
+      "Size": 5198,
+      "Hash": "F328B4828AC0BB51025E5CDEC5A981256DB554D7",
+      "Chunks": [
+        {
+          "ChunkId": "F328B4828AC0BB51025E5CDEC5A981256DB554D7",
+          "Checksum": "565053E8",
+          "Offset": 0,
+          "CompressedSize": 2208,
+          "UncompressedSize": 5198
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/en.csv",
+      "Size": 4527,
+      "Hash": "C0FA3960BBF5AB87ABFA9AF0799DC907A00DC072",
+      "Chunks": [
+        {
+          "ChunkId": "C0FA3960BBF5AB87ABFA9AF0799DC907A00DC072",
+          "Checksum": "8D1CA125",
+          "Offset": 0,
+          "CompressedSize": 1856,
+          "UncompressedSize": 4527
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/es-419.csv",
+      "Size": 5222,
+      "Hash": "B849AD30640DB2660E22E31734A6F7FFC9ADEE45",
+      "Chunks": [
+        {
+          "ChunkId": "B849AD30640DB2660E22E31734A6F7FFC9ADEE45",
+          "Checksum": "2242C54E",
+          "Offset": 0,
+          "CompressedSize": 2192,
+          "UncompressedSize": 5222
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/es.csv",
+      "Size": 5261,
+      "Hash": "21D64B194F6D96CAD175249A4E9F3B36B761DFDB",
+      "Chunks": [
+        {
+          "ChunkId": "21D64B194F6D96CAD175249A4E9F3B36B761DFDB",
+          "Checksum": "E84BE5C2",
+          "Offset": 0,
+          "CompressedSize": 2160,
+          "UncompressedSize": 5261
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/fr.csv",
+      "Size": 5532,
+      "Hash": "1E3143D1046BD21F9C3B295ADEF98F5D4B0D35BA",
+      "Chunks": [
+        {
+          "ChunkId": "1E3143D1046BD21F9C3B295ADEF98F5D4B0D35BA",
+          "Checksum": "A1CF11A9",
+          "Offset": 0,
+          "CompressedSize": 2240,
+          "UncompressedSize": 5532
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/it.csv",
+      "Size": 5100,
+      "Hash": "AC731D71E2E11A31407A9F661169AC3297942912",
+      "Chunks": [
+        {
+          "ChunkId": "AC731D71E2E11A31407A9F661169AC3297942912",
+          "Checksum": "58FA077E",
+          "Offset": 0,
+          "CompressedSize": 2096,
+          "UncompressedSize": 5100
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/ja.csv",
+      "Size": 5772,
+      "Hash": "9CE7BEBB19EFE63EBD74E6218E35EA51DC3A5269",
+      "Chunks": [
+        {
+          "ChunkId": "9CE7BEBB19EFE63EBD74E6218E35EA51DC3A5269",
+          "Checksum": "6FE634A9",
+          "Offset": 0,
+          "CompressedSize": 2064,
+          "UncompressedSize": 5772
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/ko.csv",
+      "Size": 5336,
+      "Hash": "1F7CB101D104F6480DBDD1E96BD2247C658354DD",
+      "Chunks": [
+        {
+          "ChunkId": "1F7CB101D104F6480DBDD1E96BD2247C658354DD",
+          "Checksum": "CF6DA5F3",
+          "Offset": 0,
+          "CompressedSize": 2064,
+          "UncompressedSize": 5336
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/pl.csv",
+      "Size": 5039,
+      "Hash": "46A9B1AE8A8A62AE2F03F00E17DA9B96688A5C53",
+      "Chunks": [
+        {
+          "ChunkId": "46A9B1AE8A8A62AE2F03F00E17DA9B96688A5C53",
+          "Checksum": "5A54B677",
+          "Offset": 0,
+          "CompressedSize": 2272,
+          "UncompressedSize": 5039
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/pt-br.csv",
+      "Size": 4911,
+      "Hash": "8C2D9C36FC0141F7FD0BC2A2F546CB69B848FBF5",
+      "Chunks": [
+        {
+          "ChunkId": "8C2D9C36FC0141F7FD0BC2A2F546CB69B848FBF5",
+          "Checksum": "F1E93177",
+          "Offset": 0,
+          "CompressedSize": 2112,
+          "UncompressedSize": 4911
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/ru.csv",
+      "Size": 7589,
+      "Hash": "A80DA74A9AF242956CABD20F6210E826DBA30E34",
+      "Chunks": [
+        {
+          "ChunkId": "A80DA74A9AF242956CABD20F6210E826DBA30E34",
+          "Checksum": "EAF6BBAB",
+          "Offset": 0,
+          "CompressedSize": 2528,
+          "UncompressedSize": 7589
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/tr.csv",
+      "Size": 4904,
+      "Hash": "3E7E268269A375C66365FE36E4E1FA86A5694B51",
+      "Chunks": [
+        {
+          "ChunkId": "3E7E268269A375C66365FE36E4E1FA86A5694B51",
+          "Checksum": "6B7B9445",
+          "Offset": 0,
+          "CompressedSize": 2128,
+          "UncompressedSize": 4904
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/uk.csv",
+      "Size": 7368,
+      "Hash": "C63B594269CACED301E658CF8796C064FACF084F",
+      "Chunks": [
+        {
+          "ChunkId": "C63B594269CACED301E658CF8796C064FACF084F",
+          "Checksum": "7B5BEEFA",
+          "Offset": 0,
+          "CompressedSize": 2496,
+          "UncompressedSize": 7368
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/zh-Hans.csv",
+      "Size": 4514,
+      "Hash": "9AEA7FDA8705FB7C23F5E47A9EED6027A7AA98AC",
+      "Chunks": [
+        {
+          "ChunkId": "9AEA7FDA8705FB7C23F5E47A9EED6027A7AA98AC",
+          "Checksum": "B0DC249E",
+          "Offset": 0,
+          "CompressedSize": 1984,
+          "UncompressedSize": 4514
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/locales/zh-Hant.csv",
+      "Size": 4525,
+      "Hash": "B0F73CF261E0A80E866A5D4AB4888343C09FCFB9",
+      "Chunks": [
+        {
+          "ChunkId": "B0F73CF261E0A80E866A5D4AB4888343C09FCFB9",
+          "Checksum": "16D27E7C",
+          "Offset": 0,
+          "CompressedSize": 2032,
+          "UncompressedSize": 4525
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/Newtonsoft.Json.dll",
+      "Size": 712464,
+      "Hash": "F3130F7FD4B414B5AEC04EB87ED800EB84DD2154",
+      "Chunks": [
+        {
+          "ChunkId": "F3130F7FD4B414B5AEC04EB87ED800EB84DD2154",
+          "Checksum": "10B812B5",
+          "Offset": 0,
+          "CompressedSize": 209616,
+          "UncompressedSize": 712464
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/lib",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/lib/netcoreapp3.1",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/lib/netcoreapp3.1/CefSharp.Core.dll",
+      "Size": 1094144,
+      "Hash": "AEB3F510F105AF9C1D3CC836D39DC2CDB5C57004",
+      "Chunks": [
+        {
+          "ChunkId": "0AEF81C286AFFED675B7D814E350388C4F892167",
+          "Checksum": "A46DEBC3",
+          "Offset": 0,
+          "CompressedSize": 424880,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "1D93E844BBA1B5FEE933C01F56769842640EC2CE",
+          "Checksum": "B4F83632",
+          "Offset": 1048576,
+          "CompressedSize": 43520,
+          "UncompressedSize": 45568
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/lib/netcoreapp3.1/CefSharp.Core.Runtime.dll",
+      "Size": 1637376,
+      "Hash": "26718568DC76284A4BBC8310EEF3E5F6068D5924",
+      "Chunks": [
+        {
+          "ChunkId": "725B0411E3005D379AC2927B6F774B37448D7619",
+          "Checksum": "7AEE4905",
+          "Offset": 1048576,
+          "CompressedSize": 104224,
+          "UncompressedSize": 588800
+        },
+        {
+          "ChunkId": "D3DCBA4FD4FE70E263DCAA5F8218E14A7DD0E0A1",
+          "Checksum": "CDF3787A",
+          "Offset": 0,
+          "CompressedSize": 169360,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/lib/netcoreapp3.1/CefSharp.dll",
+      "Size": 605696,
+      "Hash": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+      "Chunks": [
+        {
+          "ChunkId": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+          "Checksum": "1627A6FC",
+          "Offset": 0,
+          "CompressedSize": 422224,
+          "UncompressedSize": 605696
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/lib/netcoreapp3.1/Ijwhost.dll",
+      "Size": 144800,
+      "Hash": "CD5312BDC2B1F9E66FB0313150F3B79E861B3F34",
+      "Chunks": [
+        {
+          "ChunkId": "CD5312BDC2B1F9E66FB0313150F3B79E861B3F34",
+          "Checksum": "C26FE100",
+          "Offset": 0,
+          "CompressedSize": 51152,
+          "UncompressedSize": 144800
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/CefSharp.BrowserSubprocess.Core.dll",
+      "Size": 1131520,
+      "Hash": "61C3364E0432976A60ADA320CDD3D1B31D3C34D4",
+      "Chunks": [
+        {
+          "ChunkId": "6BD25ADE6AA81C4FE252E394165EDAEAF16D54F9",
+          "Checksum": "79934289",
+          "Offset": 1048576,
+          "CompressedSize": 20496,
+          "UncompressedSize": 82944
+        },
+        {
+          "ChunkId": "CAA4D4E378A8DD6196308205C14B0C9BB7A9631D",
+          "Checksum": "44350245",
+          "Offset": 0,
+          "CompressedSize": 175520,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/CefSharp.BrowserSubprocess.dll",
+      "Size": 13824,
+      "Hash": "B90B1F583871987195F9DC583D9169A601322EC7",
+      "Chunks": [
+        {
+          "ChunkId": "B90B1F583871987195F9DC583D9169A601322EC7",
+          "Checksum": "44856F12",
+          "Offset": 0,
+          "CompressedSize": 9712,
+          "UncompressedSize": 13824
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/CefSharp.BrowserSubprocess.exe",
+      "Size": 126976,
+      "Hash": "7F6B4B4EA9630373D88E376F00A2A136C548CF91",
+      "Chunks": [
+        {
+          "ChunkId": "7F6B4B4EA9630373D88E376F00A2A136C548CF91",
+          "Checksum": "D5BCBD25",
+          "Offset": 0,
+          "CompressedSize": 41888,
+          "UncompressedSize": 126976
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/CefSharp.BrowserSubprocess.runtimeconfig.json",
+      "Size": 176,
+      "Hash": "5BF338064F96AA55E26CEE8FF8BACA14280446F5",
+      "Chunks": [
+        {
+          "ChunkId": "5BF338064F96AA55E26CEE8FF8BACA14280446F5",
+          "Checksum": "A02D007A",
+          "Offset": 0,
+          "CompressedSize": 176,
+          "UncompressedSize": 176
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/CefSharp.dll",
+      "Size": 605696,
+      "Hash": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+      "Chunks": [
+        {
+          "ChunkId": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+          "Checksum": "1627A6FC",
+          "Offset": 0,
+          "CompressedSize": 422224,
+          "UncompressedSize": 605696
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/Ijwhost.dll",
+      "Size": 144800,
+      "Hash": "CD5312BDC2B1F9E66FB0313150F3B79E861B3F34",
+      "Chunks": [
+        {
+          "ChunkId": "CD5312BDC2B1F9E66FB0313150F3B79E861B3F34",
+          "Checksum": "C26FE100",
+          "Offset": 0,
+          "CompressedSize": 51152,
+          "UncompressedSize": 144800
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/af.pak",
+      "Size": 465205,
+      "Hash": "1EE74A58604FA6FB7CE1B62551EFC89499F5EE41",
+      "Chunks": [
+        {
+          "ChunkId": "1EE74A58604FA6FB7CE1B62551EFC89499F5EE41",
+          "Checksum": "E605B782",
+          "Offset": 0,
+          "CompressedSize": 114432,
+          "UncompressedSize": 465205
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/am.pak",
+      "Size": 756426,
+      "Hash": "A840E64545EFBBCA23366312BC2B42B33D7545C1",
+      "Chunks": [
+        {
+          "ChunkId": "A840E64545EFBBCA23366312BC2B42B33D7545C1",
+          "Checksum": "8ED8D3CA",
+          "Offset": 0,
+          "CompressedSize": 129776,
+          "UncompressedSize": 756426
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ar.pak",
+      "Size": 834745,
+      "Hash": "DA348B2997994019B86DD5AC6EE9C0941594A614",
+      "Chunks": [
+        {
+          "ChunkId": "DA348B2997994019B86DD5AC6EE9C0941594A614",
+          "Checksum": "5C33E5C5",
+          "Offset": 0,
+          "CompressedSize": 134048,
+          "UncompressedSize": 834745
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/bg.pak",
+      "Size": 859704,
+      "Hash": "9D8F1B5858DE84461FDE39B005ED857FE02D3088",
+      "Chunks": [
+        {
+          "ChunkId": "9D8F1B5858DE84461FDE39B005ED857FE02D3088",
+          "Checksum": "4E94C738",
+          "Offset": 0,
+          "CompressedSize": 129616,
+          "UncompressedSize": 859704
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/bn.pak",
+      "Size": 1108054,
+      "Hash": "20B8B4F2C10C668B1D12593B9A0F27AFAB5FA592",
+      "Chunks": [
+        {
+          "ChunkId": "21AF22482F2E0CE23E4B3B66EFB802A0C285871D",
+          "Checksum": "B1CC1E5F",
+          "Offset": 0,
+          "CompressedSize": 127840,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "530CFD22B4FC7B27677D7923284DCDD640AABE1E",
+          "Checksum": "2BF19D96",
+          "Offset": 1048576,
+          "CompressedSize": 9936,
+          "UncompressedSize": 59478
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ca.pak",
+      "Size": 531550,
+      "Hash": "C4F2898DAA562E8A6B391DB2074251340866C79F",
+      "Chunks": [
+        {
+          "ChunkId": "C4F2898DAA562E8A6B391DB2074251340866C79F",
+          "Checksum": "17C8E0CD",
+          "Offset": 0,
+          "CompressedSize": 118928,
+          "UncompressedSize": 531550
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/cs.pak",
+      "Size": 540539,
+      "Hash": "61995FF61015E017225A6CE32ECD7C6738087397",
+      "Chunks": [
+        {
+          "ChunkId": "61995FF61015E017225A6CE32ECD7C6738087397",
+          "Checksum": "7335DF61",
+          "Offset": 0,
+          "CompressedSize": 127056,
+          "UncompressedSize": 540539
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/da.pak",
+      "Size": 491412,
+      "Hash": "08107C5C836A14ACA4BE15989EE3A38807DCDD17",
+      "Chunks": [
+        {
+          "ChunkId": "08107C5C836A14ACA4BE15989EE3A38807DCDD17",
+          "Checksum": "881B3FFF",
+          "Offset": 0,
+          "CompressedSize": 116016,
+          "UncompressedSize": 491412
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/de.pak",
+      "Size": 528865,
+      "Hash": "4904070B357A6CC94A82D5A3BB7AF994FC09B1A2",
+      "Chunks": [
+        {
+          "ChunkId": "4904070B357A6CC94A82D5A3BB7AF994FC09B1A2",
+          "Checksum": "4DF76D07",
+          "Offset": 0,
+          "CompressedSize": 122624,
+          "UncompressedSize": 528865
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/el.pak",
+      "Size": 941201,
+      "Hash": "9E186C16C53AA29E560893BB2B886308A0CA302D",
+      "Chunks": [
+        {
+          "ChunkId": "9E186C16C53AA29E560893BB2B886308A0CA302D",
+          "Checksum": "F8B6CD95",
+          "Offset": 0,
+          "CompressedSize": 136496,
+          "UncompressedSize": 941201
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/en-GB.pak",
+      "Size": 425864,
+      "Hash": "4CE9B3B5268D70FF1DF6AA4E573ECE0ABB5349E2",
+      "Chunks": [
+        {
+          "ChunkId": "4CE9B3B5268D70FF1DF6AA4E573ECE0ABB5349E2",
+          "Checksum": "50FBA086",
+          "Offset": 0,
+          "CompressedSize": 107136,
+          "UncompressedSize": 425864
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/en-US.pak",
+      "Size": 429975,
+      "Hash": "825388F1BCFB000269B90CF38F4E729C2596E4FE",
+      "Chunks": [
+        {
+          "ChunkId": "825388F1BCFB000269B90CF38F4E729C2596E4FE",
+          "Checksum": "70D44186",
+          "Offset": 0,
+          "CompressedSize": 107264,
+          "UncompressedSize": 429975
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/es-419.pak",
+      "Size": 519627,
+      "Hash": "9DBD1610950A87FE6CAC8E10EDBC85C4B7AF2114",
+      "Chunks": [
+        {
+          "ChunkId": "9DBD1610950A87FE6CAC8E10EDBC85C4B7AF2114",
+          "Checksum": "E3D4BEEA",
+          "Offset": 0,
+          "CompressedSize": 118240,
+          "UncompressedSize": 519627
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/es.pak",
+      "Size": 518067,
+      "Hash": "6C591BD9572943D4C3B4292A532738653857E6FB",
+      "Chunks": [
+        {
+          "ChunkId": "6C591BD9572943D4C3B4292A532738653857E6FB",
+          "Checksum": "163C6015",
+          "Offset": 0,
+          "CompressedSize": 117536,
+          "UncompressedSize": 518067
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/et.pak",
+      "Size": 470454,
+      "Hash": "3DC1474E8B164075BE7B51F560AB76DAB3808FC7",
+      "Chunks": [
+        {
+          "ChunkId": "3DC1474E8B164075BE7B51F560AB76DAB3808FC7",
+          "Checksum": "AA6A03D7",
+          "Offset": 0,
+          "CompressedSize": 117984,
+          "UncompressedSize": 470454
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/fa.pak",
+      "Size": 766432,
+      "Hash": "B7E65858B90462CE435835FC0CD0B8C2961E02AE",
+      "Chunks": [
+        {
+          "ChunkId": "B7E65858B90462CE435835FC0CD0B8C2961E02AE",
+          "Checksum": "919EF4DC",
+          "Offset": 0,
+          "CompressedSize": 126032,
+          "UncompressedSize": 766432
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/fi.pak",
+      "Size": 478116,
+      "Hash": "50B5E58E2F349F075863FB2ED2039BD283C9E36B",
+      "Chunks": [
+        {
+          "ChunkId": "50B5E58E2F349F075863FB2ED2039BD283C9E36B",
+          "Checksum": "5BBA3ABE",
+          "Offset": 0,
+          "CompressedSize": 117840,
+          "UncompressedSize": 478116
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/fil.pak",
+      "Size": 541866,
+      "Hash": "A70935149A9EA3CF2B19D2EC7AE4082D7E097712",
+      "Chunks": [
+        {
+          "ChunkId": "A70935149A9EA3CF2B19D2EC7AE4082D7E097712",
+          "Checksum": "353DD904",
+          "Offset": 0,
+          "CompressedSize": 118112,
+          "UncompressedSize": 541866
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/fr.pak",
+      "Size": 563588,
+      "Hash": "6ADBDC011A00458D5B8FBB8BB657E41547679129",
+      "Chunks": [
+        {
+          "ChunkId": "6ADBDC011A00458D5B8FBB8BB657E41547679129",
+          "Checksum": "E4C20CE8",
+          "Offset": 0,
+          "CompressedSize": 122704,
+          "UncompressedSize": 563588
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/gu.pak",
+      "Size": 1092218,
+      "Hash": "2011DB0B740B7B0A632F0E5DB43D15FDAFA771C3",
+      "Chunks": [
+        {
+          "ChunkId": "16F27B04164658E9DDECC641B29EB9FD115A6B30",
+          "Checksum": "AEED8ED0",
+          "Offset": 1048576,
+          "CompressedSize": 7296,
+          "UncompressedSize": 43642
+        },
+        {
+          "ChunkId": "FA2258164218BF67EA529FA09B24374701EE2DD4",
+          "Checksum": "11340607",
+          "Offset": 0,
+          "CompressedSize": 128832,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/he.pak",
+      "Size": 676286,
+      "Hash": "C9A4EC64CF4CAF806F9CCB1942402B86FC74A017",
+      "Chunks": [
+        {
+          "ChunkId": "C9A4EC64CF4CAF806F9CCB1942402B86FC74A017",
+          "Checksum": "CB7C982A",
+          "Offset": 0,
+          "CompressedSize": 124048,
+          "UncompressedSize": 676286
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/hi.pak",
+      "Size": 1154935,
+      "Hash": "171C513D57BB2782841CDCB6063A38005DA1A23A",
+      "Chunks": [
+        {
+          "ChunkId": "4F26658E6FC59F8DB08F88B10ED5B3761BB7BCE7",
+          "Checksum": "A9607EBA",
+          "Offset": 1048576,
+          "CompressedSize": 14592,
+          "UncompressedSize": 106359
+        },
+        {
+          "ChunkId": "9D0251BFDD2E0C9987BA23CB044BF6AEA8ED8E5A",
+          "Checksum": "249F5085",
+          "Offset": 0,
+          "CompressedSize": 128304,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/hr.pak",
+      "Size": 522403,
+      "Hash": "FF7F3A9EF884BF63E9D9882F6D9A328FCA962F42",
+      "Chunks": [
+        {
+          "ChunkId": "FF7F3A9EF884BF63E9D9882F6D9A328FCA962F42",
+          "Checksum": "F13FBD62",
+          "Offset": 0,
+          "CompressedSize": 123088,
+          "UncompressedSize": 522403
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/hu.pak",
+      "Size": 560407,
+      "Hash": "F307988D0C423829F0EAE20F2C71AFB0278FBA33",
+      "Chunks": [
+        {
+          "ChunkId": "F307988D0C423829F0EAE20F2C71AFB0278FBA33",
+          "Checksum": "F879015D",
+          "Offset": 0,
+          "CompressedSize": 128592,
+          "UncompressedSize": 560407
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/id.pak",
+      "Size": 461426,
+      "Hash": "60862AE24640209370D9EC1107DC766C8D65185A",
+      "Chunks": [
+        {
+          "ChunkId": "60862AE24640209370D9EC1107DC766C8D65185A",
+          "Checksum": "CFB10DCB",
+          "Offset": 0,
+          "CompressedSize": 107088,
+          "UncompressedSize": 461426
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/it.pak",
+      "Size": 517128,
+      "Hash": "CDE3DCFCCC885BA0116DAFD791220EA3E02E3AED",
+      "Chunks": [
+        {
+          "ChunkId": "CDE3DCFCCC885BA0116DAFD791220EA3E02E3AED",
+          "Checksum": "21063EE0",
+          "Offset": 0,
+          "CompressedSize": 117008,
+          "UncompressedSize": 517128
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ja.pak",
+      "Size": 628169,
+      "Hash": "4A88E6190F0F19187818379F29EDE4D5763D5A46",
+      "Chunks": [
+        {
+          "ChunkId": "4A88E6190F0F19187818379F29EDE4D5763D5A46",
+          "Checksum": "B460CE6C",
+          "Offset": 0,
+          "CompressedSize": 113616,
+          "UncompressedSize": 628169
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/kn.pak",
+      "Size": 1246353,
+      "Hash": "EF2A66DAD22A39E0700BB78CAB1BB25CA33A9B0C",
+      "Chunks": [
+        {
+          "ChunkId": "0938023CA459A88DD13AD2DA2A0B34C0783F517E",
+          "Checksum": "1CCAB98C",
+          "Offset": 1048576,
+          "CompressedSize": 25072,
+          "UncompressedSize": 197777
+        },
+        {
+          "ChunkId": "AB1B8593C661FEBE03E9DF7CBD76F75221643C90",
+          "Checksum": "CE1198A9",
+          "Offset": 0,
+          "CompressedSize": 115616,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ko.pak",
+      "Size": 526503,
+      "Hash": "7DBC3CDF08EF63D6AA70F73354CF184A30D004BF",
+      "Chunks": [
+        {
+          "ChunkId": "7DBC3CDF08EF63D6AA70F73354CF184A30D004BF",
+          "Checksum": "7D2B4419",
+          "Offset": 0,
+          "CompressedSize": 109520,
+          "UncompressedSize": 526503
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/lt.pak",
+      "Size": 569996,
+      "Hash": "F399B0E9C364695F13F0E35F7D0725EA0BDCBB27",
+      "Chunks": [
+        {
+          "ChunkId": "F399B0E9C364695F13F0E35F7D0725EA0BDCBB27",
+          "Checksum": "598CC027",
+          "Offset": 0,
+          "CompressedSize": 125696,
+          "UncompressedSize": 569996
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/lv.pak",
+      "Size": 566664,
+      "Hash": "307D0F2237B610E66B5C5521F80B944E394C997C",
+      "Chunks": [
+        {
+          "ChunkId": "307D0F2237B610E66B5C5521F80B944E394C997C",
+          "Checksum": "CDF23990",
+          "Offset": 0,
+          "CompressedSize": 126512,
+          "UncompressedSize": 566664
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ml.pak",
+      "Size": 1293128,
+      "Hash": "EA167EB9C5D2FD29D2BF285AA20471125F2FDC6B",
+      "Chunks": [
+        {
+          "ChunkId": "8AB07476674BCEC1B11A1A6DD6822B72B1F001B1",
+          "Checksum": "56385F6B",
+          "Offset": 1048576,
+          "CompressedSize": 30496,
+          "UncompressedSize": 244552
+        },
+        {
+          "ChunkId": "B35ECC6FC16E199313DF39877763EF0815DEDA8E",
+          "Checksum": "566C6B2E",
+          "Offset": 0,
+          "CompressedSize": 114160,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/mr.pak",
+      "Size": 1062156,
+      "Hash": "031037978D03D87CB6EA77D0BE8D6C25BE251B55",
+      "Chunks": [
+        {
+          "ChunkId": "62D7A39C02FBF41BDCA5777D7BFE15FA60FDE00C",
+          "Checksum": "54925F2D",
+          "Offset": 1048576,
+          "CompressedSize": 2768,
+          "UncompressedSize": 13580
+        },
+        {
+          "ChunkId": "B691DAB00506F988786320F561A0A50AA49C93FC",
+          "Checksum": "1616A564",
+          "Offset": 0,
+          "CompressedSize": 129376,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ms.pak",
+      "Size": 483671,
+      "Hash": "7E673FD5C13947BECA0E973A9F0FC7523AF68A3C",
+      "Chunks": [
+        {
+          "ChunkId": "7E673FD5C13947BECA0E973A9F0FC7523AF68A3C",
+          "Checksum": "A1196F8D",
+          "Offset": 0,
+          "CompressedSize": 108864,
+          "UncompressedSize": 483671
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/nb.pak",
+      "Size": 470647,
+      "Hash": "B92E09B21FD589BDFC17EB04A67C4A5A54A84362",
+      "Chunks": [
+        {
+          "ChunkId": "B92E09B21FD589BDFC17EB04A67C4A5A54A84362",
+          "Checksum": "D351145C",
+          "Offset": 0,
+          "CompressedSize": 112976,
+          "UncompressedSize": 470647
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/nl.pak",
+      "Size": 485599,
+      "Hash": "AD32282896443AF786AE1A822371CBC705195928",
+      "Chunks": [
+        {
+          "ChunkId": "AD32282896443AF786AE1A822371CBC705195928",
+          "Checksum": "4B334B42",
+          "Offset": 0,
+          "CompressedSize": 115808,
+          "UncompressedSize": 485599
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/pl.pak",
+      "Size": 546228,
+      "Hash": "CDBC9040F088D3F63353CFA7EDC0434DF399B188",
+      "Chunks": [
+        {
+          "ChunkId": "CDBC9040F088D3F63353CFA7EDC0434DF399B188",
+          "Checksum": "8F649022",
+          "Offset": 0,
+          "CompressedSize": 127968,
+          "UncompressedSize": 546228
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/pt-BR.pak",
+      "Size": 511688,
+      "Hash": "9541A0ED5A2A4C97522A987C07FBA7DEC30E7534",
+      "Chunks": [
+        {
+          "ChunkId": "9541A0ED5A2A4C97522A987C07FBA7DEC30E7534",
+          "Checksum": "738F4BDA",
+          "Offset": 0,
+          "CompressedSize": 117808,
+          "UncompressedSize": 511688
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/pt-PT.pak",
+      "Size": 513383,
+      "Hash": "1F5E11AC3D110FAFDA8905A3CB0F64EE3DDA5921",
+      "Chunks": [
+        {
+          "ChunkId": "1F5E11AC3D110FAFDA8905A3CB0F64EE3DDA5921",
+          "Checksum": "D5667E8D",
+          "Offset": 0,
+          "CompressedSize": 116576,
+          "UncompressedSize": 513383
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ro.pak",
+      "Size": 532032,
+      "Hash": "FDDCA118009A9E238CF799A9C3E85B8A0496AB16",
+      "Chunks": [
+        {
+          "ChunkId": "FDDCA118009A9E238CF799A9C3E85B8A0496AB16",
+          "Checksum": "C58AD7F3",
+          "Offset": 0,
+          "CompressedSize": 119680,
+          "UncompressedSize": 532032
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ru.pak",
+      "Size": 874082,
+      "Hash": "7A0F7600C34D5D4DB961D5737EF4BB646EBDEA0C",
+      "Chunks": [
+        {
+          "ChunkId": "7A0F7600C34D5D4DB961D5737EF4BB646EBDEA0C",
+          "Checksum": "C4EC4CF0",
+          "Offset": 0,
+          "CompressedSize": 135568,
+          "UncompressedSize": 874082
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/sk.pak",
+      "Size": 549760,
+      "Hash": "BEC14596879767834FDF974DD67C413C4E71DE78",
+      "Chunks": [
+        {
+          "ChunkId": "BEC14596879767834FDF974DD67C413C4E71DE78",
+          "Checksum": "3B490797",
+          "Offset": 0,
+          "CompressedSize": 129808,
+          "UncompressedSize": 549760
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/sl.pak",
+      "Size": 528839,
+      "Hash": "2F99FB86B033610B66CABC3E4B4DB8F68348C504",
+      "Chunks": [
+        {
+          "ChunkId": "2F99FB86B033610B66CABC3E4B4DB8F68348C504",
+          "Checksum": "BE98DA31",
+          "Offset": 0,
+          "CompressedSize": 122864,
+          "UncompressedSize": 528839
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/sr.pak",
+      "Size": 811643,
+      "Hash": "7FFEE432A5B8C23E58C13B1A98277B2114589AE5",
+      "Chunks": [
+        {
+          "ChunkId": "7FFEE432A5B8C23E58C13B1A98277B2114589AE5",
+          "Checksum": "518F07FD",
+          "Offset": 0,
+          "CompressedSize": 129648,
+          "UncompressedSize": 811643
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/sv.pak",
+      "Size": 474842,
+      "Hash": "0597B6E607A366E7F4820F9EE7C8532DF4BE4E94",
+      "Chunks": [
+        {
+          "ChunkId": "0597B6E607A366E7F4820F9EE7C8532DF4BE4E94",
+          "Checksum": "8178DF78",
+          "Offset": 0,
+          "CompressedSize": 113168,
+          "UncompressedSize": 474842
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/sw.pak",
+      "Size": 498985,
+      "Hash": "9584213D59CB67F46DD0DA8B6A51CDDDF1A74504",
+      "Chunks": [
+        {
+          "ChunkId": "9584213D59CB67F46DD0DA8B6A51CDDDF1A74504",
+          "Checksum": "E4FB8125",
+          "Offset": 0,
+          "CompressedSize": 115808,
+          "UncompressedSize": 498985
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ta.pak",
+      "Size": 1283232,
+      "Hash": "F3936298B77B07C34D2565B61F42BECC446CD2A1",
+      "Chunks": [
+        {
+          "ChunkId": "4CA02C2999279243F0D2E586D52BA5B375DF4018",
+          "Checksum": "0E21D3E9",
+          "Offset": 1048576,
+          "CompressedSize": 27456,
+          "UncompressedSize": 234656
+        },
+        {
+          "ChunkId": "CBCCF64A5A54559287DE6F938455832D23685488",
+          "Checksum": "0CE5AFBC",
+          "Offset": 0,
+          "CompressedSize": 112208,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/te.pak",
+      "Size": 1185717,
+      "Hash": "7205DAF1B1ADD062B784ECD74A4F6EFEE6FF13B3",
+      "Chunks": [
+        {
+          "ChunkId": "0AC73BF5BA0DB75ADD614FFA9AEBDF1D1E0E58B4",
+          "Checksum": "41B43644",
+          "Offset": 1048576,
+          "CompressedSize": 19056,
+          "UncompressedSize": 137141
+        },
+        {
+          "ChunkId": "BCDAB03561CFB2E71102505CAF5458789B839945",
+          "Checksum": "AFD43DA7",
+          "Offset": 0,
+          "CompressedSize": 120800,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/th.pak",
+      "Size": 999193,
+      "Hash": "462A35CA1B07D3C09BB02DFDF07A656263D18AC8",
+      "Chunks": [
+        {
+          "ChunkId": "462A35CA1B07D3C09BB02DFDF07A656263D18AC8",
+          "Checksum": "41AEC2DC",
+          "Offset": 0,
+          "CompressedSize": 119200,
+          "UncompressedSize": 999193
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/tr.pak",
+      "Size": 509180,
+      "Hash": "AED6254238CE8867B147522B6DF1E3FC037948FE",
+      "Chunks": [
+        {
+          "ChunkId": "AED6254238CE8867B147522B6DF1E3FC037948FE",
+          "Checksum": "E625AB4F",
+          "Offset": 0,
+          "CompressedSize": 117376,
+          "UncompressedSize": 509180
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/uk.pak",
+      "Size": 871237,
+      "Hash": "ED24DA4A09328040375DE19B9DA60B4333357A7F",
+      "Chunks": [
+        {
+          "ChunkId": "ED24DA4A09328040375DE19B9DA60B4333357A7F",
+          "Checksum": "2357C446",
+          "Offset": 0,
+          "CompressedSize": 134016,
+          "UncompressedSize": 871237
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/ur.pak",
+      "Size": 756714,
+      "Hash": "BC7E8EE54F95536018893BEAC2952CF6ED881E04",
+      "Chunks": [
+        {
+          "ChunkId": "BC7E8EE54F95536018893BEAC2952CF6ED881E04",
+          "Checksum": "524D83B1",
+          "Offset": 0,
+          "CompressedSize": 125792,
+          "UncompressedSize": 756714
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/vi.pak",
+      "Size": 602677,
+      "Hash": "346EC07335128558A643C45773E97809CAB97432",
+      "Chunks": [
+        {
+          "ChunkId": "346EC07335128558A643C45773E97809CAB97432",
+          "Checksum": "F46AE8E5",
+          "Offset": 0,
+          "CompressedSize": 116896,
+          "UncompressedSize": 602677
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/zh-CN.pak",
+      "Size": 436214,
+      "Hash": "C31F30F01873585C7C360B96FABC3F730B1A77FC",
+      "Chunks": [
+        {
+          "ChunkId": "C31F30F01873585C7C360B96FABC3F730B1A77FC",
+          "Checksum": "761AA21E",
+          "Offset": 0,
+          "CompressedSize": 108784,
+          "UncompressedSize": 436214
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-arm64/native/locales/zh-TW.pak",
+      "Size": 434590,
+      "Hash": "24E013D0B1C718EC4C92E05CDF65C7B6E8CCCB7D",
+      "Chunks": [
+        {
+          "ChunkId": "24E013D0B1C718EC4C92E05CDF65C7B6E8CCCB7D",
+          "Checksum": "4BC8CEE5",
+          "Offset": 0,
+          "CompressedSize": 107712,
+          "UncompressedSize": 434590
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/lib",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/lib/netcoreapp3.1",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/lib/netcoreapp3.1/CefSharp.Core.dll",
+      "Size": 1094144,
+      "Hash": "AEB3F510F105AF9C1D3CC836D39DC2CDB5C57004",
+      "Chunks": [
+        {
+          "ChunkId": "0AEF81C286AFFED675B7D814E350388C4F892167",
+          "Checksum": "A46DEBC3",
+          "Offset": 0,
+          "CompressedSize": 424880,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "1D93E844BBA1B5FEE933C01F56769842640EC2CE",
+          "Checksum": "B4F83632",
+          "Offset": 1048576,
+          "CompressedSize": 43520,
+          "UncompressedSize": 45568
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/lib/netcoreapp3.1/CefSharp.Core.Runtime.dll",
+      "Size": 1813504,
+      "Hash": "147886F647C491E727B285CBDC7EC24FAED9CF8B",
+      "Chunks": [
+        {
+          "ChunkId": "96CB411496F853D2E3E3AB8F2EA45CB85A1BD456",
+          "Checksum": "5DB664BC",
+          "Offset": 1048576,
+          "CompressedSize": 114896,
+          "UncompressedSize": 764928
+        },
+        {
+          "ChunkId": "D98DB15785C11E023FAAE74DF144157235FCAAB9",
+          "Checksum": "72204630",
+          "Offset": 0,
+          "CompressedSize": 195248,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/lib/netcoreapp3.1/CefSharp.dll",
+      "Size": 605696,
+      "Hash": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+      "Chunks": [
+        {
+          "ChunkId": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+          "Checksum": "1627A6FC",
+          "Offset": 0,
+          "CompressedSize": 422224,
+          "UncompressedSize": 605696
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/lib/netcoreapp3.1/Ijwhost.dll",
+      "Size": 151968,
+      "Hash": "E7AAA1B7CB4E520428C46794EC6327DA7165F24C",
+      "Chunks": [
+        {
+          "ChunkId": "E7AAA1B7CB4E520428C46794EC6327DA7165F24C",
+          "Checksum": "96ED71F6",
+          "Offset": 0,
+          "CompressedSize": 62000,
+          "UncompressedSize": 151968
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/CefSharp.BrowserSubprocess.Core.dll",
+      "Size": 1134592,
+      "Hash": "E7BD4ED93011CBC14D86FA18F9CD80418923BE03",
+      "Chunks": [
+        {
+          "ChunkId": "B56A899F56AD31E5F88E53D524855E29EB396E38",
+          "Checksum": "D34FDB89",
+          "Offset": 1048576,
+          "CompressedSize": 21568,
+          "UncompressedSize": 86016
+        },
+        {
+          "ChunkId": "F9228C608131E8D8C00E7CAB53F86641EFC7DAE9",
+          "Checksum": "4242DAD2",
+          "Offset": 0,
+          "CompressedSize": 194176,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/CefSharp.BrowserSubprocess.dll",
+      "Size": 13824,
+      "Hash": "4DC3D7FCFC8510DB0392296FB3D248B4C28A4579",
+      "Chunks": [
+        {
+          "ChunkId": "4DC3D7FCFC8510DB0392296FB3D248B4C28A4579",
+          "Checksum": "407DB36A",
+          "Offset": 0,
+          "CompressedSize": 9664,
+          "UncompressedSize": 13824
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/CefSharp.BrowserSubprocess.exe",
+      "Size": 160256,
+      "Hash": "A7497F189FF8A5A653C4C3A4524109FB71B8F843",
+      "Chunks": [
+        {
+          "ChunkId": "A7497F189FF8A5A653C4C3A4524109FB71B8F843",
+          "Checksum": "53DF23D2",
+          "Offset": 0,
+          "CompressedSize": 60800,
+          "UncompressedSize": 160256
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/CefSharp.BrowserSubprocess.runtimeconfig.json",
+      "Size": 183,
+      "Hash": "57AB6021790057A4B5AAD673DF4ACD93039266FC",
+      "Chunks": [
+        {
+          "ChunkId": "57AB6021790057A4B5AAD673DF4ACD93039266FC",
+          "Checksum": "8830B460",
+          "Offset": 0,
+          "CompressedSize": 176,
+          "UncompressedSize": 183
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/CefSharp.dll",
+      "Size": 605696,
+      "Hash": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+      "Chunks": [
+        {
+          "ChunkId": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+          "Checksum": "1627A6FC",
+          "Offset": 0,
+          "CompressedSize": 422224,
+          "UncompressedSize": 605696
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/chrome_100_percent.pak",
+      "Size": 645320,
+      "Hash": "EF4253B6AA1D3199C8B44E4E6B0C6714793290B9",
+      "Chunks": [
+        {
+          "ChunkId": "EF4253B6AA1D3199C8B44E4E6B0C6714793290B9",
+          "Checksum": "DEA52C14",
+          "Offset": 0,
+          "CompressedSize": 622720,
+          "UncompressedSize": 645320
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/chrome_200_percent.pak",
+      "Size": 995805,
+      "Hash": "3047EA6556CA92D7B31F91B7E214D011F123C231",
+      "Chunks": [
+        {
+          "ChunkId": "3047EA6556CA92D7B31F91B7E214D011F123C231",
+          "Checksum": "7E452D74",
+          "Offset": 0,
+          "CompressedSize": 957984,
+          "UncompressedSize": 995805
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/chrome_elf.dll",
+      "Size": 1504768,
+      "Hash": "866357097A61DE44D930B822A3C9626E0D09EABD",
+      "Chunks": [
+        {
+          "ChunkId": "00EC875E053C34724BB1C5D67EB9866823CFABE0",
+          "Checksum": "4C0A650C",
+          "Offset": 0,
+          "CompressedSize": 426256,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "704BDD1538837ED3A9C6B17D50818F7607D4FFAD",
+          "Checksum": "34433690",
+          "Offset": 1048576,
+          "CompressedSize": 102352,
+          "UncompressedSize": 456192
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/d3dcompiler_47.dll",
+      "Size": 4916712,
+      "Hash": "F49A46BA0E954E657AAED1C9019A53D194272B6A",
+      "Chunks": [
+        {
+          "ChunkId": "54DE4C755C82C9BF9E6739D986471C62B1B1A359",
+          "Checksum": "380F5CA6",
+          "Offset": 4194304,
+          "CompressedSize": 177424,
+          "UncompressedSize": 722408
+        },
+        {
+          "ChunkId": "657CDC3C0F35D03118EDD6D34DF3387FE7BE8E67",
+          "Checksum": "6A8BFB5E",
+          "Offset": 0,
+          "CompressedSize": 419136,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A3B20DC5DFC9325CFF0AAF1EEC5D2B86AA9E05EC",
+          "Checksum": "DADFCBCD",
+          "Offset": 3145728,
+          "CompressedSize": 316288,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A8A8DC095F2306920CBF1DA68EBF209F3EA6DD8F",
+          "Checksum": "4D894383",
+          "Offset": 2097152,
+          "CompressedSize": 383376,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C758012575115B293F764B46AC6321D2966F2BB1",
+          "Checksum": "6BC3C9E4",
+          "Offset": 1048576,
+          "CompressedSize": 432832,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/icudtl.dat",
+      "Size": 10717392,
+      "Hash": "A8539FC5A233558EDFA264A34F7AF6187C3F0D4F",
+      "Chunks": [
+        {
+          "ChunkId": "4E58B8AE9FAC2AA801A6E2554C70EC564FBB819F",
+          "Checksum": "CD1113CE",
+          "Offset": 5250480,
+          "CompressedSize": 260720,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "6EA48C8FFF646451859D8A96D4678C673D98DADF",
+          "Checksum": "60656E60",
+          "Offset": 7347632,
+          "CompressedSize": 244032,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "71D259C1DBF20AD7CA8B43050265AF66859D9645",
+          "Checksum": "259B037B",
+          "Offset": 9444784,
+          "CompressedSize": 189600,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "751EEAC6F71A35B934F46748ECE97D85FA3FA2F1",
+          "Checksum": "725C0983",
+          "Offset": 1056176,
+          "CompressedSize": 713056,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "76235596D93F0827A24383D300109DF9CD2508C4",
+          "Checksum": "2A273E4A",
+          "Offset": 10493360,
+          "CompressedSize": 59200,
+          "UncompressedSize": 224032
+        },
+        {
+          "ChunkId": "7D34972194CB62D9EAF8BDAFA1B94906C7BE0791",
+          "Checksum": "D96FA1EA",
+          "Offset": 6299056,
+          "CompressedSize": 267296,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B41E1DE63135CD82B976361C97926D3E1351B4DE",
+          "Checksum": "E9E90685",
+          "Offset": 8396208,
+          "CompressedSize": 269184,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C988692151B4E7DCE37D2F02FA8357E2EE0D44C7",
+          "Checksum": "76706582",
+          "Offset": 0,
+          "CompressedSize": 609648,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "CB76504C478AD7AB5969C3B5C5388379D964322E",
+          "Checksum": "89A75B8C",
+          "Offset": 3153328,
+          "CompressedSize": 129552,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "D16B46388CE2A5A34BCAE8275CFFA78524C70122",
+          "Checksum": "DF2D0EA9",
+          "Offset": 4201904,
+          "CompressedSize": 250080,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "F287CA0B34172807352F60AE22F030E129F196EC",
+          "Checksum": "20B0194D",
+          "Offset": 2104752,
+          "CompressedSize": 491712,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "FA9AFA9EEA62B57658630BE35157F51D5D086059",
+          "Checksum": "36B3F6E9",
+          "Offset": 1048576,
+          "CompressedSize": 6224,
+          "UncompressedSize": 7600
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/Ijwhost.dll",
+      "Size": 151968,
+      "Hash": "E7AAA1B7CB4E520428C46794EC6327DA7165F24C",
+      "Chunks": [
+        {
+          "ChunkId": "E7AAA1B7CB4E520428C46794EC6327DA7165F24C",
+          "Checksum": "96ED71F6",
+          "Offset": 0,
+          "CompressedSize": 62000,
+          "UncompressedSize": 151968
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/libcef.dll",
+      "Size": 207625728,
+      "Hash": "ECB7F2B0EA41D1F356F2C47E6A8C84934A4D2D4B",
+      "Chunks": [
+        {
+          "ChunkId": "038B08E67AAE977839565B9201917CEEDA5DD864",
+          "Checksum": "267E916F",
+          "Offset": 125829120,
+          "CompressedSize": 410784,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "0677205EDDCFE0294D12D07BCE993CA334538DCB",
+          "Checksum": "5666EED0",
+          "Offset": 205520896,
+          "CompressedSize": 217440,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "09460950B667C2BD62F73604E04F1C67637DC5DA",
+          "Checksum": "70877A78",
+          "Offset": 88080384,
+          "CompressedSize": 287680,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "0A40F5FD6999C358C788BB209C37061FBCCAA7F3",
+          "Checksum": "30DD4EA9",
+          "Offset": 192937984,
+          "CompressedSize": 320928,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "0AF4D36B53525A6903382BDBFD0F7E4C751F37C8",
+          "Checksum": "5A88BC9F",
+          "Offset": 132120576,
+          "CompressedSize": 389472,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "0CB1585E401582F4E3CA41BCA1CA7DD749653128",
+          "Checksum": "B82D826C",
+          "Offset": 176160768,
+          "CompressedSize": 101312,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "102C060435B29DC15DF75D7C024E859C9DF96A74",
+          "Checksum": "E692B678",
+          "Offset": 118489088,
+          "CompressedSize": 396144,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "133BD02619ABD45E44EDA7C1BABEE927191797E3",
+          "Checksum": "D9BC0F97",
+          "Offset": 108003328,
+          "CompressedSize": 294064,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "140238408AB6F027786029F4EE7662C0F8DCFFB5",
+          "Checksum": "3B69C2F2",
+          "Offset": 9437184,
+          "CompressedSize": 377664,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "159C100C439147D88E32AFCF0BDF1576C06172FD",
+          "Checksum": "6D2A33EB",
+          "Offset": 115343360,
+          "CompressedSize": 442848,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "16A52D40D336DA2A6392BB3B07FCD9136A6F5AAC",
+          "Checksum": "4FBED9B5",
+          "Offset": 25165824,
+          "CompressedSize": 441984,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "177CD633587469E8D5EBFD133842B2FCDFC5785B",
+          "Checksum": "7DEA846E",
+          "Offset": 103809024,
+          "CompressedSize": 351808,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "183EF0227172964B6C8E7D9A62D0625663F18594",
+          "Checksum": "8DA530DF",
+          "Offset": 72351744,
+          "CompressedSize": 458368,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "1ADB1DEEFF08B98067905507770D2D2D6ABD8A6E",
+          "Checksum": "B6DFE571",
+          "Offset": 174063616,
+          "CompressedSize": 401264,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "1D627AA807309E697DD23B938FEF788B46CE2E3F",
+          "Checksum": "C147B974",
+          "Offset": 183500800,
+          "CompressedSize": 257888,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "1D98E5E1DE502F33320E5CF01C514D36AD58B400",
+          "Checksum": "8B8962D3",
+          "Offset": 109051904,
+          "CompressedSize": 345712,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "2096ACC5A60FFE36210B89A0ABB91E6A13B5544B",
+          "Checksum": "67010825",
+          "Offset": 39845888,
+          "CompressedSize": 419712,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "223AC21FFD3FE58EA199C788BA09A19E6A1E2B46",
+          "Checksum": "7CE78AB5",
+          "Offset": 78643200,
+          "CompressedSize": 321808,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "226922162105487261C95F403897655B2A091CAD",
+          "Checksum": "B4AA586A",
+          "Offset": 40894464,
+          "CompressedSize": 427216,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "227757E49B6C3F16CCF902289C3A9D758F579586",
+          "Checksum": "697F1679",
+          "Offset": 169869312,
+          "CompressedSize": 352592,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "2362793476E56F9B1901942D5896D9B0A4F648C8",
+          "Checksum": "9281A1BF",
+          "Offset": 186646528,
+          "CompressedSize": 430496,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "24BC5D6F1FE339F36BEC9B292852050FFC1B7A9B",
+          "Checksum": "21B8AB1E",
+          "Offset": 36700160,
+          "CompressedSize": 420032,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "25FB6A8E361AC069443500D5767378A7787C6CEB",
+          "Checksum": "BFA898B1",
+          "Offset": 181403648,
+          "CompressedSize": 222256,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "2676E02E00EEAA18199A502FFD9479EDA90BDBC4",
+          "Checksum": "A47364E0",
+          "Offset": 44040192,
+          "CompressedSize": 431200,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "2A2EABEDB7819B11EB9960472E74D58992620E2C",
+          "Checksum": "56E54232",
+          "Offset": 199229440,
+          "CompressedSize": 179136,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "2BB317CE8C64BF9E036B8441AF51D7B90A09B98A",
+          "Checksum": "7E44FA67",
+          "Offset": 146800640,
+          "CompressedSize": 411664,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "2F3EC33E7464D3D3313203D52077B23E43036AB4",
+          "Checksum": "92B37C10",
+          "Offset": 41943040,
+          "CompressedSize": 445648,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "30CF1C6F9A338F2BE661C2EC65819EFBCEE55CC6",
+          "Checksum": "C703A36A",
+          "Offset": 91226112,
+          "CompressedSize": 351104,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "322919F172FCEEA81C30E6D69843A21C2B82077A",
+          "Checksum": "0F98D39C",
+          "Offset": 128974848,
+          "CompressedSize": 399456,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3407A01BB9157BA10975F2A5FFD5835341D73D78",
+          "Checksum": "E6ED3F5C",
+          "Offset": 80740352,
+          "CompressedSize": 309040,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "343E88A0B524D8D3A1C19C85776E4A220B7DC255",
+          "Checksum": "9754FBED",
+          "Offset": 53477376,
+          "CompressedSize": 421696,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "34FD8FDE5880CE9E1FFF4B6091E51BDE83F2E8AE",
+          "Checksum": "F7C86AA2",
+          "Offset": 56623104,
+          "CompressedSize": 445936,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3585154CD0DFB16B3524E865B9CD6532401483BA",
+          "Checksum": "1AD996B7",
+          "Offset": 104857600,
+          "CompressedSize": 389376,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "35DC9F494CB81F213BA783A5E92C9553881CDCE9",
+          "Checksum": "060BCE9E",
+          "Offset": 152043520,
+          "CompressedSize": 395088,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3A0CB55139276068A2C4379453192DEA87011E11",
+          "Checksum": "B7FE3350",
+          "Offset": 0,
+          "CompressedSize": 155136,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3A6D00101EAF8BB606935E1830464E583209DAE1",
+          "Checksum": "9DF3757A",
+          "Offset": 55574528,
+          "CompressedSize": 357472,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3BCFDCFBFD952339A5121249B7F6453680CD4323",
+          "Checksum": "605D830D",
+          "Offset": 153092096,
+          "CompressedSize": 370176,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3BE71CE3A2CF14BC6A0EB2EB5AA9109F74018F52",
+          "Checksum": "F579E9E9",
+          "Offset": 133169152,
+          "CompressedSize": 409648,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3D9F4CE66607BD6D660C3F756930A7A970B98254",
+          "Checksum": "0248AABC",
+          "Offset": 163577856,
+          "CompressedSize": 312672,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3DC8C9A5950B6F2695C52CE2808621090E959B0C",
+          "Checksum": "2D88BBB9",
+          "Offset": 90177536,
+          "CompressedSize": 344960,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "405E5240230C22CBEB69023EA01583358B8A4781",
+          "Checksum": "6310F9D4",
+          "Offset": 17825792,
+          "CompressedSize": 433488,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4203EFADFFE13053F6E0663DB674F95212F5E412",
+          "Checksum": "FBBEF054",
+          "Offset": 117440512,
+          "CompressedSize": 368688,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "423CEF49E89211D030B632C80706E254EBE9802C",
+          "Checksum": "A79AF9E3",
+          "Offset": 101711872,
+          "CompressedSize": 386096,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "423DABB9E1EFF1BCE1F575EA5F3CB59783C85CE8",
+          "Checksum": "AAC122EE",
+          "Offset": 189792256,
+          "CompressedSize": 213504,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "43610D535172AD4503787855F4736A72E6CAA7C4",
+          "Checksum": "97674578",
+          "Offset": 185597952,
+          "CompressedSize": 511120,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "440BF5B05B0A0D612D74511FC74BBC435C06F6AD",
+          "Checksum": "0C4C0C0F",
+          "Offset": 114294784,
+          "CompressedSize": 374704,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4560B5A52F9BE4189FFE45A36ECB48864F0E438B",
+          "Checksum": "171D16A9",
+          "Offset": 157286400,
+          "CompressedSize": 361840,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4722614B16C42C9399FFD2208061C03B8031C29F",
+          "Checksum": "B315B80B",
+          "Offset": 184549376,
+          "CompressedSize": 242384,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4A707CF477FBD85173447D036D52F17D1943EE81",
+          "Checksum": "438BC7B8",
+          "Offset": 140509184,
+          "CompressedSize": 407120,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4AF10BE46AD424DF6499DF634D242F6B8663E80A",
+          "Checksum": "A33FC1D5",
+          "Offset": 58720256,
+          "CompressedSize": 396112,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4AFC4B5029DA53E8BFD82476225FDDF87836317A",
+          "Checksum": "496AE9CE",
+          "Offset": 65011712,
+          "CompressedSize": 401712,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4BEB768DE806242458FEC51B7BA07F4A53F2D817",
+          "Checksum": "29252DB2",
+          "Offset": 105906176,
+          "CompressedSize": 368128,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4D0659FF37479E00DAB536F8774939CE9C10C721",
+          "Checksum": "F98EFAD1",
+          "Offset": 106954752,
+          "CompressedSize": 283728,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4D8299B702028612AE6AF53A1CC277FE7B57C5A5",
+          "Checksum": "A1079A2A",
+          "Offset": 113246208,
+          "CompressedSize": 368800,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "51B631C21B309DCFDACB8735E079ECD956A7F18D",
+          "Checksum": "CEF8DDA4",
+          "Offset": 63963136,
+          "CompressedSize": 424064,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "51BF0504E5D63AF7774B482FEA61388A422F5E00",
+          "Checksum": "5A0F5496",
+          "Offset": 193986560,
+          "CompressedSize": 291168,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "52A83F1C3130DC42408F4FE5AFCD06C286D8EB59",
+          "Checksum": "F9F3D5A3",
+          "Offset": 73400320,
+          "CompressedSize": 483472,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "539481F1123CDA47FA4C323C1B8A17D333F23CEC",
+          "Checksum": "5D9DD0C9",
+          "Offset": 121634816,
+          "CompressedSize": 346688,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "54D2D2836ADD162720D94D64605BD9D169F81E7A",
+          "Checksum": "D7E4F48B",
+          "Offset": 175112192,
+          "CompressedSize": 147760,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "54DB02D0C10F8DD72D964CF83AA4EBC620DFBE27",
+          "Checksum": "32C3FEAB",
+          "Offset": 83886080,
+          "CompressedSize": 401760,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "556F1C552F86E4573CE7052D7ED8153BF7EFEF93",
+          "Checksum": "B587343B",
+          "Offset": 71303168,
+          "CompressedSize": 243920,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "55D45033A0B8EE0C99DF678AA8520E0A6E7A73EC",
+          "Checksum": "3BBCE78B",
+          "Offset": 1048576,
+          "CompressedSize": 234592,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "5873818305F43C35DDCBBF1912E63C15779F89A5",
+          "Checksum": "50A06122",
+          "Offset": 46137344,
+          "CompressedSize": 378928,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "5A84DAC0F59FE078AE79921C0C6B08EDFF8AEC1B",
+          "Checksum": "F57C75F4",
+          "Offset": 143654912,
+          "CompressedSize": 398800,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "5C5084FD13AE7B5A51E013FF1B9A4482B8458A18",
+          "Checksum": "BBF10CA1",
+          "Offset": 75497472,
+          "CompressedSize": 441968,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "5D79D61F4EDB8E2E4223C13907F38C64BED8FDDF",
+          "Checksum": "418DCC07",
+          "Offset": 167772160,
+          "CompressedSize": 266928,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "5F17EFCDB955C9894144ECED62FCEB77E354BC66",
+          "Checksum": "B3910062",
+          "Offset": 2097152,
+          "CompressedSize": 318992,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "5F28CC0EE994A524AB84FAC538E8217A904B10FB",
+          "Checksum": "F606A067",
+          "Offset": 79691776,
+          "CompressedSize": 337296,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "5F5B5AD96606AFECEE3A4F35E503EE1A877A9900",
+          "Checksum": "19446F0D",
+          "Offset": 6291456,
+          "CompressedSize": 434128,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "60715F518717DA85531981D992F7DDB781BDD8E7",
+          "Checksum": "BC92C8AE",
+          "Offset": 110100480,
+          "CompressedSize": 344640,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "62532FD816A317EE4307F3F999E1070AB3337C35",
+          "Checksum": "3D2F350B",
+          "Offset": 59768832,
+          "CompressedSize": 367088,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "62BE01DC353221D8797088C412FAB6CE8D4E1E59",
+          "Checksum": "4B376C3E",
+          "Offset": 37748736,
+          "CompressedSize": 383904,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "6519929C64721870491701B55C3B5C449F8AC572",
+          "Checksum": "2BCAF96F",
+          "Offset": 77594624,
+          "CompressedSize": 422800,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "66982F16A49D3DAA41454FE3345F3295DDBA395F",
+          "Checksum": "3F81F94C",
+          "Offset": 182452224,
+          "CompressedSize": 254480,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "679B8A85E56518783F6FF442467E3D6F4C4177D6",
+          "Checksum": "8769BC44",
+          "Offset": 26214400,
+          "CompressedSize": 443136,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "67C6EAD4F24A09BD3DE6C460ED32E7BF084D5992",
+          "Checksum": "168DD4EE",
+          "Offset": 190840832,
+          "CompressedSize": 308832,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "69816F6295A189C24DC69C8E2577B00D1E45501F",
+          "Checksum": "109000DD",
+          "Offset": 92274688,
+          "CompressedSize": 341936,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "6AAE1227D2ABDB0BBC72BCDACE2F39855EAA61AC",
+          "Checksum": "4B818ABB",
+          "Offset": 148897792,
+          "CompressedSize": 450816,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "6ABA9C858B1FC29AED03D7A984D5103EF3B6F1C9",
+          "Checksum": "B3450922",
+          "Offset": 123731968,
+          "CompressedSize": 416352,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "6CABFC8B63B97395AC350DBF397A18026048CEE5",
+          "Checksum": "2B5C0052",
+          "Offset": 81788928,
+          "CompressedSize": 373584,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "6D12D9F78503DE4FA80CDE708AC17EF4CADCA881",
+          "Checksum": "24A60E59",
+          "Offset": 112197632,
+          "CompressedSize": 408208,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "6DA7D031A890217318EE6C369E1CE7153B9B6913",
+          "Checksum": "632D16CA",
+          "Offset": 13631488,
+          "CompressedSize": 302304,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "6E554CD1CDF4043A2009A489F3BFFBF015976583",
+          "Checksum": "701DB5E4",
+          "Offset": 60817408,
+          "CompressedSize": 395040,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "7310E68C77B726E4D574E2A1A29C55FFEBE43666",
+          "Checksum": "1325EA6C",
+          "Offset": 179306496,
+          "CompressedSize": 391600,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "7489CC54BEB0DEF7BCBB1819F577B8662DAEB4B9",
+          "Checksum": "9476FA6B",
+          "Offset": 141557760,
+          "CompressedSize": 346640,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "759EEDAB28563E3B5C4B452B69CB5CFFE1B2190E",
+          "Checksum": "EE5D86DE",
+          "Offset": 52428800,
+          "CompressedSize": 425904,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "75E2D9DAE98395BC2B0B73CF3155CEB8C4F6579B",
+          "Checksum": "1E391691",
+          "Offset": 120586240,
+          "CompressedSize": 318720,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "794F39835AF6304889EA2B866FBC0310AAF90399",
+          "Checksum": "07DD35DC",
+          "Offset": 85983232,
+          "CompressedSize": 299120,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "796E68AD6548F16950394A792C93196F1213EB64",
+          "Checksum": "29C9C634",
+          "Offset": 126877696,
+          "CompressedSize": 358432,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "79E0A30D5127B199C359FCEB2076E39826282D07",
+          "Checksum": "C2875DEC",
+          "Offset": 50331648,
+          "CompressedSize": 447792,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "7C2E2070D0E91498E3B926B87854D2E2C5BF0D22",
+          "Checksum": "7F1CB78A",
+          "Offset": 45088768,
+          "CompressedSize": 429344,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "7CE4F6E32E67B702D3673CC769ABB6DD152010E8",
+          "Checksum": "8FCD12A7",
+          "Offset": 10485760,
+          "CompressedSize": 376688,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "7E184BB20DB600125747580BF719339390239B5D",
+          "Checksum": "980AC3A3",
+          "Offset": 28311552,
+          "CompressedSize": 441296,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "7E665C7B50280A9C2E38276FA76B6CD25BA2AB52",
+          "Checksum": "53DBB8ED",
+          "Offset": 95420416,
+          "CompressedSize": 252992,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "80EBAFD3A5DC908708FCBB76A6564EECA7D238F2",
+          "Checksum": "C024A015",
+          "Offset": 188743680,
+          "CompressedSize": 192480,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "810925C94C87417CC5C7D8BCBEECA3C18A784D36",
+          "Checksum": "A52EEF0E",
+          "Offset": 164626432,
+          "CompressedSize": 387328,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "827C5433ECFEF6EC52CBE8E7A67DDD556BEE0305",
+          "Checksum": "90253BC2",
+          "Offset": 155189248,
+          "CompressedSize": 328976,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "82C1E885B2850D17D5DFFAB7FF8AD2A6D9B45461",
+          "Checksum": "D5C62D67",
+          "Offset": 30408704,
+          "CompressedSize": 382560,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8632EF7B671872EEA8855ABC8D703E498DAD2EAE",
+          "Checksum": "49340F4F",
+          "Offset": 62914560,
+          "CompressedSize": 392960,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "86579BA9F9D0690A6862BCFA012F79E73221D56F",
+          "Checksum": "75B049BF",
+          "Offset": 49283072,
+          "CompressedSize": 414592,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "86B754FC19D594E3205D681FCAC30310639DCFE4",
+          "Checksum": "D08C6B07",
+          "Offset": 15728640,
+          "CompressedSize": 426880,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "87EA5B62575C70D71D7FBC04380576F7D16F205A",
+          "Checksum": "F7886957",
+          "Offset": 206569472,
+          "CompressedSize": 83728,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8883790847541D5B5FAC35CCE9E0E3C2255B1B98",
+          "Checksum": "EAC24B7C",
+          "Offset": 195035136,
+          "CompressedSize": 267248,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8908820C0BDFE5E8017766379EB4750456B9596C",
+          "Checksum": "E83E8FA8",
+          "Offset": 11534336,
+          "CompressedSize": 343664,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "896439B0565D19A3F52BD7247A497F29DF3BEF78",
+          "Checksum": "D7C5A61A",
+          "Offset": 98566144,
+          "CompressedSize": 385712,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8CCC36CF5CBE5EDCB7935E65F36117A1B23028FD",
+          "Checksum": "23050BCE",
+          "Offset": 154140672,
+          "CompressedSize": 334784,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8D16AD6984FBCF7C0D97A3593C068E9DCCBDCF04",
+          "Checksum": "48AAD436",
+          "Offset": 156237824,
+          "CompressedSize": 370416,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8D58DAA719749E9B8BAB12FD81CFF20A8B91B948",
+          "Checksum": "17559744",
+          "Offset": 100663296,
+          "CompressedSize": 391232,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8D88956B90B0AF940A0113AADA03880EAF241864",
+          "Checksum": "AED8164B",
+          "Offset": 170917888,
+          "CompressedSize": 288480,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8E1F66571275423586284D5D7BE4446B689F055E",
+          "Checksum": "686A456D",
+          "Offset": 67108864,
+          "CompressedSize": 373792,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8F6F1C631805043C928D251246967B58ADF6B309",
+          "Checksum": "49F0E825",
+          "Offset": 87031808,
+          "CompressedSize": 399168,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "90100DFCA8E73A86A7A6DC76607729C13A144041",
+          "Checksum": "BD949627",
+          "Offset": 149946368,
+          "CompressedSize": 439040,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "905F6AAD321D93078815631CAC8201A4993DA619",
+          "Checksum": "7F3394A6",
+          "Offset": 16777216,
+          "CompressedSize": 434048,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "92779D575FE00D20C7D287F7F727DCFFA76A7459",
+          "Checksum": "138A5DF7",
+          "Offset": 57671680,
+          "CompressedSize": 437408,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "9791C4DD29CE1A4D678F84EFA5133BCEC25656BA",
+          "Checksum": "139DB50D",
+          "Offset": 48234496,
+          "CompressedSize": 400800,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "99C511E5325A0054A890D5908B0218B945A27957",
+          "Checksum": "806FFB67",
+          "Offset": 198180864,
+          "CompressedSize": 322832,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "9B36A42C611CD4931D7A75BB56243D7B13D925E0",
+          "Checksum": "7DCA6D9A",
+          "Offset": 136314880,
+          "CompressedSize": 426016,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "9D239E56DC1D45167DFCAAB49D12C23461D910BC",
+          "Checksum": "52140DD7",
+          "Offset": 207618048,
+          "CompressedSize": 3296,
+          "UncompressedSize": 7680
+        },
+        {
+          "ChunkId": "A0B550D7C86B23DA87D036889A0DD06BCEB10DED",
+          "Checksum": "43D32303",
+          "Offset": 51380224,
+          "CompressedSize": 443328,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A0C93C20CB1CF94B8D61729C505482ABA2BC5554",
+          "Checksum": "20806376",
+          "Offset": 12582912,
+          "CompressedSize": 378032,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A10F35F34EB0834DF638E934680A7CE98D002672",
+          "Checksum": "C2242045",
+          "Offset": 19922944,
+          "CompressedSize": 411168,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A188AA6CF89B025172924942F5B8F8A450ECD3B6",
+          "Checksum": "8B5381AD",
+          "Offset": 68157440,
+          "CompressedSize": 353920,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A48D4719E716268B3724187C31F29691A9014EF1",
+          "Checksum": "6E907D3C",
+          "Offset": 96468992,
+          "CompressedSize": 327312,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A526F98FFAFC2140AFF3974E8F8EDA682A28827C",
+          "Checksum": "55C8D482",
+          "Offset": 166723584,
+          "CompressedSize": 333552,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A6D8809994CA4B0CAB19C3DDFA0D33FB526AC327",
+          "Checksum": "D8A7F7E5",
+          "Offset": 177209344,
+          "CompressedSize": 142240,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A7CDEADB55FF9992BEF55F7A5B8094924C959EE1",
+          "Checksum": "052B7735",
+          "Offset": 162529280,
+          "CompressedSize": 272128,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A928D94E43D6A57A10413C3E7CA8DB1F225997A2",
+          "Checksum": "9362DAC3",
+          "Offset": 171966464,
+          "CompressedSize": 382000,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "AAA23A26D9D23BF08E7C5EC95C921FEC7D9F4A4C",
+          "Checksum": "10F6FA34",
+          "Offset": 134217728,
+          "CompressedSize": 443968,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "AC75E33DB334A6B8BC0D285A143FE9AFA202FBFD",
+          "Checksum": "C32B8878",
+          "Offset": 7340032,
+          "CompressedSize": 379328,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "ADBE70487F280FCA300020E166BEFAC1E7903632",
+          "Checksum": "A9C364D0",
+          "Offset": 144703488,
+          "CompressedSize": 347056,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "AE81629AE5C1C8A98A3F1CC2C02F4B2DB87F13EE",
+          "Checksum": "97746A7F",
+          "Offset": 84934656,
+          "CompressedSize": 341488,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B1B76B5A58B8EF8755AC8BEEAED7670F9DF66202",
+          "Checksum": "00EEE7CF",
+          "Offset": 111149056,
+          "CompressedSize": 427248,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B3453EA434B8D276830128ADA7A215A1BFD65D84",
+          "Checksum": "5F6CCAA9",
+          "Offset": 196083712,
+          "CompressedSize": 268656,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B3D8FCC6DA4DB58C62675518F730FC93445F621F",
+          "Checksum": "87CAB2F6",
+          "Offset": 32505856,
+          "CompressedSize": 418192,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B419EAEB1197D0808CA0E2DA270E26518A40D942",
+          "Checksum": "8F24E219",
+          "Offset": 102760448,
+          "CompressedSize": 371168,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B41C827BB8A8488D08F588DB278E1EBC708B1718",
+          "Checksum": "777BC4D7",
+          "Offset": 116391936,
+          "CompressedSize": 417888,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B4C1E5F48ABBBC408423E9A9A0EB323DFBE21698",
+          "Checksum": "F1ADE204",
+          "Offset": 130023424,
+          "CompressedSize": 364912,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B585CE6B9E6DD56080936A4EFC48DE27FC5C1AC2",
+          "Checksum": "F1AA1F53",
+          "Offset": 38797312,
+          "CompressedSize": 422224,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B5AB5306F88D1369F98AC0B2F486A26A8F080A2F",
+          "Checksum": "F8314E72",
+          "Offset": 158334976,
+          "CompressedSize": 415872,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B657164791B2781EE12A3CFE018BA6C54F66496F",
+          "Checksum": "04301F97",
+          "Offset": 204472320,
+          "CompressedSize": 340720,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "B9475F369B2859B4815DE2687C06F78BC0548C3D",
+          "Checksum": "D0C702B7",
+          "Offset": 35651584,
+          "CompressedSize": 446864,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "BC3FC2664F56BD62A2FE98B6B819C76B928F5F23",
+          "Checksum": "7B571DED",
+          "Offset": 66060288,
+          "CompressedSize": 403696,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "BC65BAD6E10994F9322C993E999FC8D3CBA60FDA",
+          "Checksum": "BBFE7C79",
+          "Offset": 29360128,
+          "CompressedSize": 394624,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "BCB0E0067704827A54915DC0F6DAE98A8140F795",
+          "Checksum": "FDE0B1FF",
+          "Offset": 93323264,
+          "CompressedSize": 342304,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "BDBF2D9A09BEDE62C85DB192FBB5184A8A7E30E3",
+          "Checksum": "F60A6EC7",
+          "Offset": 69206016,
+          "CompressedSize": 332736,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "BE6ADDF648797208F5981BAA3E0150848E5FEAF8",
+          "Checksum": "58CC5730",
+          "Offset": 34603008,
+          "CompressedSize": 447408,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "BF66C78E0C6EF938C80BCB5A1DAF0A9F4F345C76",
+          "Checksum": "968ADFFB",
+          "Offset": 178257920,
+          "CompressedSize": 78112,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C03DD2C1AF7D7E7563ED87CC6145A8D20BB2D92E",
+          "Checksum": "7E4F3BD5",
+          "Offset": 201326592,
+          "CompressedSize": 354256,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C06AE1B83891AD6C0240C7CA744173D08DE960C2",
+          "Checksum": "98EDAFB8",
+          "Offset": 168820736,
+          "CompressedSize": 355280,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C07F76EE77F62A632796A95EE08728A40876BD9D",
+          "Checksum": "0E664BBF",
+          "Offset": 24117248,
+          "CompressedSize": 418848,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C165325D079AB6E538805EA7F5D37078E9837639",
+          "Checksum": "3B3BFD4A",
+          "Offset": 161480704,
+          "CompressedSize": 382624,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C238C643D15936FD06AC3CBA9C4F6751BA48BA54",
+          "Checksum": "A0BB3C77",
+          "Offset": 122683392,
+          "CompressedSize": 381360,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C30BBF37CA3311AF1FF3C56B14921CCB22A77357",
+          "Checksum": "56383C8A",
+          "Offset": 159383552,
+          "CompressedSize": 442848,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C4FA016961E36FFD2FE094570399127A3ABDE902",
+          "Checksum": "9AE8E10A",
+          "Offset": 8388608,
+          "CompressedSize": 402528,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C51D087958E4B2965F5556F906B2921EF72EEBCD",
+          "Checksum": "16279F99",
+          "Offset": 82837504,
+          "CompressedSize": 436944,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C584537439DBFDA427F9937E1D29527F5BA2C44E",
+          "Checksum": "833EDC20",
+          "Offset": 137363456,
+          "CompressedSize": 408160,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C7796ED21F9365C99A3F9B5D8649C9CB85857059",
+          "Checksum": "3063046E",
+          "Offset": 27262976,
+          "CompressedSize": 434704,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "C92143D069F0AC8D7D3773CCF4FC6BFD853C4E2A",
+          "Checksum": "79F202D0",
+          "Offset": 47185920,
+          "CompressedSize": 394592,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "CA0B6C36B6D5A3A18059DA16A40C172D547D4654",
+          "Checksum": "E09FE76E",
+          "Offset": 74448896,
+          "CompressedSize": 463376,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "CAC81F29252A111761F424C3F4E5600DA2CE2219",
+          "Checksum": "10C5372E",
+          "Offset": 22020096,
+          "CompressedSize": 403248,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "CB14EAFDE3EA63FDDE35FB513F07C0A4200A1D72",
+          "Checksum": "5F7090C5",
+          "Offset": 23068672,
+          "CompressedSize": 408768,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "CBEDC3B0F414C69AAE82BBF06E9E63D423E25F69",
+          "Checksum": "40A25B47",
+          "Offset": 42991616,
+          "CompressedSize": 421088,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "CCF5A84D9820F84989298056000B8A88D9E120AF",
+          "Checksum": "EE3746E8",
+          "Offset": 5242880,
+          "CompressedSize": 401664,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "CDA8817E1BAFE515496717CB6E2937ED09FE91CC",
+          "Checksum": "178C2A99",
+          "Offset": 197132288,
+          "CompressedSize": 275040,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "D23B00C751DFB49F8104B18086D8587C07B97E52",
+          "Checksum": "110C797F",
+          "Offset": 3145728,
+          "CompressedSize": 391872,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "D33294812037A6F18316225B9EE7A28E6ADD4D26",
+          "Checksum": "8C46872B",
+          "Offset": 145752064,
+          "CompressedSize": 376016,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "D54CA7C99FAE4C203901FF267DBCC2590ABA66FD",
+          "Checksum": "F90205F4",
+          "Offset": 31457280,
+          "CompressedSize": 399344,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "D6AD166FA292A53130FBA3962817010757746AD2",
+          "Checksum": "8D0EF9F3",
+          "Offset": 202375168,
+          "CompressedSize": 336512,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "DADB683BDCED202281FB5AFAEC891B9E2110D9EE",
+          "Checksum": "8879B38A",
+          "Offset": 139460608,
+          "CompressedSize": 406432,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "DCE7AF72A457EC1F6B39C1A8B78B08F3FFB1B22D",
+          "Checksum": "519D59BC",
+          "Offset": 200278016,
+          "CompressedSize": 359696,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "DD38DAB0F55BF68B07661F5F953A710DDE3DD43D",
+          "Checksum": "BF00CD65",
+          "Offset": 147849216,
+          "CompressedSize": 393680,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "DD617745DE566D034352F2DB455A23183AB24A34",
+          "Checksum": "8D7984C3",
+          "Offset": 20971520,
+          "CompressedSize": 423264,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "DE2B8BD21B9A9ACBEA323374F1FD80DC33ED9C3C",
+          "Checksum": "81E55061",
+          "Offset": 4194304,
+          "CompressedSize": 354112,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "DED4517E6E771CE9A7507830CE88CE16429C9E79",
+          "Checksum": "F8592E7F",
+          "Offset": 14680064,
+          "CompressedSize": 371520,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E1950E8A686E9B4808CAC91C4FAEF437377C8B3D",
+          "Checksum": "BD9DA859",
+          "Offset": 97517568,
+          "CompressedSize": 346784,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E25B5DBFB208167266B3BF7CDDCE08CF7CB3FD5E",
+          "Checksum": "03F0C6A6",
+          "Offset": 94371840,
+          "CompressedSize": 340512,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E26F19F622B406A47D965A923B41B14821A5C02F",
+          "Checksum": "7CF8D96F",
+          "Offset": 61865984,
+          "CompressedSize": 355184,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E3109C9C043E9C7AB2EE84F1D024844B6F46F87D",
+          "Checksum": "8622C3BB",
+          "Offset": 180355072,
+          "CompressedSize": 792656,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E393D60A3C7BE1F7AC20BDDFA24C93C32D8D680E",
+          "Checksum": "7419FBCC",
+          "Offset": 187695104,
+          "CompressedSize": 397072,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E48C1F2B21065E7C1324F754093BCE1A18D340CD",
+          "Checksum": "882055C8",
+          "Offset": 119537664,
+          "CompressedSize": 338320,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E630DDBD19C3C50DB06CDA934F559A7CFDEF80D9",
+          "Checksum": "1CF8C3D7",
+          "Offset": 203423744,
+          "CompressedSize": 340112,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E718CAF5604D3093CB3F3E193EF7E86101CE3496",
+          "Checksum": "B5E840BD",
+          "Offset": 138412032,
+          "CompressedSize": 395952,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E890AE5B996BE3D9395BF91CCD00416D19204A9A",
+          "Checksum": "FBD9CC8C",
+          "Offset": 33554432,
+          "CompressedSize": 459056,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "EA580EEF60D5CE28D3E95F0C08ADD82DA706C6CC",
+          "Checksum": "D03350F3",
+          "Offset": 191889408,
+          "CompressedSize": 518544,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "EA65CADF925E3BF0EA995FB6B7ED654ADE10B22C",
+          "Checksum": "73D59BCB",
+          "Offset": 135266304,
+          "CompressedSize": 431232,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "EAC67842D56561148F0E4E3722275EF4C1F1B760",
+          "Checksum": "7B646D83",
+          "Offset": 89128960,
+          "CompressedSize": 304528,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "EBD3317036FE5EDCEBA0C8C71712EE7A9D684E31",
+          "Checksum": "6E956B99",
+          "Offset": 70254592,
+          "CompressedSize": 268368,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "EEB6069F6B6C61375116692A10E7DA07ABF9A9D7",
+          "Checksum": "CC3956DF",
+          "Offset": 124780544,
+          "CompressedSize": 419920,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "EEBB77EC8FF292DDB38BED64454573EE05FEE82C",
+          "Checksum": "E60CB5C7",
+          "Offset": 99614720,
+          "CompressedSize": 390320,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "EFCBC862F58988138DABA3225094A9D4C63D5670",
+          "Checksum": "2F8498BF",
+          "Offset": 150994944,
+          "CompressedSize": 399888,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "F146581568CCE5937D1B9590654EF81FC0C23D20",
+          "Checksum": "5A3664A4",
+          "Offset": 18874368,
+          "CompressedSize": 417424,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "F18750F905133E1A65775E8C6C876312C5F222CF",
+          "Checksum": "51C80EDC",
+          "Offset": 54525952,
+          "CompressedSize": 345936,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "F4D2EEC6554C9F93C5E50092E4BDC7B41BF3B8E3",
+          "Checksum": "73DCEB8A",
+          "Offset": 173015040,
+          "CompressedSize": 358320,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "FBDBF16DC243E65264EA381DE025BC2D50418733",
+          "Checksum": "A82CEDB0",
+          "Offset": 160432128,
+          "CompressedSize": 404592,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "FCFE981FF94EA4A39E160FE9B7361E76BB0B71D5",
+          "Checksum": "14793A85",
+          "Offset": 127926272,
+          "CompressedSize": 441488,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "FE01106DA58697E67A7A04BC59E4BEFFF8C4D015",
+          "Checksum": "43B5972F",
+          "Offset": 131072000,
+          "CompressedSize": 382608,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "FEE1C32547E8DACFA1E7F3710CC7B17A1D8C3E59",
+          "Checksum": "4D68F072",
+          "Offset": 165675008,
+          "CompressedSize": 426736,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "FFBA9C1A3A1A255686D0E2C78187507DD3233CFC",
+          "Checksum": "626855A2",
+          "Offset": 76546048,
+          "CompressedSize": 463040,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "FFE616D28A72F0A94D451F1A41B806A65D6919E1",
+          "Checksum": "0C9CDD8B",
+          "Offset": 142606336,
+          "CompressedSize": 343232,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/libEGL.dll",
+      "Size": 482816,
+      "Hash": "2A6069A5C9D691E14DB5BFE4DF8BC7692E7B0B1A",
+      "Chunks": [
+        {
+          "ChunkId": "2A6069A5C9D691E14DB5BFE4DF8BC7692E7B0B1A",
+          "Checksum": "CE0CF4B7",
+          "Offset": 0,
+          "CompressedSize": 182112,
+          "UncompressedSize": 482816
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/libGLESv2.dll",
+      "Size": 7573504,
+      "Hash": "E213C2F5EFCC8BB20B4F46F6E45395B278A90526",
+      "Chunks": [
+        {
+          "ChunkId": "1F18B5D4EEAB7AA8F50316712CD206DEECD454AB",
+          "Checksum": "6DA246D2",
+          "Offset": 4194304,
+          "CompressedSize": 417712,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "25654A1B4468DD2EF328B33D764D193382A7D439",
+          "Checksum": "7AD7BB51",
+          "Offset": 2097152,
+          "CompressedSize": 330592,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "9A2F81059161900E1806F18C8CF1EED4743A5512",
+          "Checksum": "FB7E5EED",
+          "Offset": 0,
+          "CompressedSize": 341408,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "A9B4E44F1D9CE0D43A12A91764CA31DCC54381C1",
+          "Checksum": "334C6B3B",
+          "Offset": 7340032,
+          "CompressedSize": 67248,
+          "UncompressedSize": 233472
+        },
+        {
+          "ChunkId": "B6596D777195C19BD34432A8A47964B0C41711A9",
+          "Checksum": "BC22BC2C",
+          "Offset": 5242880,
+          "CompressedSize": 429520,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "CC107000600E4BAF53BDE909D8EB2FAA1747FEA8",
+          "Checksum": "7DEAC082",
+          "Offset": 1048576,
+          "CompressedSize": 358288,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "DA496F8C713165E5E906833264B6CB88CE94B27F",
+          "Checksum": "970C82BB",
+          "Offset": 3145728,
+          "CompressedSize": 271056,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "E3D6C893C7DBAFF14083D52F01865490AD56A3D1",
+          "Checksum": "E94B1EE8",
+          "Offset": 6291456,
+          "CompressedSize": 165600,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/af.pak",
+      "Size": 465205,
+      "Hash": "1EE74A58604FA6FB7CE1B62551EFC89499F5EE41",
+      "Chunks": [
+        {
+          "ChunkId": "1EE74A58604FA6FB7CE1B62551EFC89499F5EE41",
+          "Checksum": "E605B782",
+          "Offset": 0,
+          "CompressedSize": 114432,
+          "UncompressedSize": 465205
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/am.pak",
+      "Size": 756426,
+      "Hash": "A840E64545EFBBCA23366312BC2B42B33D7545C1",
+      "Chunks": [
+        {
+          "ChunkId": "A840E64545EFBBCA23366312BC2B42B33D7545C1",
+          "Checksum": "8ED8D3CA",
+          "Offset": 0,
+          "CompressedSize": 129776,
+          "UncompressedSize": 756426
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ar.pak",
+      "Size": 834745,
+      "Hash": "DA348B2997994019B86DD5AC6EE9C0941594A614",
+      "Chunks": [
+        {
+          "ChunkId": "DA348B2997994019B86DD5AC6EE9C0941594A614",
+          "Checksum": "5C33E5C5",
+          "Offset": 0,
+          "CompressedSize": 134048,
+          "UncompressedSize": 834745
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/bg.pak",
+      "Size": 859704,
+      "Hash": "9D8F1B5858DE84461FDE39B005ED857FE02D3088",
+      "Chunks": [
+        {
+          "ChunkId": "9D8F1B5858DE84461FDE39B005ED857FE02D3088",
+          "Checksum": "4E94C738",
+          "Offset": 0,
+          "CompressedSize": 129616,
+          "UncompressedSize": 859704
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/bn.pak",
+      "Size": 1108054,
+      "Hash": "20B8B4F2C10C668B1D12593B9A0F27AFAB5FA592",
+      "Chunks": [
+        {
+          "ChunkId": "21AF22482F2E0CE23E4B3B66EFB802A0C285871D",
+          "Checksum": "B1CC1E5F",
+          "Offset": 0,
+          "CompressedSize": 127840,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "530CFD22B4FC7B27677D7923284DCDD640AABE1E",
+          "Checksum": "2BF19D96",
+          "Offset": 1048576,
+          "CompressedSize": 9936,
+          "UncompressedSize": 59478
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ca.pak",
+      "Size": 531550,
+      "Hash": "C4F2898DAA562E8A6B391DB2074251340866C79F",
+      "Chunks": [
+        {
+          "ChunkId": "C4F2898DAA562E8A6B391DB2074251340866C79F",
+          "Checksum": "17C8E0CD",
+          "Offset": 0,
+          "CompressedSize": 118928,
+          "UncompressedSize": 531550
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/cs.pak",
+      "Size": 540539,
+      "Hash": "61995FF61015E017225A6CE32ECD7C6738087397",
+      "Chunks": [
+        {
+          "ChunkId": "61995FF61015E017225A6CE32ECD7C6738087397",
+          "Checksum": "7335DF61",
+          "Offset": 0,
+          "CompressedSize": 127056,
+          "UncompressedSize": 540539
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/da.pak",
+      "Size": 491412,
+      "Hash": "08107C5C836A14ACA4BE15989EE3A38807DCDD17",
+      "Chunks": [
+        {
+          "ChunkId": "08107C5C836A14ACA4BE15989EE3A38807DCDD17",
+          "Checksum": "881B3FFF",
+          "Offset": 0,
+          "CompressedSize": 116016,
+          "UncompressedSize": 491412
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/de.pak",
+      "Size": 528865,
+      "Hash": "4904070B357A6CC94A82D5A3BB7AF994FC09B1A2",
+      "Chunks": [
+        {
+          "ChunkId": "4904070B357A6CC94A82D5A3BB7AF994FC09B1A2",
+          "Checksum": "4DF76D07",
+          "Offset": 0,
+          "CompressedSize": 122624,
+          "UncompressedSize": 528865
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/el.pak",
+      "Size": 941201,
+      "Hash": "9E186C16C53AA29E560893BB2B886308A0CA302D",
+      "Chunks": [
+        {
+          "ChunkId": "9E186C16C53AA29E560893BB2B886308A0CA302D",
+          "Checksum": "F8B6CD95",
+          "Offset": 0,
+          "CompressedSize": 136496,
+          "UncompressedSize": 941201
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/en-GB.pak",
+      "Size": 425864,
+      "Hash": "4CE9B3B5268D70FF1DF6AA4E573ECE0ABB5349E2",
+      "Chunks": [
+        {
+          "ChunkId": "4CE9B3B5268D70FF1DF6AA4E573ECE0ABB5349E2",
+          "Checksum": "50FBA086",
+          "Offset": 0,
+          "CompressedSize": 107136,
+          "UncompressedSize": 425864
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/en-US.pak",
+      "Size": 429975,
+      "Hash": "825388F1BCFB000269B90CF38F4E729C2596E4FE",
+      "Chunks": [
+        {
+          "ChunkId": "825388F1BCFB000269B90CF38F4E729C2596E4FE",
+          "Checksum": "70D44186",
+          "Offset": 0,
+          "CompressedSize": 107264,
+          "UncompressedSize": 429975
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/es-419.pak",
+      "Size": 519627,
+      "Hash": "9DBD1610950A87FE6CAC8E10EDBC85C4B7AF2114",
+      "Chunks": [
+        {
+          "ChunkId": "9DBD1610950A87FE6CAC8E10EDBC85C4B7AF2114",
+          "Checksum": "E3D4BEEA",
+          "Offset": 0,
+          "CompressedSize": 118240,
+          "UncompressedSize": 519627
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/es.pak",
+      "Size": 518067,
+      "Hash": "6C591BD9572943D4C3B4292A532738653857E6FB",
+      "Chunks": [
+        {
+          "ChunkId": "6C591BD9572943D4C3B4292A532738653857E6FB",
+          "Checksum": "163C6015",
+          "Offset": 0,
+          "CompressedSize": 117536,
+          "UncompressedSize": 518067
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/et.pak",
+      "Size": 470454,
+      "Hash": "3DC1474E8B164075BE7B51F560AB76DAB3808FC7",
+      "Chunks": [
+        {
+          "ChunkId": "3DC1474E8B164075BE7B51F560AB76DAB3808FC7",
+          "Checksum": "AA6A03D7",
+          "Offset": 0,
+          "CompressedSize": 117984,
+          "UncompressedSize": 470454
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/fa.pak",
+      "Size": 766432,
+      "Hash": "B7E65858B90462CE435835FC0CD0B8C2961E02AE",
+      "Chunks": [
+        {
+          "ChunkId": "B7E65858B90462CE435835FC0CD0B8C2961E02AE",
+          "Checksum": "919EF4DC",
+          "Offset": 0,
+          "CompressedSize": 126032,
+          "UncompressedSize": 766432
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/fi.pak",
+      "Size": 478116,
+      "Hash": "50B5E58E2F349F075863FB2ED2039BD283C9E36B",
+      "Chunks": [
+        {
+          "ChunkId": "50B5E58E2F349F075863FB2ED2039BD283C9E36B",
+          "Checksum": "5BBA3ABE",
+          "Offset": 0,
+          "CompressedSize": 117840,
+          "UncompressedSize": 478116
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/fil.pak",
+      "Size": 541866,
+      "Hash": "A70935149A9EA3CF2B19D2EC7AE4082D7E097712",
+      "Chunks": [
+        {
+          "ChunkId": "A70935149A9EA3CF2B19D2EC7AE4082D7E097712",
+          "Checksum": "353DD904",
+          "Offset": 0,
+          "CompressedSize": 118112,
+          "UncompressedSize": 541866
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/fr.pak",
+      "Size": 563588,
+      "Hash": "6ADBDC011A00458D5B8FBB8BB657E41547679129",
+      "Chunks": [
+        {
+          "ChunkId": "6ADBDC011A00458D5B8FBB8BB657E41547679129",
+          "Checksum": "E4C20CE8",
+          "Offset": 0,
+          "CompressedSize": 122704,
+          "UncompressedSize": 563588
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/gu.pak",
+      "Size": 1092218,
+      "Hash": "2011DB0B740B7B0A632F0E5DB43D15FDAFA771C3",
+      "Chunks": [
+        {
+          "ChunkId": "16F27B04164658E9DDECC641B29EB9FD115A6B30",
+          "Checksum": "AEED8ED0",
+          "Offset": 1048576,
+          "CompressedSize": 7296,
+          "UncompressedSize": 43642
+        },
+        {
+          "ChunkId": "FA2258164218BF67EA529FA09B24374701EE2DD4",
+          "Checksum": "11340607",
+          "Offset": 0,
+          "CompressedSize": 128832,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/he.pak",
+      "Size": 676286,
+      "Hash": "C9A4EC64CF4CAF806F9CCB1942402B86FC74A017",
+      "Chunks": [
+        {
+          "ChunkId": "C9A4EC64CF4CAF806F9CCB1942402B86FC74A017",
+          "Checksum": "CB7C982A",
+          "Offset": 0,
+          "CompressedSize": 124048,
+          "UncompressedSize": 676286
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/hi.pak",
+      "Size": 1154935,
+      "Hash": "171C513D57BB2782841CDCB6063A38005DA1A23A",
+      "Chunks": [
+        {
+          "ChunkId": "4F26658E6FC59F8DB08F88B10ED5B3761BB7BCE7",
+          "Checksum": "A9607EBA",
+          "Offset": 1048576,
+          "CompressedSize": 14592,
+          "UncompressedSize": 106359
+        },
+        {
+          "ChunkId": "9D0251BFDD2E0C9987BA23CB044BF6AEA8ED8E5A",
+          "Checksum": "249F5085",
+          "Offset": 0,
+          "CompressedSize": 128304,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/hr.pak",
+      "Size": 522403,
+      "Hash": "FF7F3A9EF884BF63E9D9882F6D9A328FCA962F42",
+      "Chunks": [
+        {
+          "ChunkId": "FF7F3A9EF884BF63E9D9882F6D9A328FCA962F42",
+          "Checksum": "F13FBD62",
+          "Offset": 0,
+          "CompressedSize": 123088,
+          "UncompressedSize": 522403
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/hu.pak",
+      "Size": 560407,
+      "Hash": "F307988D0C423829F0EAE20F2C71AFB0278FBA33",
+      "Chunks": [
+        {
+          "ChunkId": "F307988D0C423829F0EAE20F2C71AFB0278FBA33",
+          "Checksum": "F879015D",
+          "Offset": 0,
+          "CompressedSize": 128592,
+          "UncompressedSize": 560407
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/id.pak",
+      "Size": 461426,
+      "Hash": "60862AE24640209370D9EC1107DC766C8D65185A",
+      "Chunks": [
+        {
+          "ChunkId": "60862AE24640209370D9EC1107DC766C8D65185A",
+          "Checksum": "CFB10DCB",
+          "Offset": 0,
+          "CompressedSize": 107088,
+          "UncompressedSize": 461426
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/it.pak",
+      "Size": 517128,
+      "Hash": "CDE3DCFCCC885BA0116DAFD791220EA3E02E3AED",
+      "Chunks": [
+        {
+          "ChunkId": "CDE3DCFCCC885BA0116DAFD791220EA3E02E3AED",
+          "Checksum": "21063EE0",
+          "Offset": 0,
+          "CompressedSize": 117008,
+          "UncompressedSize": 517128
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ja.pak",
+      "Size": 628169,
+      "Hash": "4A88E6190F0F19187818379F29EDE4D5763D5A46",
+      "Chunks": [
+        {
+          "ChunkId": "4A88E6190F0F19187818379F29EDE4D5763D5A46",
+          "Checksum": "B460CE6C",
+          "Offset": 0,
+          "CompressedSize": 113616,
+          "UncompressedSize": 628169
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/kn.pak",
+      "Size": 1246353,
+      "Hash": "EF2A66DAD22A39E0700BB78CAB1BB25CA33A9B0C",
+      "Chunks": [
+        {
+          "ChunkId": "0938023CA459A88DD13AD2DA2A0B34C0783F517E",
+          "Checksum": "1CCAB98C",
+          "Offset": 1048576,
+          "CompressedSize": 25072,
+          "UncompressedSize": 197777
+        },
+        {
+          "ChunkId": "AB1B8593C661FEBE03E9DF7CBD76F75221643C90",
+          "Checksum": "CE1198A9",
+          "Offset": 0,
+          "CompressedSize": 115616,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ko.pak",
+      "Size": 526503,
+      "Hash": "7DBC3CDF08EF63D6AA70F73354CF184A30D004BF",
+      "Chunks": [
+        {
+          "ChunkId": "7DBC3CDF08EF63D6AA70F73354CF184A30D004BF",
+          "Checksum": "7D2B4419",
+          "Offset": 0,
+          "CompressedSize": 109520,
+          "UncompressedSize": 526503
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/lt.pak",
+      "Size": 569996,
+      "Hash": "F399B0E9C364695F13F0E35F7D0725EA0BDCBB27",
+      "Chunks": [
+        {
+          "ChunkId": "F399B0E9C364695F13F0E35F7D0725EA0BDCBB27",
+          "Checksum": "598CC027",
+          "Offset": 0,
+          "CompressedSize": 125696,
+          "UncompressedSize": 569996
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/lv.pak",
+      "Size": 566664,
+      "Hash": "307D0F2237B610E66B5C5521F80B944E394C997C",
+      "Chunks": [
+        {
+          "ChunkId": "307D0F2237B610E66B5C5521F80B944E394C997C",
+          "Checksum": "CDF23990",
+          "Offset": 0,
+          "CompressedSize": 126512,
+          "UncompressedSize": 566664
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ml.pak",
+      "Size": 1293128,
+      "Hash": "EA167EB9C5D2FD29D2BF285AA20471125F2FDC6B",
+      "Chunks": [
+        {
+          "ChunkId": "8AB07476674BCEC1B11A1A6DD6822B72B1F001B1",
+          "Checksum": "56385F6B",
+          "Offset": 1048576,
+          "CompressedSize": 30496,
+          "UncompressedSize": 244552
+        },
+        {
+          "ChunkId": "B35ECC6FC16E199313DF39877763EF0815DEDA8E",
+          "Checksum": "566C6B2E",
+          "Offset": 0,
+          "CompressedSize": 114160,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/mr.pak",
+      "Size": 1062156,
+      "Hash": "031037978D03D87CB6EA77D0BE8D6C25BE251B55",
+      "Chunks": [
+        {
+          "ChunkId": "62D7A39C02FBF41BDCA5777D7BFE15FA60FDE00C",
+          "Checksum": "54925F2D",
+          "Offset": 1048576,
+          "CompressedSize": 2768,
+          "UncompressedSize": 13580
+        },
+        {
+          "ChunkId": "B691DAB00506F988786320F561A0A50AA49C93FC",
+          "Checksum": "1616A564",
+          "Offset": 0,
+          "CompressedSize": 129376,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ms.pak",
+      "Size": 483671,
+      "Hash": "7E673FD5C13947BECA0E973A9F0FC7523AF68A3C",
+      "Chunks": [
+        {
+          "ChunkId": "7E673FD5C13947BECA0E973A9F0FC7523AF68A3C",
+          "Checksum": "A1196F8D",
+          "Offset": 0,
+          "CompressedSize": 108864,
+          "UncompressedSize": 483671
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/nb.pak",
+      "Size": 470647,
+      "Hash": "B92E09B21FD589BDFC17EB04A67C4A5A54A84362",
+      "Chunks": [
+        {
+          "ChunkId": "B92E09B21FD589BDFC17EB04A67C4A5A54A84362",
+          "Checksum": "D351145C",
+          "Offset": 0,
+          "CompressedSize": 112976,
+          "UncompressedSize": 470647
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/nl.pak",
+      "Size": 485599,
+      "Hash": "AD32282896443AF786AE1A822371CBC705195928",
+      "Chunks": [
+        {
+          "ChunkId": "AD32282896443AF786AE1A822371CBC705195928",
+          "Checksum": "4B334B42",
+          "Offset": 0,
+          "CompressedSize": 115808,
+          "UncompressedSize": 485599
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/pl.pak",
+      "Size": 546228,
+      "Hash": "CDBC9040F088D3F63353CFA7EDC0434DF399B188",
+      "Chunks": [
+        {
+          "ChunkId": "CDBC9040F088D3F63353CFA7EDC0434DF399B188",
+          "Checksum": "8F649022",
+          "Offset": 0,
+          "CompressedSize": 127968,
+          "UncompressedSize": 546228
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/pt-BR.pak",
+      "Size": 511688,
+      "Hash": "9541A0ED5A2A4C97522A987C07FBA7DEC30E7534",
+      "Chunks": [
+        {
+          "ChunkId": "9541A0ED5A2A4C97522A987C07FBA7DEC30E7534",
+          "Checksum": "738F4BDA",
+          "Offset": 0,
+          "CompressedSize": 117808,
+          "UncompressedSize": 511688
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/pt-PT.pak",
+      "Size": 513383,
+      "Hash": "1F5E11AC3D110FAFDA8905A3CB0F64EE3DDA5921",
+      "Chunks": [
+        {
+          "ChunkId": "1F5E11AC3D110FAFDA8905A3CB0F64EE3DDA5921",
+          "Checksum": "D5667E8D",
+          "Offset": 0,
+          "CompressedSize": 116576,
+          "UncompressedSize": 513383
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ro.pak",
+      "Size": 532032,
+      "Hash": "FDDCA118009A9E238CF799A9C3E85B8A0496AB16",
+      "Chunks": [
+        {
+          "ChunkId": "FDDCA118009A9E238CF799A9C3E85B8A0496AB16",
+          "Checksum": "C58AD7F3",
+          "Offset": 0,
+          "CompressedSize": 119680,
+          "UncompressedSize": 532032
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ru.pak",
+      "Size": 874082,
+      "Hash": "7A0F7600C34D5D4DB961D5737EF4BB646EBDEA0C",
+      "Chunks": [
+        {
+          "ChunkId": "7A0F7600C34D5D4DB961D5737EF4BB646EBDEA0C",
+          "Checksum": "C4EC4CF0",
+          "Offset": 0,
+          "CompressedSize": 135568,
+          "UncompressedSize": 874082
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/sk.pak",
+      "Size": 549760,
+      "Hash": "BEC14596879767834FDF974DD67C413C4E71DE78",
+      "Chunks": [
+        {
+          "ChunkId": "BEC14596879767834FDF974DD67C413C4E71DE78",
+          "Checksum": "3B490797",
+          "Offset": 0,
+          "CompressedSize": 129808,
+          "UncompressedSize": 549760
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/sl.pak",
+      "Size": 528839,
+      "Hash": "2F99FB86B033610B66CABC3E4B4DB8F68348C504",
+      "Chunks": [
+        {
+          "ChunkId": "2F99FB86B033610B66CABC3E4B4DB8F68348C504",
+          "Checksum": "BE98DA31",
+          "Offset": 0,
+          "CompressedSize": 122864,
+          "UncompressedSize": 528839
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/sr.pak",
+      "Size": 811643,
+      "Hash": "7FFEE432A5B8C23E58C13B1A98277B2114589AE5",
+      "Chunks": [
+        {
+          "ChunkId": "7FFEE432A5B8C23E58C13B1A98277B2114589AE5",
+          "Checksum": "518F07FD",
+          "Offset": 0,
+          "CompressedSize": 129648,
+          "UncompressedSize": 811643
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/sv.pak",
+      "Size": 474842,
+      "Hash": "0597B6E607A366E7F4820F9EE7C8532DF4BE4E94",
+      "Chunks": [
+        {
+          "ChunkId": "0597B6E607A366E7F4820F9EE7C8532DF4BE4E94",
+          "Checksum": "8178DF78",
+          "Offset": 0,
+          "CompressedSize": 113168,
+          "UncompressedSize": 474842
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/sw.pak",
+      "Size": 498985,
+      "Hash": "9584213D59CB67F46DD0DA8B6A51CDDDF1A74504",
+      "Chunks": [
+        {
+          "ChunkId": "9584213D59CB67F46DD0DA8B6A51CDDDF1A74504",
+          "Checksum": "E4FB8125",
+          "Offset": 0,
+          "CompressedSize": 115808,
+          "UncompressedSize": 498985
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ta.pak",
+      "Size": 1283232,
+      "Hash": "F3936298B77B07C34D2565B61F42BECC446CD2A1",
+      "Chunks": [
+        {
+          "ChunkId": "4CA02C2999279243F0D2E586D52BA5B375DF4018",
+          "Checksum": "0E21D3E9",
+          "Offset": 1048576,
+          "CompressedSize": 27456,
+          "UncompressedSize": 234656
+        },
+        {
+          "ChunkId": "CBCCF64A5A54559287DE6F938455832D23685488",
+          "Checksum": "0CE5AFBC",
+          "Offset": 0,
+          "CompressedSize": 112208,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/te.pak",
+      "Size": 1185717,
+      "Hash": "7205DAF1B1ADD062B784ECD74A4F6EFEE6FF13B3",
+      "Chunks": [
+        {
+          "ChunkId": "0AC73BF5BA0DB75ADD614FFA9AEBDF1D1E0E58B4",
+          "Checksum": "41B43644",
+          "Offset": 1048576,
+          "CompressedSize": 19056,
+          "UncompressedSize": 137141
+        },
+        {
+          "ChunkId": "BCDAB03561CFB2E71102505CAF5458789B839945",
+          "Checksum": "AFD43DA7",
+          "Offset": 0,
+          "CompressedSize": 120800,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/th.pak",
+      "Size": 999193,
+      "Hash": "462A35CA1B07D3C09BB02DFDF07A656263D18AC8",
+      "Chunks": [
+        {
+          "ChunkId": "462A35CA1B07D3C09BB02DFDF07A656263D18AC8",
+          "Checksum": "41AEC2DC",
+          "Offset": 0,
+          "CompressedSize": 119200,
+          "UncompressedSize": 999193
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/tr.pak",
+      "Size": 509180,
+      "Hash": "AED6254238CE8867B147522B6DF1E3FC037948FE",
+      "Chunks": [
+        {
+          "ChunkId": "AED6254238CE8867B147522B6DF1E3FC037948FE",
+          "Checksum": "E625AB4F",
+          "Offset": 0,
+          "CompressedSize": 117376,
+          "UncompressedSize": 509180
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/uk.pak",
+      "Size": 871237,
+      "Hash": "ED24DA4A09328040375DE19B9DA60B4333357A7F",
+      "Chunks": [
+        {
+          "ChunkId": "ED24DA4A09328040375DE19B9DA60B4333357A7F",
+          "Checksum": "2357C446",
+          "Offset": 0,
+          "CompressedSize": 134016,
+          "UncompressedSize": 871237
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/ur.pak",
+      "Size": 756714,
+      "Hash": "BC7E8EE54F95536018893BEAC2952CF6ED881E04",
+      "Chunks": [
+        {
+          "ChunkId": "BC7E8EE54F95536018893BEAC2952CF6ED881E04",
+          "Checksum": "524D83B1",
+          "Offset": 0,
+          "CompressedSize": 125792,
+          "UncompressedSize": 756714
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/vi.pak",
+      "Size": 602677,
+      "Hash": "346EC07335128558A643C45773E97809CAB97432",
+      "Chunks": [
+        {
+          "ChunkId": "346EC07335128558A643C45773E97809CAB97432",
+          "Checksum": "F46AE8E5",
+          "Offset": 0,
+          "CompressedSize": 116896,
+          "UncompressedSize": 602677
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/zh-CN.pak",
+      "Size": 436214,
+      "Hash": "C31F30F01873585C7C360B96FABC3F730B1A77FC",
+      "Chunks": [
+        {
+          "ChunkId": "C31F30F01873585C7C360B96FABC3F730B1A77FC",
+          "Checksum": "761AA21E",
+          "Offset": 0,
+          "CompressedSize": 108784,
+          "UncompressedSize": 436214
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/locales/zh-TW.pak",
+      "Size": 434590,
+      "Hash": "24E013D0B1C718EC4C92E05CDF65C7B6E8CCCB7D",
+      "Chunks": [
+        {
+          "ChunkId": "24E013D0B1C718EC4C92E05CDF65C7B6E8CCCB7D",
+          "Checksum": "4BC8CEE5",
+          "Offset": 0,
+          "CompressedSize": 107712,
+          "UncompressedSize": 434590
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/resources.pak",
+      "Size": 8204604,
+      "Hash": "F73CB7087EF6F00A7A2A7B68D903579C6BA27EDC",
+      "Chunks": [
+        {
+          "ChunkId": "243B92C32B6E060E0AE3E32440B461A87D3764CD",
+          "Checksum": "EF6AA73D",
+          "Offset": 4194304,
+          "CompressedSize": 1020288,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "2C00D56305869A605E3CD611548A7796C1A7D47E",
+          "Checksum": "3B9711CA",
+          "Offset": 7340032,
+          "CompressedSize": 875744,
+          "UncompressedSize": 864572
+        },
+        {
+          "ChunkId": "3E577E678FF51351EA1C0F633D704625A4B78EBC",
+          "Checksum": "930D4B71",
+          "Offset": 6291456,
+          "CompressedSize": 1061888,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "3F0869D6C8073BCDBBA1F5840993A424D5261978",
+          "Checksum": "E7241F47",
+          "Offset": 1048576,
+          "CompressedSize": 1056848,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "4A26AB78CE6999454A68E4DCE30054BD061ABE17",
+          "Checksum": "8C557290",
+          "Offset": 2097152,
+          "CompressedSize": 1026464,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "5705A4FF1273561A16C0F449024B914F3B9B30DA",
+          "Checksum": "961032C5",
+          "Offset": 3145728,
+          "CompressedSize": 1059696,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "7EFD5B98E1A4C27F2023DAB3ABB25B570656A6F6",
+          "Checksum": "2EE86315",
+          "Offset": 0,
+          "CompressedSize": 1041472,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "9921457D6FDE1EFDF4CC75C882E24AE61A54DDE9",
+          "Checksum": "282026E2",
+          "Offset": 5242880,
+          "CompressedSize": 1042800,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/snapshot_blob.bin",
+      "Size": 275904,
+      "Hash": "4E44E7B9A535DFF4C25E515B75A64DE50D772917",
+      "Chunks": [
+        {
+          "ChunkId": "4E44E7B9A535DFF4C25E515B75A64DE50D772917",
+          "Checksum": "A50E8295",
+          "Offset": 0,
+          "CompressedSize": 44896,
+          "UncompressedSize": 275904
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/v8_context_snapshot.bin",
+      "Size": 614011,
+      "Hash": "DDB67FFDAC1222713361E5ABEB07A924F930A599",
+      "Chunks": [
+        {
+          "ChunkId": "DDB67FFDAC1222713361E5ABEB07A924F930A599",
+          "Checksum": "E5AE2BEA",
+          "Offset": 0,
+          "CompressedSize": 111312,
+          "UncompressedSize": 614011
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/vk_swiftshader.dll",
+      "Size": 5022208,
+      "Hash": "8BE9B185939050918591E72F41EF458D38813C42",
+      "Chunks": [
+        {
+          "ChunkId": "1D71ED0F546BFF4984912DB00E14DC1CC6A0C5B5",
+          "Checksum": "0020426D",
+          "Offset": 2097152,
+          "CompressedSize": 359696,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "652AE85D58E9CBBE44EEC2858709E14A0DAC21C6",
+          "Checksum": "1C0403A3",
+          "Offset": 3145728,
+          "CompressedSize": 347824,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "71F28C6326C060E50B9741DC28BEA8F7F2175C9E",
+          "Checksum": "EF0078CF",
+          "Offset": 1048576,
+          "CompressedSize": 331280,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "909C32FC3E9CB654ED8026EEC862F883D22FAC78",
+          "Checksum": "3C0F0364",
+          "Offset": 4194304,
+          "CompressedSize": 135536,
+          "UncompressedSize": 827904
+        },
+        {
+          "ChunkId": "CEFE551218138B3438747EBE874AA51904575BCF",
+          "Checksum": "E202133B",
+          "Offset": 0,
+          "CompressedSize": 360624,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/vk_swiftshader_icd.json",
+      "Size": 106,
+      "Hash": "9C06735C31CEC00600FD763A92F8112D085BD12A",
+      "Chunks": [
+        {
+          "ChunkId": "9C06735C31CEC00600FD763A92F8112D085BD12A",
+          "Checksum": "3C228E44",
+          "Offset": 0,
+          "CompressedSize": 128,
+          "UncompressedSize": 106
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x64/native/vulkan-1.dll",
+      "Size": 947200,
+      "Hash": "25F27882F070C536BC37B82D44634E74D346DA50",
+      "Chunks": [
+        {
+          "ChunkId": "25F27882F070C536BC37B82D44634E74D346DA50",
+          "Checksum": "3334A162",
+          "Offset": 0,
+          "CompressedSize": 290848,
+          "UncompressedSize": 947200
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/lib",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/lib/netcoreapp3.1",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/lib/netcoreapp3.1/CefSharp.Core.dll",
+      "Size": 1094144,
+      "Hash": "AEB3F510F105AF9C1D3CC836D39DC2CDB5C57004",
+      "Chunks": [
+        {
+          "ChunkId": "0AEF81C286AFFED675B7D814E350388C4F892167",
+          "Checksum": "A46DEBC3",
+          "Offset": 0,
+          "CompressedSize": 424880,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "1D93E844BBA1B5FEE933C01F56769842640EC2CE",
+          "Checksum": "B4F83632",
+          "Offset": 1048576,
+          "CompressedSize": 43520,
+          "UncompressedSize": 45568
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/lib/netcoreapp3.1/CefSharp.Core.Runtime.dll",
+      "Size": 1399808,
+      "Hash": "9D4570EFBFB8D9A8886AC235317E29DA2F4FEBD0",
+      "Chunks": [
+        {
+          "ChunkId": "7990C29165A594C88860A7D7E9C3E7D0ACED79EC",
+          "Checksum": "B13F4EF8",
+          "Offset": 1048576,
+          "CompressedSize": 77600,
+          "UncompressedSize": 351232
+        },
+        {
+          "ChunkId": "FA424AC8C0E82B45C3FB26E195A5D6F8DDE44631",
+          "Checksum": "DFAF7BF6",
+          "Offset": 0,
+          "CompressedSize": 191120,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/lib/netcoreapp3.1/CefSharp.dll",
+      "Size": 605696,
+      "Hash": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+      "Chunks": [
+        {
+          "ChunkId": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+          "Checksum": "1627A6FC",
+          "Offset": 0,
+          "CompressedSize": 422224,
+          "UncompressedSize": 605696
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/lib/netcoreapp3.1/Ijwhost.dll",
+      "Size": 122272,
+      "Hash": "5C46C5A8DD1642A66A1B656177A636EF82234759",
+      "Chunks": [
+        {
+          "ChunkId": "5C46C5A8DD1642A66A1B656177A636EF82234759",
+          "Checksum": "8EBD40B8",
+          "Offset": 0,
+          "CompressedSize": 53456,
+          "UncompressedSize": 122272
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/CefSharp.BrowserSubprocess.Core.dll",
+      "Size": 923648,
+      "Hash": "DA4EA429ECECF8E3E2FE5B9DBC5CB9DB49238764",
+      "Chunks": [
+        {
+          "ChunkId": "DA4EA429ECECF8E3E2FE5B9DBC5CB9DB49238764",
+          "Checksum": "707ABCEE",
+          "Offset": 0,
+          "CompressedSize": 187840,
+          "UncompressedSize": 923648
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/CefSharp.BrowserSubprocess.dll",
+      "Size": 14336,
+      "Hash": "FE088B6BD90F1FFDD82F341A154B542693D2CD46",
+      "Chunks": [
+        {
+          "ChunkId": "FE088B6BD90F1FFDD82F341A154B542693D2CD46",
+          "Checksum": "C370A9D2",
+          "Offset": 0,
+          "CompressedSize": 9744,
+          "UncompressedSize": 14336
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/CefSharp.BrowserSubprocess.exe",
+      "Size": 131072,
+      "Hash": "20AA0D0843D7926B1FC0E61D0BBE17D01AB2E51C",
+      "Chunks": [
+        {
+          "ChunkId": "20AA0D0843D7926B1FC0E61D0BBE17D01AB2E51C",
+          "Checksum": "3E758A84",
+          "Offset": 0,
+          "CompressedSize": 52000,
+          "UncompressedSize": 131072
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/CefSharp.BrowserSubprocess.runtimeconfig.json",
+      "Size": 183,
+      "Hash": "57AB6021790057A4B5AAD673DF4ACD93039266FC",
+      "Chunks": [
+        {
+          "ChunkId": "57AB6021790057A4B5AAD673DF4ACD93039266FC",
+          "Checksum": "8830B460",
+          "Offset": 0,
+          "CompressedSize": 176,
+          "UncompressedSize": 183
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/CefSharp.dll",
+      "Size": 605696,
+      "Hash": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+      "Chunks": [
+        {
+          "ChunkId": "ED4F17DB4E52795409965BE479BA2BA5AE03C03F",
+          "Checksum": "1627A6FC",
+          "Offset": 0,
+          "CompressedSize": 422224,
+          "UncompressedSize": 605696
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/Ijwhost.dll",
+      "Size": 122272,
+      "Hash": "5C46C5A8DD1642A66A1B656177A636EF82234759",
+      "Chunks": [
+        {
+          "ChunkId": "5C46C5A8DD1642A66A1B656177A636EF82234759",
+          "Checksum": "8EBD40B8",
+          "Offset": 0,
+          "CompressedSize": 53456,
+          "UncompressedSize": 122272
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/af.pak",
+      "Size": 465205,
+      "Hash": "1EE74A58604FA6FB7CE1B62551EFC89499F5EE41",
+      "Chunks": [
+        {
+          "ChunkId": "1EE74A58604FA6FB7CE1B62551EFC89499F5EE41",
+          "Checksum": "E605B782",
+          "Offset": 0,
+          "CompressedSize": 114432,
+          "UncompressedSize": 465205
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/am.pak",
+      "Size": 756426,
+      "Hash": "A840E64545EFBBCA23366312BC2B42B33D7545C1",
+      "Chunks": [
+        {
+          "ChunkId": "A840E64545EFBBCA23366312BC2B42B33D7545C1",
+          "Checksum": "8ED8D3CA",
+          "Offset": 0,
+          "CompressedSize": 129776,
+          "UncompressedSize": 756426
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ar.pak",
+      "Size": 834745,
+      "Hash": "DA348B2997994019B86DD5AC6EE9C0941594A614",
+      "Chunks": [
+        {
+          "ChunkId": "DA348B2997994019B86DD5AC6EE9C0941594A614",
+          "Checksum": "5C33E5C5",
+          "Offset": 0,
+          "CompressedSize": 134048,
+          "UncompressedSize": 834745
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/bg.pak",
+      "Size": 859704,
+      "Hash": "9D8F1B5858DE84461FDE39B005ED857FE02D3088",
+      "Chunks": [
+        {
+          "ChunkId": "9D8F1B5858DE84461FDE39B005ED857FE02D3088",
+          "Checksum": "4E94C738",
+          "Offset": 0,
+          "CompressedSize": 129616,
+          "UncompressedSize": 859704
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/bn.pak",
+      "Size": 1108054,
+      "Hash": "20B8B4F2C10C668B1D12593B9A0F27AFAB5FA592",
+      "Chunks": [
+        {
+          "ChunkId": "21AF22482F2E0CE23E4B3B66EFB802A0C285871D",
+          "Checksum": "B1CC1E5F",
+          "Offset": 0,
+          "CompressedSize": 127840,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "530CFD22B4FC7B27677D7923284DCDD640AABE1E",
+          "Checksum": "2BF19D96",
+          "Offset": 1048576,
+          "CompressedSize": 9936,
+          "UncompressedSize": 59478
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ca.pak",
+      "Size": 531550,
+      "Hash": "C4F2898DAA562E8A6B391DB2074251340866C79F",
+      "Chunks": [
+        {
+          "ChunkId": "C4F2898DAA562E8A6B391DB2074251340866C79F",
+          "Checksum": "17C8E0CD",
+          "Offset": 0,
+          "CompressedSize": 118928,
+          "UncompressedSize": 531550
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/cs.pak",
+      "Size": 540539,
+      "Hash": "61995FF61015E017225A6CE32ECD7C6738087397",
+      "Chunks": [
+        {
+          "ChunkId": "61995FF61015E017225A6CE32ECD7C6738087397",
+          "Checksum": "7335DF61",
+          "Offset": 0,
+          "CompressedSize": 127056,
+          "UncompressedSize": 540539
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/da.pak",
+      "Size": 491412,
+      "Hash": "08107C5C836A14ACA4BE15989EE3A38807DCDD17",
+      "Chunks": [
+        {
+          "ChunkId": "08107C5C836A14ACA4BE15989EE3A38807DCDD17",
+          "Checksum": "881B3FFF",
+          "Offset": 0,
+          "CompressedSize": 116016,
+          "UncompressedSize": 491412
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/de.pak",
+      "Size": 528865,
+      "Hash": "4904070B357A6CC94A82D5A3BB7AF994FC09B1A2",
+      "Chunks": [
+        {
+          "ChunkId": "4904070B357A6CC94A82D5A3BB7AF994FC09B1A2",
+          "Checksum": "4DF76D07",
+          "Offset": 0,
+          "CompressedSize": 122624,
+          "UncompressedSize": 528865
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/el.pak",
+      "Size": 941201,
+      "Hash": "9E186C16C53AA29E560893BB2B886308A0CA302D",
+      "Chunks": [
+        {
+          "ChunkId": "9E186C16C53AA29E560893BB2B886308A0CA302D",
+          "Checksum": "F8B6CD95",
+          "Offset": 0,
+          "CompressedSize": 136496,
+          "UncompressedSize": 941201
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/en-GB.pak",
+      "Size": 425864,
+      "Hash": "4CE9B3B5268D70FF1DF6AA4E573ECE0ABB5349E2",
+      "Chunks": [
+        {
+          "ChunkId": "4CE9B3B5268D70FF1DF6AA4E573ECE0ABB5349E2",
+          "Checksum": "50FBA086",
+          "Offset": 0,
+          "CompressedSize": 107136,
+          "UncompressedSize": 425864
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/en-US.pak",
+      "Size": 429975,
+      "Hash": "825388F1BCFB000269B90CF38F4E729C2596E4FE",
+      "Chunks": [
+        {
+          "ChunkId": "825388F1BCFB000269B90CF38F4E729C2596E4FE",
+          "Checksum": "70D44186",
+          "Offset": 0,
+          "CompressedSize": 107264,
+          "UncompressedSize": 429975
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/es-419.pak",
+      "Size": 519627,
+      "Hash": "9DBD1610950A87FE6CAC8E10EDBC85C4B7AF2114",
+      "Chunks": [
+        {
+          "ChunkId": "9DBD1610950A87FE6CAC8E10EDBC85C4B7AF2114",
+          "Checksum": "E3D4BEEA",
+          "Offset": 0,
+          "CompressedSize": 118240,
+          "UncompressedSize": 519627
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/es.pak",
+      "Size": 518067,
+      "Hash": "6C591BD9572943D4C3B4292A532738653857E6FB",
+      "Chunks": [
+        {
+          "ChunkId": "6C591BD9572943D4C3B4292A532738653857E6FB",
+          "Checksum": "163C6015",
+          "Offset": 0,
+          "CompressedSize": 117536,
+          "UncompressedSize": 518067
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/et.pak",
+      "Size": 470454,
+      "Hash": "3DC1474E8B164075BE7B51F560AB76DAB3808FC7",
+      "Chunks": [
+        {
+          "ChunkId": "3DC1474E8B164075BE7B51F560AB76DAB3808FC7",
+          "Checksum": "AA6A03D7",
+          "Offset": 0,
+          "CompressedSize": 117984,
+          "UncompressedSize": 470454
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/fa.pak",
+      "Size": 766432,
+      "Hash": "B7E65858B90462CE435835FC0CD0B8C2961E02AE",
+      "Chunks": [
+        {
+          "ChunkId": "B7E65858B90462CE435835FC0CD0B8C2961E02AE",
+          "Checksum": "919EF4DC",
+          "Offset": 0,
+          "CompressedSize": 126032,
+          "UncompressedSize": 766432
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/fi.pak",
+      "Size": 478116,
+      "Hash": "50B5E58E2F349F075863FB2ED2039BD283C9E36B",
+      "Chunks": [
+        {
+          "ChunkId": "50B5E58E2F349F075863FB2ED2039BD283C9E36B",
+          "Checksum": "5BBA3ABE",
+          "Offset": 0,
+          "CompressedSize": 117840,
+          "UncompressedSize": 478116
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/fil.pak",
+      "Size": 541866,
+      "Hash": "A70935149A9EA3CF2B19D2EC7AE4082D7E097712",
+      "Chunks": [
+        {
+          "ChunkId": "A70935149A9EA3CF2B19D2EC7AE4082D7E097712",
+          "Checksum": "353DD904",
+          "Offset": 0,
+          "CompressedSize": 118112,
+          "UncompressedSize": 541866
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/fr.pak",
+      "Size": 563588,
+      "Hash": "6ADBDC011A00458D5B8FBB8BB657E41547679129",
+      "Chunks": [
+        {
+          "ChunkId": "6ADBDC011A00458D5B8FBB8BB657E41547679129",
+          "Checksum": "E4C20CE8",
+          "Offset": 0,
+          "CompressedSize": 122704,
+          "UncompressedSize": 563588
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/gu.pak",
+      "Size": 1092218,
+      "Hash": "2011DB0B740B7B0A632F0E5DB43D15FDAFA771C3",
+      "Chunks": [
+        {
+          "ChunkId": "16F27B04164658E9DDECC641B29EB9FD115A6B30",
+          "Checksum": "AEED8ED0",
+          "Offset": 1048576,
+          "CompressedSize": 7296,
+          "UncompressedSize": 43642
+        },
+        {
+          "ChunkId": "FA2258164218BF67EA529FA09B24374701EE2DD4",
+          "Checksum": "11340607",
+          "Offset": 0,
+          "CompressedSize": 128832,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/he.pak",
+      "Size": 676286,
+      "Hash": "C9A4EC64CF4CAF806F9CCB1942402B86FC74A017",
+      "Chunks": [
+        {
+          "ChunkId": "C9A4EC64CF4CAF806F9CCB1942402B86FC74A017",
+          "Checksum": "CB7C982A",
+          "Offset": 0,
+          "CompressedSize": 124048,
+          "UncompressedSize": 676286
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/hi.pak",
+      "Size": 1154935,
+      "Hash": "171C513D57BB2782841CDCB6063A38005DA1A23A",
+      "Chunks": [
+        {
+          "ChunkId": "4F26658E6FC59F8DB08F88B10ED5B3761BB7BCE7",
+          "Checksum": "A9607EBA",
+          "Offset": 1048576,
+          "CompressedSize": 14592,
+          "UncompressedSize": 106359
+        },
+        {
+          "ChunkId": "9D0251BFDD2E0C9987BA23CB044BF6AEA8ED8E5A",
+          "Checksum": "249F5085",
+          "Offset": 0,
+          "CompressedSize": 128304,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/hr.pak",
+      "Size": 522403,
+      "Hash": "FF7F3A9EF884BF63E9D9882F6D9A328FCA962F42",
+      "Chunks": [
+        {
+          "ChunkId": "FF7F3A9EF884BF63E9D9882F6D9A328FCA962F42",
+          "Checksum": "F13FBD62",
+          "Offset": 0,
+          "CompressedSize": 123088,
+          "UncompressedSize": 522403
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/hu.pak",
+      "Size": 560407,
+      "Hash": "F307988D0C423829F0EAE20F2C71AFB0278FBA33",
+      "Chunks": [
+        {
+          "ChunkId": "F307988D0C423829F0EAE20F2C71AFB0278FBA33",
+          "Checksum": "F879015D",
+          "Offset": 0,
+          "CompressedSize": 128592,
+          "UncompressedSize": 560407
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/id.pak",
+      "Size": 461426,
+      "Hash": "60862AE24640209370D9EC1107DC766C8D65185A",
+      "Chunks": [
+        {
+          "ChunkId": "60862AE24640209370D9EC1107DC766C8D65185A",
+          "Checksum": "CFB10DCB",
+          "Offset": 0,
+          "CompressedSize": 107088,
+          "UncompressedSize": 461426
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/it.pak",
+      "Size": 517128,
+      "Hash": "CDE3DCFCCC885BA0116DAFD791220EA3E02E3AED",
+      "Chunks": [
+        {
+          "ChunkId": "CDE3DCFCCC885BA0116DAFD791220EA3E02E3AED",
+          "Checksum": "21063EE0",
+          "Offset": 0,
+          "CompressedSize": 117008,
+          "UncompressedSize": 517128
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ja.pak",
+      "Size": 628169,
+      "Hash": "4A88E6190F0F19187818379F29EDE4D5763D5A46",
+      "Chunks": [
+        {
+          "ChunkId": "4A88E6190F0F19187818379F29EDE4D5763D5A46",
+          "Checksum": "B460CE6C",
+          "Offset": 0,
+          "CompressedSize": 113616,
+          "UncompressedSize": 628169
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/kn.pak",
+      "Size": 1246353,
+      "Hash": "EF2A66DAD22A39E0700BB78CAB1BB25CA33A9B0C",
+      "Chunks": [
+        {
+          "ChunkId": "0938023CA459A88DD13AD2DA2A0B34C0783F517E",
+          "Checksum": "1CCAB98C",
+          "Offset": 1048576,
+          "CompressedSize": 25072,
+          "UncompressedSize": 197777
+        },
+        {
+          "ChunkId": "AB1B8593C661FEBE03E9DF7CBD76F75221643C90",
+          "Checksum": "CE1198A9",
+          "Offset": 0,
+          "CompressedSize": 115616,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ko.pak",
+      "Size": 526503,
+      "Hash": "7DBC3CDF08EF63D6AA70F73354CF184A30D004BF",
+      "Chunks": [
+        {
+          "ChunkId": "7DBC3CDF08EF63D6AA70F73354CF184A30D004BF",
+          "Checksum": "7D2B4419",
+          "Offset": 0,
+          "CompressedSize": 109520,
+          "UncompressedSize": 526503
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/lt.pak",
+      "Size": 569996,
+      "Hash": "F399B0E9C364695F13F0E35F7D0725EA0BDCBB27",
+      "Chunks": [
+        {
+          "ChunkId": "F399B0E9C364695F13F0E35F7D0725EA0BDCBB27",
+          "Checksum": "598CC027",
+          "Offset": 0,
+          "CompressedSize": 125696,
+          "UncompressedSize": 569996
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/lv.pak",
+      "Size": 566664,
+      "Hash": "307D0F2237B610E66B5C5521F80B944E394C997C",
+      "Chunks": [
+        {
+          "ChunkId": "307D0F2237B610E66B5C5521F80B944E394C997C",
+          "Checksum": "CDF23990",
+          "Offset": 0,
+          "CompressedSize": 126512,
+          "UncompressedSize": 566664
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ml.pak",
+      "Size": 1293128,
+      "Hash": "EA167EB9C5D2FD29D2BF285AA20471125F2FDC6B",
+      "Chunks": [
+        {
+          "ChunkId": "8AB07476674BCEC1B11A1A6DD6822B72B1F001B1",
+          "Checksum": "56385F6B",
+          "Offset": 1048576,
+          "CompressedSize": 30496,
+          "UncompressedSize": 244552
+        },
+        {
+          "ChunkId": "B35ECC6FC16E199313DF39877763EF0815DEDA8E",
+          "Checksum": "566C6B2E",
+          "Offset": 0,
+          "CompressedSize": 114160,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/mr.pak",
+      "Size": 1062156,
+      "Hash": "031037978D03D87CB6EA77D0BE8D6C25BE251B55",
+      "Chunks": [
+        {
+          "ChunkId": "62D7A39C02FBF41BDCA5777D7BFE15FA60FDE00C",
+          "Checksum": "54925F2D",
+          "Offset": 1048576,
+          "CompressedSize": 2768,
+          "UncompressedSize": 13580
+        },
+        {
+          "ChunkId": "B691DAB00506F988786320F561A0A50AA49C93FC",
+          "Checksum": "1616A564",
+          "Offset": 0,
+          "CompressedSize": 129376,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ms.pak",
+      "Size": 483671,
+      "Hash": "7E673FD5C13947BECA0E973A9F0FC7523AF68A3C",
+      "Chunks": [
+        {
+          "ChunkId": "7E673FD5C13947BECA0E973A9F0FC7523AF68A3C",
+          "Checksum": "A1196F8D",
+          "Offset": 0,
+          "CompressedSize": 108864,
+          "UncompressedSize": 483671
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/nb.pak",
+      "Size": 470647,
+      "Hash": "B92E09B21FD589BDFC17EB04A67C4A5A54A84362",
+      "Chunks": [
+        {
+          "ChunkId": "B92E09B21FD589BDFC17EB04A67C4A5A54A84362",
+          "Checksum": "D351145C",
+          "Offset": 0,
+          "CompressedSize": 112976,
+          "UncompressedSize": 470647
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/nl.pak",
+      "Size": 485599,
+      "Hash": "AD32282896443AF786AE1A822371CBC705195928",
+      "Chunks": [
+        {
+          "ChunkId": "AD32282896443AF786AE1A822371CBC705195928",
+          "Checksum": "4B334B42",
+          "Offset": 0,
+          "CompressedSize": 115808,
+          "UncompressedSize": 485599
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/pl.pak",
+      "Size": 546228,
+      "Hash": "CDBC9040F088D3F63353CFA7EDC0434DF399B188",
+      "Chunks": [
+        {
+          "ChunkId": "CDBC9040F088D3F63353CFA7EDC0434DF399B188",
+          "Checksum": "8F649022",
+          "Offset": 0,
+          "CompressedSize": 127968,
+          "UncompressedSize": 546228
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/pt-BR.pak",
+      "Size": 511688,
+      "Hash": "9541A0ED5A2A4C97522A987C07FBA7DEC30E7534",
+      "Chunks": [
+        {
+          "ChunkId": "9541A0ED5A2A4C97522A987C07FBA7DEC30E7534",
+          "Checksum": "738F4BDA",
+          "Offset": 0,
+          "CompressedSize": 117808,
+          "UncompressedSize": 511688
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/pt-PT.pak",
+      "Size": 513383,
+      "Hash": "1F5E11AC3D110FAFDA8905A3CB0F64EE3DDA5921",
+      "Chunks": [
+        {
+          "ChunkId": "1F5E11AC3D110FAFDA8905A3CB0F64EE3DDA5921",
+          "Checksum": "D5667E8D",
+          "Offset": 0,
+          "CompressedSize": 116576,
+          "UncompressedSize": 513383
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ro.pak",
+      "Size": 532032,
+      "Hash": "FDDCA118009A9E238CF799A9C3E85B8A0496AB16",
+      "Chunks": [
+        {
+          "ChunkId": "FDDCA118009A9E238CF799A9C3E85B8A0496AB16",
+          "Checksum": "C58AD7F3",
+          "Offset": 0,
+          "CompressedSize": 119680,
+          "UncompressedSize": 532032
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ru.pak",
+      "Size": 874082,
+      "Hash": "7A0F7600C34D5D4DB961D5737EF4BB646EBDEA0C",
+      "Chunks": [
+        {
+          "ChunkId": "7A0F7600C34D5D4DB961D5737EF4BB646EBDEA0C",
+          "Checksum": "C4EC4CF0",
+          "Offset": 0,
+          "CompressedSize": 135568,
+          "UncompressedSize": 874082
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/sk.pak",
+      "Size": 549760,
+      "Hash": "BEC14596879767834FDF974DD67C413C4E71DE78",
+      "Chunks": [
+        {
+          "ChunkId": "BEC14596879767834FDF974DD67C413C4E71DE78",
+          "Checksum": "3B490797",
+          "Offset": 0,
+          "CompressedSize": 129808,
+          "UncompressedSize": 549760
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/sl.pak",
+      "Size": 528839,
+      "Hash": "2F99FB86B033610B66CABC3E4B4DB8F68348C504",
+      "Chunks": [
+        {
+          "ChunkId": "2F99FB86B033610B66CABC3E4B4DB8F68348C504",
+          "Checksum": "BE98DA31",
+          "Offset": 0,
+          "CompressedSize": 122864,
+          "UncompressedSize": 528839
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/sr.pak",
+      "Size": 811643,
+      "Hash": "7FFEE432A5B8C23E58C13B1A98277B2114589AE5",
+      "Chunks": [
+        {
+          "ChunkId": "7FFEE432A5B8C23E58C13B1A98277B2114589AE5",
+          "Checksum": "518F07FD",
+          "Offset": 0,
+          "CompressedSize": 129648,
+          "UncompressedSize": 811643
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/sv.pak",
+      "Size": 474842,
+      "Hash": "0597B6E607A366E7F4820F9EE7C8532DF4BE4E94",
+      "Chunks": [
+        {
+          "ChunkId": "0597B6E607A366E7F4820F9EE7C8532DF4BE4E94",
+          "Checksum": "8178DF78",
+          "Offset": 0,
+          "CompressedSize": 113168,
+          "UncompressedSize": 474842
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/sw.pak",
+      "Size": 498985,
+      "Hash": "9584213D59CB67F46DD0DA8B6A51CDDDF1A74504",
+      "Chunks": [
+        {
+          "ChunkId": "9584213D59CB67F46DD0DA8B6A51CDDDF1A74504",
+          "Checksum": "E4FB8125",
+          "Offset": 0,
+          "CompressedSize": 115808,
+          "UncompressedSize": 498985
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ta.pak",
+      "Size": 1283232,
+      "Hash": "F3936298B77B07C34D2565B61F42BECC446CD2A1",
+      "Chunks": [
+        {
+          "ChunkId": "4CA02C2999279243F0D2E586D52BA5B375DF4018",
+          "Checksum": "0E21D3E9",
+          "Offset": 1048576,
+          "CompressedSize": 27456,
+          "UncompressedSize": 234656
+        },
+        {
+          "ChunkId": "CBCCF64A5A54559287DE6F938455832D23685488",
+          "Checksum": "0CE5AFBC",
+          "Offset": 0,
+          "CompressedSize": 112208,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/te.pak",
+      "Size": 1185717,
+      "Hash": "7205DAF1B1ADD062B784ECD74A4F6EFEE6FF13B3",
+      "Chunks": [
+        {
+          "ChunkId": "0AC73BF5BA0DB75ADD614FFA9AEBDF1D1E0E58B4",
+          "Checksum": "41B43644",
+          "Offset": 1048576,
+          "CompressedSize": 19056,
+          "UncompressedSize": 137141
+        },
+        {
+          "ChunkId": "BCDAB03561CFB2E71102505CAF5458789B839945",
+          "Checksum": "AFD43DA7",
+          "Offset": 0,
+          "CompressedSize": 120800,
+          "UncompressedSize": 1048576
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/th.pak",
+      "Size": 999193,
+      "Hash": "462A35CA1B07D3C09BB02DFDF07A656263D18AC8",
+      "Chunks": [
+        {
+          "ChunkId": "462A35CA1B07D3C09BB02DFDF07A656263D18AC8",
+          "Checksum": "41AEC2DC",
+          "Offset": 0,
+          "CompressedSize": 119200,
+          "UncompressedSize": 999193
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/tr.pak",
+      "Size": 509180,
+      "Hash": "AED6254238CE8867B147522B6DF1E3FC037948FE",
+      "Chunks": [
+        {
+          "ChunkId": "AED6254238CE8867B147522B6DF1E3FC037948FE",
+          "Checksum": "E625AB4F",
+          "Offset": 0,
+          "CompressedSize": 117376,
+          "UncompressedSize": 509180
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/uk.pak",
+      "Size": 871237,
+      "Hash": "ED24DA4A09328040375DE19B9DA60B4333357A7F",
+      "Chunks": [
+        {
+          "ChunkId": "ED24DA4A09328040375DE19B9DA60B4333357A7F",
+          "Checksum": "2357C446",
+          "Offset": 0,
+          "CompressedSize": 134016,
+          "UncompressedSize": 871237
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/ur.pak",
+      "Size": 756714,
+      "Hash": "BC7E8EE54F95536018893BEAC2952CF6ED881E04",
+      "Chunks": [
+        {
+          "ChunkId": "BC7E8EE54F95536018893BEAC2952CF6ED881E04",
+          "Checksum": "524D83B1",
+          "Offset": 0,
+          "CompressedSize": 125792,
+          "UncompressedSize": 756714
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/vi.pak",
+      "Size": 602677,
+      "Hash": "346EC07335128558A643C45773E97809CAB97432",
+      "Chunks": [
+        {
+          "ChunkId": "346EC07335128558A643C45773E97809CAB97432",
+          "Checksum": "F46AE8E5",
+          "Offset": 0,
+          "CompressedSize": 116896,
+          "UncompressedSize": 602677
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/zh-CN.pak",
+      "Size": 436214,
+      "Hash": "C31F30F01873585C7C360B96FABC3F730B1A77FC",
+      "Chunks": [
+        {
+          "ChunkId": "C31F30F01873585C7C360B96FABC3F730B1A77FC",
+          "Checksum": "761AA21E",
+          "Offset": 0,
+          "CompressedSize": 108784,
+          "UncompressedSize": 436214
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/runtimes/win-x86/native/locales/zh-TW.pak",
+      "Size": 434590,
+      "Hash": "24E013D0B1C718EC4C92E05CDF65C7B6E8CCCB7D",
+      "Chunks": [
+        {
+          "ChunkId": "24E013D0B1C718EC4C92E05CDF65C7B6E8CCCB7D",
+          "Checksum": "4BC8CEE5",
+          "Offset": 0,
+          "CompressedSize": 107712,
+          "UncompressedSize": 434590
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/SDL2.dll",
+      "Size": 1334272,
+      "Hash": "FA4B2AC4F36251984AADE8479A93C4AC527D43E6",
+      "Chunks": [
+        {
+          "ChunkId": "00BC1BDC2455E129FFF89E1A913C54E7A9125211",
+          "Checksum": "81DEF40C",
+          "Offset": 0,
+          "CompressedSize": 336064,
+          "UncompressedSize": 1048576
+        },
+        {
+          "ChunkId": "8E5675E28D4F34A00663754E959F8B3AFE4C7B0B",
+          "Checksum": "F2A1DCD7",
+          "Offset": 1048576,
+          "CompressedSize": 70928,
+          "UncompressedSize": 285696
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/SDL2Binding.dll",
+      "Size": 48640,
+      "Hash": "418E66D5D1742BC35FA4661F8CB412B1ADFCB702",
+      "Chunks": [
+        {
+          "ChunkId": "418E66D5D1742BC35FA4661F8CB412B1ADFCB702",
+          "Checksum": "499817E4",
+          "Offset": 0,
+          "CompressedSize": 14544,
+          "UncompressedSize": 48640
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/Shared.dll",
+      "Size": 659968,
+      "Hash": "295F89117F3419CA5DF61E0BEE5BE6D672BF7C84",
+      "Chunks": [
+        {
+          "ChunkId": "295F89117F3419CA5DF61E0BEE5BE6D672BF7C84",
+          "Checksum": "9A76428B",
+          "Offset": 0,
+          "CompressedSize": 240992,
+          "UncompressedSize": 659968
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/Steamworks.NET.dll",
+      "Size": 375296,
+      "Hash": "0639DB71080BAEB528AD387CAAA4DFF64D0F5DF0",
+      "Chunks": [
+        {
+          "ChunkId": "0639DB71080BAEB528AD387CAAA4DFF64D0F5DF0",
+          "Checksum": "216AF193",
+          "Offset": 0,
+          "CompressedSize": 85136,
+          "UncompressedSize": 375296
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/steam_api64.dll",
+      "Size": 295336,
+      "Hash": "B13F17561A9A0671BEFBEBF0AAE7B51BCC0072DF",
+      "Chunks": [
+        {
+          "ChunkId": "B13F17561A9A0671BEFBEBF0AAE7B51BCC0072DF",
+          "Checksum": "1553B5B3",
+          "Offset": 0,
+          "CompressedSize": 116272,
+          "UncompressedSize": 295336
+        }
+      ]
+    },
+    {
+      "Path": "Launcher/WpfAnimatedGif.dll",
+      "Size": 43008,
+      "Hash": "3FDFC27D65D4C271F40AF0BEBC88B894DE83B2F8",
+      "Chunks": [
+        {
+          "ChunkId": "3FDFC27D65D4C271F40AF0BEBC88B894DE83B2F8",
+          "Checksum": "257555D7",
+          "Offset": 0,
+          "CompressedSize": 16576,
+          "UncompressedSize": 43008
+        }
+      ]
+    }
+  ],
+  "DepotId": 1419653,
+  "CreationTime": "2025-04-01T22:45:13+00:00",
+  "TotalCompressedSize": 109570752,
+  "TotalUncompressedSize": 388135304
+}
