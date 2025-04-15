@@ -52,8 +52,8 @@ jobs:
         run: |
           git fetch origin
           git status
-          git add json/**/*.json json/*.json
-          git status --short json/**/*.json json/*.json > changed_files.txt
+          git add json/
+          git status --short json/ > changed_files.txt
       
           echo "New files:" > report.txt
           grep '^??' changed_files.txt | awk '{print $2}' >> report.txt
@@ -63,7 +63,6 @@ jobs:
       
           cat report.txt
       
-          # Check if changed_files.txt is not empty (i.e., there are changes)
           if [ -s changed_files.txt ]; then
             echo "changed=true" >> $GITHUB_OUTPUT
           else
