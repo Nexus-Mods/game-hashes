@@ -8,10 +8,10 @@ jobs:
     strategy:
       matrix:
         cmd: 
-          - steam app index -a 413150 # Steam - Stardew Valley 
-          - steam app index -a 1091500 # Steam - Cyberpunk 2077
+          #- steam app index -a 413150 # Steam - Stardew Valley 
+          #- steam app index -a 1091500 # Steam - Cyberpunk 2077
           - steam app index -a 2138330 # Steam - Cyberpunk 2077 - Phantom Liberty
-          - steam app index -a 1086940 # Steam = Baldurs Gate 3
+          #- steam app index -a 1086940 # Steam = Baldurs Gate 3
         
   
     runs-on: self-hosted
@@ -53,7 +53,7 @@ jobs:
           git fetch origin
           git status
           git add json/**/*.json json/*.json
-          git status --short json/*.json > changed_files.txt
+          git status --short json/**/*.json json/*.json > changed_files.txt
       
           echo "New files:" > report.txt
           grep '^??' changed_files.txt | awk '{print $2}' >> report.txt
@@ -62,6 +62,13 @@ jobs:
           grep '^ M' changed_files.txt | awk '{print $2}' >> report.txt
       
           cat report.txt
+      
+          # Check if changed_files.txt is not empty (i.e., there are changes)
+          if [ -s changed_files.txt ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
           
       - name: Generate unique branch name
         if: steps.check-json.outputs.changed == 'true'
