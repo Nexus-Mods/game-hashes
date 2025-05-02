@@ -1,0 +1,35 @@
+{
+  "ManifestId": 17875152607970122,
+  "Files": [
+    {
+      "Path": "Data",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Data/Localization",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Data/Localization/language.lsx",
+      "Size": 573,
+      "Hash": "5912658360A24C9E44F4E0F5E43E6ECB409A7CA6",
+      "Chunks": [
+        {
+          "ChunkId": "5912658360A24C9E44F4E0F5E43E6ECB409A7CA6",
+          "Checksum": "9292E118",
+          "Offset": 0,
+          "CompressedSize": 304,
+          "UncompressedSize": 573
+        }
+      ]
+    }
+  ],
+  "DepotId": 1086942,
+  "CreationTime": "2020-09-10T10:06:04+00:00",
+  "TotalCompressedSize": 304,
+  "TotalUncompressedSize": 573
+}

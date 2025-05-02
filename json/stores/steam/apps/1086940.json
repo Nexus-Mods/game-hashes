@@ -1,5 +1,5 @@
 {
-  "ChangeNumber": 28493998,
+  "ChangeNumber": 28785630,
   "AppId": 1086940,
   "Depots": [
     {
@@ -9,9 +9,9 @@
       "DepotId": 1086941,
       "Manifests": {
         "public": {
-          "ManifestId": 769633398849801734,
-          "Size": 154486652060,
-          "DownloadSize": 127319396912
+          "ManifestId": 2181577534498285727,
+          "Size": 154736806513,
+          "DownloadSize": 127391894672
         },
         "release_patch6_hf9": {
           "ManifestId": 4016443084035836922,
@@ -55,9 +55,9 @@
       "DepotId": 1086943,
       "Manifests": {
         "public": {
-          "ManifestId": 2162431862046349348,
-          "Size": 16028009,
-          "DownloadSize": 13885152
+          "ManifestId": 4889803550809846409,
+          "Size": 16028327,
+          "DownloadSize": 13885456
         },
         "release_patch6_hf9": {
           "ManifestId": 8704250069811909913,
@@ -78,9 +78,9 @@
       "DepotId": 1086944,
       "Manifests": {
         "public": {
-          "ManifestId": 4930137335148397663,
-          "Size": 14501654,
-          "DownloadSize": 12558144
+          "ManifestId": 4181705701932854455,
+          "Size": 14501911,
+          "DownloadSize": 12558112
         },
         "release_patch6_hf9": {
           "ManifestId": 3292885662645325731,
@@ -101,9 +101,9 @@
       "DepotId": 1086945,
       "Manifests": {
         "public": {
-          "ManifestId": 1794511063412668336,
-          "Size": 15733608,
-          "DownloadSize": 13630736
+          "ManifestId": 1942378956695744551,
+          "Size": 15733928,
+          "DownloadSize": 13631136
         },
         "release_patch6_hf9": {
           "ManifestId": 8237530545437607331,
@@ -124,9 +124,9 @@
       "DepotId": 1086946,
       "Manifests": {
         "public": {
-          "ManifestId": 7663758842464813410,
-          "Size": 17066096,
-          "DownloadSize": 14885456
+          "ManifestId": 4474577245367400854,
+          "Size": 17066479,
+          "DownloadSize": 14886016
         },
         "release_patch6_hf9": {
           "ManifestId": 5080467222606749123,
@@ -147,9 +147,9 @@
       "DepotId": 1086947,
       "Manifests": {
         "public": {
-          "ManifestId": 281359422046886183,
-          "Size": 24486778,
-          "DownloadSize": 21478768
+          "ManifestId": 2522343036024346539,
+          "Size": 24487034,
+          "DownloadSize": 21479136
         },
         "release_patch6_hf9": {
           "ManifestId": 8260264646733091175,
@@ -170,9 +170,9 @@
       "DepotId": 1086948,
       "Manifests": {
         "public": {
-          "ManifestId": 3314845888094443271,
-          "Size": 32955537,
-          "DownloadSize": 28705792
+          "ManifestId": 6969678611584230679,
+          "Size": 32955858,
+          "DownloadSize": 28706528
         },
         "release_patch6_hf9": {
           "ManifestId": 9059714744390918940,
@@ -193,9 +193,9 @@
       "DepotId": 1086949,
       "Manifests": {
         "public": {
-          "ManifestId": 202995941488814103,
-          "Size": 14629531,
-          "DownloadSize": 12605152
+          "ManifestId": 8816652172744974592,
+          "Size": 14629851,
+          "DownloadSize": 12605520
         },
         "release_patch6_hf9": {
           "ManifestId": 8465180551353127518,
@@ -216,9 +216,9 @@
       "DepotId": 1419660,
       "Manifests": {
         "public": {
-          "ManifestId": 470707593036074791,
-          "Size": 156492570315,
-          "DownloadSize": 128625591696
+          "ManifestId": 408613120489447413,
+          "Size": 156492817195,
+          "DownloadSize": 128625670688
         },
         "release_patch6_hf9": {
           "ManifestId": 8019419030609893988,
@@ -400,9 +400,9 @@
       "DepotId": 1419650,
       "Manifests": {
         "public": {
-          "ManifestId": 1315473531902051262,
-          "Size": 15510565,
-          "DownloadSize": 13365024
+          "ManifestId": 8369092751169841214,
+          "Size": 15510885,
+          "DownloadSize": 13365520
         },
         "release_patch6_hf9": {
           "ManifestId": 8372184514980148361,
@@ -423,9 +423,9 @@
       "DepotId": 1419651,
       "Manifests": {
         "public": {
-          "ManifestId": 8636577881270988558,
-          "Size": 13751489,
-          "DownloadSize": 11904720
+          "ManifestId": 5372619844795076313,
+          "Size": 13751809,
+          "DownloadSize": 11905168
         },
         "release_patch6_hf9": {
           "ManifestId": 6120897092515926605,
@@ -446,9 +446,9 @@
       "DepotId": 1419652,
       "Manifests": {
         "public": {
-          "ManifestId": 3296848716230631620,
-          "Size": 241507445,
-          "DownloadSize": 67762832
+          "ManifestId": 4885727757905597040,
+          "Size": 241644654,
+          "DownloadSize": 67770688
         },
         "release_patch6_hf9": {
           "ManifestId": 6054390892227846984,
@@ -469,9 +469,9 @@
       "DepotId": 1419653,
       "Manifests": {
         "public": {
-          "ManifestId": 575880542738975575,
-          "Size": 388135304,
-          "DownloadSize": 109570752
+          "ManifestId": 3882764264645096310,
+          "Size": 388135816,
+          "DownloadSize": 109570576
         },
         "release_patch6_hf9": {
           "ManifestId": 5004287504333497038,
@@ -515,9 +515,9 @@
       "DepotId": 1419658,
       "Manifests": {
         "public": {
-          "ManifestId": 4437190728368898088,
-          "Size": 14296075,
-          "DownloadSize": 12339264
+          "ManifestId": 8495313269501964155,
+          "Size": 14296395,
+          "DownloadSize": 12339568
         },
         "release_patch6_hf9": {
           "ManifestId": 4835577404029430904,
@@ -538,9 +538,9 @@
       "DepotId": 1419668,
       "Manifests": {
         "public": {
-          "ManifestId": 7974265286609216212,
-          "Size": 21137207,
-          "DownloadSize": 18493952
+          "ManifestId": 1772157614040514210,
+          "Size": 21137463,
+          "DownloadSize": 18494176
         },
         "release_patch6_hf9": {
           "ManifestId": 7928402143006248738,
@@ -561,9 +561,9 @@
       "DepotId": 1419669,
       "Manifests": {
         "public": {
-          "ManifestId": 781501818228068420,
-          "Size": 20452253,
-          "DownloadSize": 17854128
+          "ManifestId": 5575688310465468347,
+          "Size": 20452509,
+          "DownloadSize": 17854896
         },
         "release_patch6_hf9": {
           "ManifestId": 5988027054563412068,
@@ -607,9 +607,9 @@
       "DepotId": 2330350,
       "Manifests": {
         "public": {
-          "ManifestId": 5969152992298117383,
-          "Size": 16272798,
-          "DownloadSize": 14145440
+          "ManifestId": 29509579498535759,
+          "Size": 16272160,
+          "DownloadSize": 14141312
         },
         "release_patch6_hf9": {
           "ManifestId": 7410969271902313996,
@@ -630,9 +630,9 @@
       "DepotId": 2330351,
       "Manifests": {
         "public": {
-          "ManifestId": 8235026200012353755,
-          "Size": 14578281,
-          "DownloadSize": 12553744
+          "ManifestId": 7945659166034059236,
+          "Size": 14578601,
+          "DownloadSize": 12554304
         },
         "release_patch6_hf9": {
           "ManifestId": 2538495863540404322,
