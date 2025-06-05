@@ -1,0 +1,224 @@
+[
+  {
+    "_id": "d8acbc846c704cfb1be0f3a6",
+    "fileHash": "cf2c7fe30375c2656b6631e39923282aa2139139",
+    "fileName": "r6/cache/tweakdb_ep1.bin",
+    "fileSize": 47568728
+  },
+  {
+    "_id": "c8d986e8ef1e219375373452",
+    "fileHash": "93285f3267114778e73b396d9e2d4a236d57697c",
+    "fileName": "archive/pc/ep1/audio_1_general.archive",
+    "fileSize": 8716288
+  },
+  {
+    "_id": "d8b1ec0d7fa42b5f2b71347e",
+    "fileHash": "058e9dae1978731fb3e21bf0a744c5b80a3d8fc3",
+    "fileName": "archive/pc/ep1/ep1.addcont_keystone",
+    "fileSize": 16
+  },
+  {
+    "_id": "5d6873ec27fd992a5748e5db",
+    "fileHash": "c38b1b5219e81ac3a2166636cebc5dce39fafd14",
+    "fileName": "archive/pc/ep1/ep1_1_nightcity.archive",
+    "fileSize": 6101340160
+  },
+  {
+    "_id": "f13a7bfdd1f271bac183e602",
+    "fileHash": "a8d508c7459dc16a05b1dc24ae1b431692ba3508",
+    "fileName": "archive/pc/ep1/ep1_1_nightcity_gi.archive",
+    "fileSize": 1491521536
+  },
+  {
+    "_id": "ba6531b98c94a45192e0699a",
+    "fileHash": "1eae884a8493f74ff764ff343b556f652d407f6b",
+    "fileName": "archive/pc/ep1/ep1_1_nightcity_terrain.archive",
+    "fileSize": 8175616
+  },
+  {
+    "_id": "bbe122fd232aac91a6501c34",
+    "fileHash": "5b096b3a1f4db0250968793509c7f27b9bfa072d",
+    "fileName": "archive/pc/ep1/ep1_2_gamedata.archive",
+    "fileSize": 15400673280
+  },
+  {
+    "_id": "4df0742088205a21f55ed21f",
+    "fileHash": "e84b997ad8314a034a6d278bf8eb54c8ebefe6d1",
+    "fileName": "archive/pc/ep1/lang_ar_text.archive",
+    "fileSize": 2523136
+  },
+  {
+    "_id": "78f082e9ad1a4345b0d3c08d",
+    "fileHash": "ba69c1e667adeafc6909d8f2727318457eac7064",
+    "fileName": "archive/pc/ep1/lang_cs_text.archive",
+    "fileSize": 2392064
+  },
+  {
+    "_id": "c150f0c2188da46967c8cc0c",
+    "fileHash": "4a49f6e426377e31434409a8d1e6f6554d807e06",
+    "fileName": "archive/pc/ep1/lang_de_text.archive",
+    "fileSize": 2338816
+  },
+  {
+    "_id": "90242cc40ff3bd2ded4cc154",
+    "fileHash": "901fad445a7058432174ea1eb858d19aee0cfc67",
+    "fileName": "archive/pc/ep1/lang_de_voice.archive",
+    "fileSize": 2025201664
+  },
+  {
+    "_id": "7f3c5430b6984ad462ca5509",
+    "fileHash": "73ca42bc241a3d01dfb55734c7249124a938ab6e",
+    "fileName": "archive/pc/ep1/lang_en_text.archive",
+    "fileSize": 2252800
+  },
+  {
+    "_id": "33af36ea6d81ff7d08acb388",
+    "fileHash": "51d301bef36719b5e40905fe15a881f3e648ba92",
+    "fileName": "archive/pc/ep1/lang_en_voice.archive",
+    "fileSize": 1642770432
+  },
+  {
+    "_id": "8c756bcf8dd85ffc2f2fb423",
+    "fileHash": "03df378a5db96fa36a7cb986ea4a5b5cd87495f6",
+    "fileName": "archive/pc/ep1/lang_es-es_text.archive",
+    "fileSize": 2301952
+  },
+  {
+    "_id": "9d20086db57135d49be5f177",
+    "fileHash": "0d218256730af5508589b345b78f34225c28fb8e",
+    "fileName": "archive/pc/ep1/lang_es-es_voice.archive",
+    "fileSize": 1770672128
+  },
+  {
+    "_id": "c65757709ca2b0c7896df7e2",
+    "fileHash": "c601784a219f98bbc0d743c9135769ea413d4eb7",
+    "fileName": "archive/pc/ep1/lang_es-mx_text.archive",
+    "fileSize": 2289664
+  },
+  {
+    "_id": "1704906cd21a777498a85ccf",
+    "fileHash": "b4f93c401b3ff807a52f6e2577ad00404dbc9553",
+    "fileName": "archive/pc/ep1/lang_fr_text.archive",
+    "fileSize": 2383872
+  },
+  {
+    "_id": "2849719126202936886ba033",
+    "fileHash": "7c38c21736923652923178c7372ffe8878d84343",
+    "fileName": "archive/pc/ep1/lang_fr_voice.archive",
+    "fileSize": 1690636288
+  },
+  {
+    "_id": "591f08e588e5a8c6ea521a6c",
+    "fileHash": "a2dec58b8e65a87acfc1703389be250a6c9fb4fa",
+    "fileName": "archive/pc/ep1/lang_hu_text.archive",
+    "fileSize": 2363392
+  },
+  {
+    "_id": "d35fca1ef866297d9838f410",
+    "fileHash": "4b168758fd0229a658bcceabb066666a0adc81d1",
+    "fileName": "archive/pc/ep1/lang_it_text.archive",
+    "fileSize": 2248704
+  },
+  {
+    "_id": "be5eb18a2e7fb0302d4c9758",
+    "fileHash": "6b4af6c9ca5b146df3ce3d426bff5596ec0c0aea",
+    "fileName": "archive/pc/ep1/lang_it_voice.archive",
+    "fileSize": 1706594304
+  },
+  {
+    "_id": "3bcce7d6dfefbc78b67c6748",
+    "fileHash": "71e1b45b6d1c1347a6c7af16b1012f074b71daa8",
+    "fileName": "archive/pc/ep1/lang_ja_text.archive",
+    "fileSize": 2383872
+  },
+  {
+    "_id": "094fcae4c0fb7b2f94470dee",
+    "fileHash": "84492a560db38955e0b6d5de8d7f921d915e23bf",
+    "fileName": "archive/pc/ep1/lang_ja_voice.archive",
+    "fileSize": 1878884352
+  },
+  {
+    "_id": "ccce01ebecd4b10d8c11b86d",
+    "fileHash": "d19831af6cdca9a348864c96ed3e48e41b27f32d",
+    "fileName": "archive/pc/ep1/lang_ko_text.archive",
+    "fileSize": 2318336
+  },
+  {
+    "_id": "cf2c9ed890cabae20839a793",
+    "fileHash": "03e682c17f52059af3d8c3042239560047ee694b",
+    "fileName": "archive/pc/ep1/lang_ko_voice.archive",
+    "fileSize": 1636634624
+  },
+  {
+    "_id": "a0a1a4d9c3abf5a97982c1d0",
+    "fileHash": "6c1bc058b19a6a776e6c36253a01209cfb1c525f",
+    "fileName": "archive/pc/ep1/lang_pl_text.archive",
+    "fileSize": 2306048
+  },
+  {
+    "_id": "b57b64355e6f86ae0dd87405",
+    "fileHash": "590da63e4a65693d9ac41537d198147351f7564d",
+    "fileName": "archive/pc/ep1/lang_pl_voice.archive",
+    "fileSize": 1761579008
+  },
+  {
+    "_id": "3109fd9a82e74c8cda57087f",
+    "fileHash": "b0d737b444ff2f078f977c638a5b07546c09603b",
+    "fileName": "archive/pc/ep1/lang_pt_text.archive",
+    "fileSize": 2293760
+  },
+  {
+    "_id": "5fe27864420b8b167ab0b83e",
+    "fileHash": "9cc59f8dffa34f2212f575ed8d878b06ebb7fe06",
+    "fileName": "archive/pc/ep1/lang_pt_voice.archive",
+    "fileSize": 1794711552
+  },
+  {
+    "_id": "934da096fff300b14afbd740",
+    "fileHash": "222b98890b9fba2def522449a6d88bf21f089648",
+    "fileName": "archive/pc/ep1/lang_ru_text.archive",
+    "fileSize": 2494464
+  },
+  {
+    "_id": "f24a2f6cc7434d9789c8ab86",
+    "fileHash": "752e295ccf0a191726a0a4e056852f66e16eb472",
+    "fileName": "archive/pc/ep1/lang_ru_voice.archive",
+    "fileSize": 1589665792
+  },
+  {
+    "_id": "185928dcbcc7c95cc38dc538",
+    "fileHash": "661070011e4b9a707df022f89fbab9fc62d70e71",
+    "fileName": "archive/pc/ep1/lang_th_text.archive",
+    "fileSize": 2588672
+  },
+  {
+    "_id": "e91ec9acc9d93faccdc12166",
+    "fileHash": "9556b26728240eba699390045cab9db1e1ec12ea",
+    "fileName": "archive/pc/ep1/lang_tr_text.archive",
+    "fileSize": 2281472
+  },
+  {
+    "_id": "a60658395fd16494c5f2f2ea",
+    "fileHash": "af01f7fbc3ff9f692c03e526794af6a202b802d2",
+    "fileName": "archive/pc/ep1/lang_ua_text.archive",
+    "fileSize": 2551808
+  },
+  {
+    "_id": "cde3eb4aa5f3665e7157f12d",
+    "fileHash": "d6fe83c5ac9a35cc0fb428857a3b2930bfc5763c",
+    "fileName": "archive/pc/ep1/lang_zh-cn_text.archive",
+    "fileSize": 2297856
+  },
+  {
+    "_id": "88032e05f129c01302c8b72f",
+    "fileHash": "1d8f31260324cb0528f4bd89c18e718fbcb13b1b",
+    "fileName": "archive/pc/ep1/lang_zh-cn_voice.archive",
+    "fileSize": 1846870016
+  },
+  {
+    "_id": "f2f30088753c5d27add0341e",
+    "fileHash": "b3a11b5990026736073af2fdd09b18eb9d47864c",
+    "fileName": "archive/pc/ep1/lang_zh-tw_text.archive",
+    "fileSize": 2277376
+  }
+]
