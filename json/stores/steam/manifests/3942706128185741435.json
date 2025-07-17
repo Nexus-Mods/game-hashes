@@ -8,19 +8,19 @@
       "Chunks": []
     },
     {
-      "Path": "archive\\pc",
+      "Path": "archive/pc",
       "Size": 0,
       "Hash": "0000000000000000000000000000000000000000",
       "Chunks": []
     },
     {
-      "Path": "archive\\pc\\content",
+      "Path": "archive/pc/content",
       "Size": 0,
       "Hash": "0000000000000000000000000000000000000000",
       "Chunks": []
     },
     {
-      "Path": "archive\\pc\\content\\lang_fr_voice.archive",
+      "Path": "archive/pc/content/lang_fr_voice.archive",
       "Size": 5033385984,
       "Hash": "0968620446DF9C9741DC78DA73AC1A7C5AA8342E",
       "Chunks": [
