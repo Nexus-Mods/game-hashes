@@ -1,0 +1,427 @@
+[
+  {
+    "_id": "de215fefa215cc6fe2834f0c",
+    "fileHash": "7f3cdbe9b68d13a15c87ac47856bf267568fb3d9",
+    "fileName": "engine/shadermetal_final.cache\u0000"
+  },
+  {
+    "_id": "aa8155d7c8214bf51924ee61",
+    "fileHash": "626c39efced8efd9c19b5b365f8f8c6e8072e7ff",
+    "fileName": "engine/staticshadermetal_final.cache\u0000"
+  },
+  {
+    "_id": "87b8a8810445d7b76ad917eb",
+    "fileHash": "6b37545edcbd95b874cb801fc3ed6e5ba4d9766b",
+    "fileName": "engine/staticshadermetalnative.cache\u0000"
+  },
+  {
+    "_id": "940fdd0baa8b7f248b48ec48",
+    "fileHash": "6b37545edcbd95b874cb801fc3ed6e5ba4d9766b",
+    "fileName": "engine/staticshadermetalnative_final.cache\u0000"
+  },
+  {
+    "_id": "4e4202804608fc823f42a48c",
+    "fileHash": "a986bad6dd9539cc72245a1fff27b3326d529568",
+    "fileName": "engine/staticshadermsl.metallib\u0000"
+  },
+  {
+    "_id": "d223149134047a3f6473c73f",
+    "fileHash": "423457ae2c924813425f5b3d8950ad8df5ed3e82",
+    "fileName": "Cyberpunk2077.app/Contents/CodeResources\u0000"
+  },
+  {
+    "_id": "9bdedf42410f9ec6d57aaac6",
+    "fileHash": "97648dba2297eaa1f29a69aec51f24fc354d0a7a",
+    "fileName": "Cyberpunk2077.app/Contents/Info.plist\u0000"
+  },
+  {
+    "_id": "2b7cf8b7fbc843c6a17de2ea",
+    "fileHash": "9f9eea0cfe2d65f2c3d6b092e375b40782d08f31",
+    "fileName": "Cyberpunk2077.app/Contents/PkgInfo\u0000"
+  },
+  {
+    "_id": "c027725e7c3a87cd4a932d6a",
+    "fileHash": "9349fffa06398c3a369891602838c74c50c4df11",
+    "fileName": "Cyberpunk2077.app/Contents/embedded.provisionprofile\u0000"
+  },
+  {
+    "_id": "342d557e2d92e1d6e528250c",
+    "fileHash": "50eb4be56bb702df0ff3bdd019df1a4acb33b4aa",
+    "fileName": "engine/config/giweights.json\u0000"
+  },
+  {
+    "_id": "9c651a911fadb0e7897074f0",
+    "fileHash": "d9baddb645ae9b783dbeee86b6409329f51f8b47",
+    "fileName": "r6/cache/final.redscripts\u0000"
+  },
+  {
+    "_id": "9517b8188a16e1a4eed86eff",
+    "fileHash": "a074586aca9a18eeba3c1f98da2c16328650f5ea",
+    "fileName": "r6/cache/tweakdb.bin\u0000"
+  },
+  {
+    "_id": "2a16bfbf5d0adbdb6a891918",
+    "fileHash": "7ce74543791b81dee4bee8d986708cae9ed89dd7",
+    "fileName": "r6/config/bumpersSettings.json\u0000"
+  },
+  {
+    "_id": "99146faf4350f1b3bb3fb2bb",
+    "fileHash": "72acfecf959dec4ec7adc1d869dc9d6682c34e1c",
+    "fileName": "r6/config/inputContexts.xml\u0000"
+  },
+  {
+    "_id": "81b75a120288547664acabfe",
+    "fileHash": "09d4c17f1b8971a11bb258cdae888dadbac7f048",
+    "fileName": "r6/config/inputContexts_mac.xml\u0000"
+  },
+  {
+    "_id": "ed646a41f91556cd78264c4b",
+    "fileHash": "0014c1cd5e68c55abf6e24047b7c5e867ad2fa71",
+    "fileName": "r6/config/inputDeadzones.xml\u0000"
+  },
+  {
+    "_id": "e986d0081f45fd957a43186d",
+    "fileHash": "dabbe3e0a60671dbfd5bda1871d58a175ada696a",
+    "fileName": "r6/config/inputUserMappings.xml\u0000"
+  },
+  {
+    "_id": "c1669f9d5bf45834cdd002bd",
+    "fileHash": "5794d702fcd4c61d1874711ae51a385d2b27100a",
+    "fileName": "r6/config/uiInputActions.xml\u0000"
+  },
+  {
+    "_id": "a357b6c10e381b6bc92acf3b",
+    "fileHash": "6eebbdf35993c3d4b24fe2805d2288d03f3776d8",
+    "fileName": "Cyberpunk2077.app/Contents/Frameworks/libBink2MacArm64.dylib\u0000"
+  },
+  {
+    "_id": "70228162763d30fcc625e908",
+    "fileHash": "c417080e5458ad4ce31cfa784fff1ea7f594bdd1",
+    "fileName": "Cyberpunk2077.app/Contents/Frameworks/libEOSSDK-Mac-Shipping.dylib\u0000"
+  },
+  {
+    "_id": "ab2077f6ed18bba6d6498bf6",
+    "fileHash": "204bec51064e23ec429e3d49e93f52cbcc49ce47",
+    "fileName": "Cyberpunk2077.app/Contents/Frameworks/libGameServicesEpic.dylib\u0000"
+  },
+  {
+    "_id": "c4f57ad8bbc2da89cad33f73",
+    "fileHash": "8d6bb78e75e6f0c6f7404693d66ce6b91e793943",
+    "fileName": "Cyberpunk2077.app/Contents/Frameworks/libREDGalaxy64.dylib\u0000"
+  },
+  {
+    "_id": "a47633e395f152282febc62c",
+    "fileHash": "838adbb008978d6f81c18f274089bd3ce7771f8e",
+    "fileName": "Cyberpunk2077.app/Contents/MacOS/Cyberpunk2077\u0000"
+  },
+  {
+    "_id": "9e3d0ef685bbb03585adca55",
+    "fileHash": "02f50534f8d156dfa76df373dcf5a16a08997cd9",
+    "fileName": "Cyberpunk2077.app/Contents/Resources/AppIcon.icns\u0000"
+  },
+  {
+    "_id": "e598228828ba4eb6d3f1f604",
+    "fileHash": "37e332684fc4c79a74c77d55e4d14e3d459d9d99",
+    "fileName": "Cyberpunk2077.app/Contents/Resources/Assets.car\u0000"
+  },
+  {
+    "_id": "6cfcb10d838cd808710fa275",
+    "fileHash": "ab3f924b94c3f06cf8d8acd79a50a1fef721f5b0",
+    "fileName": "Cyberpunk2077.app/Contents/_CodeSignature/CodeResources\u0000"
+  },
+  {
+    "_id": "a259568c9a71a7e2a0c57793",
+    "fileHash": "ad88fee3ccbaf7f281d6580637434b78a14b83eb",
+    "fileName": "archive/Mac/content/audio_1_general.archive\u0000",
+    "fileSize": 198008832
+  },
+  {
+    "_id": "916175bf6309024499b9ff4d",
+    "fileHash": "284c9596617a871400b7416f516407b6f003a2e6",
+    "fileName": "archive/Mac/content/audio_2_soundbanks.archive\u0000",
+    "fileSize": 8828301312
+  },
+  {
+    "_id": "c6679535b0e7d2aaa2cf9829",
+    "fileHash": "0f8c491c3ab49298a6dc8eb75ce63d6bdb76f96d",
+    "fileName": "archive/Mac/content/basegame_1_engine.archive\u0000",
+    "fileSize": 1677709312
+  },
+  {
+    "_id": "e62cd158e4eee8b6fa47f927",
+    "fileHash": "15503bcd4f343366960fc4dce35d9b0bb0d94fa3",
+    "fileName": "archive/Mac/content/basegame_2_mainmenu.archive\u0000",
+    "fileSize": 327680
+  },
+  {
+    "_id": "e82c309e47240d5be58b4ad0",
+    "fileHash": "596a75cb54faa8eb88b06c6854c7766c5fb159c0",
+    "fileName": "archive/Mac/content/basegame_3_nightcity.archive\u0000",
+    "fileSize": 8944336896
+  },
+  {
+    "_id": "ca6c0cd13241a410e6fc7cb4",
+    "fileHash": "e3cc9bfd463b0b649c8463404762620783c1c11a",
+    "fileName": "archive/Mac/content/basegame_3_nightcity_gi.archive\u0000"
+  },
+  {
+    "_id": "256cdaefc9c0a2ca06cf52b9",
+    "fileHash": "95e53d444350e61830ab29a5607a127db8c65559",
+    "fileName": "archive/Mac/content/basegame_3_nightcity_terrain.archive\u0000"
+  },
+  {
+    "_id": "d2c8a5c4ca46e337d50cd590",
+    "fileHash": "49d6d28a30872c1a9a6af5ee61f48b3c0e2e1f74",
+    "fileName": "archive/Mac/content/basegame_4_animation.archive\u0000"
+  },
+  {
+    "_id": "1340e155b2ead2ac9409af65",
+    "fileHash": "19e9db165912315fc52a9fa52f3b2c446f2c780b",
+    "fileName": "archive/Mac/content/basegame_4_appearance.archive\u0000"
+  },
+  {
+    "_id": "64e77643bc2d450a9435c169",
+    "fileHash": "e25cf5507bc158820826896a691e969de9557a9f",
+    "fileName": "archive/Mac/content/basegame_4_gamedata.archive\u0000"
+  },
+  {
+    "_id": "1bfc4ef8962bb9832f17cbbb",
+    "fileHash": "193ca5f2ca99cd83d426db4039379345cd9e6393",
+    "fileName": "archive/Mac/content/basegame_5_video.archive\u0000"
+  },
+  {
+    "_id": "038a4d56bc38cd1389b76f06",
+    "fileHash": "cbe7fb83bceab00d9c395bc84bf0d35b6a86afba",
+    "fileName": "archive/Mac/content/ep1.addcont_keystone\u0000"
+  },
+  {
+    "_id": "8752ba4ed22b5e5c3fa97956",
+    "fileHash": "109aeb049ff32863d470b1f9baa7d7dc1f0ea801",
+    "fileName": "archive/Mac/content/lang_ar_text.archive\u0000"
+  },
+  {
+    "_id": "46631247dac8f37761a2335b",
+    "fileHash": "d8da381a52c19c3855ff699103a040571d40a13c",
+    "fileName": "archive/Mac/content/lang_cs_text.archive\u0000"
+  },
+  {
+    "_id": "53d8c3aeef8f172f70d5d7a9",
+    "fileHash": "cbd72e716a5a1d063c80f4d3a36ede8933bf3601",
+    "fileName": "archive/Mac/content/lang_de_text.archive\u0000"
+  },
+  {
+    "_id": "33b6fb8d15c3132468510305",
+    "fileHash": "cb20602acbc696d07c8c45513431411aec68c6e9",
+    "fileName": "archive/Mac/content/lang_de_voice.archive\u0000"
+  },
+  {
+    "_id": "ccc27270d39d11985142c0c8",
+    "fileHash": "2ceec81b0019391dd62fffb6d0ad08dca927bff3",
+    "fileName": "archive/Mac/content/lang_en_text.archive\u0000"
+  },
+  {
+    "_id": "b681d45e6fb413920399b645",
+    "fileHash": "1cf30369013fbbd34c47d79de2271f2b1f3eda55",
+    "fileName": "archive/Mac/content/lang_en_voice.archive\u0000"
+  },
+  {
+    "_id": "7c5f55980a16eefa60a8b1e8",
+    "fileHash": "82c6d2818fadc696b2b776adba0839d92229c970",
+    "fileName": "archive/Mac/content/lang_es-es_text.archive\u0000"
+  },
+  {
+    "_id": "22fce6caf8d5857c385947a3",
+    "fileHash": "00dfa3e7a1683add2e3f047f0424bb016ff42088",
+    "fileName": "archive/Mac/content/lang_es-es_voice.archive\u0000"
+  },
+  {
+    "_id": "532fde777a9bffb2fd6be66e",
+    "fileHash": "f5a6b59301a772f0a4b92b9ab5335eb3845933a9",
+    "fileName": "archive/Mac/content/lang_es-mx_text.archive\u0000"
+  },
+  {
+    "_id": "0943be45e9b66d8d667ffe87",
+    "fileHash": "c60213ba82a9ed2e24b15b6f4b716e78c8ca0e43",
+    "fileName": "archive/Mac/content/lang_fr_text.archive\u0000"
+  },
+  {
+    "_id": "71d2f2d22bc9f6f2f17c7faa",
+    "fileHash": "90c53c1cdceb98d7d3ae0d8ed7edc049eee4cb6d",
+    "fileName": "archive/Mac/content/lang_fr_voice.archive\u0000"
+  },
+  {
+    "_id": "c1067758f466e9e2466d1e20",
+    "fileHash": "f326c09630d588b85bf1866b27f4527cc90af807",
+    "fileName": "archive/Mac/content/lang_hu_text.archive\u0000"
+  },
+  {
+    "_id": "fb42ffb08ca4b9509d1dfb69",
+    "fileHash": "6b74d4298c9d71f28b374eb5857ecb89448ad1c7",
+    "fileName": "archive/Mac/content/lang_it_text.archive\u0000"
+  },
+  {
+    "_id": "b6ede34a86ae4977e5a35e6d",
+    "fileHash": "3349d7cd15bb57c4d3c41bed96c7858da349bf14",
+    "fileName": "archive/Mac/content/lang_it_voice.archive\u0000"
+  },
+  {
+    "_id": "9715d1b64f6ff9b629753bd5",
+    "fileHash": "9fb806c75393e6b7d052ffe688f6ca2f33f85808",
+    "fileName": "archive/Mac/content/lang_ja_text.archive\u0000"
+  },
+  {
+    "_id": "1474077c8aedc5721883c324",
+    "fileHash": "42a6c8f3c787f6c96604d1c4613dbd74046f33a2",
+    "fileName": "archive/Mac/content/lang_ja_voice.archive\u0000"
+  },
+  {
+    "_id": "a252ed086655710957b34a15",
+    "fileHash": "b720a49f46cf157f9ea99c0d735820f3c0d7d126",
+    "fileName": "archive/Mac/content/lang_ko_text.archive\u0000"
+  },
+  {
+    "_id": "cb615a3a24b8825b34dcaa32",
+    "fileHash": "623a35f34b8c3c968ace812a8beb894dee2bf965",
+    "fileName": "archive/Mac/content/lang_ko_voice.archive\u0000"
+  },
+  {
+    "_id": "de0a0161568d7ffc8f2be8ed",
+    "fileHash": "74710c84cbc370aa587488de64aaf9f43b4788d9",
+    "fileName": "archive/Mac/content/lang_pl_text.archive\u0000"
+  },
+  {
+    "_id": "11f5a21f2a8aade8399d96ca",
+    "fileHash": "2bda7e943856a457389d2aab04ae2c403f61d6ac",
+    "fileName": "archive/Mac/content/lang_pl_voice.archive\u0000"
+  },
+  {
+    "_id": "370f85f6caae313bc85423a6",
+    "fileHash": "bd19da4718d6804387ccd283842f46c3ad66b2de",
+    "fileName": "archive/Mac/content/lang_pt_text.archive\u0000"
+  },
+  {
+    "_id": "7ee8071653c7afb42f42aaaa",
+    "fileHash": "42f6cf92525f4a74aac7b26c81ce7435f7571f24",
+    "fileName": "archive/Mac/content/lang_pt_voice.archive\u0000"
+  },
+  {
+    "_id": "add43ddfdaceaa9d0e8a8698",
+    "fileHash": "175b2607e0a862d8e9719f548d677d8ca7bb47dc",
+    "fileName": "archive/Mac/content/lang_ru_text.archive\u0000"
+  },
+  {
+    "_id": "c1de2071666b21b4e0a2bd43",
+    "fileHash": "7216a69505b017d450cdac8ce7573ec6440e00d0",
+    "fileName": "archive/Mac/content/lang_ru_voice.archive\u0000"
+  },
+  {
+    "_id": "c6957b93da6957668f183ea2",
+    "fileHash": "d554ba75810ae01c7ba4bd2f236a45fa042e4cda",
+    "fileName": "archive/Mac/content/lang_th_text.archive\u0000"
+  },
+  {
+    "_id": "8ff07c7f4e5b068296c841e6",
+    "fileHash": "a9e14933816a2a10d85a91bee5eec1d2d6dfe8ff",
+    "fileName": "archive/Mac/content/lang_tr_text.archive\u0000"
+  },
+  {
+    "_id": "ebf6ad380241856ebc3332e8",
+    "fileHash": "4f6bafaa16a14a115e4eb3aadbbb14da5f0e29a9",
+    "fileName": "archive/Mac/content/lang_ua_text.archive\u0000"
+  },
+  {
+    "_id": "60b2380518c586854df62c69",
+    "fileHash": "2ca83a86b46308293ed890a9fe58e2df2ead9097",
+    "fileName": "archive/Mac/content/lang_zh-cn_text.archive\u0000"
+  },
+  {
+    "_id": "06a46d8961c72a54af4cbdf1",
+    "fileHash": "abb331380d74e47cb74f249bbf8f93d2ab89d720",
+    "fileName": "archive/Mac/content/lang_zh-cn_voice.archive\u0000"
+  },
+  {
+    "_id": "7000c051878839319bad945e",
+    "fileHash": "9d5f1a3c9988bfef2da5a75b18d311f6256f2574",
+    "fileName": "archive/Mac/content/lang_zh-tw_text.archive\u0000"
+  },
+  {
+    "_id": "b3f41243e990f0385fdf0baa",
+    "fileHash": "2bf89825338d43780e7475097c2478e205c6f9e5",
+    "fileName": "archive/Mac/content/memoryresident_1_general.archive\u0000"
+  },
+  {
+    "_id": "719a72c2fb56db236b693e5b",
+    "fileHash": "dcc5aceccacd8b790f99ec05ac39d4b3ad927264",
+    "fileName": "engine/config/base/animation.ini\u0000"
+  },
+  {
+    "_id": "1d8731c4525950184fe4dfb3",
+    "fileHash": "3566708ced30fb7e766b109c4957a8e07656c0e2",
+    "fileName": "engine/config/base/general.ini\u0000"
+  },
+  {
+    "_id": "42eb4e54d780dcfae5b4aebe",
+    "fileHash": "c5f6291f800783e7d528bb37006c7e483534334e",
+    "fileName": "engine/config/base/multiplayer.ini\u0000"
+  },
+  {
+    "_id": "d3881cefc521f0820369f87b",
+    "fileHash": "d3270d45c2be74376de2dd40d7ffcae7895f0713",
+    "fileName": "engine/config/base/rendering.ini\u0000"
+  },
+  {
+    "_id": "dcc9c62d124e898cbaf1b38e",
+    "fileHash": "c459824f64000dfae874377e9c3b8a6a2bd38b09",
+    "fileName": "engine/config/base/resources.ini\u0000"
+  },
+  {
+    "_id": "6ac05fe65e3860f604c4e88a",
+    "fileHash": "86852fb095529ef30b47920d2bb799d4f8021c16",
+    "fileName": "engine/config/base/scenesystem.ini\u0000"
+  },
+  {
+    "_id": "a448e28fb55a0bea6c466361",
+    "fileHash": "b0ba723d265e1ba36d335c8d17a1cb9ea9acdc77",
+    "fileName": "engine/config/base/smartobjects.ini\u0000"
+  },
+  {
+    "_id": "363f837d54ced22ec86d9844",
+    "fileHash": "43f2e49c1f239bfaa9272cbc79ef3eae1f642683",
+    "fileName": "r6/config/settings/options.json\u0000"
+  },
+  {
+    "_id": "68dde0fb098cdd4a9b1b4571",
+    "fileHash": "f1524ebab8c5303b23bd1437c63f5c60e561c955",
+    "fileName": "engine/config/galaxy/pc/REDGalaxyPeer_default.json\u0000"
+  },
+  {
+    "_id": "3f0c56728b638f80fc88ee8f",
+    "fileHash": "594815b1a0bb4600cfec1f1cb8a891cbb5cac73d",
+    "fileName": "engine/config/galaxy/pc_launcher/REDGalaxyPeer_default.json\u0000"
+  },
+  {
+    "_id": "641aeb77ecdc020a603011a3",
+    "fileHash": "2863e1336fbb2712b228cfaea284d09b6fafdf0c",
+    "fileName": "engine/config/platform/mac/gameservices.ini\u0000"
+  },
+  {
+    "_id": "793477c29a0787f2acb57fc7",
+    "fileHash": "22a1078e17ece869fceaf7e85b6aaee2707ce338",
+    "fileName": "engine/config/platform/mac/platformgameplay.ini\u0000"
+  },
+  {
+    "_id": "b7b0a88413ddfd743c27136b",
+    "fileHash": "4ca91fc586d6c86cfb536f9a3b29b1941b56f3b9",
+    "fileName": "engine/config/platform/mac/rendering.ini\u0000"
+  },
+  {
+    "_id": "bc5d3c8c98c6d0f73e9315b5",
+    "fileHash": "a6032a6ce9f601d17d1a095b63210be8750d7024",
+    "fileName": "r6/config/settings/platform/mac/options.json\u0000"
+  },
+  {
+    "_id": "cdec7c16fc9fe37ddc603c8d",
+    "fileHash": "61bc710cfa21012acf526b03e39328def7b9541e",
+    "fileName": "r6/publishing/mac/epic/additional-content/addonDescriptions.xml\u0000"
+  }
+]

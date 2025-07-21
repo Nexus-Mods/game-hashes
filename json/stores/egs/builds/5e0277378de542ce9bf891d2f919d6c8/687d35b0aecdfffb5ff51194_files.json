@@ -1,0 +1,953 @@
+[
+  {
+    "_id": "9657db394888aff8ea0c4fb5",
+    "fileHash": "91d3532bb650082fa3027344b78dd118bb5b9929",
+    "fileName": "PocoData.dll\u0000"
+  },
+  {
+    "_id": "9c492fa07e95474c4401647e",
+    "fileHash": "740d2dcda756f1ef5260254985681041153d94c3",
+    "fileName": "PocoDataSQLite.dll\u0000"
+  },
+  {
+    "_id": "9d26c1b366d0a1323f6d2ef2",
+    "fileHash": "7e4a2a31585b88201fc64ecc17c27934d9537b0e",
+    "fileName": "PocoFoundation.dll\u0000"
+  },
+  {
+    "_id": "6fb7930ae4a381f8ae473e18",
+    "fileHash": "3bc93aa1ba7d5413a77031161b55adf85ad01d47",
+    "fileName": "PocoJSON.dll\u0000"
+  },
+  {
+    "_id": "9e224f66d15286b2486e0b27",
+    "fileHash": "40907228ad72c1646371b66621e982c100d04f77",
+    "fileName": "PocoUtil.dll\u0000"
+  },
+  {
+    "_id": "39ccabf1ffcee4cbbbd05a2f",
+    "fileHash": "d4ee576b5b51827dae80f728c59ba02ee3d43522",
+    "fileName": "PocoXML.dll\u0000"
+  },
+  {
+    "_id": "db352fa282cf70785b0a957e",
+    "fileHash": "bec89bc268c28ebf47638668c0db79dc3f434f18",
+    "fileName": "Qt5Core.dll\u0000"
+  },
+  {
+    "_id": "81e11530180ad3b4a02df0c6",
+    "fileHash": "e2fd9980f911fcd3cabffc25f86fd07cb4aa853a",
+    "fileName": "Qt5Network.dll\u0000"
+  },
+  {
+    "_id": "af5ab5a14462c7e43a427f40",
+    "fileHash": "ab0311d09e3a9c27bd86aa3a10dac045130b5388",
+    "fileName": "REDlauncher-4.2.0.4.msi\u0000"
+  },
+  {
+    "_id": "b2fe9d9f7fd38b7fa7ca10a0",
+    "fileHash": "e24f84649d653ee38afefdce67412984ba6a42c9",
+    "fileName": "REDprelauncher.exe\u0000"
+  },
+  {
+    "_id": "96e5d00b473c75f6facae509",
+    "fileHash": "62e559a7855c65bdb81de0dcf819b12565cc3021",
+    "fileName": "launcher-configuration.json\u0000"
+  },
+  {
+    "_id": "d81e6c211eceb70789d823ce",
+    "fileHash": "a7b72d643a72e353f9600f5ac1c1578be0e2f492",
+    "fileName": "libcrypto-1_1-x64.dll\u0000"
+  },
+  {
+    "_id": "c70df9ee8715acba6d663ca8",
+    "fileHash": "b212f142e72463d563b3e610f5b950019ce53293",
+    "fileName": "libssl-1_1-x64.dll\u0000"
+  },
+  {
+    "_id": "d4740a28a7f5a0e498b7fce3",
+    "fileHash": "a1742fd93b61d50408db835b2a6715d43b658f15",
+    "fileName": "pcre2-16.dll\u0000"
+  },
+  {
+    "_id": "a08dde35ec722f9d065a4bea",
+    "fileHash": "ab67272d0622bb623770bf65e23a86b8c8bba639",
+    "fileName": "pcre2-8.dll\u0000"
+  },
+  {
+    "_id": "5fa0061a4cc6c50b6d7e4e8a",
+    "fileHash": "2f741103e0d29e022e4a0531f9be14117f699be7",
+    "fileName": "sqlite3.dll\u0000"
+  },
+  {
+    "_id": "c0511dff694acb3f53cd5944",
+    "fileHash": "cfbe801c61a3629d1ccd7805d4dcb05620f69393",
+    "fileName": "zlib1.dll\u0000"
+  },
+  {
+    "_id": "f36c5ed594b96880f449cf67",
+    "fileHash": "1eff795ca172ba13375ce4773b7c7f1264e2eb68",
+    "fileName": "engine/shader_final.cache\u0000"
+  },
+  {
+    "_id": "dd8cb96599caa3a1496a06f6",
+    "fileHash": "bcbc78ab86984fff76070b89f81a658151cb2469",
+    "fileName": "engine/shaderps4.cache\u0000"
+  },
+  {
+    "_id": "f8043da37e7e63dc680137fa",
+    "fileHash": "9fed78d49c3ca487af5af781a1deaf87285f516b",
+    "fileName": "engine/shaderps4_final.cache\u0000"
+  },
+  {
+    "_id": "54e4072f633ad978558fd40c",
+    "fileHash": "d8e527f1202cdaee4f8ab3394150ed0aa548e073",
+    "fileName": "engine/shaderps5.cache\u0000"
+  },
+  {
+    "_id": "9e72d380cbceac21b89f8de6",
+    "fileHash": "48354e5d40447d4a960ebe7d0af21cfebbc33abe",
+    "fileName": "engine/shaderps5_final.cache\u0000"
+  },
+  {
+    "_id": "1066c0ff9845b9776ad4d088",
+    "fileHash": "f08610ec90983bdc01c3e82a9f10d64765d02b18",
+    "fileName": "engine/shadervulkan.cache\u0000"
+  },
+  {
+    "_id": "4252f93c1e19a7f19ddd4b90",
+    "fileHash": "f1b413a745ad74ac4122f394e5444b3848a95c3a",
+    "fileName": "engine/shadervulkan_final.cache\u0000"
+  },
+  {
+    "_id": "1f017297381ee5d1a604cd56",
+    "fileHash": "14d19014f28174c51402eede0ee7848ac46c4838",
+    "fileName": "engine/shaderxboxone.cache\u0000"
+  },
+  {
+    "_id": "1a4417f9efbc18871396458b",
+    "fileHash": "642eb8e9394cf4a6ce47836735c56c7d6921d9fc",
+    "fileName": "engine/shaderxboxone_final.cache\u0000"
+  },
+  {
+    "_id": "81f1a330a580a6eed557591f",
+    "fileHash": "566fc260fb9820fcc8890546fe464902279e18be",
+    "fileName": "engine/shaderxsx.cache\u0000"
+  },
+  {
+    "_id": "796fde313c10b746af666a48",
+    "fileHash": "49afeff2c1c361cdb6af76e1ae0f01d577339b67",
+    "fileName": "engine/shaderxsx_final.cache\u0000"
+  },
+  {
+    "_id": "a3a4d08a1f1c8c78de943706",
+    "fileHash": "499e5924de5e2c3fc87bbff2bec1a618378fa430",
+    "fileName": "engine/staticshader_final.cache\u0000"
+  },
+  {
+    "_id": "22f3d48cf0ec9fcb90160abf",
+    "fileHash": "75b4a5d8a3256189bb442b049e73dfb039aa9c1a",
+    "fileName": "engine/staticshaderps4.cache\u0000"
+  },
+  {
+    "_id": "f54db35eae8737698cc00feb",
+    "fileHash": "d2cf3ad56b29fa6fef471b7d3873aad46927709f",
+    "fileName": "engine/staticshaderps4_final.cache\u0000"
+  },
+  {
+    "_id": "3add3bedf0c2eb7accbcd2f3",
+    "fileHash": "0b2f7af7321a2a345efd4f0d25393cfdcb9898b7",
+    "fileName": "engine/staticshaderps5.cache\u0000"
+  },
+  {
+    "_id": "9721f12191d67bd0d8f7a58b",
+    "fileHash": "60dfccd1d78d6a592960be4c67e95569dedee41c",
+    "fileName": "engine/staticshaderps5_final.cache\u0000"
+  },
+  {
+    "_id": "73d4779b99f47c5fc9f8f96b",
+    "fileHash": "37191e1813fcc432f8498aa2a737214a05a66ba9",
+    "fileName": "engine/staticshadervulkan.cache\u0000"
+  },
+  {
+    "_id": "484e2a0cbf099e94b32c5938",
+    "fileHash": "800b7d7e2ce8424dd9d8d7eff8eb72217fa5b5fa",
+    "fileName": "engine/staticshadervulkan_final.cache\u0000"
+  },
+  {
+    "_id": "25a8e2b0fa962a20bad9d5de",
+    "fileHash": "f639c96a30175eef3723b3d05d3aa861839b8b13",
+    "fileName": "engine/staticshaderxboxone.cache\u0000"
+  },
+  {
+    "_id": "5a22e17e96c2f309a6396c12",
+    "fileHash": "59902d5e1966eb5896f7495954979b59ab530a42",
+    "fileName": "engine/staticshaderxboxone_final.cache\u0000"
+  },
+  {
+    "_id": "f57393ffe9f0538fdb3d2e00",
+    "fileHash": "ad2cd76ef003117cc1b8086ad9d11148bed2e04e",
+    "fileName": "engine/staticshaderxsx.cache\u0000"
+  },
+  {
+    "_id": "231a564ca558655bcf8b0a00",
+    "fileHash": "628caa4dd1a1f0e05556bc761e9bd9bbac94db8e",
+    "fileName": "engine/staticshaderxsx_final.cache\u0000"
+  },
+  {
+    "_id": "715965d664a1d837f2546d31",
+    "fileHash": "1786ee165231d491f209fd27b6e3029556af25bc",
+    "fileName": "vc/VC_redist.x64.exe\u0000"
+  },
+  {
+    "_id": "3fcb125727e054c5bf74be7b",
+    "fileHash": "75d8e6ebaca6f716b2f157486e7ae26eb28c87aa",
+    "fileName": "bin/x64/CChromaEditorLibrary64.dll\u0000"
+  },
+  {
+    "_id": "8c064710e9d999255418ba38",
+    "fileHash": "ce79b87b1febf011291541619a4e3b62d8905581",
+    "fileName": "bin/x64/Cyberpunk2077.exe\u0000"
+  },
+  {
+    "_id": "874048bf47b5d5f8597e3351",
+    "fileHash": "022c4bb43788d8dd075e0ebe395d0ae24697db19",
+    "fileName": "bin/x64/EOSSDK-Win64-Shipping.dll\u0000"
+  },
+  {
+    "_id": "36bd7fdef936d07a2e99b49c",
+    "fileHash": "4a2ef1174471b5a0c602ac47bfc3954bbdfea59a",
+    "fileName": "bin/x64/GFSDK_Aftermath_Lib.x64.dll\u0000"
+  },
+  {
+    "_id": "5914638e37afbcaa59248519",
+    "fileHash": "884cda2637e9fd22a9b33085aa0decf84c2a739c",
+    "fileName": "bin/x64/GameServicesEpic.dll\u0000"
+  },
+  {
+    "_id": "f71cfc7a0d7a13ea21b76251",
+    "fileHash": "cf6febfca7e3d092d78db759bbe18f0fc2d5c4b0",
+    "fileName": "bin/x64/GfnRuntimeSdk.dll\u0000"
+  },
+  {
+    "_id": "8517d626982cfce5337ca51b",
+    "fileHash": "bfa6c5d91d9444c1762f9e276af193ef68dd86bb",
+    "fileName": "bin/x64/PhysX3CharacterKinematic_x64.dll\u0000"
+  },
+  {
+    "_id": "fb753ac1e3896a8fc4f93446",
+    "fileHash": "f1ac493d6ddaad1737e2d4aa234525bd6b7ea6d7",
+    "fileName": "bin/x64/PhysX3Common_x64.dll\u0000"
+  },
+  {
+    "_id": "7fc9be6fff43975fd72c23ea",
+    "fileHash": "34c136a48a251099e21c1a9ad73e410d39e999ea",
+    "fileName": "bin/x64/PhysX3Cooking_x64.dll\u0000"
+  },
+  {
+    "_id": "8507710d0edb4b7fd2b8f829",
+    "fileHash": "970b6d22e0864207ba19ebc641240c1bbaece33e",
+    "fileName": "bin/x64/PhysX3_x64.dll\u0000"
+  },
+  {
+    "_id": "76452d1495e9d8ad84be38c9",
+    "fileHash": "bff8b1331269818520e2ca09832f40a16ed40feb",
+    "fileName": "bin/x64/PxFoundation_x64.dll\u0000"
+  },
+  {
+    "_id": "daa08e0b9a0c2b5e524e49fd",
+    "fileHash": "cced77e0f5413b722d51c4589b4c63c179db30ac",
+    "fileName": "bin/x64/PxPvdSDK_x64.dll\u0000"
+  },
+  {
+    "_id": "0905436c6d2f98c94e178702",
+    "fileHash": "5b43f630e74e83644f49698e4348479b2bb6e372",
+    "fileName": "bin/x64/REDEngineErrorReporter.exe\u0000"
+  },
+  {
+    "_id": "0f0da6a309f31f4469e9cf5f",
+    "fileHash": "e9d431309a7a8ee6cebf3af30cbe03f94b2931bc",
+    "fileName": "bin/x64/REDGalaxy64.dll\u0000"
+  },
+  {
+    "_id": "2bb53372fc1b4cfeb12b3ce5",
+    "fileHash": "ae244217f729bc79bececd21f159430b21661950",
+    "fileName": "bin/x64/Symsrv.ini\u0000"
+  },
+  {
+    "_id": "f4833a4d897ff95b5708eaea",
+    "fileHash": "b4f63b504ed57aafd01add6c5a1ad23d3bcee361",
+    "fileName": "bin/x64/WinPixEventRuntime.dll\u0000"
+  },
+  {
+    "_id": "b4ac3819432444272d45aa91",
+    "fileHash": "121c9f22eb75bcf2f56ca71cfd4f10b9ac835e62",
+    "fileName": "bin/x64/amd_ags_x64.dll\u0000"
+  },
+  {
+    "_id": "2339a745157b453b76cf7988",
+    "fileHash": "d65a2072025b85cb42649ab6028843af9a203b5d",
+    "fileName": "bin/x64/amd_fidelityfx_dx12.dll\u0000"
+  },
+  {
+    "_id": "de5612b8f1ce59571e35ea66",
+    "fileHash": "ed52c1371ee08f845316555cfe66442cf226a9e4",
+    "fileName": "bin/x64/api-ms-win-downlevel-kernel32-l2-1-0.dll\u0000"
+  },
+  {
+    "_id": "f3e2903eb4ddf121e0c3a68a",
+    "fileHash": "f55757106e2efa3eb4ccfae22ca83a899f61384c",
+    "fileName": "bin/x64/bink2w64.dll\u0000"
+  },
+  {
+    "_id": "efc94f7ef6d32fa77b0f7d98",
+    "fileHash": "dfc0816d67f8337fc829e507adc4783eef21851e",
+    "fileName": "bin/x64/cyberpunk2077_addresses.json\u0000"
+  },
+  {
+    "_id": "6608d5e321bf1658ffc6c1d0",
+    "fileHash": "d7a177c8bdd217bc2ec4a56714ea289d837af465",
+    "fileName": "bin/x64/dbgcore.dll\u0000"
+  },
+  {
+    "_id": "b7e99aa5b3a159e70bc68ec0",
+    "fileHash": "e4e2c71ed0caac10e4a1555b54c91d03bfda01b7",
+    "fileName": "bin/x64/dbghelp.dll\u0000"
+  },
+  {
+    "_id": "cbffd171d6906de8d9174713",
+    "fileHash": "de0f014a89dba080768321cc9b46c96a1e299657",
+    "fileName": "bin/x64/dxilconv7.dll\u0000"
+  },
+  {
+    "_id": "6dd72e8ccd52009dced64aed",
+    "fileHash": "49c645e54ed7c688af8fa4c032d6e0c552d02b73",
+    "fileName": "bin/x64/ffx_backend_dx12_x64.dll\u0000"
+  },
+  {
+    "_id": "176aa7d4ff60736841d738e3",
+    "fileHash": "6c275c0f01a4ad5252d7a1ae7657ef20f77318e5",
+    "fileName": "bin/x64/ffx_frameinterpolation_x64.dll\u0000",
+    "fileSize": 3386493508
+  },
+  {
+    "_id": "6c616b30633d5ec792b7d2c4",
+    "fileHash": "1519d043027e92b848653bd0e6571715bd0e66d8",
+    "fileName": "bin/x64/ffx_fsr3_x64.dll\u0000"
+  },
+  {
+    "_id": "eabd8a58acdf702637481a5f",
+    "fileHash": "76ddc2306826b694c6fe63b793dac7459e702294",
+    "fileName": "bin/x64/ffx_fsr3upscaler_x64.dll\u0000"
+  },
+  {
+    "_id": "c57bf028829044c1910192ab",
+    "fileHash": "7c0f18e4b1096e742d7f4d6d33e50e6eef30b194",
+    "fileName": "bin/x64/ffx_opticalflow_x64.dll\u0000"
+  },
+  {
+    "_id": "49904d0e191494f687cf7caf",
+    "fileHash": "730879913c585dbe09e1c6d2eb9c33fc1bfdfde2",
+    "fileName": "bin/x64/freetype.dll\u0000"
+  },
+  {
+    "_id": "e1a75d7716776954a2b555ea",
+    "fileHash": "44cdb324c83c4b5c5e61ca354a3b2a6049ea1932",
+    "fileName": "bin/x64/icudt.dll\u0000"
+  },
+  {
+    "_id": "6b80598a15d81f2260d63971",
+    "fileHash": "c33c62677eff2531b64c09d25ab942dc9ded353a",
+    "fileName": "bin/x64/icuin.dll\u0000"
+  },
+  {
+    "_id": "feb5c92f5c804fe6af80816e",
+    "fileHash": "8880a13e7de3fe1862b793d0d3679f0bdbd2bbf0",
+    "fileName": "bin/x64/icuio.dll\u0000"
+  },
+  {
+    "_id": "55b31efe21226f037027c699",
+    "fileHash": "4838cb8b48530e8aa76e6b9154b832d21ca9a929",
+    "fileName": "bin/x64/icuuc.dll\u0000"
+  },
+  {
+    "_id": "0ebf177e9ea7c2af7203b19c",
+    "fileHash": "8026f1702b6b949730a3b88e082fa81feb360e67",
+    "fileName": "bin/x64/libcurl.dll\u0000"
+  },
+  {
+    "_id": "24a91ee4a28cf5552b0d7465",
+    "fileHash": "b0d436de2e15bba335f21b8690828711a3db87aa",
+    "fileName": "bin/x64/libeay32.dll\u0000"
+  },
+  {
+    "_id": "1e70a37aa7c330f603ac0274",
+    "fileHash": "07aefc6d49b3c2936e3fc866d0b4df63f98cb5d1",
+    "fileName": "bin/x64/libxell.dll\u0000"
+  },
+  {
+    "_id": "779d3986e553b37b5dc4c42f",
+    "fileHash": "849fff0273080413648dc897b59c62b41812bdea",
+    "fileName": "bin/x64/libxess.dll\u0000"
+  },
+  {
+    "_id": "e98258f3e23dad41d271eff0",
+    "fileHash": "306844c496d8be443bf0d3c2491d4107868d81f2",
+    "fileName": "bin/x64/libxess_dx11.dll\u0000"
+  },
+  {
+    "_id": "7be040626f01d7c1f81f92b0",
+    "fileHash": "fcb5a7300d43ff7734be48b20ed615305f4dd00c",
+    "fileName": "bin/x64/libxess_fg.dll\u0000"
+  },
+  {
+    "_id": "df9fd95a133d1beae9ea4ca1",
+    "fileHash": "f5481f79cd1338c1971ffa0ae45b14dcfdb25e48",
+    "fileName": "bin/x64/nvToolsExt64_1.dll\u0000"
+  },
+  {
+    "_id": "ece259ec58cd994a637feb90",
+    "fileHash": "7dcf6b8f8573851f1ccd05e09657dd22758076fd",
+    "fileName": "bin/x64/nvngx_dlss.dll\u0000"
+  },
+  {
+    "_id": "b4c8ebb26c03713acafe48d3",
+    "fileHash": "c9075fdba83897ea405d9cec9137faa4860ced31",
+    "fileName": "bin/x64/nvngx_dlssd.dll\u0000"
+  },
+  {
+    "_id": "1cc29890834d834050bcb527",
+    "fileHash": "6b86a13666299c69d103ac3780ec7daa42ac0c1d",
+    "fileName": "bin/x64/nvngx_dlssg.dll\u0000"
+  },
+  {
+    "_id": "73d0138dc5edf6f53728263f",
+    "fileHash": "86904454aeaa61d0767d10bba7a3802faf4410dd",
+    "fileName": "bin/x64/oo2ext_7_win64.dll\u0000"
+  },
+  {
+    "_id": "6abe99892f92e517cb3d080e",
+    "fileHash": "4f8fc37dc25bbb832d174b788d7b698c11871f47",
+    "fileName": "bin/x64/oodle_dictionary.bin\u0000"
+  },
+  {
+    "_id": "4daea849536e4b70bfb7ff8a",
+    "fileHash": "2f7e408e016b71664ed33e6c0560d2ab7f495ede",
+    "fileName": "bin/x64/redlexer_native.dll\u0000"
+  },
+  {
+    "_id": "e13cf0d4f59ac4399db9c57c",
+    "fileHash": "46029ee7b3c023ace101fa3e4ae7a502cff746c7",
+    "fileName": "bin/x64/sl.common.dll\u0000"
+  },
+  {
+    "_id": "39353b53654de01466e2099a",
+    "fileHash": "264cac146bd12b412e76554ed84ebde1af87dc42",
+    "fileName": "bin/x64/sl.dlss.dll\u0000"
+  },
+  {
+    "_id": "179aa663379884b6cf954b40",
+    "fileHash": "5d645ad890957d1dd156567ac2f9e40c26e65936",
+    "fileName": "bin/x64/sl.dlss_d.dll\u0000"
+  },
+  {
+    "_id": "08f4d2f66c7560387b2e345c",
+    "fileHash": "49026ba54e5bda01c750d465f25f68659ea13349",
+    "fileName": "bin/x64/sl.dlss_g.dll\u0000"
+  },
+  {
+    "_id": "8379613bf1fbbc82d7a023ea",
+    "fileHash": "86c2f0f1190b0f6a2fabfcf35ec15ab67d14f33d",
+    "fileName": "bin/x64/sl.interposer.dll\u0000"
+  },
+  {
+    "_id": "3dedc7399d676fa7a691f764",
+    "fileHash": "b3c9683e6b0d432bc129a1e00569420db07ed005",
+    "fileName": "bin/x64/sl.nis.dll\u0000"
+  },
+  {
+    "_id": "6552f87074b257a600ad5116",
+    "fileHash": "9bf13d425ee578942a27d267ef3e944f4d811d17",
+    "fileName": "bin/x64/sl.pcl.dll\u0000"
+  },
+  {
+    "_id": "909eb4c713f537fd7d294672",
+    "fileHash": "761347ed9b483417a2cb9eef6e938106e7107703",
+    "fileName": "bin/x64/sl.reflex.dll\u0000"
+  },
+  {
+    "_id": "7e07f69374f1f7f4806fe5c5",
+    "fileHash": "9ff67282bb6cb300f2fa03decb13e0c3943eed05",
+    "fileName": "bin/x64/ssleay32.dll\u0000"
+  },
+  {
+    "_id": "ad3696ce13a07c12547465a0",
+    "fileHash": "9c3cfeb5a24a9b2a72b19736bd523b3e31028121",
+    "fileName": "bin/x64/symsrv.dll\u0000"
+  },
+  {
+    "_id": "d343d1ad6bc23c7a470ebdad",
+    "fileHash": "50eb4be56bb702df0ff3bdd019df1a4acb33b4aa",
+    "fileName": "engine/config/giweights.json\u0000"
+  },
+  {
+    "_id": "d932726b56c3fba55ed86554",
+    "fileHash": "2f2eb62af8e66de580fd987d27dc76fbd6dc2e94",
+    "fileName": "r6/cache/final.redscripts\u0000"
+  },
+  {
+    "_id": "e8cfe9e190f8e856f874cac3",
+    "fileHash": "cce5764a8d6044868c3103ae3cc52838c899b9d9",
+    "fileName": "r6/cache/tweakdb.bin\u0000"
+  },
+  {
+    "_id": "38661cf4b8f0cc13d25b71d2",
+    "fileHash": "11471f85ed8ed58baa018b2af695bbdc4bd001ef",
+    "fileName": "r6/config/bumpersSettings.json\u0000"
+  },
+  {
+    "_id": "9fe51e608a631d6c785befbe",
+    "fileHash": "72acfecf959dec4ec7adc1d869dc9d6682c34e1c",
+    "fileName": "r6/config/inputContexts.xml\u0000"
+  },
+  {
+    "_id": "64d9647771c2e3bffd36c5e2",
+    "fileHash": "0014c1cd5e68c55abf6e24047b7c5e867ad2fa71",
+    "fileName": "r6/config/inputDeadzones.xml\u0000"
+  },
+  {
+    "_id": "5fea5d0bdbbcef083a3543d6",
+    "fileHash": "dabbe3e0a60671dbfd5bda1871d58a175ada696a",
+    "fileName": "r6/config/inputUserMappings.xml\u0000"
+  },
+  {
+    "_id": "dd6d5165fa158b4a08c3deb5",
+    "fileHash": "5794d702fcd4c61d1874711ae51a385d2b27100a",
+    "fileName": "r6/config/uiInputActions.xml\u0000"
+  },
+  {
+    "_id": "6858a26465b3b7efa40d2901",
+    "fileHash": "0ffd5860734dc29e7afd5c37fdfc9b8ff0f1bdf6",
+    "fileName": "archive/pc/content/audio_1_general.archive\u0000",
+    "fileSize": 198000640
+  },
+  {
+    "_id": "40584fee6b368e7ad97e938d",
+    "fileHash": "2b74f6e2a9adc086238fd5e063bd6d7ef76c2b09",
+    "fileName": "archive/pc/content/audio_2_soundbanks.archive\u0000",
+    "fileSize": 8828301312
+  },
+  {
+    "_id": "bb042665563855ab445b11c3",
+    "fileHash": "06ec01dd82d12436c94aa633c7b5af9d33f7b406",
+    "fileName": "archive/pc/content/basegame_1_engine.archive\u0000",
+    "fileSize": 1677524992
+  },
+  {
+    "_id": "d3c9704aec11903198c1c3ff",
+    "fileHash": "0230aa7ed9c4dcd370fdb21839bceab0ac825d1b",
+    "fileName": "archive/pc/content/basegame_2_mainmenu.archive\u0000",
+    "fileSize": 323584
+  },
+  {
+    "_id": "cb806f875808e4153b8e415d",
+    "fileHash": "ada8ddfe803f2b4f37dec7cafe0775a0c1443279",
+    "fileName": "archive/pc/content/basegame_3_nightcity.archive\u0000"
+  },
+  {
+    "_id": "4f2b28575832ad3655982a6a",
+    "fileHash": "612a8bd14e787a1a17ae9756dc7778317b234524",
+    "fileName": "archive/pc/content/basegame_3_nightcity_gi.archive\u0000"
+  },
+  {
+    "_id": "68c3a34c3319e01e593eba6f",
+    "fileHash": "326e1f05c72ecd8e246aec123423d0f3b88ec2a4",
+    "fileName": "archive/pc/content/basegame_3_nightcity_terrain.archive\u0000"
+  },
+  {
+    "_id": "8dd9daef3bb5f7d8f6dacb8c",
+    "fileHash": "49554d8d5643e6514d905e7ef255112cbf285661",
+    "fileName": "archive/pc/content/basegame_4_animation.archive\u0000"
+  },
+  {
+    "_id": "d378d9b934190cd3bf0fb653",
+    "fileHash": "e7a9c8fb9cbb65324efea53320aa929a661e3cdd",
+    "fileName": "archive/pc/content/basegame_4_appearance.archive\u0000"
+  },
+  {
+    "_id": "85b3f10d01a9de2a8359e884",
+    "fileHash": "766c1cfba6c0dc1e7812f1911aa248fa09d665fe",
+    "fileName": "archive/pc/content/basegame_4_gamedata.archive\u0000"
+  },
+  {
+    "_id": "965a838337951b9ebb193d95",
+    "fileHash": "6954cde103dd69a0077e96a0a8d7608bcc90c1c0",
+    "fileName": "archive/pc/content/basegame_5_video.archive\u0000"
+  },
+  {
+    "_id": "3cacf48035ac300ad399433b",
+    "fileHash": "b89c7c4867801fb672d67f4ba8d9ecaf6f9800f7",
+    "fileName": "archive/pc/content/ep1.addcont_keystone\u0000"
+  },
+  {
+    "_id": "84d0340704294e9312f45b97",
+    "fileHash": "6b79afe4b2a07241a1998814e6503fb2053a6ba3",
+    "fileName": "archive/pc/content/lang_ar_text.archive\u0000"
+  },
+  {
+    "_id": "1d39c9e1618a70f904ccc651",
+    "fileHash": "fd6cf699e589b798e67b5ecb49e008ae33b63d27",
+    "fileName": "archive/pc/content/lang_cs_text.archive\u0000"
+  },
+  {
+    "_id": "ab16f54ac5280ff58a1a27f1",
+    "fileHash": "7493dff3e9b2a406c96db25f1533f35e897b4cdc",
+    "fileName": "archive/pc/content/lang_de_text.archive\u0000"
+  },
+  {
+    "_id": "d5418dae51cc49119403063d",
+    "fileHash": "85dfd55a6c562c4c3944b8a466b2f4456f023e95",
+    "fileName": "archive/pc/content/lang_de_voice.archive\u0000"
+  },
+  {
+    "_id": "a03870928b4504760069e7dd",
+    "fileHash": "7ee572d9f5ce0e1b35b09e0eccf9349ed2e02d71",
+    "fileName": "archive/pc/content/lang_en_text.archive\u0000"
+  },
+  {
+    "_id": "d8e9fc278891ef5240edbeb7",
+    "fileHash": "b34ea83071acfeff81631fd509f948fba87fb3f1",
+    "fileName": "archive/pc/content/lang_en_voice.archive\u0000"
+  },
+  {
+    "_id": "e112d7ffd9408e7a79411c4b",
+    "fileHash": "eab43156ef6c96228e293061b6ccf36886f9be05",
+    "fileName": "archive/pc/content/lang_es-es_text.archive\u0000"
+  },
+  {
+    "_id": "95a7e72ad27803de5c5aaea8",
+    "fileHash": "814cf4b1dcef841026d785ace57f6297e6f877d1",
+    "fileName": "archive/pc/content/lang_es-es_voice.archive\u0000"
+  },
+  {
+    "_id": "5492ce74304eaeeaf120aba4",
+    "fileHash": "f46b55f5755e8690bb27220378a47f6ff7c9a659",
+    "fileName": "archive/pc/content/lang_es-mx_text.archive\u0000"
+  },
+  {
+    "_id": "1188d9e270394c4d797ba058",
+    "fileHash": "c7978557f1d69d23eec191550326d3a778fe5c7d",
+    "fileName": "archive/pc/content/lang_fr_text.archive\u0000"
+  },
+  {
+    "_id": "eaac0cb87857dcd48e11e012",
+    "fileHash": "fc5d228fdd4266a8cbdfc6450cae3821ba2d366c",
+    "fileName": "archive/pc/content/lang_fr_voice.archive\u0000"
+  },
+  {
+    "_id": "c6b9405f449216f8a74afa6b",
+    "fileHash": "b9da85e22ededcda2fec40a42f46b70810e104e4",
+    "fileName": "archive/pc/content/lang_hu_text.archive\u0000"
+  },
+  {
+    "_id": "9749f1bb7ca0660e4cd237e0",
+    "fileHash": "09313f3ae1889152eeb3ed906f10749fc363b4e1",
+    "fileName": "archive/pc/content/lang_it_text.archive\u0000"
+  },
+  {
+    "_id": "b73042ce74137166ef52cd42",
+    "fileHash": "3f0ef601a062ac2acbf1f50ad63c2b2f765a7193",
+    "fileName": "archive/pc/content/lang_it_voice.archive\u0000"
+  },
+  {
+    "_id": "c71f537a7b8347e876dec8f5",
+    "fileHash": "45bc091e1dfc87d1d7926f53a527986da737e7b8",
+    "fileName": "archive/pc/content/lang_ja_text.archive\u0000"
+  },
+  {
+    "_id": "5a68e2d6c46f664e0440aeec",
+    "fileHash": "3b4964e4e7ff6a70b3bc587534f192ae6b731add",
+    "fileName": "archive/pc/content/lang_ja_voice.archive\u0000"
+  },
+  {
+    "_id": "9287b36a644f9fe32c2ca80c",
+    "fileHash": "b9f39b585309ab0ea12ade7c87a8f200bacc87b4",
+    "fileName": "archive/pc/content/lang_ko_text.archive\u0000"
+  },
+  {
+    "_id": "743d3804ce511395ccefa210",
+    "fileHash": "ba0402a19f915bc2396b9f8e2e966805d24609e6",
+    "fileName": "archive/pc/content/lang_ko_voice.archive\u0000"
+  },
+  {
+    "_id": "f97e06fa7b3ded86f8a726c3",
+    "fileHash": "f751c04a0fc449e9658902e9a98c443070a7ccfb",
+    "fileName": "archive/pc/content/lang_pl_text.archive\u0000"
+  },
+  {
+    "_id": "08245db845d058973325fc17",
+    "fileHash": "3de35be65edaa04f05821a7e88553ced9848de42",
+    "fileName": "archive/pc/content/lang_pl_voice.archive\u0000"
+  },
+  {
+    "_id": "e869ccad0ef305a86f698479",
+    "fileHash": "dcbd713973fd0af8ff1af17b662992de67c6cf93",
+    "fileName": "archive/pc/content/lang_pt_text.archive\u0000"
+  },
+  {
+    "_id": "d5c1eca94e93550fcbaddffa",
+    "fileHash": "894d82df7e4c10e587491f31adae4df943682067",
+    "fileName": "archive/pc/content/lang_pt_voice.archive\u0000"
+  },
+  {
+    "_id": "5623c8b8b57e12a4f1ce7324",
+    "fileHash": "f5c609c4159921d819c790476589e039ce0420cd",
+    "fileName": "archive/pc/content/lang_ru_text.archive\u0000"
+  },
+  {
+    "_id": "7493b876bee870fcfa761e17",
+    "fileHash": "f1ed033885dd8ff8b60c61419c01e11c53adbdfc",
+    "fileName": "archive/pc/content/lang_ru_voice.archive\u0000"
+  },
+  {
+    "_id": "16b59212551f4fa2e5a3f1a8",
+    "fileHash": "4f584dbd69fb6b3eba3fca195a25eafd18f15614",
+    "fileName": "archive/pc/content/lang_th_text.archive\u0000"
+  },
+  {
+    "_id": "d8f6c1426290f5180e1c129a",
+    "fileHash": "af6120e08be3e12a5618d1613a198c72c3cd4323",
+    "fileName": "archive/pc/content/lang_tr_text.archive\u0000"
+  },
+  {
+    "_id": "09a9d861b2d56662b2190c80",
+    "fileHash": "f5b65e209238bffc23f69673b9c92bcfec764a34",
+    "fileName": "archive/pc/content/lang_ua_text.archive\u0000"
+  },
+  {
+    "_id": "fa42d9a50827ad13bba37fc5",
+    "fileHash": "320c6c167f657398fccace3abe9e9cd3229ad0a4",
+    "fileName": "archive/pc/content/lang_zh-cn_text.archive\u0000"
+  },
+  {
+    "_id": "7c8a1a7889f4f58d1a555034",
+    "fileHash": "b52e533371e620bf613b3b5c333561d4d69bb3f1",
+    "fileName": "archive/pc/content/lang_zh-cn_voice.archive\u0000"
+  },
+  {
+    "_id": "01047fa6fd5fe4f00eb4011c",
+    "fileHash": "fb3c91de43373a88b565f2f3a1912f1686230a66",
+    "fileName": "archive/pc/content/lang_zh-tw_text.archive\u0000"
+  },
+  {
+    "_id": "fcfb92299a880dc01b0fd328",
+    "fileHash": "655fd0dc40ebebfbd2b83076467b63ab13f3c741",
+    "fileName": "archive/pc/content/memoryresident_1_general.archive\u0000"
+  },
+  {
+    "_id": "ccbcb3e163626a14fb4b775d",
+    "fileHash": "ef2c9940acd0c06a9b0538090c11b8464a52c5c6",
+    "fileName": "bin/x64/CrashReporter/7za.exe\u0000"
+  },
+  {
+    "_id": "be8cff2a51991cc53100b03e",
+    "fileHash": "41ca5a2b5b797ac56c1d1d4a18e7c3f5a7b9c8a2",
+    "fileName": "bin/x64/CrashReporter/CrashReporter.exe\u0000"
+  },
+  {
+    "_id": "91e3f35e3f6ea4546fc9de9a",
+    "fileHash": "4e442a96cd83feb9717d1cf84fc2342fe30453cf",
+    "fileName": "bin/x64/CrashReporter/CrashReporter.exe.config\u0000"
+  },
+  {
+    "_id": "b00c788d88f2852fc9edf1d4",
+    "fileHash": "7a9aaf2ec1b11f1541cf2d83201faad92ffc050d",
+    "fileName": "bin/x64/CrashReporter/ThirdPartyNotices.txt\u0000"
+  },
+  {
+    "_id": "480838b5614f89883139d2ec",
+    "fileHash": "dfae7ebb6ca460ab0d11c1e8e1c9eb3996532ea0",
+    "fileName": "bin/x64/D3D12/D3D12Core.dll\u0000"
+  },
+  {
+    "_id": "b6709e928ccb43ea307ff312",
+    "fileHash": "a93e247fb9a9e96f39591e22832bdd21ee196851",
+    "fileName": "bin/x64/D3D12/d3d12SDKLayers.dll\u0000"
+  },
+  {
+    "_id": "a5269600279a9a4728b27003",
+    "fileHash": "5bca7c77834bb8e286b2af81f7847b7b1c3fac81",
+    "fileName": "bin/x64/d3d12on7/LICENSE.txt\u0000"
+  },
+  {
+    "_id": "1ee421f63677c437f79bd66b",
+    "fileHash": "bc815797cf90c797eccd86f8d3da8f9b348c6c3f",
+    "fileName": "bin/x64/d3d12on7/d3d11on12.dll\u0000"
+  },
+  {
+    "_id": "af0955f258a0614d77f81995",
+    "fileHash": "7e3b981ec06f8dcd95719350fb5810492bae5928",
+    "fileName": "bin/x64/d3d12on7/d3d12.dll\u0000"
+  },
+  {
+    "_id": "a674b299c03fd47979ec3e86",
+    "fileHash": "dcc5aceccacd8b790f99ec05ac39d4b3ad927264",
+    "fileName": "engine/config/base/animation.ini\u0000"
+  },
+  {
+    "_id": "00f7f18e3d5fea459d88a24f",
+    "fileHash": "3566708ced30fb7e766b109c4957a8e07656c0e2",
+    "fileName": "engine/config/base/general.ini\u0000"
+  },
+  {
+    "_id": "7676d953a85169221cefcf2d",
+    "fileHash": "c5f6291f800783e7d528bb37006c7e483534334e",
+    "fileName": "engine/config/base/multiplayer.ini\u0000"
+  },
+  {
+    "_id": "4526cc1a5be1572082b5768a",
+    "fileHash": "d3270d45c2be74376de2dd40d7ffcae7895f0713",
+    "fileName": "engine/config/base/rendering.ini\u0000"
+  },
+  {
+    "_id": "dbc8226bb168832e75b0dd52",
+    "fileHash": "c459824f64000dfae874377e9c3b8a6a2bd38b09",
+    "fileName": "engine/config/base/resources.ini\u0000"
+  },
+  {
+    "_id": "cfbe453a94925017659ca280",
+    "fileHash": "86852fb095529ef30b47920d2bb799d4f8021c16",
+    "fileName": "engine/config/base/scenesystem.ini\u0000"
+  },
+  {
+    "_id": "657dc7a382205b9bf4b4c052",
+    "fileHash": "b0ba723d265e1ba36d335c8d17a1cb9ea9acdc77",
+    "fileName": "engine/config/base/smartobjects.ini\u0000"
+  },
+  {
+    "_id": "7ffac8dea707db81ffb5917a",
+    "fileHash": "43f2e49c1f239bfaa9272cbc79ef3eae1f642683",
+    "fileName": "r6/config/settings/options.json\u0000"
+  },
+  {
+    "_id": "6edb3e9421e5863c57a4e55d",
+    "fileHash": "2fb022496080fe180f63fea528e215e08c7b8bf1",
+    "fileName": "bin/x64/CrashReporter/ar/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "8e3ec0cd08e4a9bed02fe82b",
+    "fileHash": "b9908f52afd57b751456cfcea17a65a4da1ff559",
+    "fileName": "bin/x64/CrashReporter/cs/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "9810f71ab2aae2c452f30d7b",
+    "fileHash": "74c08145d7635d2a25a161d8a0d0386754a52269",
+    "fileName": "bin/x64/CrashReporter/de/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "cb5a7dd8161659bf3b52d8bb",
+    "fileHash": "76fe6eda5762efc6041759466863ab7fc8f64d6e",
+    "fileName": "bin/x64/CrashReporter/es-es/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "6dbe5405ae175e69f86e3a0b",
+    "fileHash": "f3abc6ecf3c9ae15cf51e8b36ff2faacffe8e1d4",
+    "fileName": "bin/x64/CrashReporter/es/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "b3f3cce0acd9c9f7b96248b0",
+    "fileHash": "826c626345c1d02a206955d119263d1e701c44e9",
+    "fileName": "bin/x64/CrashReporter/fr/CrashReporter.resources.dll\u0000",
+    "fileSize": 61519030
+  },
+  {
+    "_id": "225ba368cf85158ff3f5c34b",
+    "fileHash": "074bd50a6b643e2ec37fc42a89fc2803bcfd7380",
+    "fileName": "bin/x64/CrashReporter/hu/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "42a45c99eae577257cb306a0",
+    "fileHash": "67f83480f01a28007d5c702069dd09c8dc70bde4",
+    "fileName": "bin/x64/CrashReporter/it/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "48bca19cc7969633e158dd74",
+    "fileHash": "bb0590651c3e0df65760cd91d4ed041d96379dcc",
+    "fileName": "bin/x64/CrashReporter/ja/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "3393a9712729e62ebd467008",
+    "fileHash": "d4757729b6dd3ab50acc342f5847206960b4dd34",
+    "fileName": "bin/x64/CrashReporter/ko/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "487c28ef85ddd97519d28e8a",
+    "fileHash": "d9b2fe95f567421c2b3480a7f5648a0c8940b93d",
+    "fileName": "bin/x64/CrashReporter/pl/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "24236ab1b96aff451bd6ffd0",
+    "fileHash": "7627563f8ad57384dbb96d7d9846e30c02849b82",
+    "fileName": "bin/x64/CrashReporter/pt/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "c89a5e3bce4017e5001286f5",
+    "fileHash": "bfb6fe817092b9ecf2a73f5dfd3892b9dde59418",
+    "fileName": "bin/x64/CrashReporter/ru/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "0e19a0871baeb11448868722",
+    "fileHash": "4a5ea14438f14f7d62ccc4d42067bf7e4144323d",
+    "fileName": "bin/x64/CrashReporter/th/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "492281bbe406cf52de439eaf",
+    "fileHash": "e94a92fb587ac5504840d6970467c1e0e19238fb",
+    "fileName": "bin/x64/CrashReporter/tr/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "b4c24a89baba1d2a241c60cf",
+    "fileHash": "c5abb9611eee40d6227a6166a6e1461660f1f465",
+    "fileName": "bin/x64/CrashReporter/uk/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "075bf2258a51bc90424995cf",
+    "fileHash": "82d885af128496cfe8a51afd1b78ef10e05d68a7",
+    "fileName": "bin/x64/CrashReporter/zh-hans/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "efaf91ea10629e215e60728c",
+    "fileHash": "353f5a74d2d79f8c047a8877d9edd3cfb7f05f70",
+    "fileName": "bin/x64/CrashReporter/zh-hant/CrashReporter.resources.dll\u0000"
+  },
+  {
+    "_id": "98c396013e1b1e8d694b182a",
+    "fileHash": "594815b1a0bb4600cfec1f1cb8a891cbb5cac73d",
+    "fileName": "engine/config/galaxy/pc/REDGalaxyPeer_default.json\u0000"
+  },
+  {
+    "_id": "1328d60ef802578588195dfc",
+    "fileHash": "22a1078e17ece869fceaf7e85b6aaee2707ce338",
+    "fileName": "engine/config/platform/pc/platformgameplay.ini\u0000"
+  },
+  {
+    "_id": "921744a126f9eae987e1efa1",
+    "fileHash": "4ca91fc586d6c86cfb536f9a3b29b1941b56f3b9",
+    "fileName": "engine/config/platform/pc/rendering.ini\u0000"
+  },
+  {
+    "_id": "09292b00c38398aeb7f1df40",
+    "fileHash": "cc63c294b4fd8a44371eb92445fcfa8a8536f09a",
+    "fileName": "r6/config/settings/platform/pc/options.json\u0000"
+  },
+  {
+    "_id": "f2283022468c891f21a79b93",
+    "fileHash": "61bc710cfa21012acf526b03e39328def7b9541e",
+    "fileName": "r6/publishing/x64/Epic/additional-content/addonDescriptions.xml\u0000"
+  },
+  {
+    "_id": "98a9d4ce35b59b349aaac44b",
+    "fileHash": "cf65496a2b44b22b3d4483f918bca97cbe977600",
+    "fileName": "r6/publishing/x64/null/additional-content/addonDescriptions.xml\u0000"
+  }
+]
