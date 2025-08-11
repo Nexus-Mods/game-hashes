@@ -1,0 +1,23 @@
+{
+  "ManifestId": 8476536650815851202,
+  "Files": [
+    {
+      "Path": "Skyrim_Default.ini",
+      "Size": 1915,
+      "Hash": "7C528152A77779A410632721C0EB942D72F2F00C",
+      "Chunks": [
+        {
+          "ChunkId": "7C528152A77779A410632721C0EB942D72F2F00C",
+          "Checksum": "8483CDA3",
+          "Offset": 0,
+          "CompressedSize": 944,
+          "UncompressedSize": 1915
+        }
+      ]
+    }
+  ],
+  "DepotId": 544860,
+  "CreationTime": "2022-07-05T14:19:16+00:00",
+  "TotalCompressedSize": 944,
+  "TotalUncompressedSize": 1915
+}
