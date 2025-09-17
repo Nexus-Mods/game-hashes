@@ -1,0 +1,1122 @@
+{
+  "baseProductId": 1423049311,
+  "buildId": 58809037770927044,
+  "dependencies": [
+    "MSVC2012_x64",
+    "MSVC2013_x64",
+    "MSVC2015_x64",
+    "MSVC2015"
+  ],
+  "depots": [
+    {
+      "compressedSize": 64730161052,
+      "languages": [
+        "de-DE",
+        "ja-JP",
+        "ko-KR",
+        "pl-PL",
+        "zh-Hans",
+        "en-US",
+        "pt-BR",
+        "it-IT",
+        "es-ES",
+        "fr-FR",
+        "ru-RU"
+      ],
+      "manifest": "2ba190dcafbf2eb149da1f7b27149e9f",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 67345593438
+    },
+    {
+      "compressedSize": 4870051336,
+      "languages": [
+        "de-DE"
+      ],
+      "manifest": "e5886a01d8e4927fc685a53e7df5ddfd",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 5083238400
+    },
+    {
+      "compressedSize": 5218505141,
+      "languages": [
+        "es-ES"
+      ],
+      "manifest": "e3d216bfbf98335b78fd92ded9171318",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 5431459840
+    },
+    {
+      "compressedSize": 4787513137,
+      "languages": [
+        "fr-FR"
+      ],
+      "manifest": "cf1a108320821eb8b9ae5d735b75e047",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 5001183232
+    },
+    {
+      "compressedSize": 4969730079,
+      "languages": [
+        "it-IT"
+      ],
+      "manifest": "bacfcb54a7f662eed0d0d3e0513212eb",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 5182316544
+    },
+    {
+      "compressedSize": 4667431927,
+      "languages": [
+        "ja-JP"
+      ],
+      "manifest": "e881d6a4cf6e7443d57fd3f43a0acab0",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 4874629120
+    },
+    {
+      "compressedSize": 4662710076,
+      "languages": [
+        "pl-PL"
+      ],
+      "manifest": "c91c6cf87a2fd189e899a707401f7e92",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 4878196736
+    },
+    {
+      "compressedSize": 4910305002,
+      "languages": [
+        "pt-BR"
+      ],
+      "manifest": "1c2d0b9e275d4b83867afd22ac54a500",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 5120798720
+    },
+    {
+      "compressedSize": 5149025967,
+      "languages": [
+        "ru-RU"
+      ],
+      "manifest": "ff0f7e85f4b6ae0ff7dfc0ce4e84410c",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 5362655232
+    },
+    {
+      "compressedSize": 4794874591,
+      "languages": [
+        "ko-KR"
+      ],
+      "manifest": "42472f8ca895645d51b05929fb1a02d2",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 5003743232
+    },
+    {
+      "compressedSize": 4662982901,
+      "languages": [
+        "zh-Hans"
+      ],
+      "manifest": "18e893ed132398c509882d395e8d4e9b",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 4874280960
+    },
+    {
+      "compressedSize": 178,
+      "languages": [
+        "de-DE"
+      ],
+      "manifest": "86d1cde39bd84c45d580e34c397595c0",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 231
+    },
+    {
+      "compressedSize": 391,
+      "languages": [
+        "de-DE"
+      ],
+      "manifest": "6cab26c32759b3821e1707a874a73bbb",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1067
+    },
+    {
+      "compressedSize": 178,
+      "languages": [
+        "ko-KR"
+      ],
+      "manifest": "196afa74be899b80ca48b1f9e91bd47a",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 231
+    },
+    {
+      "compressedSize": 391,
+      "languages": [
+        "ko-KR"
+      ],
+      "manifest": "c7ebbcd3c43a53c4e205ab4937c03ce7",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1067
+    },
+    {
+      "compressedSize": 178,
+      "languages": [
+        "ja-JP"
+      ],
+      "manifest": "208cf2c9b526ad0f8c208b8481a334cd",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 231
+    },
+    {
+      "compressedSize": 392,
+      "languages": [
+        "ja-JP"
+      ],
+      "manifest": "af8526b9621b36c72f3a9dea399e3ec1",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1069
+    },
+    {
+      "compressedSize": 178,
+      "languages": [
+        "es-ES"
+      ],
+      "manifest": "6cde769bbe33270de5429c31cd76172c",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 232
+    },
+    {
+      "compressedSize": 392,
+      "languages": [
+        "es-ES"
+      ],
+      "manifest": "05b34b60bbc6ee2fc9c2426da395abab",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1068
+    },
+    {
+      "compressedSize": 182,
+      "languages": [
+        "zh-Hans"
+      ],
+      "manifest": "6584dd87b09ddba7491de416ca21c103",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 234
+    },
+    {
+      "compressedSize": 404,
+      "languages": [
+        "zh-Hans"
+      ],
+      "manifest": "66470394f11e4c8b72647628bd8374e4",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1083
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "2eeb0bc3376325e4f662fb43026c2c9c",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 157
+    },
+    {
+      "compressedSize": 393,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "4e8c4154557eaa838de60f784fb2310b",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1068
+    },
+    {
+      "compressedSize": 177,
+      "languages": [
+        "pl-PL"
+      ],
+      "manifest": "2072bc67dbb8c964ea20261485b226ae",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 230
+    },
+    {
+      "compressedSize": 391,
+      "languages": [
+        "pl-PL"
+      ],
+      "manifest": "c1ebb4c4840224e10d96938376627f0c",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1067
+    },
+    {
+      "compressedSize": 179,
+      "languages": [
+        "fr-FR"
+      ],
+      "manifest": "d881005e62c03c2cb8b1ac1e30291c38",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 231
+    },
+    {
+      "compressedSize": 391,
+      "languages": [
+        "fr-FR"
+      ],
+      "manifest": "27c0ac1bc704cd8f5b1ea0eb4339e856",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1067
+    },
+    {
+      "compressedSize": 179,
+      "languages": [
+        "pt-BR"
+      ],
+      "manifest": "307dc1c44dfa8bb1ef2b536ac32022bd",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 231
+    },
+    {
+      "compressedSize": 404,
+      "languages": [
+        "pt-BR"
+      ],
+      "manifest": "eb85bc4ca7ca7504a8e0a10dbb40611d",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1083
+    },
+    {
+      "compressedSize": 178,
+      "languages": [
+        "it-IT"
+      ],
+      "manifest": "c0bc95cdc5c061c94c0fa3587ff90a86",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 230
+    },
+    {
+      "compressedSize": 392,
+      "languages": [
+        "it-IT"
+      ],
+      "manifest": "2cc039283092cf7d1045ba6705519349",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1068
+    },
+    {
+      "compressedSize": 179,
+      "languages": [
+        "ru-RU"
+      ],
+      "manifest": "1296d43c2425b042c2665e0300ec6912",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 231
+    },
+    {
+      "compressedSize": 393,
+      "languages": [
+        "ru-RU"
+      ],
+      "manifest": "dfeecc3e4afb7c6ec2d0c16795450072",
+      "osBitness": [
+        64
+      ],
+      "productId": 1423049311,
+      "size": 1068
+    },
+    {
+      "compressedSize": 24944202,
+      "languages": [
+        "de-DE",
+        "ja-JP",
+        "ko-KR",
+        "pl-PL",
+        "zh-Hans",
+        "en-US",
+        "pt-BR",
+        "it-IT",
+        "es-ES",
+        "fr-FR",
+        "ru-RU"
+      ],
+      "manifest": "c14ce6d864ade1bc682b6b8f2a6bcc3f",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 97186314
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "de-DE"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 194,
+      "languages": [
+        "de-DE"
+      ],
+      "manifest": "a3b6292a7f8b9039bd041b21d9c1486f",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 318
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "ko-KR"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 195,
+      "languages": [
+        "ko-KR"
+      ],
+      "manifest": "3eedb8db60aab5e4ad93fffbac97b544",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 318
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "ja-JP"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 197,
+      "languages": [
+        "ja-JP"
+      ],
+      "manifest": "15d3e3e00e7602e267bf7b493688fef6",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 320
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "es-ES"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 196,
+      "languages": [
+        "es-ES"
+      ],
+      "manifest": "7d6d628ae5375e74b8e384a8e2f1d5aa",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 319
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "zh-Hans"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 211,
+      "languages": [
+        "zh-Hans"
+      ],
+      "manifest": "254cd73662010cdd74eadf00eca11375",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 334
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 196,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "e65bed470f3d68ff0b60a74f1afb6a92",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 319
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "pl-PL"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 196,
+      "languages": [
+        "pl-PL"
+      ],
+      "manifest": "b575572ce463dad368a82d0e684b39e1",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 318
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "fr-FR"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 196,
+      "languages": [
+        "fr-FR"
+      ],
+      "manifest": "55821c1ca4201abd306d8714a302a97e",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 318
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "pt-BR"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 212,
+      "languages": [
+        "pt-BR"
+      ],
+      "manifest": "e574ca02de567f36a94516d010c50270",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 334
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "it-IT"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 195,
+      "languages": [
+        "it-IT"
+      ],
+      "manifest": "ea5f6bba7a6c9734f88a8de3f6a88a7e",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 319
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "ru-RU"
+      ],
+      "manifest": "33620c7b48614d59f54e99a771370439",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 157
+    },
+    {
+      "compressedSize": 195,
+      "languages": [
+        "ru-RU"
+      ],
+      "manifest": "c7a0c13da085e96919a6c5c752489cf4",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 319
+    },
+    {
+      "compressedSize": 278,
+      "languages": [
+        "*"
+      ],
+      "manifest": "0fe4e001784fd3cd68538e5209f2b443",
+      "osBitness": [
+        64
+      ],
+      "productId": 1597316373,
+      "size": 635
+    },
+    {
+      "compressedSize": 24406447890,
+      "languages": [
+        "de-DE",
+        "ja-JP",
+        "ko-KR",
+        "pl-PL",
+        "zh-Hans",
+        "en-US",
+        "pt-BR",
+        "it-IT",
+        "es-ES",
+        "fr-FR",
+        "ru-RU"
+      ],
+      "manifest": "c4836597af4833df683231cc6b6df6f5",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 24866068695
+    },
+    {
+      "compressedSize": 1961378087,
+      "languages": [
+        "de-DE"
+      ],
+      "manifest": "334c1496ac7b8b15fe2d62b7def407d0",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 2025889792
+    },
+    {
+      "compressedSize": 1706001768,
+      "languages": [
+        "es-ES"
+      ],
+      "manifest": "e4ae0f9340de744cd99f7ea543af4987",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 1771192320
+    },
+    {
+      "compressedSize": 1625271761,
+      "languages": [
+        "fr-FR"
+      ],
+      "manifest": "e2df93be75a5e67a172bd9f75723a623",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 1691291648
+    },
+    {
+      "compressedSize": 1642471698,
+      "languages": [
+        "it-IT"
+      ],
+      "manifest": "36a22b9060358bf1141f02a9685923a8",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 1707225088
+    },
+    {
+      "compressedSize": 1813974941,
+      "languages": [
+        "ja-JP"
+      ],
+      "manifest": "44bb947726b6250623a930e75c9567ec",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 1879531520
+    },
+    {
+      "compressedSize": 1696550465,
+      "languages": [
+        "pl-PL"
+      ],
+      "manifest": "fc9b48c80d2917b706f76e31e7ca5b71",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 1762201600
+    },
+    {
+      "compressedSize": 1729626278,
+      "languages": [
+        "pt-BR"
+      ],
+      "manifest": "895ba485732034bbe634905fdfd8716d",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 1795297280
+    },
+    {
+      "compressedSize": 1525994610,
+      "languages": [
+        "ru-RU"
+      ],
+      "manifest": "ced18ab8b585be825cc1a11940c9961e",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 1590341632
+    },
+    {
+      "compressedSize": 1572913794,
+      "languages": [
+        "ko-KR"
+      ],
+      "manifest": "ab10fb2882684a287540a2bdf89a053d",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 1637253120
+    },
+    {
+      "compressedSize": 1782419627,
+      "languages": [
+        "zh-Hans"
+      ],
+      "manifest": "1d819167b55068e88d77511f0f990169",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 1847558144
+    },
+    {
+      "compressedSize": 174,
+      "languages": [
+        "de-DE"
+      ],
+      "manifest": "6308c0195cd9bf937d0fc701e1c6ff73",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 227
+    },
+    {
+      "compressedSize": 202,
+      "languages": [
+        "de-DE"
+      ],
+      "manifest": "003d4a8a8e5f6b5c043349db723ee911",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 328
+    },
+    {
+      "compressedSize": 174,
+      "languages": [
+        "ko-KR"
+      ],
+      "manifest": "5301cb1e3924aeb35d575984afbba90f",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 227
+    },
+    {
+      "compressedSize": 202,
+      "languages": [
+        "ko-KR"
+      ],
+      "manifest": "a638494030342c8c946964355349acf8",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 328
+    },
+    {
+      "compressedSize": 174,
+      "languages": [
+        "ja-JP"
+      ],
+      "manifest": "13a4632f377baab5b5d03281231a6e0b",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 227
+    },
+    {
+      "compressedSize": 204,
+      "languages": [
+        "ja-JP"
+      ],
+      "manifest": "3e0730f6d07849e758b007b0b44212a3",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 330
+    },
+    {
+      "compressedSize": 177,
+      "languages": [
+        "es-ES"
+      ],
+      "manifest": "bfc689cffad5fe762063307565acd7d9",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 230
+    },
+    {
+      "compressedSize": 203,
+      "languages": [
+        "es-ES"
+      ],
+      "manifest": "8330b6d86c42a4e3633808742bf5dd5b",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 329
+    },
+    {
+      "compressedSize": 178,
+      "languages": [
+        "zh-Hans"
+      ],
+      "manifest": "030aa106c40625c06552c4ed18e4b8bc",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 230
+    },
+    {
+      "compressedSize": 218,
+      "languages": [
+        "zh-Hans"
+      ],
+      "manifest": "c505f8335867f114b40965766cc087b0",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 344
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "3524ff2344d68b7ed69bc6dd9c4e35d7",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 157
+    },
+    {
+      "compressedSize": 205,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "ca15ae8c90265adeb2e80726391575ed",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 329
+    },
+    {
+      "compressedSize": 173,
+      "languages": [
+        "pl-PL"
+      ],
+      "manifest": "eccb3d7cc80b7b424005534789fbc2e5",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 227
+    },
+    {
+      "compressedSize": 202,
+      "languages": [
+        "pl-PL"
+      ],
+      "manifest": "d7bb29dd60789282ae86ee3352799a4f",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 328
+    },
+    {
+      "compressedSize": 174,
+      "languages": [
+        "fr-FR"
+      ],
+      "manifest": "6e951e4e1851772bcf89f6d3c2c89743",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 227
+    },
+    {
+      "compressedSize": 202,
+      "languages": [
+        "fr-FR"
+      ],
+      "manifest": "2041dae13e554a6f7dd9a91219a00259",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 328
+    },
+    {
+      "compressedSize": 174,
+      "languages": [
+        "pt-BR"
+      ],
+      "manifest": "ffaccb97e584aa7d5f36a669f9b5eb8f",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 227
+    },
+    {
+      "compressedSize": 219,
+      "languages": [
+        "pt-BR"
+      ],
+      "manifest": "96441bda221a757c0c3743627c48f95d",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 344
+    },
+    {
+      "compressedSize": 174,
+      "languages": [
+        "it-IT"
+      ],
+      "manifest": "27e44d21fcc22c91cea81eb18f63c3b2",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 227
+    },
+    {
+      "compressedSize": 202,
+      "languages": [
+        "it-IT"
+      ],
+      "manifest": "706967c126a54e4a5b7aca49cf68f4fe",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 329
+    },
+    {
+      "compressedSize": 174,
+      "languages": [
+        "ru-RU"
+      ],
+      "manifest": "d20e206e7cc04caf338ce73f37065d09",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 227
+    },
+    {
+      "compressedSize": 203,
+      "languages": [
+        "ru-RU"
+      ],
+      "manifest": "5ead2a26d2bf728fa93fc347ebb2b64d",
+      "osBitness": [
+        64
+      ],
+      "productId": 1256837418,
+      "size": 329
+    }
+  ]
+}

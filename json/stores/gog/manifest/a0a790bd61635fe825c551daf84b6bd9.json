@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "path": "Data/Localization/language.lsx",
+      "chunks": [
+        {
+          "md5": "164DAEDD6A7C1F9DCCA2400A3FC9CB1B",
+          "size": 573,
+          "compressedMd5": "CAC1057DBF037EE441C90A222E69A374",
+          "compressedSize": 261
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Spanish/Spanish.pak",
+      "chunks": [
+        {
+          "md5": "A64EDEA8908CE26CE5DD12DEE858E70A",
+          "size": 14629343,
+          "compressedMd5": "D5F7225675633CCEEB2599884DEBCB6B",
+          "compressedSize": 13104055
+        }
+      ]
+    }
+  ]
+}

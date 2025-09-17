@@ -1,0 +1,37 @@
+{
+  "baseProductId": 1453375253,
+  "buildId": 58207459543824524,
+  "dependencies": [],
+  "depots": [
+    {
+      "compressedSize": 525474812,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "0702ef005a9c690c2b6022bd72e8940d",
+      "osBitness": [],
+      "productId": 1453375253,
+      "size": 827769276
+    },
+    {
+      "compressedSize": 119051,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "8bc883907a5af4942076d62d7ab385f3",
+      "osBitness": [],
+      "productId": 1453375253,
+      "size": 120736
+    },
+    {
+      "compressedSize": 360,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "31606fc861b93658826fa6b1a8458779",
+      "osBitness": [],
+      "productId": 1453375253,
+      "size": 1122
+    }
+  ]
+}

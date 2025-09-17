@@ -1,0 +1,3720 @@
+{
+  "items": [
+    {
+      "path": "Data/ccAFDSSE001-DweSanctuary.bsa",
+      "chunks": [
+        {
+          "md5": "C71B90784E18045E180728E9DD2AA38F",
+          "size": 4758160,
+          "compressedMd5": "F316FB63447B969E982D19B6C7003360",
+          "compressedSize": 1499823
+        }
+      ]
+    },
+    {
+      "path": "Data/ccAFDSSE001-DweSanctuary.esm",
+      "chunks": [
+        {
+          "md5": "41674C89A8D92516DF8D0AEF5FAB1A5C",
+          "size": 523533,
+          "compressedMd5": "997BA1E15AB0D42C596A9E0D7E7572FA",
+          "compressedSize": 186041
+        }
+      ]
+    },
+    {
+      "path": "Data/ccASVSSE001-ALMSIVI.bsa",
+      "md5": "1B54B666A956B2BE2F41CC287004D77C",
+      "chunks": [
+        {
+          "md5": "490FDDB6DC77D9CB8C62E845A157C8EB",
+          "size": 10485760,
+          "compressedMd5": "45ACAFB72CDE9F6825E8C397FF3BF7FA",
+          "compressedSize": 7267320
+        },
+        {
+          "md5": "79823EA546BCDA9606C4A3D922D4DAF3",
+          "size": 10485760,
+          "compressedMd5": "DD0FE2804CD157A87F1F79A54485CF4C",
+          "compressedSize": 8152794
+        },
+        {
+          "md5": "DA8D2EA9C518402E5309A6E7C494DED4",
+          "size": 10485760,
+          "compressedMd5": "1F51D64DA919A123FB2B55E4EE51A916",
+          "compressedSize": 8154738
+        },
+        {
+          "md5": "D15261769F3F833CC7DCC025910E99E8",
+          "size": 10485760,
+          "compressedMd5": "7CDD42C1B2A3A20EE32AF2B0EE9CD61F",
+          "compressedSize": 7458002
+        },
+        {
+          "md5": "7AC474B44CE369FB92188329329B1055",
+          "size": 10485760,
+          "compressedMd5": "6FAD382BD14B8A319C1767E24C450A30",
+          "compressedSize": 8464834
+        },
+        {
+          "md5": "4B4E03621C42AAD6C066DA4C9AAE2F35",
+          "size": 10485760,
+          "compressedMd5": "E22DADAD08BDB6F019B58AEE5567836E",
+          "compressedSize": 7676561
+        },
+        {
+          "md5": "D383CD00BB26521BDF5CBC45C1F4DAF7",
+          "size": 10485760,
+          "compressedMd5": "29893508ABC2BD383F95DA1E2755C797",
+          "compressedSize": 5134596
+        },
+        {
+          "md5": "31C750DE57517676AADB65C9E4818EC7",
+          "size": 10485760,
+          "compressedMd5": "8E10CF58DDD7B095CF5B6EC59D08DD59",
+          "compressedSize": 6915393
+        },
+        {
+          "md5": "AC94D402626C7CB7D1D95F7C0A36334A",
+          "size": 10485760,
+          "compressedMd5": "AFDEE074ED008AAE0E6AAD1331F452F5",
+          "compressedSize": 7938117
+        },
+        {
+          "md5": "58598172C71C270C526C31130FEAF035",
+          "size": 10485760,
+          "compressedMd5": "EC7626DD646CE95C85BA281538FFE1CC",
+          "compressedSize": 7377730
+        },
+        {
+          "md5": "8C64D897F94E1FA85DF822B6E1B49454",
+          "size": 10485760,
+          "compressedMd5": "C3AB2822657BB97B5763EF7D2DA932A3",
+          "compressedSize": 6727766
+        },
+        {
+          "md5": "49DD9F6C92CAEF6F036247D84AE5371A",
+          "size": 10485760,
+          "compressedMd5": "52BBB976106889C74FE59FB0D6CAC460",
+          "compressedSize": 6037864
+        },
+        {
+          "md5": "82A7193BAF2C9E365DA1B90D7DF58877",
+          "size": 10485760,
+          "compressedMd5": "4D4E3B713BF476A359B9004BC65A8043",
+          "compressedSize": 7679776
+        },
+        {
+          "md5": "911FD3E051891ABCE7D11FDD2EB369B8",
+          "size": 10485760,
+          "compressedMd5": "C1AD392E730D5B020E3522B50E5539E5",
+          "compressedSize": 8424864
+        },
+        {
+          "md5": "43894783D16B393B038E3032BA43CB98",
+          "size": 10485760,
+          "compressedMd5": "D2B08C9094F177ACCD9191BB30624F80",
+          "compressedSize": 4307367
+        },
+        {
+          "md5": "0EDCBFBF1CE8C6E37C6928D4EE04542E",
+          "size": 10485760,
+          "compressedMd5": "7B2C5B55BD3F47DC089E719AF76AD498",
+          "compressedSize": 6695814
+        },
+        {
+          "md5": "5466BC96B02EF1A6149144046A718471",
+          "size": 10485760,
+          "compressedMd5": "C3991010D4F0887E6D99ED5F04AA9081",
+          "compressedSize": 7779162
+        },
+        {
+          "md5": "45B74BB1E67FD0E38EFB2C89DA473FDF",
+          "size": 10485760,
+          "compressedMd5": "6BA493CF4A8A5F73583C33C98AA5CF41",
+          "compressedSize": 7323017
+        },
+        {
+          "md5": "287885C8356090357FBA5E6F21D69D30",
+          "size": 10485760,
+          "compressedMd5": "24EDFF5165D541B22AB6A95EBFDF7D2F",
+          "compressedSize": 5391196
+        },
+        {
+          "md5": "86D5483247D94329116CBBB3B6404817",
+          "size": 10485760,
+          "compressedMd5": "B642727F6FF9E46E9610D77A31D03808",
+          "compressedSize": 6213136
+        },
+        {
+          "md5": "33B42886E7FFC008E519F47A51E86E47",
+          "size": 10485760,
+          "compressedMd5": "31BE879B629920399CACB38A0307CBDB",
+          "compressedSize": 6712270
+        },
+        {
+          "md5": "05313E733D3FFDD23899A25D72E232BE",
+          "size": 10485760,
+          "compressedMd5": "271D39688484324BF188709CBB348E47",
+          "compressedSize": 5797949
+        },
+        {
+          "md5": "B418A7EC63F52F3915EF6E161AE95CCE",
+          "size": 10485760,
+          "compressedMd5": "6A6B327FFEBC010659BDAAFA53773FC3",
+          "compressedSize": 3597826
+        },
+        {
+          "md5": "D6A589E12D7A37269BFE2BDA58137729",
+          "size": 10485760,
+          "compressedMd5": "510274F187F99EF6B6E29A5A9C8DD9D5",
+          "compressedSize": 4689950
+        },
+        {
+          "md5": "27410E9D85C245709A31F4AD4961F369",
+          "size": 10485760,
+          "compressedMd5": "42A5CE8E4D913028C0E42B55809AF0C0",
+          "compressedSize": 4639747
+        },
+        {
+          "md5": "69A21D361659BF2A64CDA09EC5333471",
+          "size": 10485760,
+          "compressedMd5": "CE3595401A8F00298F90DE8E04556B2B",
+          "compressedSize": 6393138
+        },
+        {
+          "md5": "DD45BE36D45D086C7BC9ADA8A279E58F",
+          "size": 10485760,
+          "compressedMd5": "7A4E79787B62A99A90A9B8117F282ACD",
+          "compressedSize": 6003039
+        },
+        {
+          "md5": "2D474BBCA8D1D8CEAC71BD1B76BEA706",
+          "size": 10485760,
+          "compressedMd5": "61B853CCDE27AAB81E974CE8191206B8",
+          "compressedSize": 3898376
+        },
+        {
+          "md5": "CA2DD91758543A5DCE56D0B9346ACEE4",
+          "size": 10485760,
+          "compressedMd5": "D8F182CC0325B4CC6D14543895D9BCE0",
+          "compressedSize": 4771350
+        },
+        {
+          "md5": "408845ECD49D4100BAB266FB812E0FEE",
+          "size": 10485760,
+          "compressedMd5": "F2C0404358716D965B821EA4722B50A1",
+          "compressedSize": 5403940
+        },
+        {
+          "md5": "C6A21434E8B7B857560FDE26B34B3221",
+          "size": 10485760,
+          "compressedMd5": "6B46D118A09715B1535AEDF51EC8DF73",
+          "compressedSize": 4179727
+        },
+        {
+          "md5": "7025B0E413653AE6F2593C73D0F96154",
+          "size": 10485760,
+          "compressedMd5": "6395BAFB86BB1515163BBEB3662C385D",
+          "compressedSize": 2257194
+        },
+        {
+          "md5": "D9745D6AD3DD187145E3BD8534A97344",
+          "size": 10485760,
+          "compressedMd5": "E2A5F6906D6CA1E452B6E71C65CDE147",
+          "compressedSize": 2857053
+        },
+        {
+          "md5": "DCAD82D69A6B5F73285BACE038B51381",
+          "size": 10485760,
+          "compressedMd5": "C3108F37EC73358494BFB657C9BDE664",
+          "compressedSize": 8250677
+        },
+        {
+          "md5": "98AB521F84832D6B61F4FFEEAD644D12",
+          "size": 10485760,
+          "compressedMd5": "FFC0543BB125A00898576632107D682E",
+          "compressedSize": 6471936
+        },
+        {
+          "md5": "5E6A4AD66A3D45F625941A453C0FE7EF",
+          "size": 10485760,
+          "compressedMd5": "CBA5FBAA580A012B5AE12DA072344EFE",
+          "compressedSize": 7251961
+        },
+        {
+          "md5": "B117A86DD427CF968B8BBB80C5323386",
+          "size": 10485760,
+          "compressedMd5": "FD5489EEA16077F3FDC939332F029F9D",
+          "compressedSize": 7643010
+        },
+        {
+          "md5": "93D83FD8EFC27755A48FA971D9BDFE92",
+          "size": 10485760,
+          "compressedMd5": "103FD6613DEE8AAAD3D61C57992B33E8",
+          "compressedSize": 6820696
+        },
+        {
+          "md5": "73BD565F64E631B0A358257ACBF96F1F",
+          "size": 10485760,
+          "compressedMd5": "ACC11BADD5A61DFD87BEFA629F26263E",
+          "compressedSize": 3869136
+        },
+        {
+          "md5": "3506B9E77227C4069DFA949CFD5B72FD",
+          "size": 10485760,
+          "compressedMd5": "ABC3157DB50AB3407C53D6B345CBB1BE",
+          "compressedSize": 3365019
+        },
+        {
+          "md5": "460D026D0030DC41578D4CD64B8B07D0",
+          "size": 10485760,
+          "compressedMd5": "37315E6D53C8DD52FF68166EE5FBA314",
+          "compressedSize": 4092776
+        },
+        {
+          "md5": "C4DA142C4BE35416E5D6A86CE48E8857",
+          "size": 10485760,
+          "compressedMd5": "126B3E73EE7A5039531DC93B6839FB78",
+          "compressedSize": 7084555
+        },
+        {
+          "md5": "2793EB96B346E097848CBF068579DD50",
+          "size": 10485760,
+          "compressedMd5": "B979A5EB42E212126D95D44C820B76DE",
+          "compressedSize": 8275448
+        },
+        {
+          "md5": "C19D0248E950BC5BE9DD089927B6C6B7",
+          "size": 10485760,
+          "compressedMd5": "102E207E871F1DA7296283E552815A0E",
+          "compressedSize": 8091149
+        },
+        {
+          "md5": "BA352CF9989B3F9FB65CE807698DDC3C",
+          "size": 10485760,
+          "compressedMd5": "C5D4DBCC2AD3855D745E64F122F2B462",
+          "compressedSize": 15298
+        },
+        {
+          "md5": "58ADE3BF873E4E86F2D354BF93F5CC9D",
+          "size": 10485760,
+          "compressedMd5": "977FFDF04933D80F96D403300128FEC4",
+          "compressedSize": 8557831
+        },
+        {
+          "md5": "4C5E68FA1F60ED8B6065C44CB2FFFEDD",
+          "size": 10485760,
+          "compressedMd5": "E37F6D078E5C6CBDE9536AADC1F14AAC",
+          "compressedSize": 7636233
+        },
+        {
+          "md5": "0B3C3F78DA2BAC6EE021CAEBA734F137",
+          "size": 10485760,
+          "compressedMd5": "9B33DF67A99A2F792E01CB20E0B1E58C",
+          "compressedSize": 4297393
+        },
+        {
+          "md5": "0B5AA11FEAA227D84D9959B0234F51B7",
+          "size": 20729766,
+          "compressedMd5": "DE87D8928EBDD6F7964268145DAC1DFC",
+          "compressedSize": 14738551
+        }
+      ]
+    },
+    {
+      "path": "Data/ccASVSSE001-ALMSIVI.esm",
+      "chunks": [
+        {
+          "md5": "C1FAF47A3556E6291F6BC2AE57F0C8F1",
+          "size": 649485,
+          "compressedMd5": "DA16AD9D5750BDC9EA29160C4325E515",
+          "compressedSize": 182045
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE002-ExoticArrows.bsa",
+      "md5": "EA90C693BAEF190B17C80EF6CE6B2B08",
+      "chunks": [
+        {
+          "md5": "2D173E99A507341F82B48C3DFDB08982",
+          "size": 10485760,
+          "compressedMd5": "C9FFEB3637590D50DF43B759F577ADC5",
+          "compressedSize": 6342103
+        },
+        {
+          "md5": "6C338AB7C951A3F3392C556E3AC19FA7",
+          "size": 10485760,
+          "compressedMd5": "5344FB683AB9DAAB218DE367B755B0CB",
+          "compressedSize": 6691065
+        },
+        {
+          "md5": "3C1BA7F3054B616A20A8ECE7D07C47C4",
+          "size": 10485760,
+          "compressedMd5": "A6D8364A20B04EF3A2C9CF6D92BDA32C",
+          "compressedSize": 6604625
+        },
+        {
+          "md5": "51DF4112061683EB446AE6C179EB1DB1",
+          "size": 10485760,
+          "compressedMd5": "46024967E477187F9E51E75ECE9024F3",
+          "compressedSize": 6597626
+        },
+        {
+          "md5": "B42F3C0B1DBE927E1FF0FB979D069D24",
+          "size": 10485760,
+          "compressedMd5": "CD1B7D713B262450FD2E365CCC4EC79A",
+          "compressedSize": 7394845
+        },
+        {
+          "md5": "C1B0DF756FFF869F3BE60314677D84D9",
+          "size": 17374984,
+          "compressedMd5": "3B17B979A016413640E9AEFFB4DC95E5",
+          "compressedSize": 9262111
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE002-ExoticArrows.esl",
+      "chunks": [
+        {
+          "md5": "86E3D8612579835A0C301E88E1132FDF",
+          "size": 182185,
+          "compressedMd5": "6D779D7F1DA33CCB06B8E803AE74F098",
+          "compressedSize": 10358
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE003-Zombies.bsa",
+      "md5": "0FEC256C3515B2735ED7DF8C74057470",
+      "chunks": [
+        {
+          "md5": "B4FB9E9B08CA547E27C435B6B04E2054",
+          "size": 10485760,
+          "compressedMd5": "0D3611F230605C38ECED1399E7EF87A6",
+          "compressedSize": 7229584
+        },
+        {
+          "md5": "F58C982CD93CCC7BDB82A65A4AC2D7FF",
+          "size": 10485760,
+          "compressedMd5": "873A93EE947AC33758D427396FA30EF4",
+          "compressedSize": 7161298
+        },
+        {
+          "md5": "1B029699753A213A0F141C1DBF606750",
+          "size": 10485760,
+          "compressedMd5": "6D71CE94F73F77B532D031B30AB9F3F7",
+          "compressedSize": 6617939
+        },
+        {
+          "md5": "3A517A0C09FB5E83A7761C368B86BCFC",
+          "size": 10485760,
+          "compressedMd5": "915AFD2A13E74B21008A6AA2E63D4B57",
+          "compressedSize": 7307919
+        },
+        {
+          "md5": "41C5F06D17A5B4AECF4C9CF853687438",
+          "size": 10485760,
+          "compressedMd5": "C729B0765ED98E23F19139FE5071190E",
+          "compressedSize": 7989409
+        },
+        {
+          "md5": "E358438D98BE2FBE536B97D951B1C322",
+          "size": 10485760,
+          "compressedMd5": "26F508C69AE835B1F73211A5D29A67D1",
+          "compressedSize": 8537918
+        },
+        {
+          "md5": "54639CD6C2997271C7F600633FDD673C",
+          "size": 10485760,
+          "compressedMd5": "FC1AAA87A8B1CF85C0C6C0C1A02CDD98",
+          "compressedSize": 8423779
+        },
+        {
+          "md5": "BB4BCCC5DD93D0F1C831C820B7E4253A",
+          "size": 10485760,
+          "compressedMd5": "6BFDFA6B4B22A04E63A916609B55A189",
+          "compressedSize": 7918368
+        },
+        {
+          "md5": "1AD2960105AB1C1284DC67A2B9D05C84",
+          "size": 10485760,
+          "compressedMd5": "6EAA18AAE0C4AEEB9F8C3BDDD250C27C",
+          "compressedSize": 7532845
+        },
+        {
+          "md5": "525FD5CD16A29CA326BB7BF40487E3FE",
+          "size": 18116794,
+          "compressedMd5": "6F7EECE08DC5F2387BF2EEC967F35A11",
+          "compressedSize": 10438453
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE003-Zombies.esl",
+      "chunks": [
+        {
+          "md5": "9CD92234413FC44D37D086A4C364153B",
+          "size": 180895,
+          "compressedMd5": "52967272C51575869FE1BBA9614B20CC",
+          "compressedSize": 86948
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE004-RuinsEdge.bsa",
+      "md5": "8D8EBCBA4B4DB7E5E4B5EA4B9A3256B5",
+      "chunks": [
+        {
+          "md5": "82F0584E128EF94882DAF04A72E5FEB0",
+          "size": 10485760,
+          "compressedMd5": "E28DA2F2A9CEE4BD52942228907A2829",
+          "compressedSize": 3950226
+        },
+        {
+          "md5": "F2ED86749E0B8B8AED365C5F3634F04F",
+          "size": 10485760,
+          "compressedMd5": "8BC905246E94EC8A8D39708C0BC90D83",
+          "compressedSize": 5535969
+        },
+        {
+          "md5": "EF114E996A2522B2948B8DE7D238636A",
+          "size": 19129802,
+          "compressedMd5": "FA95A7EA5550EBFF316F2ABEC42D1423",
+          "compressedSize": 9298903
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE004-RuinsEdge.esl",
+      "chunks": [
+        {
+          "md5": "C5FE1D5FC27CFAF8D3F6418C4DD6B1DF",
+          "size": 7913,
+          "compressedMd5": "236BA05E254651611022EF38B274CF6A",
+          "compressedSize": 2966
+        }
+      ],
+      "sfcRef": {
+        "offset": 6345,
+        "size": 7913
+      }
+    },
+    {
+      "path": "Data/ccBGSSSE005-Goldbrand.bsa",
+      "chunks": [
+        {
+          "md5": "4FADA13A3AAF0CBA96DC18E732301B8A",
+          "size": 11231646,
+          "compressedMd5": "7B5AF1730C6A760CCC6657A59AC6673B",
+          "compressedSize": 6740553
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE005-Goldbrand.esl",
+      "chunks": [
+        {
+          "md5": "BB16491996CCA9582BEEE0B301594477",
+          "size": 213661,
+          "compressedMd5": "BBF2D4821D017F5A771EA03343D5F08E",
+          "compressedSize": 77985
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE006-StendarsHammer.bsa",
+      "md5": "0749C5116D3BA50C0ABA35A088602F29",
+      "chunks": [
+        {
+          "md5": "6BC65236413080DD4888AA56CCC16269",
+          "size": 10485760,
+          "compressedMd5": "3541DEAC632489A6E9538AABCB2C23ED",
+          "compressedSize": 8684749
+        },
+        {
+          "md5": "2AAAB35984767C72665E31CD153C6FB9",
+          "size": 10485760,
+          "compressedMd5": "D6B09A005E8BCC770A3A8F62609C15EF",
+          "compressedSize": 8789101
+        },
+        {
+          "md5": "6BC372C9863C0E11ACD2BC259216D1F4",
+          "size": 12765177,
+          "compressedMd5": "B017461AC45709A0887B6E09171FB8C9",
+          "compressedSize": 9845595
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE006-StendarsHammer.esl",
+      "chunks": [
+        {
+          "md5": "09E1381C6E6B1BF3E40F9ADCD819E919",
+          "size": 4539,
+          "compressedMd5": "B983EA9569FFA4878023B4EB565A5088",
+          "compressedSize": 2219
+        }
+      ],
+      "sfcRef": {
+        "offset": 1806,
+        "size": 4539
+      }
+    },
+    {
+      "path": "Data/ccBGSSSE007-Chrysamere.bsa",
+      "chunks": [
+        {
+          "md5": "F13E223DCB2787EF9CBE5E02B1267E8A",
+          "size": 4893203,
+          "compressedMd5": "E76EA4E369C081855DFF2E5AFB1FD5D5",
+          "compressedSize": 3104893
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE007-Chrysamere.esl",
+      "chunks": [
+        {
+          "md5": "68D191C0335E4493F8B66BD0057E7C8D",
+          "size": 54188,
+          "compressedMd5": "7C18D15D8F188C350D3A2F207535A811",
+          "compressedSize": 4301
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE008-Wraithguard.bsa",
+      "md5": "FA33AE89DAD5525B9FFDD9E7852FC05D",
+      "chunks": [
+        {
+          "md5": "0E366F6E3C0AB1B26A074B56E951CE78",
+          "size": 10485760,
+          "compressedMd5": "2434EF853FB193BA63D9282E6D64E4AE",
+          "compressedSize": 5309452
+        },
+        {
+          "md5": "B4B125B2A3E08464DB90D5410D5AF609",
+          "size": 10485760,
+          "compressedMd5": "988B18723C8F89365BA16248E6265EE3",
+          "compressedSize": 8818835
+        },
+        {
+          "md5": "4E9CC78D22DDD09433C33E42F9163057",
+          "size": 16779291,
+          "compressedMd5": "219D6C5EA69420055F19BF20296BE855",
+          "compressedSize": 10520675
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE008-Wraithguard.esl",
+      "chunks": [
+        {
+          "md5": "00364E6BDBBBE69B97855D6C5AC93DCD",
+          "size": 240474,
+          "compressedMd5": "55C0DF90F96A0A5E9610C3FE05A9B0FF",
+          "compressedSize": 87478
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE010-PetDwarvenArmoredMudcrab.bsa",
+      "md5": "350DDD967F0EAB959D4B9A0DFDAF372B",
+      "chunks": [
+        {
+          "md5": "83A77F39729005CD1281A7B7B724C654",
+          "size": 10485760,
+          "compressedMd5": "119CCD3604E4BC9678A8ADC247E96A0A",
+          "compressedSize": 3085766
+        },
+        {
+          "md5": "0918AB6B8DDFA8CCF6277CB031AAD981",
+          "size": 10485760,
+          "compressedMd5": "538A539D5DF44D5A611AB9921C6F3097",
+          "compressedSize": 3032587
+        },
+        {
+          "md5": "44643337F14B027735F13A3B00F64631",
+          "size": 10485760,
+          "compressedMd5": "849D92AA86F09977933080DBF341EE06",
+          "compressedSize": 6051808
+        },
+        {
+          "md5": "B90839B15A788854FE44E5417076F499",
+          "size": 13740851,
+          "compressedMd5": "DF88EA2A24525CC43E3F4FC049F55F28",
+          "compressedSize": 8497446
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE010-PetDwarvenArmoredMudcrab.esl",
+      "chunks": [
+        {
+          "md5": "89ECFE4C6A441CF902E3CEC804013B74",
+          "size": 10489,
+          "compressedMd5": "678206A915F52BAD8E6E8A6309D8CCD5",
+          "compressedSize": 3834
+        }
+      ],
+      "sfcRef": {
+        "offset": 14258,
+        "size": 10489
+      }
+    },
+    {
+      "path": "Data/ccBGSSSE011-HrsArmrElvn.bsa",
+      "chunks": [
+        {
+          "md5": "BBD4116AC28E2AA83D58135B4AC6DF3E",
+          "size": 15948258,
+          "compressedMd5": "74AFB888F0AFC764C4ED925898984F97",
+          "compressedSize": 10170927
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE011-HrsArmrElvn.esl",
+      "chunks": [
+        {
+          "md5": "171C7DCF1D1EA70FC0AB190E800E5285",
+          "size": 896,
+          "compressedMd5": "8161FBFDE5FDB4F95C9629CE2C1854D8",
+          "compressedSize": 416
+        }
+      ],
+      "sfcRef": {
+        "size": 896
+      }
+    },
+    {
+      "path": "Data/ccBGSSSE012-HrsArmrStl.bsa",
+      "chunks": [
+        {
+          "md5": "A71F32F22FC49FDA7AC36E7BFF9BD18E",
+          "size": 12638944,
+          "compressedMd5": "9E864F62B72231E4B0AF99900F6497A5",
+          "compressedSize": 9304677
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE012-HrsArmrStl.esl",
+      "chunks": [
+        {
+          "md5": "034C381A570C22D652154F023D7BD96C",
+          "size": 910,
+          "compressedMd5": "C9DE7D17D7184EA1F49EA5D5D6874558",
+          "compressedSize": 432
+        }
+      ],
+      "sfcRef": {
+        "offset": 896,
+        "size": 910
+      }
+    },
+    {
+      "path": "Data/ccBGSSSE013-Dawnfang.bsa",
+      "md5": "8280702DE72E286D2A124CCD7A4A9CC8",
+      "chunks": [
+        {
+          "md5": "7684B5B1A8A9F09C9798577076724681",
+          "size": 10485760,
+          "compressedMd5": "46ADD6653727C041C3C62A5334EAD42D",
+          "compressedSize": 2656867
+        },
+        {
+          "md5": "1E3A80697EDA9A1ED512E8AD7D97DC09",
+          "size": 18139344,
+          "compressedMd5": "50082370E9ECE1E39A1395FE282629DB",
+          "compressedSize": 6223299
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE013-Dawnfang.esl",
+      "chunks": [
+        {
+          "md5": "2809F4FE086CA35E0C3AB00257C38899",
+          "size": 244251,
+          "compressedMd5": "E1AF072D8CFFD58F3D696AD8B6C18791",
+          "compressedSize": 96212
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE014-SpellPack01.bsa",
+      "md5": "8C2A440D887565CB8896ED7E6D9E170F",
+      "chunks": [
+        {
+          "md5": "E1B09FAD3ECF35BD15264825C9376CBE",
+          "size": 10485760,
+          "compressedMd5": "E736FAE5694A288484373B54901E1AD6",
+          "compressedSize": 7492764
+        },
+        {
+          "md5": "B872ACFF8E795FD61663D7B01D40F91A",
+          "size": 11764197,
+          "compressedMd5": "AAA5A7553520F43CA0791D31673F5F09",
+          "compressedSize": 5145383
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE014-SpellPack01.esl",
+      "chunks": [
+        {
+          "md5": "A0706CB52AA72B155DB8F9D396FC30CA",
+          "size": 45414,
+          "compressedMd5": "1D59B9FB4205E3D1CF32EDC421EAA1B8",
+          "compressedSize": 9862
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE016-Umbra.bsa",
+      "chunks": [
+        {
+          "md5": "3EBB3263103EBDBD3EE61F432FCDDA58",
+          "size": 10284176,
+          "compressedMd5": "805F2D6BE9B590E7CDE29591CF9D26E1",
+          "compressedSize": 6751232
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE016-Umbra.esm",
+      "chunks": [
+        {
+          "md5": "CBD8B7E7713722787A2AF4D84609E941",
+          "size": 471113,
+          "compressedMd5": "E3C1089C41AF55B01F79DE25E796CE9F",
+          "compressedSize": 190256
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE018-Shadowrend.bsa",
+      "md5": "BB66F347219D1637DF4E9ED532B556CD",
+      "chunks": [
+        {
+          "md5": "7FBF6CED544BEDC7E0C94CA8D796314C",
+          "size": 10485760,
+          "compressedMd5": "21C01093C0B96120E30CDB080419A254",
+          "compressedSize": 7829081
+        },
+        {
+          "md5": "08C81A31451C55E3F38874A8D47B4DEF",
+          "size": 10485760,
+          "compressedMd5": "55F800987F94ED6685BBB20E78F52971",
+          "compressedSize": 8904225
+        },
+        {
+          "md5": "369A1EFFA9C45BBBA59C8D34750AB7B4",
+          "size": 10485760,
+          "compressedMd5": "793AD26E19DFFB3CBDDC246403E6F913",
+          "compressedSize": 7863197
+        },
+        {
+          "md5": "7A6CE97EFA7AD26ED59FBC65B651AC18",
+          "size": 10485760,
+          "compressedMd5": "9E73CDF293E77EF76986CE40F6675CAD",
+          "compressedSize": 5547792
+        },
+        {
+          "md5": "5F35A7ED95005EFB324DAFA04184D6DE",
+          "size": 10485760,
+          "compressedMd5": "212A87630882860FE27DE53C259E0F20",
+          "compressedSize": 5786478
+        },
+        {
+          "md5": "B721483E07F578A26B8C5CF05E7156A4",
+          "size": 20947489,
+          "compressedMd5": "5361D938732C17B252ECA136EB6EFAB7",
+          "compressedSize": 10220917
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE018-Shadowrend.esl",
+      "chunks": [
+        {
+          "md5": "21FBF3200848C5A908FAB31E1447851E",
+          "size": 299516,
+          "compressedMd5": "ABF0A6C42622CC3C1ED640D80AF7C373",
+          "compressedSize": 67093
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE019-StaffofSheogorath.bsa",
+      "chunks": [
+        {
+          "md5": "10A65CE1768CB414900B9065608ADCAF",
+          "size": 11887694,
+          "compressedMd5": "1EB17463CAE71E22875BCF1C3A6BA4BD",
+          "compressedSize": 8886038
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE019-StaffofSheogorath.esl",
+      "chunks": [
+        {
+          "md5": "8E0F23852A4AE3E50BF1CB96C1077683",
+          "size": 172972,
+          "compressedMd5": "5D86469A6A596BE79A15FD255A610989",
+          "compressedSize": 9051
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE020-GrayCowl.bsa",
+      "chunks": [
+        {
+          "md5": "7FD16C9FF7EBB634D5E78B352B08B4C3",
+          "size": 15063067,
+          "compressedMd5": "BB07FE1DCA47270590580907148BC594",
+          "compressedSize": 6688617
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE020-GrayCowl.esl",
+      "chunks": [
+        {
+          "md5": "CED03CC0E43A3E739310118928EA7999",
+          "size": 70659,
+          "compressedMd5": "3F40C9835BBB4E40A190A4B300777551",
+          "compressedSize": 20524
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE021-LordsMail.bsa",
+      "md5": "6ED4DBECE7108898FB39678A07977BB5",
+      "chunks": [
+        {
+          "md5": "B340A41FE00CD1478FEAB28D6858BAFC",
+          "size": 10485760,
+          "compressedMd5": "30E497F73840BE8318AE49F6D389905D",
+          "compressedSize": 5693107
+        },
+        {
+          "md5": "5195600C503CEAF414F8D9BCC8AD5908",
+          "size": 10485760,
+          "compressedMd5": "2ED46F7F08E2595B6C1673FB909FB434",
+          "compressedSize": 6749772
+        },
+        {
+          "md5": "E8DB5B78ED8C104719A15A794F9FC7B5",
+          "size": 10485760,
+          "compressedMd5": "B9F940D9330CC60AAC4896D30524D799",
+          "compressedSize": 7794874
+        },
+        {
+          "md5": "87A1E7163F7AA700302E7C90369DE47D",
+          "size": 14415758,
+          "compressedMd5": "112F5FBA1426094AAAE02B5516BE0F3A",
+          "compressedSize": 4555803
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE021-LordsMail.esl",
+      "chunks": [
+        {
+          "md5": "C578CC51178374A578CDA883E9E0018D",
+          "size": 113075,
+          "compressedMd5": "08B2689895B39B229709841FE046795C",
+          "compressedSize": 39447
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE031-AdvCyrus.bsa",
+      "md5": "EA85D058A8848653BD768584FFE56684",
+      "chunks": [
+        {
+          "md5": "5BFEA0BCC42D0ACA5C55751BFF527E2C",
+          "size": 10485760,
+          "compressedMd5": "37DE5C07DF47EFE80B7E93E7BE0D3D19",
+          "compressedSize": 5550552
+        },
+        {
+          "md5": "EAA2729D13EDD41FA0F609FA09D884C2",
+          "size": 10485760,
+          "compressedMd5": "D1F989D9A3937CE5EB880F47683CB25C",
+          "compressedSize": 5837091
+        },
+        {
+          "md5": "EB2409092120903A89626EA6B4B9A9F9",
+          "size": 10485760,
+          "compressedMd5": "CC39B0A4F0D3BE71D6C3040356B8921E",
+          "compressedSize": 7130022
+        },
+        {
+          "md5": "28AF4235D9E2423908BD813F880A01B9",
+          "size": 10485760,
+          "compressedMd5": "0AE1990923FD6B784EB262BE0C02B8FB",
+          "compressedSize": 7060945
+        },
+        {
+          "md5": "E0D73F2199E2DC561B2BFCAABC63DDE4",
+          "size": 10485760,
+          "compressedMd5": "3F9E21F744B3CB8FD821F13E4BC5C319",
+          "compressedSize": 5928704
+        },
+        {
+          "md5": "F256EF747AD7D5C1DE1046938A6AC434",
+          "size": 10485760,
+          "compressedMd5": "B6B1AFC7EBA3FB4E31194A0F269C99F6",
+          "compressedSize": 7395175
+        },
+        {
+          "md5": "2CDF16291CB589CA3D039D60CDC831CB",
+          "size": 10485760,
+          "compressedMd5": "A68A11303EC08A76E5300DF1846FFE90",
+          "compressedSize": 7970360
+        },
+        {
+          "md5": "5D620CB5D49F6CA6F8A99DD9DF7A1FA1",
+          "size": 10485760,
+          "compressedMd5": "7BCF1C76BE5D45FC3A571606E25C7B73",
+          "compressedSize": 8045279
+        },
+        {
+          "md5": "160323FDAC1BE07D32988689CE790243",
+          "size": 10485760,
+          "compressedMd5": "A093FF1590C1390FAC0CFED7506250D1",
+          "compressedSize": 7082858
+        },
+        {
+          "md5": "760B54D3A354298B0DB0317A1A9CC024",
+          "size": 10485760,
+          "compressedMd5": "3C35575A50A696CF65DE42DBD45EF520",
+          "compressedSize": 7058856
+        },
+        {
+          "md5": "CF8ACBBA786F62ABF1DD5E3FD857EA01",
+          "size": 10485760,
+          "compressedMd5": "50118B610ACCFDAFBEEFECD277BF302C",
+          "compressedSize": 8032474
+        },
+        {
+          "md5": "7DC01C32C75F718CB802466C25D1325D",
+          "size": 10485760,
+          "compressedMd5": "46B2B4DABE3FA443315D620AF81A2D32",
+          "compressedSize": 7336351
+        },
+        {
+          "md5": "B0D3DC2194FDDBCC82D61451F5F73B8A",
+          "size": 19652611,
+          "compressedMd5": "62005B913D75B57DD3B8DAFD3B47E31A",
+          "compressedSize": 11330028
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE031-AdvCyrus.esm",
+      "chunks": [
+        {
+          "md5": "9438BE9FB18BEDEB198693901599B125",
+          "size": 855131,
+          "compressedMd5": "17E198DEEBB7F2CA1B15EE086D1C7A0F",
+          "compressedSize": 374983
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE034-MntUni.bsa",
+      "md5": "8E0880518825B7118342A544A7D3ABBF",
+      "chunks": [
+        {
+          "md5": "5F2F9FA02F9ECFFDE0624F25D453C40A",
+          "size": 10485760,
+          "compressedMd5": "9A7E0F44B76FBC39429F746042C154C7",
+          "compressedSize": 6612632
+        },
+        {
+          "md5": "43CE5CE4DE11882C47CDAC466E720417",
+          "size": 10485760,
+          "compressedMd5": "AE36B58D2C8D058DBD08357C99349789",
+          "compressedSize": 6409826
+        },
+        {
+          "md5": "C10F7965BD142A6D37AA76CC746951DE",
+          "size": 10485760,
+          "compressedMd5": "B143812C43788427123FD473A023B96E",
+          "compressedSize": 6993124
+        },
+        {
+          "md5": "D93A79E91FB1E1E49733EED524D355D6",
+          "size": 10485760,
+          "compressedMd5": "C801C291A89F38E34CCEF7C5CA2BEE2F",
+          "compressedSize": 7865154
+        },
+        {
+          "md5": "16E90916A02FD1AAB48B8925045BBA0E",
+          "size": 10485760,
+          "compressedMd5": "FAB6BB227EB46C86CE6B4634E5CC5BCF",
+          "compressedSize": 6745393
+        },
+        {
+          "md5": "43B33A990EBC1753D62512FAE2825A9C",
+          "size": 10485760,
+          "compressedMd5": "8EB6F74343F8D8C7417F22FDF5D89CEE",
+          "compressedSize": 5628926
+        },
+        {
+          "md5": "523C7F24D46D0310ACD75EA3EBF06ABF",
+          "size": 13639140,
+          "compressedMd5": "6EFC3CFEB18144BD478256FEB9B0DA4F",
+          "compressedSize": 7530461
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE034-MntUni.esl",
+      "chunks": [
+        {
+          "md5": "61E9C4E88E41624F122FEA70AAF206EE",
+          "size": 146017,
+          "compressedMd5": "24CE4A5C14DB69D0CD209B9A6DBA2DE6",
+          "compressedSize": 52011
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE035-PetNHound.bsa",
+      "md5": "50CF118E8989D73914A92DCA56784345",
+      "chunks": [
+        {
+          "md5": "5E70329ECF767A20729E2E4B5130B7D7",
+          "size": 10485760,
+          "compressedMd5": "B83FDB92C63B855753F7A84EC91E2D40",
+          "compressedSize": 8649207
+        },
+        {
+          "md5": "7A5E90F659EB7AD743FDE447E82B9439",
+          "size": 10485760,
+          "compressedMd5": "2802DC49854A39562E944886989A21CC",
+          "compressedSize": 9316326
+        },
+        {
+          "md5": "5ACB5C36BC0B05AB4194741DCA9E7069",
+          "size": 20670478,
+          "compressedMd5": "4F40C707AE6ABC9813265394402BC6EF",
+          "compressedSize": 14027183
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE035-PetNHound.esl",
+      "chunks": [
+        {
+          "md5": "9DD398E7AD2D5469C0116F68D0780247",
+          "size": 201877,
+          "compressedMd5": "2C383627A01EF602ADD82157C82021DC",
+          "compressedSize": 17989
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE036-PetBWolf.bsa",
+      "chunks": [
+        {
+          "md5": "A6ECD5D1421FE5ADC84C477A416D82DD",
+          "size": 17946631,
+          "compressedMd5": "363CEF1EA029304391550533222974C7",
+          "compressedSize": 11780299
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE036-PetBWolf.esl",
+      "chunks": [
+        {
+          "md5": "B67F5298D0DA82643E34FD9EA5CC5432",
+          "size": 135121,
+          "compressedMd5": "D6F55C995E19D885FDA2480A6DA86890",
+          "compressedSize": 45653
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE038-BowofShadows.bsa",
+      "chunks": [
+        {
+          "md5": "3A3B73A500D0DDCF479CB04596D80A5B",
+          "size": 7056850,
+          "compressedMd5": "9EE6C29D7DF536210181FD1B6B7CF071",
+          "compressedSize": 4077730
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE038-BowofShadows.esl",
+      "chunks": [
+        {
+          "md5": "AA80FA2702FC93FB67FDAC9A65810B76",
+          "size": 114738,
+          "compressedMd5": "187F35735D9724207F37D85F704FD4BB",
+          "compressedSize": 42633
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE040-AdvObGobs.bsa",
+      "md5": "90E7DAC0F1338ACF43FCCDB27DBA7F02",
+      "chunks": [
+        {
+          "md5": "7C29F86A553CD8CF7137C58F3E8A80FC",
+          "size": 10485760,
+          "compressedMd5": "01C47CA5FB080EBDF4CB59DD63660CC6",
+          "compressedSize": 7895468
+        },
+        {
+          "md5": "9472A46E3875EA7E30C71C4330AB7634",
+          "size": 10485760,
+          "compressedMd5": "AA735666EC748706D3362BE6D5AB8F38",
+          "compressedSize": 8613445
+        },
+        {
+          "md5": "A334C3E31FD0CD695A0CD42617782895",
+          "size": 10485760,
+          "compressedMd5": "8CDCF2452B788272CF2D99A782F79E72",
+          "compressedSize": 6702271
+        },
+        {
+          "md5": "76F65175F2B81E4779934F5E731B2631",
+          "size": 10485760,
+          "compressedMd5": "45E220C003DD1BE2379C8888104EE2B6",
+          "compressedSize": 7326862
+        },
+        {
+          "md5": "AAAE66658B581B89954966C640289471",
+          "size": 10485760,
+          "compressedMd5": "0752B2361BD266AF49359945EAF1475A",
+          "compressedSize": 7327546
+        },
+        {
+          "md5": "14410758EFFA929D1A120908BDF87C61",
+          "size": 10485760,
+          "compressedMd5": "8443D849E855AEE337BFC41FC05AFC8B",
+          "compressedSize": 6687605
+        },
+        {
+          "md5": "B8C12E9A7B62B702AC201625464EB19E",
+          "size": 14510621,
+          "compressedMd5": "88044A1CC7BEBA7DD10AD205A4C5D077",
+          "compressedSize": 11239394
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE040-AdvObGobs.esl",
+      "chunks": [
+        {
+          "md5": "3D472DBCD575B9ED78A2B2AE6C172C82",
+          "size": 316115,
+          "compressedMd5": "892D19AA0B8BA50AB15E3157C2C8FC04",
+          "compressedSize": 120194
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE041-NetchLeather.bsa",
+      "md5": "40738634CA17A6AF3766458C89F56D7F",
+      "chunks": [
+        {
+          "md5": "A7E125AD5ED36E2F8F0DF043F349ACC1",
+          "size": 10485760,
+          "compressedMd5": "1996C4133C5C9D083E80C1E47AFB7B70",
+          "compressedSize": 5925554
+        },
+        {
+          "md5": "8D4BDEC36263E51DBC5CA19D25369EC4",
+          "size": 10485760,
+          "compressedMd5": "BE91B0F8319EC20E8ADDF0387F89F8F8",
+          "compressedSize": 7480480
+        },
+        {
+          "md5": "5C8263A33E6DCF48454E57ACD7D2C350",
+          "size": 10485760,
+          "compressedMd5": "FEFFCA21DFB207B035AF551F14288631",
+          "compressedSize": 7045338
+        },
+        {
+          "md5": "57245AE411D8A42FFF537B75CED43CDF",
+          "size": 10485760,
+          "compressedMd5": "2064A6762977FC72B148DD2822D23D29",
+          "compressedSize": 5754874
+        },
+        {
+          "md5": "9C5282C041DB3CAA240BC5921555BBB3",
+          "size": 10485760,
+          "compressedMd5": "C870A8330397267798BBC9AC32F71062",
+          "compressedSize": 5952194
+        },
+        {
+          "md5": "73FC53ED1BF1841A89C0D8B92BA4BBD8",
+          "size": 10485760,
+          "compressedMd5": "182863E6E4D770A02112966DC9A846B9",
+          "compressedSize": 4946782
+        },
+        {
+          "md5": "951EC388B3D25030AD3589DC0502268D",
+          "size": 10485760,
+          "compressedMd5": "8D199172543AFD4B37C5D9CA3D88765A",
+          "compressedSize": 6508353
+        },
+        {
+          "md5": "8025CAD2B2084D3B7A381747BA109FEA",
+          "size": 10485760,
+          "compressedMd5": "77D5BBC0E1B38FF5327A66978BDB40FB",
+          "compressedSize": 7119610
+        },
+        {
+          "md5": "B9A9EE1C1C7804B1ECE47F3AC5AA7BC3",
+          "size": 10485760,
+          "compressedMd5": "9BD136787BE8CA729E084F2E610F4C21",
+          "compressedSize": 4498730
+        },
+        {
+          "md5": "C063D2729564747504B46CCBC7D7B415",
+          "size": 10485760,
+          "compressedMd5": "5EF5E9830A970B82EFFE5D7D0BBA1A22",
+          "compressedSize": 3752701
+        },
+        {
+          "md5": "63D856D39566D31704A0DE7383B1DF3B",
+          "size": 17258453,
+          "compressedMd5": "BEF976B01301B0FDDC53C418C932E77C",
+          "compressedSize": 10983858
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE041-NetchLeather.esl",
+      "chunks": [
+        {
+          "md5": "D0026E38C2CCE1457F6CE7000ABA7D8B",
+          "size": 263376,
+          "compressedMd5": "B8B7F067592BD9105B69C3CECE7B81B5",
+          "compressedSize": 27725
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE043-CrossElv.bsa",
+      "md5": "D85A93D791B6F5E27C871F02D7A6246A",
+      "chunks": [
+        {
+          "md5": "D74317023BCCBD4527DF649BAA4E12AE",
+          "size": 10485760,
+          "compressedMd5": "7CF9D571BA88D4F0FC3D73943CC2B395",
+          "compressedSize": 5959689
+        },
+        {
+          "md5": "F6870E4CC7C0F155C8D2D8AF1CA29A16",
+          "size": 10485760,
+          "compressedMd5": "58667D025B5FC320E143EC26367660A3",
+          "compressedSize": 6788421
+        },
+        {
+          "md5": "38588A2F002C6BEB82F1F675949D1C73",
+          "size": 13080927,
+          "compressedMd5": "F3FB1DFE343DAFB609086961E7B2283E",
+          "compressedSize": 8971788
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE043-CrossElv.esl",
+      "chunks": [
+        {
+          "md5": "99F6FDC92E2BC451F33DBA10235F1CEC",
+          "size": 143879,
+          "compressedMd5": "340FC244020CF795C9FADF272B0FE7F5",
+          "compressedSize": 46415
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE045-Hasedoki.bsa",
+      "chunks": [
+        {
+          "md5": "A6D067F58338D6B7F38F6ED8D3F426B3",
+          "size": 6471111,
+          "compressedMd5": "92BD1B1F796B06ECAD98E345C6193F16",
+          "compressedSize": 3616278
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE045-Hasedoki.esl",
+      "chunks": [
+        {
+          "md5": "58657DAE3BE70CE419C33E9F23D1F5D0",
+          "size": 117018,
+          "compressedMd5": "B6A4A01B6CF0F3985409BF9D094D50ED",
+          "compressedSize": 44085
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE050-BA_Daedric.bsa",
+      "md5": "78E20E52BCF7643E7FDBCDA71E9E057C",
+      "chunks": [
+        {
+          "md5": "39E224081104EBDAFF8D2649FC45E928",
+          "size": 10485760,
+          "compressedMd5": "A3FF6C28F116ECF83D8D05EE8FB08B71",
+          "compressedSize": 3508609
+        },
+        {
+          "md5": "B1F3AD8991CFA85D74C9FCF6232748D4",
+          "size": 16034221,
+          "compressedMd5": "A7D862A4EF8824E19AED870C5BA94835",
+          "compressedSize": 8320872
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE050-BA_Daedric.esl",
+      "chunks": [
+        {
+          "md5": "D067B10FB3BDF1CDC1496069E1D5E8B4",
+          "size": 118410,
+          "compressedMd5": "E360D99B2DBDAE787C4AB6AD4E49AC07",
+          "compressedSize": 46255
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE051-BA_DaedricMail.bsa",
+      "md5": "0218FF5AF1339210EA9C82E8C5B05E8F",
+      "chunks": [
+        {
+          "md5": "12D0BBDC92A1210E30DDE51149D05AF1",
+          "size": 10485760,
+          "compressedMd5": "0BB1B324EE50E244114D492A23A46510",
+          "compressedSize": 5867565
+        },
+        {
+          "md5": "7B011B672837A0E634100BAF1B71B7AC",
+          "size": 10485760,
+          "compressedMd5": "B3FEB449AE218A7803D7F4C8023869C4",
+          "compressedSize": 4345172
+        },
+        {
+          "md5": "3CC39943B6F37C50D531E582E6C95854",
+          "size": 10485760,
+          "compressedMd5": "3526A1A387B95781B48BCCFAB34ED50B",
+          "compressedSize": 6916974
+        },
+        {
+          "md5": "249C22EA1243824E784FF7E6D21CC7FC",
+          "size": 16194571,
+          "compressedMd5": "037DEEBD06B593CF8330B45202C87FD7",
+          "compressedSize": 7605993
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE051-BA_DaedricMail.esl",
+      "chunks": [
+        {
+          "md5": "A68DDF21F2F22C24DF8159CBCFA64B2D",
+          "size": 121476,
+          "compressedMd5": "CAE9B68BD50E995948728869520C3C1D",
+          "compressedSize": 47126
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE052-BA_Iron.bsa",
+      "md5": "701029E43BC13F5FFF4B5A5D8B89963A",
+      "chunks": [
+        {
+          "md5": "66B0C9102153CE9B566710722BA68C9A",
+          "size": 10485760,
+          "compressedMd5": "A524FFEA90F67FA8A3D7E783FCCAB300",
+          "compressedSize": 4094904
+        },
+        {
+          "md5": "AFBE8DD2645D7BA22EEFF6B0B7891FE3",
+          "size": 10485760,
+          "compressedMd5": "AA9F3E49FFFA0B5E97AA61F86503632C",
+          "compressedSize": 6354564
+        },
+        {
+          "md5": "38D69F2C408E8DFA57F56356D79EA712",
+          "size": 20092669,
+          "compressedMd5": "8D77654EBB22F4482BA9C4C535C89C74",
+          "compressedSize": 12744724
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE052-BA_Iron.esl",
+      "chunks": [
+        {
+          "md5": "6E3F64942A59FA100F5C33EBE1CDFD56",
+          "size": 114892,
+          "compressedMd5": "32E7CA6B1FCB73ABC1203C0048451921",
+          "compressedSize": 43701
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE053-BA_Leather.bsa",
+      "md5": "DB87C6226C10C05ED0FEF6C3AA9D4240",
+      "chunks": [
+        {
+          "md5": "BDC09F0B7D29CE2C6FBFE1DCB1F64A7F",
+          "size": 10485760,
+          "compressedMd5": "9B105356514B1003D333F00CBB25FBFF",
+          "compressedSize": 4628850
+        },
+        {
+          "md5": "97F555FF5846E6101791D017FB3D82C9",
+          "size": 10485760,
+          "compressedMd5": "A9E381D78D33B6CF36D34CDFBA32A237",
+          "compressedSize": 4063756
+        },
+        {
+          "md5": "3EAC6132B48070D1ADEB32881CF9D741",
+          "size": 14830624,
+          "compressedMd5": "EF76F3059FEEE1CCE903A0C12617921E",
+          "compressedSize": 6019317
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE053-BA_Leather.esl",
+      "chunks": [
+        {
+          "md5": "6796FBAEB359C737A3499A1DBA9D9D58",
+          "size": 115734,
+          "compressedMd5": "67C6B4BF0539C17B9F6C8C3750525FCB",
+          "compressedSize": 43687
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE054-BA_Orcish.bsa",
+      "md5": "7D315D5DCE06A3F5E5EB4502A054978D",
+      "chunks": [
+        {
+          "md5": "665BFE114FC4451FDC149DE14DC8DDC3",
+          "size": 10485760,
+          "compressedMd5": "ABC09BC28C56DEC51452ABA793BB413D",
+          "compressedSize": 5316006
+        },
+        {
+          "md5": "6B4BDF3314E32CD9450610B9E211C048",
+          "size": 10485760,
+          "compressedMd5": "EF6606DF597378A8F3E5886F8C287A7A",
+          "compressedSize": 7155369
+        },
+        {
+          "md5": "6269CB63C99394A9B95D01ED7ACA1828",
+          "size": 10485760,
+          "compressedMd5": "96A42748AC15813C03170015FECD277D",
+          "compressedSize": 7432737
+        },
+        {
+          "md5": "B248EB12A45FA39604D9C48D474B49CB",
+          "size": 11990806,
+          "compressedMd5": "D8E68CB0DD9F3ACC9F1AE208F4B7E97A",
+          "compressedSize": 6109174
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE054-BA_Orcish.esl",
+      "chunks": [
+        {
+          "md5": "9204F2ADE1F68FA25C3F13202D84D177",
+          "size": 25666,
+          "compressedMd5": "3F5DFBB36D22CED70090E1887B9999EA",
+          "compressedSize": 12410
+        }
+      ],
+      "sfcRef": {
+        "offset": 96023,
+        "size": 25666
+      }
+    },
+    {
+      "path": "Data/ccBGSSSE055-BA_OrcishScaled.bsa",
+      "md5": "21CADD1D888E71392DEAE9EA49BEE936",
+      "chunks": [
+        {
+          "md5": "78C4658035552AFF4F3065A7583277B7",
+          "size": 10485760,
+          "compressedMd5": "75FDED87C09474F2AB0064CA77081ECE",
+          "compressedSize": 4953547
+        },
+        {
+          "md5": "9316863DA360B0C4359E7F8895387505",
+          "size": 10485760,
+          "compressedMd5": "83DABD6FC5DDE16BE155DD99AD0ABFED",
+          "compressedSize": 6215639
+        },
+        {
+          "md5": "074D5E3DB2D2E6D41516B95DFB82E14A",
+          "size": 10485760,
+          "compressedMd5": "53BE4602DA8532D435B236C25C8D8FD5",
+          "compressedSize": 7267688
+        },
+        {
+          "md5": "C5F43FFAE71840BB9DBCB51F29EA87A1",
+          "size": 12324610,
+          "compressedMd5": "F0F2E3B810C10252EE77E037434BD9AD",
+          "compressedSize": 5226490
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE055-BA_OrcishScaled.esl",
+      "chunks": [
+        {
+          "md5": "A6D515243E34E0C29C9220092D6FF762",
+          "size": 29220,
+          "compressedMd5": "FABC018731645CE47FEE3255D7C04705",
+          "compressedSize": 13174
+        }
+      ],
+      "sfcRef": {
+        "offset": 150490,
+        "size": 29220
+      }
+    },
+    {
+      "path": "Data/ccBGSSSE056-BA_Silver.bsa",
+      "md5": "0F99B976391BA4DBCB6C40231DABBB1E",
+      "chunks": [
+        {
+          "md5": "DACD12399B2CD205C64FB9953B7A1773",
+          "size": 10485760,
+          "compressedMd5": "568673AC35AC387388B08E3208645096",
+          "compressedSize": 5670004
+        },
+        {
+          "md5": "9D63E5E5E2E032CDE2CB85806714147C",
+          "size": 10485760,
+          "compressedMd5": "CA910A894EA40750765349B4C6E1CA86",
+          "compressedSize": 4974171
+        },
+        {
+          "md5": "C046CC91BE299A6DC6935102BE5387BA",
+          "size": 10485760,
+          "compressedMd5": "2A0338BE0E802A5491F30A2E61B7ABC8",
+          "compressedSize": 5320414
+        },
+        {
+          "md5": "B23336A28345A925B3D7D85ED5779AF5",
+          "size": 16695799,
+          "compressedMd5": "98E79203E817D42FEC10FD18EDA280D4",
+          "compressedSize": 6801082
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE056-BA_Silver.esl",
+      "chunks": [
+        {
+          "md5": "9AA7162D17F6BEB4A6B4ECA280847D3F",
+          "size": 114511,
+          "compressedMd5": "D8EC4A8248DAB2BF9785AB2B8620BD92",
+          "compressedSize": 43777
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE057-BA_Stalhrim.bsa",
+      "md5": "DA51B6733C9517AB812F3803BF69CE13",
+      "chunks": [
+        {
+          "md5": "1487B2BFB8BB4B2EB78C8283C7830418",
+          "size": 10485760,
+          "compressedMd5": "BE055EC6459593F6644F0924F9ECFA39",
+          "compressedSize": 5212471
+        },
+        {
+          "md5": "29D8AFE4622FB77BFB0DCCCD675EAE76",
+          "size": 18836927,
+          "compressedMd5": "BF22E487FD200406374A7C9A55FE4D8B",
+          "compressedSize": 8279934
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE057-BA_Stalhrim.esl",
+      "chunks": [
+        {
+          "md5": "41B8BC745B2566E0660E309E86889EE6",
+          "size": 176138,
+          "compressedMd5": "06D89A7A2DADD2C85B1AA96DD26E55A5",
+          "compressedSize": 10928
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE058-BA_Steel.bsa",
+      "md5": "F1B4774DA92FD4189FF061D6C49C3CA1",
+      "chunks": [
+        {
+          "md5": "D947615515E8FA485B5E8668094BEB7A",
+          "size": 10485760,
+          "compressedMd5": "0D2FC7EEB726473F2BED86004D3CEDD4",
+          "compressedSize": 3986950
+        },
+        {
+          "md5": "9E42E8BAEAF78846DC9EC57826DA08BB",
+          "size": 10485760,
+          "compressedMd5": "BB2F82D3F6A6E576B9E9B83C5B2E766C",
+          "compressedSize": 5779106
+        },
+        {
+          "md5": "BBE38A69119D4B08F62D574E90E4D08A",
+          "size": 10485760,
+          "compressedMd5": "14AB3E34085625B600380F0DD54D23B2",
+          "compressedSize": 4879818
+        },
+        {
+          "md5": "D0427EFD013B905EC89394765A3559E8",
+          "size": 19309458,
+          "compressedMd5": "D05E6CED3E91286DD6DBB0C787056CCC",
+          "compressedSize": 7950376
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE058-BA_Steel.esl",
+      "chunks": [
+        {
+          "md5": "07EE1B94B0F770C3E5F6CFF62AF73496",
+          "size": 120621,
+          "compressedMd5": "9E3DA95E03365B35B5AFB44199BC16D8",
+          "compressedSize": 46462
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE059-BA_Dragonplate.bsa",
+      "md5": "DB17DF4181B04A00C862E9C2370FADF3",
+      "chunks": [
+        {
+          "md5": "ABDCD596C48B134B235CC0B6644C81A9",
+          "size": 10485760,
+          "compressedMd5": "04408D084A608B237E97BEE3E83FB26C",
+          "compressedSize": 4469809
+        },
+        {
+          "md5": "0AABD530DB0B8D0104FBF08171251D81",
+          "size": 10485760,
+          "compressedMd5": "2B71806A61B6ACE4F45B5F245C1D7DE1",
+          "compressedSize": 4490502
+        },
+        {
+          "md5": "ACD3F1D7367DF1B249B8A3C59B5FE04C",
+          "size": 10485760,
+          "compressedMd5": "56819F602E175C1993896574D8E03128",
+          "compressedSize": 6217496
+        },
+        {
+          "md5": "F99CE02B579C47CF1A0A4FA5A310054D",
+          "size": 10485760,
+          "compressedMd5": "4F5B39F2CB331DCDB1D2B9BFDB887DE0",
+          "compressedSize": 5356704
+        },
+        {
+          "md5": "28D95914087323942B9F25BBFDD53310",
+          "size": 13444195,
+          "compressedMd5": "8C0FEC4C77140C4ABD50297960B9B8FB",
+          "compressedSize": 5843494
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE059-BA_Dragonplate.esl",
+      "chunks": [
+        {
+          "md5": "95F377A3E7E772DC4AD28B3F7E1E57BB",
+          "size": 131197,
+          "compressedMd5": "05106D9ADD16FCC3D48C935B7F21BB90",
+          "compressedSize": 52107
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE060-BA_Dragonscale.bsa",
+      "md5": "6A7F93B9CFA2CA222EA0DAACE768DC01",
+      "chunks": [
+        {
+          "md5": "004317D7D05C7FE74A15AB33A7496AC0",
+          "size": 10485760,
+          "compressedMd5": "1E39F625154B72B3EB5F27CBA4DC8485",
+          "compressedSize": 4167207
+        },
+        {
+          "md5": "9C20B455E4CFC1719DC7AEDC62DFD95A",
+          "size": 10485760,
+          "compressedMd5": "DEF0E8EA8816FEDCDD66FEE820C46AC3",
+          "compressedSize": 7938014
+        },
+        {
+          "md5": "B206B783B0DBF1FC26B6134E400B743A",
+          "size": 19415054,
+          "compressedMd5": "33F88C2E49ECAA71E99C5DEC32D457C4",
+          "compressedSize": 12475024
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE060-BA_Dragonscale.esl",
+      "chunks": [
+        {
+          "md5": "36B0539441387A72AF6F9AB50E6BFB91",
+          "size": 116457,
+          "compressedMd5": "0499D26C25CA3A5F107BCA6A97B62BA3",
+          "compressedSize": 46349
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE061-BA_Dwarven.bsa",
+      "md5": "30AA83C03B6DFAD9A11EDA40FFDF2714",
+      "chunks": [
+        {
+          "md5": "E817DCF1A683BFB3F20A08CE86A22679",
+          "size": 10485760,
+          "compressedMd5": "25A90B2152AEB717C69957900D19D6D1",
+          "compressedSize": 4481965
+        },
+        {
+          "md5": "8AE66225A6B66512890D5938FDCA38C7",
+          "size": 10485760,
+          "compressedMd5": "61C95DEF1CE209E0BB912D1A780D7074",
+          "compressedSize": 5268305
+        },
+        {
+          "md5": "58852975D8AB57DFB048F740878A1B00",
+          "size": 18438180,
+          "compressedMd5": "FA853649A2B4779C4C7126260654AC51",
+          "compressedSize": 7611362
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE061-BA_Dwarven.esl",
+      "chunks": [
+        {
+          "md5": "6D4863774B499E1AB9B0EA2F543654E6",
+          "size": 111158,
+          "compressedMd5": "E02ED39394B5B4007BFB2BF0CE41CF98",
+          "compressedSize": 43460
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE062-BA_DwarvenMail.bsa",
+      "md5": "D35645C1718605FE4804BBADAE944BC9",
+      "chunks": [
+        {
+          "md5": "239D5F3034330E03102F210DB953DAD8",
+          "size": 10485760,
+          "compressedMd5": "4B4EB474E1F0480F49BD1A00F3D2E6B7",
+          "compressedSize": 5743197
+        },
+        {
+          "md5": "75901864010C956437DAB3A2EA1A085E",
+          "size": 10485760,
+          "compressedMd5": "83EA26705065B5716768553A7402AD25",
+          "compressedSize": 5686784
+        },
+        {
+          "md5": "7BBD22D3192381DF33E71ECA49ED7DBE",
+          "size": 12020806,
+          "compressedMd5": "2D9247FF556D16A5EC016930D32336FA",
+          "compressedSize": 4886523
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE062-BA_DwarvenMail.esl",
+      "chunks": [
+        {
+          "md5": "58BD27279B89C2723CC92139E68D264C",
+          "size": 114051,
+          "compressedMd5": "C52DE8FF8F82C6EB7E5063167690BA79",
+          "compressedSize": 45128
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE063-BA_Ebony.bsa",
+      "md5": "B407F9ACB566AA48636F7B88319B0DF6",
+      "chunks": [
+        {
+          "md5": "2D3E3F345BC10C371D83EAA236A29908",
+          "size": 10485760,
+          "compressedMd5": "0D9DAA30357110DF6CA6CF4C14414BA4",
+          "compressedSize": 4383539
+        },
+        {
+          "md5": "0D845BE81D3B0ECD503F51A9DF673DA6",
+          "size": 10485760,
+          "compressedMd5": "561C5E4B689D3B9E6AB8208555693A4B",
+          "compressedSize": 6902617
+        },
+        {
+          "md5": "5FD05D5EE51CA86EFFEAC7A7BDD8F2DF",
+          "size": 10485760,
+          "compressedMd5": "2BB5D732F11ABF89FF5539516B2A43C1",
+          "compressedSize": 4875360
+        },
+        {
+          "md5": "884375FD150796B8C0D65EED34B88651",
+          "size": 16265775,
+          "compressedMd5": "50B38AB6C3362666544C1BE66627E537",
+          "compressedSize": 8056420
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE063-BA_Ebony.esl",
+      "chunks": [
+        {
+          "md5": "B31BA92F284C4F8644CA39DA83174963",
+          "size": 134877,
+          "compressedMd5": "FA14581C826B163552D1D819D44EEA5C",
+          "compressedSize": 48919
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE064-BA_Elven.bsa",
+      "md5": "0E73DB14DAA5230DBCC1D7C7F3F1E99A",
+      "chunks": [
+        {
+          "md5": "6FDD8E94291ADE8EFEFFEF277AC1FE42",
+          "size": 10485760,
+          "compressedMd5": "11DB99AEAF71918E0DC5D4D3BD981446",
+          "compressedSize": 6240672
+        },
+        {
+          "md5": "C6A909AAA034EADFFD1AD7F567F60BCA",
+          "size": 10485760,
+          "compressedMd5": "9A5F8179E3D5C0AAAAF016D917F40398",
+          "compressedSize": 4550705
+        },
+        {
+          "md5": "341EA84797DC21105590F0EE69371981",
+          "size": 10485760,
+          "compressedMd5": "39FC02341D0026F37B522D67EF24E510",
+          "compressedSize": 8240932
+        },
+        {
+          "md5": "7C0A258C37A5B182BE6EF9DBDCF80248",
+          "size": 14384190,
+          "compressedMd5": "B2E3418AE615BA2362056EA4600000F2",
+          "compressedSize": 5589281
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE064-BA_Elven.esl",
+      "chunks": [
+        {
+          "md5": "EFD306063DF1C15E1EE67ECF75C23806",
+          "size": 111662,
+          "compressedMd5": "E1E676081E118C408E9D444C9168FF42",
+          "compressedSize": 42518
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE066-Staves.bsa",
+      "md5": "B3B28FC513651BDA693F25682536B936",
+      "chunks": [
+        {
+          "md5": "36E65D81EF9E876748826424965CC790",
+          "size": 10485760,
+          "compressedMd5": "13A85900E5FCDC0A732A690A68B2F1BB",
+          "compressedSize": 7338842
+        },
+        {
+          "md5": "3826D8E49C04F67D7D1B90FE2908809F",
+          "size": 10485760,
+          "compressedMd5": "79C913E1198C0D9792C16E47CECE0EC4",
+          "compressedSize": 8012544
+        },
+        {
+          "md5": "F5757A18D1D50E531356661DECDB712A",
+          "size": 10485760,
+          "compressedMd5": "6F084A32937E5AAEFDCEF6D926C6B80E",
+          "compressedSize": 7328648
+        },
+        {
+          "md5": "9113C946A98CF461DDAFF01F5AA0B996",
+          "size": 15682626,
+          "compressedMd5": "5F7ED56217C8F1269E7A6CAA9F65CF55",
+          "compressedSize": 9418717
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE066-Staves.esl",
+      "chunks": [
+        {
+          "md5": "8561B59606E966F90C4B089D1129AB32",
+          "size": 272320,
+          "compressedMd5": "7834EA2AE8AC81A0E41A582CF75AF877",
+          "compressedSize": 20109
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE067-DaedInv.bsa",
+      "md5": "38963D5A80AD9E574AEEAF287050930C",
+      "chunks": [
+        {
+          "md5": "210335D4A57AB634CD464EEB02529295",
+          "size": 10485760,
+          "compressedMd5": "F9A91D86A0FBA0783D3AB3F052400F40",
+          "compressedSize": 8972395
+        },
+        {
+          "md5": "4A5ED03804B0C5156B82EC2C667F0723",
+          "size": 10485760,
+          "compressedMd5": "CE1D8D0C8766C89B9FB2A3BFA23B97B6",
+          "compressedSize": 6917485
+        },
+        {
+          "md5": "36A5DDDF10BE5EA9A5F7D59CB44D3AC2",
+          "size": 10485760,
+          "compressedMd5": "415D85176CB2DD62D8C1A2F4D07084B1",
+          "compressedSize": 6629549
+        },
+        {
+          "md5": "E4A233C0E26B4B4675645169448A0663",
+          "size": 10485760,
+          "compressedMd5": "92C263BE1DF0EA99973E831D2D262A94",
+          "compressedSize": 7260012
+        },
+        {
+          "md5": "DE9EA52EA883CB691441633A3FBDB9A9",
+          "size": 10485760,
+          "compressedMd5": "B547197F184386ACB16C11A31A27A596",
+          "compressedSize": 5416997
+        },
+        {
+          "md5": "E48ED473B9A55045EB7332D91A53E0B9",
+          "size": 10485760,
+          "compressedMd5": "F41A64CEBFF550577318C340297B387E",
+          "compressedSize": 7366522
+        },
+        {
+          "md5": "498531181A788CC23922B85213DA5084",
+          "size": 10485760,
+          "compressedMd5": "2CAD1B707472BA4873E3B112400781A0",
+          "compressedSize": 3818675
+        },
+        {
+          "md5": "052D0628C97E6036C96BBDD0CA71D11C",
+          "size": 10485760,
+          "compressedMd5": "A61A702D8862DABC7453461D7907130C",
+          "compressedSize": 6356380
+        },
+        {
+          "md5": "FFC6167EAEDDD43AF61465E60D6EB830",
+          "size": 10485760,
+          "compressedMd5": "21DCFD739EE3515E26DB0D4674323741",
+          "compressedSize": 5930503
+        },
+        {
+          "md5": "D46E172807579146B34113CA008B7B78",
+          "size": 10485760,
+          "compressedMd5": "3A54D3A3B2D114D3352B0E654CEE167A",
+          "compressedSize": 6792323
+        },
+        {
+          "md5": "D42D91CB0356DEC177E029BB8AEDFF81",
+          "size": 10485760,
+          "compressedMd5": "4A0C662A59E054CEF63505B2EDE548DA",
+          "compressedSize": 8043625
+        },
+        {
+          "md5": "C462B59244E2F0FE5DCBE8D466BFE839",
+          "size": 10485760,
+          "compressedMd5": "AF9E3B808F375DD783086D29891682EA",
+          "compressedSize": 6316443
+        },
+        {
+          "md5": "F4DF44AA393C6B3F3A3DE8DCCB885C3E",
+          "size": 10485760,
+          "compressedMd5": "1F9CE1DEEF1F9245A1B82CE2F05EC44C",
+          "compressedSize": 8278254
+        },
+        {
+          "md5": "28CB58258326DB0423E27EC48DF8D018",
+          "size": 10485760,
+          "compressedMd5": "6AF1F0609F329D1191AE5A28BA2C3888",
+          "compressedSize": 8096209
+        },
+        {
+          "md5": "4E2342390C97237106469F5FA13A8D92",
+          "size": 10485760,
+          "compressedMd5": "B3446CD1125DCF59EA9013BC0ED92D02",
+          "compressedSize": 6711868
+        },
+        {
+          "md5": "5E550EF893A421D2B9508542CB6AC04F",
+          "size": 10485760,
+          "compressedMd5": "501AA039BA276F5F070CC6B7CABB8DE5",
+          "compressedSize": 8155162
+        },
+        {
+          "md5": "1AAE85EB223576C2D08E567C3934CB34",
+          "size": 10485760,
+          "compressedMd5": "F3992AC8C870B996B9200E71F8E12F7E",
+          "compressedSize": 8533363
+        },
+        {
+          "md5": "A00DFEFA258819DC29EC02EA3B0F0F48",
+          "size": 10485760,
+          "compressedMd5": "EE59BD2861009F992DFD5F51A7A1DF81",
+          "compressedSize": 2473921
+        },
+        {
+          "md5": "F851750CB0377A52F978EC5649C3DA19",
+          "size": 10485760,
+          "compressedMd5": "CF227B7767B5C70FBF28845865CEC40D",
+          "compressedSize": 4694950
+        },
+        {
+          "md5": "FF5B721B80BC1DE387776F3A634B95B9",
+          "size": 10485760,
+          "compressedMd5": "08BAE6B65B6A04A4EE3CF22086F67368",
+          "compressedSize": 7260311
+        },
+        {
+          "md5": "1B8EB73F3AAC76C423EA5B0E16FB2825",
+          "size": 10485760,
+          "compressedMd5": "B43C74E0D0FEA18CE6B315AD9E662EFE",
+          "compressedSize": 6794496
+        },
+        {
+          "md5": "0FA3D9F82C5D36DDD0B596DC099FF8AA",
+          "size": 10485760,
+          "compressedMd5": "89DF9FA7138CEEB48F4C8F621CE65821",
+          "compressedSize": 3169416
+        },
+        {
+          "md5": "553C1BFB66B9FAF73E01336023E0E5AD",
+          "size": 10485760,
+          "compressedMd5": "93F50592A8FFC0513A9AB0A772F3704A",
+          "compressedSize": 7562217
+        },
+        {
+          "md5": "0288B6E4F520D0167C5F259F12517DAD",
+          "size": 10485760,
+          "compressedMd5": "6A20B937F44C747C358995D57DB7DFF6",
+          "compressedSize": 6729886
+        },
+        {
+          "md5": "71B1E8C81332A543FF2A9DCBDF70E667",
+          "size": 10485760,
+          "compressedMd5": "95B1E76CC8D12FBEEC532396AA215496",
+          "compressedSize": 5756750
+        },
+        {
+          "md5": "42276254617AEC9669A41479C0281DB1",
+          "size": 10485760,
+          "compressedMd5": "86D3D5C85BF96B870309EA92A08FF4DC",
+          "compressedSize": 5901423
+        },
+        {
+          "md5": "34AFBDCB7C09F82966A47321FDCE32D0",
+          "size": 10485760,
+          "compressedMd5": "64E727D22D5F9ED9A4236A58B374D3D5",
+          "compressedSize": 6139046
+        },
+        {
+          "md5": "D7367CE49B78D00409ED6097E184A706",
+          "size": 10485760,
+          "compressedMd5": "84E3EE497E2D4C1766BB236E060A6F69",
+          "compressedSize": 5608772
+        },
+        {
+          "md5": "2CF8471BC7F019E92D2F5308EE7DB323",
+          "size": 10485760,
+          "compressedMd5": "B8BB124D2591000BC3C650EB6C0460DD",
+          "compressedSize": 4133367
+        },
+        {
+          "md5": "1F2DAE63580BC18C59FB77541B59C1C8",
+          "size": 10485760,
+          "compressedMd5": "92CB63D6DDE19BF3B98D651A1C43FB65",
+          "compressedSize": 6996442
+        },
+        {
+          "md5": "07D9CFDD5D07143F735A5A782046D420",
+          "size": 10485760,
+          "compressedMd5": "D640EC69789DEE5883AE2E3B528954B0",
+          "compressedSize": 8682028
+        },
+        {
+          "md5": "81D0D7A8C6A9A79C3AE94E34DFC14BA8",
+          "size": 10485760,
+          "compressedMd5": "29826412CD71C3A8A863C6CB5F34E20F",
+          "compressedSize": 8257123
+        },
+        {
+          "md5": "55F4202DB839403FC03260213CEC5731",
+          "size": 10485760,
+          "compressedMd5": "D4B2943E8722F05F058C1574F32B84C1",
+          "compressedSize": 2943767
+        },
+        {
+          "md5": "B2AB6F2D2736741ADFBCA20348B6E292",
+          "size": 10485760,
+          "compressedMd5": "F28DC99CAA0E3D80542BB6CDB43C286D",
+          "compressedSize": 7175388
+        },
+        {
+          "md5": "E4340785AE198CEBFE3F2EC47F21C7BC",
+          "size": 10485760,
+          "compressedMd5": "730D8CB5EA9406217759FD7900ABC586",
+          "compressedSize": 6560765
+        },
+        {
+          "md5": "6DEBE45613F9C70A16DF642068E88FF9",
+          "size": 19610308,
+          "compressedMd5": "C5165B72ADB99FA18FEF10F49EA5F227",
+          "compressedSize": 11403758
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE067-DaedInv.esm",
+      "chunks": [
+        {
+          "md5": "E01B5F7EB914F8916FB386B9834C36C4",
+          "size": 1179531,
+          "compressedMd5": "A68C66036114FBBB1AF57FB3DEC12D65",
+          "compressedSize": 668719
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE068-Bloodfall.bsa",
+      "chunks": [
+        {
+          "md5": "82DC675D1B9B5F52DA13BF189875FF32",
+          "size": 11540866,
+          "compressedMd5": "6163BFA4ECAE488C51DEBFC295D33F76",
+          "compressedSize": 8055621
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE068-Bloodfall.esl",
+      "chunks": [
+        {
+          "md5": "93C3E6CEF8E449E0A55152FBAE7B5E6B",
+          "size": 12087,
+          "compressedMd5": "1E797B4244B2189ECB929C80A60BBF55",
+          "compressedSize": 4883
+        }
+      ],
+      "sfcRef": {
+        "offset": 24747,
+        "size": 12087
+      }
+    },
+    {
+      "path": "Data/ccBGSSSE069-Contest.bsa",
+      "md5": "16E243FBD69AC619DFEB474FECE1C7C1",
+      "chunks": [
+        {
+          "md5": "652C4760767B59F18027E5CF284EFCAD",
+          "size": 10485760,
+          "compressedMd5": "C473845C7B7982C4780059E196E43ADE",
+          "compressedSize": 6799888
+        },
+        {
+          "md5": "DBFD51B37364838BD5C2AC6D598EF5D8",
+          "size": 10485760,
+          "compressedMd5": "95657597209843C080E338FD86853D09",
+          "compressedSize": 7236649
+        },
+        {
+          "md5": "4388C2208529EC87CBD4C4645496A31F",
+          "size": 10485760,
+          "compressedMd5": "82DDCFB38D82B52820474AD90047F76B",
+          "compressedSize": 4750439
+        },
+        {
+          "md5": "553B77B5507A58E3D11A5B2E4BC47420",
+          "size": 11393958,
+          "compressedMd5": "4073B2B2446FD5AD427A2CFB2717A8D4",
+          "compressedSize": 7859172
+        }
+      ]
+    },
+    {
+      "path": "Data/ccBGSSSE069-Contest.esl",
+      "chunks": [
+        {
+          "md5": "1502FEB3C8FCDCD716AE7F644853DECC",
+          "size": 17984,
+          "compressedMd5": "C56BC79250AF57B627872E961E953228",
+          "compressedSize": 7166
+        }
+      ],
+      "sfcRef": {
+        "offset": 36834,
+        "size": 17984
+      }
+    },
+    {
+      "path": "Data/ccCBHSSE001-Gaunt.bsa",
+      "md5": "94FA9AD37541B80107FD7923187E00DB",
+      "chunks": [
+        {
+          "md5": "DCA711C0A97F8DADF6559D7C0AA03005",
+          "size": 10485760,
+          "compressedMd5": "9CE817C894C21EB23F0C52C6D218D5DA",
+          "compressedSize": 4257931
+        },
+        {
+          "md5": "E4B31E360DB4F6A90B80BB802E0D520C",
+          "size": 10485760,
+          "compressedMd5": "FD6EDC7A6B0273DB99B8571D23669179",
+          "compressedSize": 3593127
+        },
+        {
+          "md5": "5481587C8715E274F2FF61921841D004",
+          "size": 10485760,
+          "compressedMd5": "99EDFA9C285AE36CE7BC689955A14D01",
+          "compressedSize": 5425953
+        },
+        {
+          "md5": "3AB80F58303B8AD69EE0E9D4424CAC0C",
+          "size": 10485760,
+          "compressedMd5": "0029DBFE98BA3063D67D34D9C42616D8",
+          "compressedSize": 4710673
+        },
+        {
+          "md5": "3FBD74DD94A395942A922F89E2977950",
+          "size": 10485760,
+          "compressedMd5": "DC1B2FD7839D25E0879236DD51926A4F",
+          "compressedSize": 2151473
+        },
+        {
+          "md5": "B89FDFD4184F3F33FCE1939A048A3B29",
+          "size": 15737804,
+          "compressedMd5": "0C841C76E8BB268907EE01652611003B",
+          "compressedSize": 8162008
+        }
+      ]
+    },
+    {
+      "path": "Data/ccCBHSSE001-Gaunt.esl",
+      "chunks": [
+        {
+          "md5": "F4F502D3DA746D9AEBF455E16A2DC02E",
+          "size": 28801,
+          "compressedMd5": "D92D5BF24DF2A0C5C2D45B51A23F707D",
+          "compressedSize": 4130
+        }
+      ],
+      "sfcRef": {
+        "offset": 121689,
+        "size": 28801
+      }
+    },
+    {
+      "path": "Data/ccEDHSSE001-NorJewel.bsa",
+      "chunks": [
+        {
+          "md5": "304E00E7A7B025A9450034ECA0B3960F",
+          "size": 9712736,
+          "compressedMd5": "5FF90AA8053635B5805B054436F1C178",
+          "compressedSize": 4088683
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEDHSSE001-NorJewel.esl",
+      "chunks": [
+        {
+          "md5": "CDA73BF5759E648458276FCB6F4C9F5A",
+          "size": 196568,
+          "compressedMd5": "ADB1B815970F59FC8F44BBB2B96E6A9B",
+          "compressedSize": 16862
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEDHSSE002-SplKntSet.bsa",
+      "md5": "177CC21D9F4F6F9F0EE05EC4A3097F9B",
+      "chunks": [
+        {
+          "md5": "EB98567FF1956FFA14FBEFA817E76A72",
+          "size": 10485760,
+          "compressedMd5": "D7F51BCDDEF668A40917AE16BB052596",
+          "compressedSize": 5061729
+        },
+        {
+          "md5": "F1A8C8DA0A0EDE562021B1B16DAB039D",
+          "size": 10485760,
+          "compressedMd5": "3A5EC58F7E701E125DF2987064A1F2CA",
+          "compressedSize": 4132037
+        },
+        {
+          "md5": "A7E0E14CFD8655AF93741726F853CEA7",
+          "size": 10485760,
+          "compressedMd5": "41D1ECA4E0B18BD55023615B5F22E449",
+          "compressedSize": 4253261
+        },
+        {
+          "md5": "8FE1815E637C0842B865CDEFEAC0A35E",
+          "size": 10485760,
+          "compressedMd5": "228BBD952A2BFE163188B701E31A34DF",
+          "compressedSize": 5389653
+        },
+        {
+          "md5": "B7D961E966306FDE338749E2CF2F1786",
+          "size": 10485760,
+          "compressedMd5": "590E2D1A056C75754AE6F35175661D8B",
+          "compressedSize": 3432062
+        },
+        {
+          "md5": "5AA58532111CB3BA7C4736651B4B7F90",
+          "size": 10485760,
+          "compressedMd5": "4122E56FC115620FDED9A4DF55E5685B",
+          "compressedSize": 6031049
+        },
+        {
+          "md5": "001029AD5ABC5C9DB8182FB59D31B8C7",
+          "size": 10485760,
+          "compressedMd5": "BBFC4BA099BFAF4571FD73EB90870715",
+          "compressedSize": 5778768
+        },
+        {
+          "md5": "37F421830851C1786B8F7E70EBE09369",
+          "size": 15701046,
+          "compressedMd5": "98A459F047A8C05A8ABD9AE124F4B7B8",
+          "compressedSize": 6824095
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEDHSSE002-SplKntSet.esl",
+      "chunks": [
+        {
+          "md5": "4B9FD383B793C455473E8DEE95054459",
+          "size": 160337,
+          "compressedMd5": "810BEBDA62D491092A8B2C6E80B2F0B1",
+          "compressedSize": 57675
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEDHSSE003-Redguard.bsa",
+      "md5": "AAAB9C7FBF67B8E18EC8655105F9CD61",
+      "chunks": [
+        {
+          "md5": "EDF100B9859C83896F8BEDCF5B97CE0B",
+          "size": 10485760,
+          "compressedMd5": "CC5B45F1A6E343E3B8788603D88C52F3",
+          "compressedSize": 4790681
+        },
+        {
+          "md5": "CB8B055D2031636BCA549BCDF455F8ED",
+          "size": 10485760,
+          "compressedMd5": "0829611C5EC85B162B22C518AB2BF1B9",
+          "compressedSize": 6209998
+        },
+        {
+          "md5": "D7DB12324DE67820803CF34678B1F0C7",
+          "size": 10485760,
+          "compressedMd5": "469076FA9F01D651719C0D722D1CBE9B",
+          "compressedSize": 5972548
+        },
+        {
+          "md5": "E2335F3283EC1A987148CE3F4A17ADD2",
+          "size": 10485760,
+          "compressedMd5": "A5828CE96A374D79680EA60B88BB4CA5",
+          "compressedSize": 4430700
+        },
+        {
+          "md5": "D60794D662D1F7A49FEFEA16D9F34F4C",
+          "size": 10485760,
+          "compressedMd5": "94030A22DFE2E8320EB34AC7DDC3AA07",
+          "compressedSize": 5645416
+        },
+        {
+          "md5": "7F78A498BE6ABC72B6A56D84E458A0CD",
+          "size": 10485760,
+          "compressedMd5": "6BAD3BB6A6FDA4CBA504A04092293689",
+          "compressedSize": 7265666
+        },
+        {
+          "md5": "AD64419C9997E8F2116470E65340992A",
+          "size": 10485760,
+          "compressedMd5": "6618F14E96DD2468C430BE046A308B9A",
+          "compressedSize": 7899262
+        },
+        {
+          "md5": "DA21A2FF555CAB1EA1C5415A48C0652A",
+          "size": 12895924,
+          "compressedMd5": "352CBF56846AA15857BB9388CB0027D9",
+          "compressedSize": 6746481
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEDHSSE003-Redguard.esl",
+      "chunks": [
+        {
+          "md5": "0B2F0BCA966C80C7CBEC0BA99603BB52",
+          "size": 151346,
+          "compressedMd5": "1751FD144BD89090798F5159529C91E7",
+          "compressedSize": 51380
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE001-Hstead.bsa",
+      "md5": "5435B21E7E7EA4628797082E50C24953",
+      "chunks": [
+        {
+          "md5": "E8E52233C50806D7D878DE89656952A6",
+          "size": 10485760,
+          "compressedMd5": "69C9A4986B686228629668855D2E3D9B",
+          "compressedSize": 6593659
+        },
+        {
+          "md5": "99F5D712E18017ADAE06DB985589FF40",
+          "size": 18025714,
+          "compressedMd5": "6DD42BB9ACFCA4AE45B5BF05E78E446A",
+          "compressedSize": 13820450
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE001-Hstead.esm",
+      "chunks": [
+        {
+          "md5": "46E27FB4FD10F62B22D99D853B3D724B",
+          "size": 354470,
+          "compressedMd5": "115473262D946961C4104605DE233DAA",
+          "compressedSize": 160215
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE002-Tower.bsa",
+      "md5": "CBCCE743E35DF2F3DC8CCBB016B8F81F",
+      "chunks": [
+        {
+          "md5": "209C9BFEB2842DD3DEE2E3ACF2FDA103",
+          "size": 10485760,
+          "compressedMd5": "1962CC37AE4FA4AF459F48800E6A41D4",
+          "compressedSize": 8679597
+        },
+        {
+          "md5": "8C8BBC040530EEE2AA539F172D3FAB46",
+          "size": 10485760,
+          "compressedMd5": "FCCB5CBA29CFB82D35B1FA67EE71B703",
+          "compressedSize": 6588709
+        },
+        {
+          "md5": "3445441943A8544334108A9787F3184F",
+          "size": 10485760,
+          "compressedMd5": "DF693FD1DB4F088E73973DECE661799F",
+          "compressedSize": 6300321
+        },
+        {
+          "md5": "AEB78A4D693FFEE02B2208EE7BFD8BEA",
+          "size": 10485760,
+          "compressedMd5": "DC8344DD1CD8A3F7B4D0C045AD4E4752",
+          "compressedSize": 6745252
+        },
+        {
+          "md5": "3104214530D734E2266EDA3C8392994D",
+          "size": 10485760,
+          "compressedMd5": "A7164D7853AA7091A4EC153BA8060D83",
+          "compressedSize": 3190422
+        },
+        {
+          "md5": "60FB675BBB7748837DA592155121A7E6",
+          "size": 13698228,
+          "compressedMd5": "323744DB87706DD313A16C6137E9E34B",
+          "compressedSize": 8835943
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE002-Tower.esl",
+      "chunks": [
+        {
+          "md5": "E38AC8631090E8AD3D7393B005D19851",
+          "size": 399969,
+          "compressedMd5": "F84C238DD49447390B2FCEDBF03DE0CD",
+          "compressedSize": 177043
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE003-Hollow.bsa",
+      "md5": "136EA44587CD1E854B78A873047C0F21",
+      "chunks": [
+        {
+          "md5": "845D1D69D32E2F4F5E182733BADAE294",
+          "size": 10485760,
+          "compressedMd5": "E151A897E4EC07504D82B130C8D9EF13",
+          "compressedSize": 7051607
+        },
+        {
+          "md5": "E679A6001C6343BFAC4811182FA46409",
+          "size": 18044173,
+          "compressedMd5": "1E172967EC95F4F00F73C5D2DEEC7075",
+          "compressedSize": 14489341
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE003-Hollow.esl",
+      "chunks": [
+        {
+          "md5": "F04E637FE6C95315DA1D66DAB19DF397",
+          "size": 309936,
+          "compressedMd5": "70975B91758669EC0793E5AB074B102B",
+          "compressedSize": 101476
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE004-Hall.bsa",
+      "md5": "FFA8AE8A2EAA0CCD76A6FDC88F253750",
+      "chunks": [
+        {
+          "md5": "0FCF61F4E26091A7A8ABA2E92E0269F3",
+          "size": 10485760,
+          "compressedMd5": "EF8C772B324D7637545EB5D64927167A",
+          "compressedSize": 7396401
+        },
+        {
+          "md5": "D400832B801C9068B4ABA06CD34857E4",
+          "size": 10485760,
+          "compressedMd5": "A8C2E0704416894FA2A34E34307604A1",
+          "compressedSize": 6926604
+        },
+        {
+          "md5": "6EC383FFB1B6C60485E299A8BB8905CE",
+          "size": 10485760,
+          "compressedMd5": "CEF35D0FEAE120433ECF9AB5CECCADFF",
+          "compressedSize": 7630854
+        },
+        {
+          "md5": "FB409387E364274DCA3DF72813A81DE5",
+          "size": 10485760,
+          "compressedMd5": "4D580EF749048DA25AC3903354A18E82",
+          "compressedSize": 5401834
+        },
+        {
+          "md5": "039C93583CCDF023156FA73EC18C2350",
+          "size": 17647713,
+          "compressedMd5": "446A835D9CF5E4CB053A558EA9603D48",
+          "compressedSize": 12885006
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE004-Hall.esl",
+      "chunks": [
+        {
+          "md5": "634CB00E79FE9580AD479F68FB8A6834",
+          "size": 382836,
+          "compressedMd5": "67E2E688ED37D15030AC26BD3E0A6E00",
+          "compressedSize": 152224
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE005-Cave.bsa",
+      "md5": "2A4A3471C368762850D7BB7ADCDFF791",
+      "chunks": [
+        {
+          "md5": "4E682AABCABF3298163B6D8C5FFCF59C",
+          "size": 10485760,
+          "compressedMd5": "526E42981F1E585E387FB331CBD0D0DF",
+          "compressedSize": 7471688
+        },
+        {
+          "md5": "9EBFE47808CEF2076173E564D07C276F",
+          "size": 19291390,
+          "compressedMd5": "0FFD21627175BE8293DB22CC28B93438",
+          "compressedSize": 11776120
+        }
+      ]
+    },
+    {
+      "path": "Data/ccEEJSSE005-Cave.esm",
+      "chunks": [
+        {
+          "md5": "769B7D72AD4C935BDCAB5294A1CDDE99",
+          "size": 422743,
+          "compressedMd5": "324445C18D0815AD5D6BD6ECFD37D1CA",
+          "compressedSize": 139437
+        }
+      ]
+    },
+    {
+      "path": "Data/ccFFBSSE001-ImperialDragon.bsa",
+      "md5": "D057BF70AB5386845A59EA4BABFFC7E6",
+      "chunks": [
+        {
+          "md5": "EB902CCAEF1E81E58EA708B230F11F37",
+          "size": 10485760,
+          "compressedMd5": "5D99DC1A782738E1EB88BD18D44E3388",
+          "compressedSize": 6308699
+        },
+        {
+          "md5": "63742DD6CFF42D2760093E1F128E0186",
+          "size": 10485760,
+          "compressedMd5": "7EC61A754D38932E1EF49A358E01F673",
+          "compressedSize": 8096829
+        },
+        {
+          "md5": "8B7D30153C6B82BF48BF2A7423C6983F",
+          "size": 10485760,
+          "compressedMd5": "98739035287DA3033245A293E7874B96",
+          "compressedSize": 8511959
+        },
+        {
+          "md5": "CAA11300A93393A99AA1C9352113BFC6",
+          "size": 10485760,
+          "compressedMd5": "4D4DF3E8BAA3C71518C51F9E78B58753",
+          "compressedSize": 5805700
+        },
+        {
+          "md5": "4D7023AA18938F964E9AB9778B5032A6",
+          "size": 10485760,
+          "compressedMd5": "A7ECF7D208DF5C80236FCC5647B4EA56",
+          "compressedSize": 8289952
+        },
+        {
+          "md5": "E23CE79CFCAFEAE471306B57E7826D0E",
+          "size": 10485760,
+          "compressedMd5": "C98E5B323A607B99E91EC172C3623F56",
+          "compressedSize": 6961995
+        },
+        {
+          "md5": "457205B2BC045D0EE9932556326F15EC",
+          "size": 10485760,
+          "compressedMd5": "2A5CDB2D912C60F2BC4EF7872ABCC4A6",
+          "compressedSize": 5636866
+        },
+        {
+          "md5": "4679D0C20CE7561E3A1E63B8952FB358",
+          "size": 10485760,
+          "compressedMd5": "E49A641529E61422E441759A774361B3",
+          "compressedSize": 6888731
+        },
+        {
+          "md5": "6509A94EF06550D058CCAD3AFE6B8F35",
+          "size": 10485760,
+          "compressedMd5": "C5149F8F3E56BD2FBA59CA0F14526E35",
+          "compressedSize": 7203745
+        },
+        {
+          "md5": "68294B9D26B00D4720C1596870780C76",
+          "size": 10485760,
+          "compressedMd5": "27A31482CD13B1BF0B67AD47091732BA",
+          "compressedSize": 7435889
+        },
+        {
+          "md5": "D85B4741063DC71B4ED8B97E85AC2E66",
+          "size": 10485760,
+          "compressedMd5": "12D0B05FEC2ED529E37B3BC3264607AB",
+          "compressedSize": 5826376
+        },
+        {
+          "md5": "CD792CF4671DCD5DC035580965F272F3",
+          "size": 10485760,
+          "compressedMd5": "C23D241FC3A29C3C775D67864323F8EF",
+          "compressedSize": 6500897
+        },
+        {
+          "md5": "F472D7A6434E298B1E65A624563324FD",
+          "size": 10485760,
+          "compressedMd5": "E843146C37A5C942AE65D57BC3DB1AD1",
+          "compressedSize": 7561717
+        },
+        {
+          "md5": "D3E91C7A6DF0FD89C8F0217A123E0EED",
+          "size": 10485760,
+          "compressedMd5": "B2B60E36DE7384C701A10FFF14CA2C78",
+          "compressedSize": 7605531
+        },
+        {
+          "md5": "D0132B036C3F0332CA4D3CFB0AB581D3",
+          "size": 10485760,
+          "compressedMd5": "91BC4F295A05205885DE96FA51F19880",
+          "compressedSize": 7920361
+        },
+        {
+          "md5": "71BAB9D51DEAD41E6E5AE7C690C8C348",
+          "size": 20625736,
+          "compressedMd5": "0E49F9C3882BFADF17F2B452796ADD7C",
+          "compressedSize": 12877222
+        }
+      ]
+    },
+    {
+      "path": "Data/ccFFBSSE001-ImperialDragon.esl",
+      "chunks": [
+        {
+          "md5": "7530E9B34D1C964B1FF1404C6825643C",
+          "size": 207143,
+          "compressedMd5": "1F6A3229BA6CA4D0F7DD9FD1CDCF0B88",
+          "compressedSize": 59451
+        }
+      ]
+    },
+    {
+      "path": "Data/ccFFBSSE002-CrossbowPack.bsa",
+      "md5": "1E087B1B888E5D7C37DC0915310B87E2",
+      "chunks": [
+        {
+          "md5": "D497D98B4E6459EBDE9BEFF0E57126B0",
+          "size": 10485760,
+          "compressedMd5": "98DF85D6E765CE3346A6ED8D274891E7",
+          "compressedSize": 7808019
+        },
+        {
+          "md5": "933E1DB715F63F398F54FEE74DE5B5B7",
+          "size": 10485760,
+          "compressedMd5": "026155B9E630402F84B6AD03D2474411",
+          "compressedSize": 7444531
+        },
+        {
+          "md5": "848565ADB5063A4A0E3C98C72836730F",
+          "size": 10485760,
+          "compressedMd5": "01AB38FAB891FE760C2980C6764C14DB",
+          "compressedSize": 6887547
+        },
+        {
+          "md5": "CD3F778F5FC0BC1B613893B66584A700",
+          "size": 10485760,
+          "compressedMd5": "02ED1BEF8CE0166E67AFD0DADE4A598C",
+          "compressedSize": 7366755
+        },
+        {
+          "md5": "2A5CE47A3B1F7954A1BA808D04430172",
+          "size": 10485760,
+          "compressedMd5": "9D15FDFE1F5E5F5BBF5EEA2DD36B66DE",
+          "compressedSize": 7712195
+        },
+        {
+          "md5": "BD1755517B9033A5B650E46DE83B9645",
+          "size": 10485760,
+          "compressedMd5": "FD31415178451505042381882FFC67C0",
+          "compressedSize": 6927858
+        },
+        {
+          "md5": "CD3A907C9CD0F0004ECF48847C839453",
+          "size": 10485760,
+          "compressedMd5": "F8BE8FC5369D47B24BA01793F9FE7BC0",
+          "compressedSize": 6989077
+        },
+        {
+          "md5": "80A964971FD78073BD1D69E7EC96B195",
+          "size": 18432365,
+          "compressedMd5": "EAAECAA321C28DCD7BBDEEC61EAA8C31",
+          "compressedSize": 13566540
+        }
+      ]
+    },
+    {
+      "path": "Data/ccFFBSSE002-CrossbowPack.esl",
+      "chunks": [
+        {
+          "md5": "8EDCE7AA6BE96EC056E9B68E5CECBAED",
+          "size": 22307,
+          "compressedMd5": "80A49B3AFE04C06EC47A62FD5A490765",
+          "compressedSize": 3848
+        }
+      ],
+      "sfcRef": {
+        "offset": 73716,
+        "size": 22307
+      }
+    },
+    {
+      "path": "Data/ccFSVSSE001-Backpacks.bsa",
+      "md5": "D92F30EA99C9F4F89D1D7898B473EAB7",
+      "chunks": [
+        {
+          "md5": "031FECD1E170D55171E030C743E9646B",
+          "size": 10485760,
+          "compressedMd5": "7F81D24B76E17D2E49C7AB5BC8DF250B",
+          "compressedSize": 8678772
+        },
+        {
+          "md5": "28A4FF1D942E755FF7C39A53E91BFA56",
+          "size": 10485760,
+          "compressedMd5": "1D7071766DAFCA3D4C7260FA9E5243FC",
+          "compressedSize": 8353508
+        },
+        {
+          "md5": "45FFBCC40F68604B89D2F3232348509C",
+          "size": 10485760,
+          "compressedMd5": "0273EF188C85D676520CB258300117A0",
+          "compressedSize": 8449644
+        },
+        {
+          "md5": "919292DC3E12990322254F18CED3A8F8",
+          "size": 10485760,
+          "compressedMd5": "CCEE412581E4E9085D0A7188F4827295",
+          "compressedSize": 5995192
+        },
+        {
+          "md5": "CD84208E4ECC15DA8E10071CF41A77FE",
+          "size": 15273515,
+          "compressedMd5": "19A71146F08BA392BACA08FA978BE4AD",
+          "compressedSize": 6205799
+        }
+      ]
+    },
+    {
+      "path": "Data/ccFSVSSE001-Backpacks.esl",
+      "chunks": [
+        {
+          "md5": "01AB33FFDBF530844D0100C4F22A4DF9",
+          "size": 18898,
+          "compressedMd5": "36217F253396A9F9DFEB946FE7F37134",
+          "compressedSize": 2479
+        }
+      ],
+      "sfcRef": {
+        "offset": 54818,
+        "size": 18898
+      }
+    },
+    {
+      "path": "Data/ccKRTSSE001_Altar.bsa",
+      "md5": "60C07D1178FE4BA2D04799723209A811",
+      "chunks": [
+        {
+          "md5": "0B41F91B4B62A39DE323F15590E3A804",
+          "size": 10485760,
+          "compressedMd5": "8B8FA223699463F567B838E3FBEB325E",
+          "compressedSize": 5265157
+        },
+        {
+          "md5": "5C06FE6D7D6C4DFCC6343089750D242A",
+          "size": 10485760,
+          "compressedMd5": "26FA7A2FCC3449F36D26C4A2A3EA19C6",
+          "compressedSize": 8382684
+        },
+        {
+          "md5": "4C111CBE317E0F76F3005D5AFD6EF673",
+          "size": 10485760,
+          "compressedMd5": "407541B377EBD67178B46C5001547AA1",
+          "compressedSize": 5329840
+        },
+        {
+          "md5": "C88F4CBC5F1264F8E59A5CE72FDA79B3",
+          "size": 10485760,
+          "compressedMd5": "A72FF991F8882C5B99485D60E0A06EE1",
+          "compressedSize": 1426923
+        },
+        {
+          "md5": "4FABF783C8C21EEA0D2D106AAB2BA4A4",
+          "size": 10485760,
+          "compressedMd5": "9DDDA6E609D9B0A16144E5597D40D503",
+          "compressedSize": 1047693
+        },
+        {
+          "md5": "A7950E50F85AE9B0DA3B43CF68FC0149",
+          "size": 10485760,
+          "compressedMd5": "9863C4D6B686C9C20B6109F21FD3BA3F",
+          "compressedSize": 1251806
+        },
+        {
+          "md5": "9F8130D7D500E6A4A93A65CDA329E1DA",
+          "size": 10485760,
+          "compressedMd5": "6A46A0647250937166849FA0C32FCB13",
+          "compressedSize": 900932
+        },
+        {
+          "md5": "44C996309051D648BE27879B05FDB1EA",
+          "size": 10485760,
+          "compressedMd5": "994A46B86FF20D3F42D28361293E0DAD",
+          "compressedSize": 1098917
+        },
+        {
+          "md5": "A776A23139720DA20802C5377E699731",
+          "size": 10485760,
+          "compressedMd5": "1C44EFDDE93C440DEF38DAE6B3B81DC8",
+          "compressedSize": 1413455
+        },
+        {
+          "md5": "61A50E8C0C42D95DD994DE5CEC45FD96",
+          "size": 10485760,
+          "compressedMd5": "2015EFA1FB13EC1BBC4915B372C18B33",
+          "compressedSize": 4265736
+        },
+        {
+          "md5": "BBCFF84B3309B489945E486333E39335",
+          "size": 10485760,
+          "compressedMd5": "6435F160032A4BF3731C7D2128A997B3",
+          "compressedSize": 6930651
+        },
+        {
+          "md5": "1168A8225950A2D7C5D910F3AD9CA31B",
+          "size": 16974474,
+          "compressedMd5": "1616CE19C7D553FFCFA91FEC758652C7",
+          "compressedSize": 11487852
+        }
+      ]
+    },
+    {
+      "path": "Data/ccKRTSSE001_Altar.esl",
+      "chunks": [
+        {
+          "md5": "2FE460AA594D832C208062B901850803",
+          "size": 499023,
+          "compressedMd5": "55638683DA894BCF69E05B1EB89554DF",
+          "compressedSize": 240307
+        }
+      ]
+    },
+    {
+      "path": "Data/ccMTYSSE001-KnightsOfTheNine.bsa",
+      "md5": "1EAE7283B5ACA34262ACF8F4AB72EA15",
+      "chunks": [
+        {
+          "md5": "36FF18F181C118BBA7C776381570CD15",
+          "size": 10485760,
+          "compressedMd5": "DBCB88392C7E4346B14547C64E15859F",
+          "compressedSize": 6420222
+        },
+        {
+          "md5": "8025ECF2E0BEB6BF5D404AAC873F9EA5",
+          "size": 10485760,
+          "compressedMd5": "9AFC086B05EEF02744D25A40932A2EF7",
+          "compressedSize": 6880108
+        },
+        {
+          "md5": "3033E00537294D1DA8C331D164066F57",
+          "size": 10485760,
+          "compressedMd5": "CA92D098535724B34514642E96DC2EF1",
+          "compressedSize": 6374568
+        },
+        {
+          "md5": "916E67095D6CED338936CC79FC2B31B2",
+          "size": 10485760,
+          "compressedMd5": "66680EFC0933B60E8829A83085BC3F3D",
+          "compressedSize": 6203038
+        },
+        {
+          "md5": "754BAD9D9B8B5FEA1927A324726AAC55",
+          "size": 10485760,
+          "compressedMd5": "72793728E08268EF288551027B0ECA89",
+          "compressedSize": 5990655
+        },
+        {
+          "md5": "99A056CA4E674B852E3FCF19E1949FC6",
+          "size": 10485760,
+          "compressedMd5": "F823B4D1216358ACA1A5775CBF32E792",
+          "compressedSize": 6571379
+        },
+        {
+          "md5": "0B3A7789D0D8048C304A8D5D43F95D9B",
+          "size": 17767189,
+          "compressedMd5": "A2BBCD758CFC2A8F41CFD2033692F96D",
+          "compressedSize": 11674728
+        }
+      ]
+    },
+    {
+      "path": "Data/ccMTYSSE001-KnightsOfTheNine.esl",
+      "chunks": [
+        {
+          "md5": "654F31907640C128556D9A83E7C2C5E7",
+          "size": 87926,
+          "compressedMd5": "3967E63C511A25C348C4E37013F89B85",
+          "compressedSize": 15401
+        }
+      ]
+    },
+    {
+      "path": "Data/ccMTYSSE002-VE.bsa",
+      "md5": "32FB2348555B8E9D5C65DC1803DA8CAE",
+      "chunks": [
+        {
+          "md5": "3139F289B4AC79CE52FFBA754913EC66",
+          "size": 10485760,
+          "compressedMd5": "A023DC9021E8CB24A11BDA77731E8F2A",
+          "compressedSize": 4965317
+        },
+        {
+          "md5": "B2A385E3B7EDFE2855556AE5B325FA6A",
+          "size": 10485760,
+          "compressedMd5": "506D356723059022ADEBDC85DC717F11",
+          "compressedSize": 6652826
+        },
+        {
+          "md5": "2F91D3F4C129B86FBA2C2F0F8BF680EC",
+          "size": 10485760,
+          "compressedMd5": "67CC872C415DA732FDE0CDC755E323F6",
+          "compressedSize": 5113551
+        },
+        {
+          "md5": "EC7FF76DD9ABED9EDAA5D9631F7FBF1A",
+          "size": 10485760,
+          "compressedMd5": "C738F1C748EEF9B55BFD392E7F8ADBB0",
+          "compressedSize": 6752481
+        },
+        {
+          "md5": "A0B8F70581BD6C02BB8F3569C37D5418",
+          "size": 10485760,
+          "compressedMd5": "F8B147B12DADD997A84FD668641E9EFA",
+          "compressedSize": 8389170
+        },
+        {
+          "md5": "36A5807035872B33AD338688738BD977",
+          "size": 10485760,
+          "compressedMd5": "5D8B8E3269C47F85A00DB918FD2E128D",
+          "compressedSize": 5471587
+        },
+        {
+          "md5": "50BD1FE207CE8BC78227A0E0416E6A43",
+          "size": 10485760,
+          "compressedMd5": "C04E2862F8B9252775C2ACEB5A602DE8",
+          "compressedSize": 7087704
+        },
+        {
+          "md5": "AD0287CDD9CB7B493DEF6A959E2C2FFE",
+          "size": 10485760,
+          "compressedMd5": "C76B07F840C848498F672CBCCDF0E582",
+          "compressedSize": 8046491
+        },
+        {
+          "md5": "CD20B15B4900F10951E5792206900D95",
+          "size": 10485760,
+          "compressedMd5": "4C46B33F635B68EE2B21440D051ED761",
+          "compressedSize": 7705538
+        },
+        {
+          "md5": "9EF0EED3EB0E508A33A166B5DF3270CA",
+          "size": 10485760,
+          "compressedMd5": "EE4AF148C077FD74D7DA08D934E34AA5",
+          "compressedSize": 8158208
+        },
+        {
+          "md5": "C0B8820CEA57274EC764949CCB42C0DA",
+          "size": 13167897,
+          "compressedMd5": "F92D49C89186FABD80DA24BADEDD1BC1",
+          "compressedSize": 8209394
+        }
+      ]
+    },
+    {
+      "path": "Data/ccMTYSSE002-VE.esl",
+      "chunks": [
+        {
+          "md5": "7AB126BA996DBE41B37AF43F10B01E2D",
+          "size": 259944,
+          "compressedMd5": "DA90D32ED6ECB33194D7A15AD2CEAE44",
+          "compressedSize": 108405
+        }
+      ]
+    },
+    {
+      "path": "Data/ccPEWSSE002-ArmsOfChaos.bsa",
+      "md5": "447BE07B8CF013913E31BD102F2EF34E",
+      "chunks": [
+        {
+          "md5": "6F2EA123C845387A97B70F72AE0078AA",
+          "size": 10485760,
+          "compressedMd5": "17B4CB7A670B904820990377DC8C8129",
+          "compressedSize": 3566777
+        },
+        {
+          "md5": "EA7E305958762AF7B221ABCEACB47F5A",
+          "size": 20655535,
+          "compressedMd5": "64F6D8BBB19D173842C1602DBBC77C8A",
+          "compressedSize": 12025221
+        }
+      ]
+    },
+    {
+      "path": "Data/ccPEWSSE002-ArmsOfChaos.esl",
+      "chunks": [
+        {
+          "md5": "F54F07B55CCE94FCF8CA34C6FDF46076",
+          "size": 141405,
+          "compressedMd5": "E8014A8B8FCD137EBEF6A17E03488A77",
+          "compressedSize": 51044
+        }
+      ]
+    },
+    {
+      "path": "Data/ccQDRSSE002-Firewood.bsa",
+      "chunks": [
+        {
+          "md5": "70CB8ECCA359BDD67AFCE968339FE88A",
+          "size": 443268,
+          "compressedMd5": "D641AF908C41D7C9B47C4E5D7C690814",
+          "compressedSize": 289078
+        }
+      ]
+    },
+    {
+      "path": "Data/ccQDRSSE002-Firewood.esl",
+      "chunks": [
+        {
+          "md5": "065EBD6E98E369F5A1F9A9D38F4D7B83",
+          "size": 264688,
+          "compressedMd5": "2128B9BE30AA15EC7036869D14F69006",
+          "compressedSize": 39166
+        }
+      ]
+    },
+    {
+      "path": "Data/ccRMSSSE001-NecroHouse.bsa",
+      "md5": "82BBF8CB8F92CD4B89518522D7332E6B",
+      "chunks": [
+        {
+          "md5": "C8EC5EE0FB857E7A2BCDF735A6881849",
+          "size": 10485760,
+          "compressedMd5": "CF37B90DC77F7A4C1935155405E760D4",
+          "compressedSize": 8834248
+        },
+        {
+          "md5": "38F44C489FCF3742FAD6E7CCE83365A4",
+          "size": 10485760,
+          "compressedMd5": "C992173807D62D016CFEAD0551999D1E",
+          "compressedSize": 6273159
+        },
+        {
+          "md5": "50F03F91A54576621CE47827D805BFBF",
+          "size": 10485760,
+          "compressedMd5": "E6978931B9954E2F67F75F4EE6CEB86E",
+          "compressedSize": 6242077
+        },
+        {
+          "md5": "DDBA3446792CC50D26038E50A185AA44",
+          "size": 19742885,
+          "compressedMd5": "D452B80A1613F2A7A9A481983161D014",
+          "compressedSize": 13736637
+        }
+      ]
+    },
+    {
+      "path": "Data/ccRMSSSE001-NecroHouse.esl",
+      "chunks": [
+        {
+          "md5": "192EF0D6F4B7E5218FDFD874EE505438",
+          "size": 393322,
+          "compressedMd5": "BC26A95A7C58DEF6DDA543F579CA2CF1",
+          "compressedSize": 98088
+        }
+      ]
+    },
+    {
+      "path": "Data/ccTWBSSE001-PuzzleDungeon.bsa",
+      "md5": "BA3289FEE76301E59CE554A1F5D6FE27",
+      "chunks": [
+        {
+          "md5": "4F3F9F9E20AA0AD0218C4681F3C984A9",
+          "size": 10485760,
+          "compressedMd5": "A5B9693845984010A082E0855F4B6CF4",
+          "compressedSize": 3778314
+        },
+        {
+          "md5": "D49B0D898C5379EFD47C6D4E310DA8E0",
+          "size": 10485760,
+          "compressedMd5": "2FCB34BBB2B7931BA50311057304A9AA",
+          "compressedSize": 5649970
+        },
+        {
+          "md5": "4D1CF7AAA59E1C6644C5430D07C35C24",
+          "size": 10485760,
+          "compressedMd5": "742F6A9F6FDA24E95516A350640EC5F4",
+          "compressedSize": 7401357
+        },
+        {
+          "md5": "EBFF09E7D26004BCC66D6E1A463D5DCC",
+          "size": 10485760,
+          "compressedMd5": "0A353A7502B22011666E4D2CC23250BA",
+          "compressedSize": 7842746
+        },
+        {
+          "md5": "3E65C7A3F163F59292953B863815D54E",
+          "size": 10485760,
+          "compressedMd5": "1F581DB6F5404A44F716E66CBC174D98",
+          "compressedSize": 7197837
+        },
+        {
+          "md5": "687759A275EA471284AEC3151BB21E9D",
+          "size": 10485760,
+          "compressedMd5": "1F1807DE2EA5C1C2A780C1B601E355DD",
+          "compressedSize": 7187358
+        },
+        {
+          "md5": "48C091F47A945D2BF2B3B53665165A46",
+          "size": 10485760,
+          "compressedMd5": "D3915850443C5DAB5DA0FD8EB572EA75",
+          "compressedSize": 7322509
+        },
+        {
+          "md5": "0B0B06767875A8BDA818366636E233CC",
+          "size": 10485760,
+          "compressedMd5": "158FA496DFABB71C2F425764165853A5",
+          "compressedSize": 7157345
+        },
+        {
+          "md5": "C7B4269D9BD3B59A22722C62C4B6ABA8",
+          "size": 10485760,
+          "compressedMd5": "4B43D2B230BE6FB1F2481220BB6BFAB9",
+          "compressedSize": 5505031
+        },
+        {
+          "md5": "C9DC386AA0E85EB9D819AADCC4EF5294",
+          "size": 10485760,
+          "compressedMd5": "DFB9268A18AFA6A871A0851F8922AE54",
+          "compressedSize": 3423917
+        },
+        {
+          "md5": "9251B6984D835E2455A00510061174C3",
+          "size": 10485760,
+          "compressedMd5": "6818CF685EB211ABBAA4190620CD00D6",
+          "compressedSize": 5142562
+        },
+        {
+          "md5": "85410ACD1978DE1615099020D7940264",
+          "size": 10485760,
+          "compressedMd5": "61402F0FD0278E96592B92A6FDBCA643",
+          "compressedSize": 6050437
+        },
+        {
+          "md5": "275A8565FA0CD29DD7BC6B6D6C059A91",
+          "size": 10485760,
+          "compressedMd5": "949EE96D4C811E1D415D4E5A181ED13F",
+          "compressedSize": 4460735
+        },
+        {
+          "md5": "2544C3DCDF3C8E3AEB069AACBBAC27E4",
+          "size": 10485760,
+          "compressedMd5": "E4AECCF6082AF820E771E21E91FDB830",
+          "compressedSize": 4251188
+        },
+        {
+          "md5": "5CC94B9CFBDE3E93DA1DCC3186BA6187",
+          "size": 10485760,
+          "compressedMd5": "78B37B6504B79DBE76B1AA2CED1D9979",
+          "compressedSize": 6127854
+        },
+        {
+          "md5": "5431040D2BC4098D4B25EC1C472571FD",
+          "size": 10485760,
+          "compressedMd5": "811D909566B4EFCDB850B5655A09A9F2",
+          "compressedSize": 4479915
+        },
+        {
+          "md5": "D7921ABCC4055D05E4161E95B80B89C9",
+          "size": 10485760,
+          "compressedMd5": "3A5E6CAC0D92D65E730138F9E42F6EEE",
+          "compressedSize": 3257541
+        },
+        {
+          "md5": "7C330C6C3AE4CA1419A09B7AA737FAE8",
+          "size": 10485760,
+          "compressedMd5": "FB5545C47686846C5074A80B299D04C6",
+          "compressedSize": 6278259
+        },
+        {
+          "md5": "C28F6930F0AFD04128FB8189B5036558",
+          "size": 10485760,
+          "compressedMd5": "7F401D2FB471890A4E3B69799C20D645",
+          "compressedSize": 5858820
+        },
+        {
+          "md5": "8FB432D778F9D94F0D9B3AB339B6B510",
+          "size": 10485760,
+          "compressedMd5": "CD053E1EAC79AA04C195EE1D141E5758",
+          "compressedSize": 3630080
+        },
+        {
+          "md5": "7947C5DCCB29C920EFD0F48FA07C5812",
+          "size": 10485760,
+          "compressedMd5": "34FF7B7984DE5D4DC454B7F799961C97",
+          "compressedSize": 5378399
+        },
+        {
+          "md5": "576CCAFF7F58CFA9B69B691188E72E82",
+          "size": 10485760,
+          "compressedMd5": "E5B8D95EA9DCA63EA2F6095E8A8A1B68",
+          "compressedSize": 4769300
+        },
+        {
+          "md5": "850B6B25CA029DB76AF3C00448257413",
+          "size": 10485760,
+          "compressedMd5": "4A18155897ED9D1D028E39899764CF20",
+          "compressedSize": 4989669
+        },
+        {
+          "md5": "D22067C0C99BB3F58585CE7B9AA5FAF2",
+          "size": 10485760,
+          "compressedMd5": "1978326BAF6FF81049257EC04DB44603",
+          "compressedSize": 5551642
+        },
+        {
+          "md5": "C35661D73FF7F27F99014267F0A55685",
+          "size": 10485760,
+          "compressedMd5": "063494307F099AFC3AC09498D13E1750",
+          "compressedSize": 5784641
+        },
+        {
+          "md5": "1BE84532C02A4DF86A86882BA8DBB90D",
+          "size": 10485760,
+          "compressedMd5": "656D7CAE2A8CEE769373899B0A08E529",
+          "compressedSize": 5592859
+        },
+        {
+          "md5": "FD71CCA6039190515767DF4D41F364D0",
+          "size": 10485760,
+          "compressedMd5": "4CE32DEBA8EBB3A0239C80D3F1410529",
+          "compressedSize": 5995011
+        },
+        {
+          "md5": "A9F5135BA25BCF73E660210F641DD444",
+          "size": 10485760,
+          "compressedMd5": "C4A27B8C48D54B425F5CF43DEF2DE23F",
+          "compressedSize": 7395703
+        },
+        {
+          "md5": "82BE520347D65690AC605C99BEB750D3",
+          "size": 10485760,
+          "compressedMd5": "84994F5D3CE520E193D872884FC64FC0",
+          "compressedSize": 6719861
+        },
+        {
+          "md5": "4FECC942FD71A72B2B4A1263941406FE",
+          "size": 10485760,
+          "compressedMd5": "484D6E301BCCE215E18B9ADBFDE43A0F",
+          "compressedSize": 7345426
+        },
+        {
+          "md5": "7DE88177856BD8A9DA8362BB508F7113",
+          "size": 10485760,
+          "compressedMd5": "AEECB9D1CECE38A9AA60428B803DD303",
+          "compressedSize": 5449814
+        },
+        {
+          "md5": "5FDCB3434E098F043A40A6DE85BD6261",
+          "size": 10485760,
+          "compressedMd5": "E680C2699B264307AFFADB9863860C24",
+          "compressedSize": 6837729
+        },
+        {
+          "md5": "035731C21E65C58D6DB248852DCF2785",
+          "size": 10485760,
+          "compressedMd5": "BF39C54D350C3EB006F4DE240C9D13DE",
+          "compressedSize": 7756721
+        },
+        {
+          "md5": "A1C09F59D942DF14044697547A4895C9",
+          "size": 16159351,
+          "compressedMd5": "1946F66B37CC31170DFAECCE71641CDE",
+          "compressedSize": 9232670
+        }
+      ]
+    },
+    {
+      "path": "Data/ccTWBSSE001-PuzzleDungeon.esm",
+      "chunks": [
+        {
+          "md5": "7B31E929A9292191FEEAA2235E9DAAF1",
+          "size": 1411202,
+          "compressedMd5": "345420EB22F81F4127DBE2C46343C459",
+          "compressedSize": 582826
+        }
+      ]
+    },
+    {
+      "path": "Data/ccVSVSSE001-Winter.bsa",
+      "md5": "BB6CF7E5D70A709794B49196160D8CAC",
+      "chunks": [
+        {
+          "md5": "10E9EA339937A45F9806DD7666D4147E",
+          "size": 10485760,
+          "compressedMd5": "7EBE7813F8F6E58907D08F00822285AD",
+          "compressedSize": 2977994
+        },
+        {
+          "md5": "870CA8B80B3CCCBF2B850C548B296B38",
+          "size": 10485760,
+          "compressedMd5": "781695CA901BF07D882F97238A76EEAE",
+          "compressedSize": 5309269
+        },
+        {
+          "md5": "EC49483546D48218184D7E0CABB49548",
+          "size": 10485760,
+          "compressedMd5": "C90ED7BEFB6A936AEB16DAD658C8C97E",
+          "compressedSize": 3892484
+        },
+        {
+          "md5": "69E3D87740D7703BB35A3599291E0BD6",
+          "size": 11081386,
+          "compressedMd5": "75B3409D2FE71F382EA03744870FCC7C",
+          "compressedSize": 3982650
+        }
+      ]
+    },
+    {
+      "path": "Data/ccVSVSSE001-Winter.esl",
+      "chunks": [
+        {
+          "md5": "4261D1D0F211C0B20E56082D45E86F82",
+          "size": 115940,
+          "compressedMd5": "F31705CB6FBB50D7F724E488F01B6031",
+          "compressedSize": 39932
+        }
+      ]
+    },
+    {
+      "path": "Data/ccVSVSSE002-Pets.bsa",
+      "md5": "257FEC80CB962038EF8C492A9B81A022",
+      "chunks": [
+        {
+          "md5": "164578EB918D309684007EF435524878",
+          "size": 10485760,
+          "compressedMd5": "6A61DF85A119DAFDEC8B723CC7CF7FC8",
+          "compressedSize": 4635375
+        },
+        {
+          "md5": "702328B709510187D6E54A48545617F5",
+          "size": 10485760,
+          "compressedMd5": "755C0F958B7F6408C9DF98AE41845622",
+          "compressedSize": 5657203
+        },
+        {
+          "md5": "851F91149085C5F9252B491DA5200B23",
+          "size": 10485760,
+          "compressedMd5": "F1B965A81F8BA6FD3CF493D8C8EAE289",
+          "compressedSize": 3166055
+        },
+        {
+          "md5": "FB444EEF329831B53CFD0239AF35A2E1",
+          "size": 10485760,
+          "compressedMd5": "C719311EEF0049C3DA32B26E6A7B6B79",
+          "compressedSize": 4125681
+        },
+        {
+          "md5": "FB7E2D8CD1AD15C4E5C15A94E1C11FF2",
+          "size": 10485760,
+          "compressedMd5": "1696A2593F56E43822605A24E2D890D0",
+          "compressedSize": 4196376
+        },
+        {
+          "md5": "F609074F079E6D799700010FAA02652A",
+          "size": 10485760,
+          "compressedMd5": "5F28059958D8EFF85B225D1BD94DC519",
+          "compressedSize": 6053752
+        },
+        {
+          "md5": "54C882F71624B062EE5550FDCEE58117",
+          "size": 10485760,
+          "compressedMd5": "669B3774D5BFC813408A87E913E3FE01",
+          "compressedSize": 5147058
+        },
+        {
+          "md5": "210F27F2427878A2625C128BD87685A7",
+          "size": 10485760,
+          "compressedMd5": "468267BD83433DEEE42936C65175DB62",
+          "compressedSize": 4513190
+        },
+        {
+          "md5": "A970A7842847AB53AB93FFA398B8E17B",
+          "size": 18858187,
+          "compressedMd5": "F3FE706517FFD6FBC62C750A7B2BA997",
+          "compressedSize": 6915309
+        }
+      ]
+    },
+    {
+      "path": "Data/ccVSVSSE002-Pets.esl",
+      "chunks": [
+        {
+          "md5": "DC2ED29FBB2ED2B653CFDEDBC933316B",
+          "size": 186347,
+          "compressedMd5": "52D802EEDD023C165DAF7DB0F2BD2411",
+          "compressedSize": 58334
+        }
+      ]
+    },
+    {
+      "path": "Data/ccVSVSSE003-NecroArts.bsa",
+      "md5": "800836C0EA68179BA804821CA652B9B7",
+      "chunks": [
+        {
+          "md5": "B0140CEA52A9AAB87516AA3569BA0200",
+          "size": 10485760,
+          "compressedMd5": "3C8AE709A924B2F0D7E43D704565342C",
+          "compressedSize": 3985568
+        },
+        {
+          "md5": "C306922F81E597768C294AF4E56F9C6D",
+          "size": 10485760,
+          "compressedMd5": "352D57FCE07EC41C62EFFE6A6E4F4DA5",
+          "compressedSize": 144127
+        },
+        {
+          "md5": "CC179B3854D240024042292DA6421887",
+          "size": 10485760,
+          "compressedMd5": "8AE4A787573532BC8F28001F330FE26E",
+          "compressedSize": 3614879
+        },
+        {
+          "md5": "533636D4BB5FA2F409CF673E938CCD65",
+          "size": 10485760,
+          "compressedMd5": "F0CA7738832611EC5AB8BDD1E612BBF2",
+          "compressedSize": 3151134
+        },
+        {
+          "md5": "60A79D2227BE5AC9B67F008815F93FA4",
+          "size": 10485760,
+          "compressedMd5": "B66B16743E47258888E968BAF48018A5",
+          "compressedSize": 2772687
+        },
+        {
+          "md5": "7E75B3112316E824992EA0522A9C17FA",
+          "size": 10485760,
+          "compressedMd5": "EEB9ABFFD155A2F1AEA330D272E7DF96",
+          "compressedSize": 3354527
+        },
+        {
+          "md5": "38930C13B506467E1F33C507D7F4D350",
+          "size": 10485760,
+          "compressedMd5": "FB9AE000B3CBB94E74A8F2E86D2740BD",
+          "compressedSize": 1110313
+        },
+        {
+          "md5": "F30AC0E1E42C019EE16E51FE9B2116FD",
+          "size": 10485760,
+          "compressedMd5": "B9F8F3EA6C5AFF3AEDEC92EEA483BF59",
+          "compressedSize": 2839206
+        },
+        {
+          "md5": "9A4796410B70CF752B8611367382E700",
+          "size": 10485760,
+          "compressedMd5": "6F4172DEBE66C70BB78DE134ED34DA44",
+          "compressedSize": 5562081
+        },
+        {
+          "md5": "9C2CE211A0A25A65EC5F85A4D678E7BA",
+          "size": 10485760,
+          "compressedMd5": "A570C872748ABD55BA994E31116B1152",
+          "compressedSize": 5850745
+        },
+        {
+          "md5": "CEE97E35B0D735BFB43E9FF4D7345DEF",
+          "size": 10485760,
+          "compressedMd5": "7C52DEDED8F53962E67C6D537F22468D",
+          "compressedSize": 4034279
+        },
+        {
+          "md5": "5A9BE066CA992C08DAAA6D283EABE95B",
+          "size": 10485760,
+          "compressedMd5": "4B9DAAC86A9FA1BF2F53A0968EFBD180",
+          "compressedSize": 1525225
+        },
+        {
+          "md5": "077F93B40BF5833D28EFF3378CE154A8",
+          "size": 10485760,
+          "compressedMd5": "8ADCCA21F2B92FC09D3BFD688B169D12",
+          "compressedSize": 4031786
+        },
+        {
+          "md5": "58E5A0747DC7A90975CA51F986248A13",
+          "size": 10485760,
+          "compressedMd5": "0EFB5E1A9C1086B52BCC8C84AB2A709A",
+          "compressedSize": 3063250
+        },
+        {
+          "md5": "D3903EAF6056098FC4461687B241D976",
+          "size": 10485760,
+          "compressedMd5": "08EC01F117C2DA450B1C670F26DBB2D1",
+          "compressedSize": 1467321
+        },
+        {
+          "md5": "8F2AEB67F6DF7436719F9392020374B1",
+          "size": 12562891,
+          "compressedMd5": "539F1B40BD06C1EC30981C42E52BC6B0",
+          "compressedSize": 1841883
+        }
+      ]
+    },
+    {
+      "path": "Data/ccVSVSSE003-NecroArts.esl",
+      "chunks": [
+        {
+          "md5": "6AB12307612B879DC38F03E90A2B0DF8",
+          "size": 224611,
+          "compressedMd5": "2664BA8D94224C3C3C324C396957147C",
+          "compressedSize": 81445
+        }
+      ]
+    },
+    {
+      "path": "Data/ccVSVSSE004-BeAFarmer.bsa",
+      "chunks": [
+        {
+          "md5": "23F85AB67EEC8C6C5AB439C99178C0D9",
+          "size": 18261078,
+          "compressedMd5": "970E5B05CD6861F18FED173513B46DA3",
+          "compressedSize": 6234645
+        }
+      ]
+    },
+    {
+      "path": "Data/ccVSVSSE004-BeAFarmer.esl",
+      "chunks": [
+        {
+          "md5": "C2120025E3A2B6F995C017288676039E",
+          "size": 485080,
+          "compressedMd5": "27A26938F2F14F4BE9C72E1A775F0B8C",
+          "compressedSize": 227431
+        }
+      ]
+    }
+  ],
+  "smallFilesContainer": {
+    "chunks": [
+      {
+        "md5": "EBB893905923028863AEB60EFDCF0065",
+        "size": 179710,
+        "compressedMd5": "EA76F028059A7EE28C44236D8CAA5842",
+        "compressedSize": 51838
+      }
+    ]
+  }
+}

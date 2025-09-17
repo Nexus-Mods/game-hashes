@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "path": "Data/Localization/language.lsx",
+      "chunks": [
+        {
+          "md5": "1389017914CA1947A33E44FBCE8E6FA1",
+          "size": 572,
+          "compressedMd5": "7B1508D73580E4F9FAEC9FF26AFEE0DF",
+          "compressedSize": 259
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Korean/Korean.pak",
+      "chunks": [
+        {
+          "md5": "99EEA3C4270E64EC833446094E5AB22C",
+          "size": 14373369,
+          "compressedMd5": "A5CB3ECF696CC8388D519860D5B99696",
+          "compressedSize": 12989447
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Korean/KoreanData.pak",
+      "chunks": [
+        {
+          "md5": "1A9CECF388A3ABF0448ADFD7231DB376",
+          "size": 6078632,
+          "compressedMd5": "69F07FC2406DCB8AFCF66A6CDD8A8ADD",
+          "compressedSize": 5720754
+        }
+      ]
+    }
+  ]
+}

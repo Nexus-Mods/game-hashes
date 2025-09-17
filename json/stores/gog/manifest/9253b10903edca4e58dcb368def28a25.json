@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "path": "Data/Localization/language.lsx",
+      "chunks": [
+        {
+          "md5": "D47E96BA0B771A60FB0F622EADF5976F",
+          "size": 573,
+          "compressedMd5": "2B00507FDC37C17F3D169AE7E9576636",
+          "compressedSize": 260
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Turkish/Turkish.pak",
+      "chunks": [
+        {
+          "md5": "E161A9FFB7C3D6AEDF3539781EF8CBD5",
+          "size": 13751299,
+          "compressedMd5": "B85B585383FA6681B5D05F1E5DB45207",
+          "compressedSize": 12322288
+        }
+      ]
+    }
+  ]
+}

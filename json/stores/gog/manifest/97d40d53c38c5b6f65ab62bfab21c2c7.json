@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "path": "Data/Localization/language.lsx",
+      "chunks": [
+        {
+          "md5": "4A17B36213CEBF1DE10EBAF6D25EC479",
+          "size": 573,
+          "compressedMd5": "78A4E00FD46879DB7331B49ECF5F20EB",
+          "compressedSize": 259
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Chinese/Chinese.pak",
+      "chunks": [
+        {
+          "md5": "085725FA11FEE6350697CC6758EF7A20",
+          "size": 14326740,
+          "compressedMd5": "232831583331A4E24CA607F0AAB11146",
+          "compressedSize": 12946664
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Chinese/ChineseData.pak",
+      "chunks": [
+        {
+          "md5": "3BAB25C9399E9EBD6F599646F892A796",
+          "size": 10159784,
+          "compressedMd5": "6F3B2C57B18543723023CA5A648829DD",
+          "compressedSize": 9618735
+        }
+      ]
+    }
+  ]
+}
