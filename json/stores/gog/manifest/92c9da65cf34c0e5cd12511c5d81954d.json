@@ -1,0 +1,3111 @@
+{
+  "items": [
+    {
+      "path": "Fallout4.exe",
+      "md5": "2951AC9444071D4DF472A3814E035612",
+      "chunks": [
+        {
+          "md5": "B6A2223ECD36ED89AB30930FD4623562",
+          "size": 8388608,
+          "compressedMd5": "1103651EFFC8C8F108E2A43BECA5978C",
+          "compressedSize": 3412546
+        },
+        {
+          "md5": "BC74291573446C79218F23520206BDC4",
+          "size": 8388608,
+          "compressedMd5": "CCFC18D27222585BB7E66AB098B053EE",
+          "compressedSize": 3126077
+        },
+        {
+          "md5": "77554654866C0E69BD6107DA2A744989",
+          "size": 8388608,
+          "compressedMd5": "FC0582562DBA0AC2AFD6BB64604BA6DB",
+          "compressedSize": 3098632
+        },
+        {
+          "md5": "7C70B8B562F6783C2480806F1B840C23",
+          "size": 8388608,
+          "compressedMd5": "091DD5B8B1C9C5D6BDA480BF207E2FFF",
+          "compressedSize": 3417321
+        },
+        {
+          "md5": "DEC24231E64C15F09225A9B9A697C7B9",
+          "size": 8388608,
+          "compressedMd5": "DA1D1C25E6FD50C37F115DC6A3BCFDAC",
+          "compressedSize": 3264592
+        },
+        {
+          "md5": "941147888BDB1EACE6272C1E2DB11CE4",
+          "size": 8388608,
+          "compressedMd5": "B7DB7FEF3906E731BB90972B8CA77CE4",
+          "compressedSize": 2179429
+        },
+        {
+          "md5": "B5E3A6B0E72E2BCB3F19B8575FA06655",
+          "size": 14988288,
+          "compressedMd5": "7CE7EF49AF88AE6BBB41F2299EEB5867",
+          "compressedSize": 4099497
+        }
+      ]
+    },
+    {
+      "path": "Data/DLCNukaWorld - Main.ba2",
+      "md5": "978DF02FBA32860364E3CD4095C34543",
+      "chunks": [
+        {
+          "md5": "B9C0CBD3C39BA04423B9392A19ADC8AA",
+          "size": 8388608,
+          "compressedMd5": "F57571B1C6E4776147CA443CB71DCF42",
+          "compressedSize": 3669589
+        },
+        {
+          "md5": "1AB59FBF5D414D1EE23568D83A794418",
+          "size": 8388608,
+          "compressedMd5": "461FA9EC36EB10AF49BA3A853A798510",
+          "compressedSize": 3255616
+        },
+        {
+          "md5": "E3B4B4C82DEA5FD61F79D68F83F51555",
+          "size": 8388608,
+          "compressedMd5": "31C311D6A5B948959059947FD84F6AF8",
+          "compressedSize": 3554897
+        },
+        {
+          "md5": "027C9B77D5AD260230B8AD4778B3D341",
+          "size": 8388608,
+          "compressedMd5": "1D691E4B81E062A18E24DFADEC69F181",
+          "compressedSize": 1312374
+        },
+        {
+          "md5": "A2A1FBBA4CC94C304B732AE671C6E945",
+          "size": 8388608,
+          "compressedMd5": "37B35237A2DD88F6A5E5953D1D19F599",
+          "compressedSize": 3036484
+        },
+        {
+          "md5": "D05A92EDDE6994CEC00E3641D6B96350",
+          "size": 8388608,
+          "compressedMd5": "93C0501EC747F31A4C904D457EAAF1C1",
+          "compressedSize": 3030499
+        },
+        {
+          "md5": "6DDB6DF1710F89D5890FC1AF2F4C6DD4",
+          "size": 8388608,
+          "compressedMd5": "0D84BE22EC0217EE88E8FD3DE517C1C4",
+          "compressedSize": 946943
+        },
+        {
+          "md5": "70ED6137CF5D0E3EE7ED05BE03E1A17F",
+          "size": 8388608,
+          "compressedMd5": "DAFEB0FCBFE545EF9465EDB5CF557282",
+          "compressedSize": 418689
+        },
+        {
+          "md5": "9D0A40FDA54A1E59F33B6FC41C51AA2E",
+          "size": 8388608,
+          "compressedMd5": "910D880998996093A916519D74098B87",
+          "compressedSize": 403802
+        },
+        {
+          "md5": "A7FFCE0A2AFFC85B2D3ADB5D96DA9C15",
+          "size": 8388608,
+          "compressedMd5": "A98639E5690793505E0EB913B4B0870C",
+          "compressedSize": 5696670
+        },
+        {
+          "md5": "AF5D13491A445C1F566F072324895A50",
+          "size": 8388608,
+          "compressedMd5": "74FCB9D10BB5A4C80FE7E498210B0D84",
+          "compressedSize": 5386484
+        },
+        {
+          "md5": "CA9C59CC7292A90C302C279C752BC7A4",
+          "size": 8388608,
+          "compressedMd5": "939455E6F363E61FA8083030CDBBCEE8",
+          "compressedSize": 5323448
+        },
+        {
+          "md5": "273B73CA3746E1A353E8E1B585F497F6",
+          "size": 8388608,
+          "compressedMd5": "7FD80ECEEF7A3BEB7770733C259AC8C6",
+          "compressedSize": 5402979
+        },
+        {
+          "md5": "6A6A967AC6C0329A94BDD2C9D583F5C6",
+          "size": 8388608,
+          "compressedMd5": "969A32BA709282E1042F255DBB60B617",
+          "compressedSize": 5472173
+        },
+        {
+          "md5": "A970E91DC05AF1F7CEBBF0DE965172BD",
+          "size": 8388608,
+          "compressedMd5": "DA6355514C3475903A6F0F6387459BC3",
+          "compressedSize": 5395233
+        },
+        {
+          "md5": "72595105B4A1FDE714379C97DB6B805D",
+          "size": 8388608,
+          "compressedMd5": "CA4053FC285BB9345505F383CF24E32B",
+          "compressedSize": 5382686
+        },
+        {
+          "md5": "664C243DA17231AF54413B40400E72F0",
+          "size": 8388608,
+          "compressedMd5": "DE25CCB8FFFC1F00FBA2D2052510A436",
+          "compressedSize": 5496290
+        },
+        {
+          "md5": "EA3963010EAD4769DEEE3EBB793ACA36",
+          "size": 8388608,
+          "compressedMd5": "6A6D98E974682961355AC4001D56DF56",
+          "compressedSize": 5480959
+        },
+        {
+          "md5": "0E91978B98834504B94A9E3D381C3425",
+          "size": 8388608,
+          "compressedMd5": "B7D43D61B6C1F696612066CC427B7A95",
+          "compressedSize": 5356681
+        },
+        {
+          "md5": "B084A6910A2C74D7FB116572C769E22E",
+          "size": 8388608,
+          "compressedMd5": "A5050209CB5D278F0A340D9EB7EDED34",
+          "compressedSize": 5134667
+        },
+        {
+          "md5": "1B8B0B98CF388858D84D5E8732E7CC2A",
+          "size": 8388608,
+          "compressedMd5": "450D2B36A54432179A9F3C3F7E2C9730",
+          "compressedSize": 5228141
+        },
+        {
+          "md5": "727557F2705AF9BDDDE946FB322DCD3A",
+          "size": 8388608,
+          "compressedMd5": "D0B79D8F0072677DCC4B210ECEEA9E70",
+          "compressedSize": 4827576
+        },
+        {
+          "md5": "C4BC02A8DD6D40E8EAABA3FEAE769E8A",
+          "size": 8388608,
+          "compressedMd5": "24341BE7DDEE83A701DE9D603EB3AD91",
+          "compressedSize": 4920589
+        },
+        {
+          "md5": "2904E32678D6D472E1063567BB3DECDE",
+          "size": 8388608,
+          "compressedMd5": "8CAF71F5A6269CBD61F5DC28BCA1F0DB",
+          "compressedSize": 4184406
+        },
+        {
+          "md5": "5CA5EAB859971438DAA29DDFD2523E3A",
+          "size": 8388608,
+          "compressedMd5": "BA3962D25E50D11C4E259D5B8B5D89DB",
+          "compressedSize": 3887286
+        },
+        {
+          "md5": "C17FC35573829E3C12977FCCA706D111",
+          "size": 8388608,
+          "compressedMd5": "A201DC486428F13043BFE3F453223E19",
+          "compressedSize": 3977107
+        },
+        {
+          "md5": "869FDD4B43E37067E574C6D44E76BD90",
+          "size": 8388608,
+          "compressedMd5": "A1162C98D1A2629802CCA9753E0DEBE4",
+          "compressedSize": 4734298
+        },
+        {
+          "md5": "67A7EC0D1BDB30910104C6490A3F48C5",
+          "size": 8388608,
+          "compressedMd5": "B544C84947A184E089F0216562433D27",
+          "compressedSize": 5399251
+        },
+        {
+          "md5": "887EABE61B26381C3ECB4C5FD8C0E5A9",
+          "size": 8388608,
+          "compressedMd5": "DD5C7B64003C1A97A81A5F7641A3F0E7",
+          "compressedSize": 5721705
+        },
+        {
+          "md5": "BB36FE25E29290814F445AB00A5288BE",
+          "size": 8388608,
+          "compressedMd5": "F24ABA37E2838342A1A96C9F11CDA9A0",
+          "compressedSize": 5297087
+        },
+        {
+          "md5": "D52581E6025C64B2B1819C9FE25F1C42",
+          "size": 8388608,
+          "compressedMd5": "0A7D5093600CA1FE8639E70692300497",
+          "compressedSize": 4784681
+        },
+        {
+          "md5": "F8D38355E47D7432867428D4C3F15A17",
+          "size": 8388608,
+          "compressedMd5": "B99B7D9DEB7589713F9C589690666FFE",
+          "compressedSize": 5837500
+        },
+        {
+          "md5": "E52A1D16549BEA4D795636712E1EE915",
+          "size": 8388608,
+          "compressedMd5": "89F1E35252C2424446A809FD8FB4F4BB",
+          "compressedSize": 4902582
+        },
+        {
+          "md5": "C8AB6E5D58085B112A2679F13D61771A",
+          "size": 8388608,
+          "compressedMd5": "709B9821E588267AD9BC72B751B907AF",
+          "compressedSize": 5405798
+        },
+        {
+          "md5": "E3456F330D2503858723FB9D9C1FD243",
+          "size": 8388608,
+          "compressedMd5": "9FB2B0EB18A07097F935C21F29152CE2",
+          "compressedSize": 4385896
+        },
+        {
+          "md5": "B9C6DCE0857A547EC13655E39DE5F18D",
+          "size": 8388608,
+          "compressedMd5": "65D7E1C820D58BB998AA0230FB39BEB3",
+          "compressedSize": 4466952
+        },
+        {
+          "md5": "5402BECEDBD15737A02732465C2486ED",
+          "size": 8388608,
+          "compressedMd5": "EB2AEB6AA806D4939CA9837DDCDED50E",
+          "compressedSize": 4458601
+        },
+        {
+          "md5": "5EF7FFF2D1EF6166788CF529F538C5DC",
+          "size": 8388608,
+          "compressedMd5": "7EFBF631A82DA5BF4221592E355970DB",
+          "compressedSize": 3254612
+        },
+        {
+          "md5": "35CEE9ABA7F2BE3F90608C56D60C5D63",
+          "size": 8388608,
+          "compressedMd5": "0E7B366D5C5AB41BC2DBF5EECB672633",
+          "compressedSize": 4544075
+        },
+        {
+          "md5": "F61C7783943E9CFBDCCB15E3D250FA8B",
+          "size": 8388608,
+          "compressedMd5": "0235A13C9C857DFCF0B6AF33B57265C1",
+          "compressedSize": 4899016
+        },
+        {
+          "md5": "8E792E2D41391ED8A0457200FF45E970",
+          "size": 8388608,
+          "compressedMd5": "DE08BEB02301100069CCD47D97A553AF",
+          "compressedSize": 4832806
+        },
+        {
+          "md5": "91DA97637F6504F25BED0F8BB3434FCD",
+          "size": 8388608,
+          "compressedMd5": "A3A7064E342AA6A4755113543F19C1C0",
+          "compressedSize": 5159387
+        },
+        {
+          "md5": "60310761E22F57EB8CFE1F1DA2917792",
+          "size": 8388608,
+          "compressedMd5": "1192507C8FA72CF3861D506A0E7B7515",
+          "compressedSize": 5246825
+        },
+        {
+          "md5": "C5D864A5C09C563FF449922B92B0A9A5",
+          "size": 8388608,
+          "compressedMd5": "93122C18429AEF6E909DB1C43D7FD9EF",
+          "compressedSize": 4692690
+        },
+        {
+          "md5": "72597196E84CCF3A61BB5911C4B8DE38",
+          "size": 8388608,
+          "compressedMd5": "919009FB67F803931C33745526893359",
+          "compressedSize": 4776275
+        },
+        {
+          "md5": "CE9DA43AA7D8ECA51CFD3CA8CFF7DBB2",
+          "size": 8388608,
+          "compressedMd5": "0FBD04950472A30BE7563E1581D1E099",
+          "compressedSize": 4351747
+        },
+        {
+          "md5": "B6C09DEDEA111FABB6443728A85E4610",
+          "size": 8388608,
+          "compressedMd5": "444F8E7532FC52A94252592A919B7A84",
+          "compressedSize": 5317034
+        },
+        {
+          "md5": "3C6A7509F04A7B3B9AC2FBB3E2F66410",
+          "size": 8388608,
+          "compressedMd5": "66B398C058DD6BE5FA80D6AFAE738C1E",
+          "compressedSize": 3843451
+        },
+        {
+          "md5": "C8AEAFB7BAE5B629193B4F09F6734CC9",
+          "size": 8388608,
+          "compressedMd5": "2A9B49B8E96DAAE5B8EFD388B737B9AB",
+          "compressedSize": 3807089
+        },
+        {
+          "md5": "0DE511D824096F3C73BD59FB2446E652",
+          "size": 8388608,
+          "compressedMd5": "9223CFF3DAA76C3914696D392F86ECFF",
+          "compressedSize": 5264988
+        },
+        {
+          "md5": "AA824FB0A848C972997F875B2DE5DE46",
+          "size": 8388608,
+          "compressedMd5": "3E33E332BDE0F9276F40F160EA20483F",
+          "compressedSize": 5362033
+        },
+        {
+          "md5": "DE0AFEA46D5F1E62E993375DD8C18E08",
+          "size": 8388608,
+          "compressedMd5": "29758F9089FF74A3C3D0853F6E48770F",
+          "compressedSize": 5448676
+        },
+        {
+          "md5": "58AA563B2B95D2B5DBCD070D6F461CA1",
+          "size": 8388608,
+          "compressedMd5": "9FBA2B5AA40DB9A54D6093E81EBD8158",
+          "compressedSize": 4385133
+        },
+        {
+          "md5": "897333AAAA893BB5DFF052A24A15E19E",
+          "size": 8388608,
+          "compressedMd5": "8F44638B051FCD4BADA8797D786D7BB0",
+          "compressedSize": 5689960
+        },
+        {
+          "md5": "46E4C501CCD639CB95FC28012469CC46",
+          "size": 8388608,
+          "compressedMd5": "54F13CF66D4B3F8FB05F5067F38B9AFF",
+          "compressedSize": 4679649
+        },
+        {
+          "md5": "CDC202D22DA1A43FE8FCD1244B2CF32F",
+          "size": 8388608,
+          "compressedMd5": "2E52D48FA4C7709D4469937B23D27462",
+          "compressedSize": 5341361
+        },
+        {
+          "md5": "96921C84FFD4895A1C0886AA627F98C4",
+          "size": 8388608,
+          "compressedMd5": "00B40B8C66F8A419C527DC74A91EB79D",
+          "compressedSize": 4236379
+        },
+        {
+          "md5": "622655AE0DD97AD286781E56AB48089D",
+          "size": 8388608,
+          "compressedMd5": "7929E3D54E6685D4D7D97FA074FC6B41",
+          "compressedSize": 7105157
+        },
+        {
+          "md5": "5284A8952B833E2CAE839415E2CE0F37",
+          "size": 8388608,
+          "compressedMd5": "43F37220E3F91606A825DC552B52F4D4",
+          "compressedSize": 8033420
+        },
+        {
+          "md5": "7BDAE0CCF16019CCC6E540C41C0FD2B6",
+          "size": 8388608,
+          "compressedMd5": "17F903B826F6E8F94A4B765E8FF59B8D",
+          "compressedSize": 8207650
+        },
+        {
+          "md5": "27F667099C7BE458D8332C4C41A8286E",
+          "size": 8388608,
+          "compressedMd5": "A3FC06D08D6ADD8FD9A7D4182885D2AB",
+          "compressedSize": 8163575
+        },
+        {
+          "md5": "C7A319B1AACEBDD64117E2B7A5E0054A",
+          "size": 8388608,
+          "compressedMd5": "302A4780FD7242027CD2096F72905290",
+          "compressedSize": 6360514
+        },
+        {
+          "md5": "5B7BE72CEF13CC64D8DB5ACAB8A589C5",
+          "size": 8388608,
+          "compressedMd5": "28DF4A6594A1B4269CE2E336786260E9",
+          "compressedSize": 6397655
+        },
+        {
+          "md5": "CF5DC63CCA58267C7BB75A5195D6A8B9",
+          "size": 8388608,
+          "compressedMd5": "9AC1F2B63BA39DDDEA65FBD50EBF586F",
+          "compressedSize": 6841177
+        },
+        {
+          "md5": "DA2C3F2F25B6376D95A15CA449C76F22",
+          "size": 8388608,
+          "compressedMd5": "216742DC42F36EDFF86E42A90279E4C5",
+          "compressedSize": 6635120
+        },
+        {
+          "md5": "ABB3144AD06E6B6913280DE8C4724534",
+          "size": 8388608,
+          "compressedMd5": "50C3DD6078E7693C92095775CFE7FF11",
+          "compressedSize": 6779964
+        },
+        {
+          "md5": "A4FADD3D22988D2D6FFC18DF77BE048A",
+          "size": 8388608,
+          "compressedMd5": "5E11F6A4A78DB8DA3A1CF0B34A2A5E20",
+          "compressedSize": 7270842
+        },
+        {
+          "md5": "58753DB0B5231FC2D23B7467D8820A4A",
+          "size": 8388608,
+          "compressedMd5": "6C803AC42D7F5401E0F1C8BE9B440F2A",
+          "compressedSize": 7655828
+        },
+        {
+          "md5": "C0CDBAF4CC918A9D60E7738DC2B7E571",
+          "size": 8388608,
+          "compressedMd5": "054F90D36EEB9D4336D0E22B0B1B13C6",
+          "compressedSize": 7236354
+        },
+        {
+          "md5": "55F0651C1F2CE204628D064E325607F1",
+          "size": 8388608,
+          "compressedMd5": "F5F584B0E66FBA34FBAEE12E4DD2B4F3",
+          "compressedSize": 7710370
+        },
+        {
+          "md5": "97F4A0C9587A8920D0D69520CC50B869",
+          "size": 8388608,
+          "compressedMd5": "80239823DB3C49AB2C2D7D35C9EE8B2E",
+          "compressedSize": 7816690
+        },
+        {
+          "md5": "08C3FFBA73FBF40B66B47ABFDE41A482",
+          "size": 8388608,
+          "compressedMd5": "B7D777A4D42CB62F9202ACB825C94C32",
+          "compressedSize": 8031522
+        },
+        {
+          "md5": "9EE59E902A56A7C27BACD674EDFBEDA4",
+          "size": 8388608,
+          "compressedMd5": "61C939C51C3ABF21687130D8DCDF5ACA",
+          "compressedSize": 7880091
+        },
+        {
+          "md5": "52F0D4B04DD191E598C200DDBCEB1FD9",
+          "size": 8388608,
+          "compressedMd5": "FD11F3CEA87079E9FA843B737D607E75",
+          "compressedSize": 7438735
+        },
+        {
+          "md5": "70B503A10B29D20C4DEB277A2C19E246",
+          "size": 8388608,
+          "compressedMd5": "AA22168B94C3C010722714637AAECDBF",
+          "compressedSize": 6933217
+        },
+        {
+          "md5": "EB69C5187263AEADFC40A7D1B2A0EB10",
+          "size": 8388608,
+          "compressedMd5": "5DC5679BE1A5E09DFC7B2EAB65FE14DE",
+          "compressedSize": 6376347
+        },
+        {
+          "md5": "4FFF6DE736A358444BC8E559344E2CCD",
+          "size": 8388608,
+          "compressedMd5": "117AA66603F36179A1DC81790F00D5CF",
+          "compressedSize": 5963921
+        },
+        {
+          "md5": "8D0A708342EFBD4AE893B8E0A4680593",
+          "size": 8388608,
+          "compressedMd5": "0EAAD67E28975EB920774591A4B1EA4A",
+          "compressedSize": 6381211
+        },
+        {
+          "md5": "1DDAA7470C44610D05D9F67D0E723053",
+          "size": 8388608,
+          "compressedMd5": "3D326188DE114D0F3059A3BEFE4224EF",
+          "compressedSize": 5046138
+        },
+        {
+          "md5": "0CE7AB7F21507934E8835683E116ADB0",
+          "size": 8388608,
+          "compressedMd5": "567D98463E689028791845AB1D9EB93D",
+          "compressedSize": 5827399
+        },
+        {
+          "md5": "0EEF3E15480752A5189FF6B76703B49A",
+          "size": 8388608,
+          "compressedMd5": "56EE53EDE5D1C23D4329D76EBBBDFAC8",
+          "compressedSize": 6959622
+        },
+        {
+          "md5": "F2743E3EAEA977DD5C2367344A6604AC",
+          "size": 8388608,
+          "compressedMd5": "A19A91E70E57C84036CBE2658740E135",
+          "compressedSize": 5937763
+        },
+        {
+          "md5": "3E855974D17EC00FA3FEAA5CE445E7E5",
+          "size": 8388608,
+          "compressedMd5": "A6E114710E8A18E1BE3CD60C4C84DB15",
+          "compressedSize": 6713287
+        },
+        {
+          "md5": "33CEDAA05FFD1F4353BE8D1DC2D36B1E",
+          "size": 8388608,
+          "compressedMd5": "3597C5B07260BE71737071DC698464E0",
+          "compressedSize": 7194528
+        },
+        {
+          "md5": "27131DAC1E3B99F6FC01020648BEBE63",
+          "size": 8388608,
+          "compressedMd5": "CE57474AF9EA8D9C7CDAB6856D456400",
+          "compressedSize": 7469685
+        },
+        {
+          "md5": "0BF8E8957C26F9F84F043435C37A97C4",
+          "size": 8388608,
+          "compressedMd5": "93B56A7132361FBC09FA4BD89114F69D",
+          "compressedSize": 7239535
+        },
+        {
+          "md5": "8BF1C08ABF5D9EE5289975EC03E18BD6",
+          "size": 8388608,
+          "compressedMd5": "4492FAFC0BFC2F9BF1A16B2199EBFB83",
+          "compressedSize": 6763625
+        },
+        {
+          "md5": "F3D0408352E30BE7AF74BFDA264EE3D3",
+          "size": 8388608,
+          "compressedMd5": "40BEF8BA76190FDA4D008CC71515D7EE",
+          "compressedSize": 7519200
+        },
+        {
+          "md5": "F13107BB6D4D8540F61B6369B6C32414",
+          "size": 8388608,
+          "compressedMd5": "1EE29FD0EED29C9A767BEC64C58939B2",
+          "compressedSize": 7178738
+        },
+        {
+          "md5": "377111085FC81C65C1CE61BF28E2CB05",
+          "size": 8388608,
+          "compressedMd5": "ED4DB35F38785B9B254278460A55D517",
+          "compressedSize": 7250204
+        },
+        {
+          "md5": "065207589C23243AF8E193F31D6BD310",
+          "size": 8388608,
+          "compressedMd5": "832D10FD98E0DA17DFF373A46F3BD13B",
+          "compressedSize": 6481947
+        },
+        {
+          "md5": "00B922D09E961A1719C544B40CF48C1E",
+          "size": 8388608,
+          "compressedMd5": "706EAE5863A8001E3A15B92F389F0D6F",
+          "compressedSize": 7412220
+        },
+        {
+          "md5": "61DE359C6805253567FD496A4CBA0856",
+          "size": 8388608,
+          "compressedMd5": "9FD7FB61E2854932EF74E8A7D8B59E50",
+          "compressedSize": 7549415
+        },
+        {
+          "md5": "C29C4E521F66434674C684C205C6F5D4",
+          "size": 8388608,
+          "compressedMd5": "43ED21E549DD01D9EED26699247DB9A0",
+          "compressedSize": 7080544
+        },
+        {
+          "md5": "8B28334BF6B6DFE1F00FD8BA1CFB2B98",
+          "size": 8388608,
+          "compressedMd5": "1CFCECCF290FC8EF33F1A09204E7E538",
+          "compressedSize": 7323536
+        },
+        {
+          "md5": "6B2EBC672C4484C45D5A50D09ADC77B2",
+          "size": 8388608,
+          "compressedMd5": "F226060DD5D6FF5A150A4EB3796D8403",
+          "compressedSize": 6494709
+        },
+        {
+          "md5": "D36BB7A1CBDCEAD447A8144A57B53E75",
+          "size": 8388608,
+          "compressedMd5": "FE713C4C1D2C5038D2C205513192C834",
+          "compressedSize": 6548036
+        },
+        {
+          "md5": "1843DF462D954C9EA4BBB32FA2F3ECA4",
+          "size": 8388608,
+          "compressedMd5": "67DF7530D35A9792513A37AC9DD4C977",
+          "compressedSize": 7069755
+        },
+        {
+          "md5": "963EAE97EC71BA3C96DC8E102B9A07E0",
+          "size": 8388608,
+          "compressedMd5": "870A24FC47D7DB23D765CD950E78BEDA",
+          "compressedSize": 6724058
+        },
+        {
+          "md5": "D05C2EB799154456B87FFF99127C9544",
+          "size": 8388608,
+          "compressedMd5": "9A6EBAA10634357C6229793CEC410724",
+          "compressedSize": 6951298
+        },
+        {
+          "md5": "946FC921A5B829F4C2EB3815BBDEECD0",
+          "size": 8388608,
+          "compressedMd5": "573A9330577A22372D9F4DB85DEB7E4D",
+          "compressedSize": 4335265
+        },
+        {
+          "md5": "0AED6E915F06D188D342499F2DF4015F",
+          "size": 8388608,
+          "compressedMd5": "836DB28E601717CC8B391AD1E479F315",
+          "compressedSize": 3941361
+        },
+        {
+          "md5": "283412C8A1E29D598E84C26C04F511FA",
+          "size": 8388608,
+          "compressedMd5": "E8CD20681120E22A61C55DDCAB3C384F",
+          "compressedSize": 3429575
+        },
+        {
+          "md5": "0D9E1A21D8D684F7881A433F9E5FFAC4",
+          "size": 8388608,
+          "compressedMd5": "619B3F2C677381DEF676ABF7FE4F5450",
+          "compressedSize": 3127716
+        },
+        {
+          "md5": "0C561F7BF49E65DBD7B201E808CC3524",
+          "size": 8388608,
+          "compressedMd5": "9120B31860244B95E809C8AA954E874D",
+          "compressedSize": 3445594
+        },
+        {
+          "md5": "6FC934824C4C1E1B16807CA3BA8E7AAF",
+          "size": 8388608,
+          "compressedMd5": "0D5541638C28C3303A23EA54B062F1A3",
+          "compressedSize": 3667144
+        },
+        {
+          "md5": "8CC17D2EA3768CE0D21B675A04701716",
+          "size": 8388608,
+          "compressedMd5": "61A4D4EADD39BA99A30EAFFD082A5927",
+          "compressedSize": 3410605
+        },
+        {
+          "md5": "10A66BC24F5820575580B1F7D81F766F",
+          "size": 8388608,
+          "compressedMd5": "30F9BDCB59DC391AF3247C741FAC4361",
+          "compressedSize": 3344733
+        },
+        {
+          "md5": "680AED167BE82F5E908F5BA5EACA14AF",
+          "size": 8388608,
+          "compressedMd5": "987AE7C17FA899E1E8D4735F90BC0B89",
+          "compressedSize": 3458893
+        },
+        {
+          "md5": "BDFACE4589A6D2570EB0E312FE341348",
+          "size": 8388608,
+          "compressedMd5": "B025B7ABFBC46202042D594169957B83",
+          "compressedSize": 3795850
+        },
+        {
+          "md5": "8D6169D7C9F3AC60B5605216100B4D2D",
+          "size": 8388608,
+          "compressedMd5": "94615F7546B3C7ACD40720BA62F17C2C",
+          "compressedSize": 3706977
+        },
+        {
+          "md5": "B27BB8167B97F966BB44DB80B18CF11C",
+          "size": 8388608,
+          "compressedMd5": "BF9939A20862AA2EDF052200FF0A8897",
+          "compressedSize": 3807718
+        },
+        {
+          "md5": "630F251E4AB2126A97091D526D3A40FD",
+          "size": 8388608,
+          "compressedMd5": "09334591EB9D3D4F01CC7367A441A640",
+          "compressedSize": 3954696
+        },
+        {
+          "md5": "F5F8C5B15308D3F002BCBC118923090C",
+          "size": 8388608,
+          "compressedMd5": "AA2B26A0DD2E7392BE9F67BBEB5213CF",
+          "compressedSize": 3650782
+        },
+        {
+          "md5": "75AD57A418EE61080E5E1734FA9F9353",
+          "size": 8388608,
+          "compressedMd5": "160027DB551B8B29E1E8D435483536E6",
+          "compressedSize": 4116557
+        },
+        {
+          "md5": "D7AF8ED81E542B510A032F049ABD69F3",
+          "size": 8388608,
+          "compressedMd5": "294221204CE71837FA172F1812B27628",
+          "compressedSize": 3856881
+        },
+        {
+          "md5": "F50F28CAD4B3B5698B8A30B3FBBD7EED",
+          "size": 8388608,
+          "compressedMd5": "0BA0D6272F77776EF09906CFA8E9C5DB",
+          "compressedSize": 4012045
+        },
+        {
+          "md5": "E2EE20A1102135B591742A3CA32FA91F",
+          "size": 8388608,
+          "compressedMd5": "8452AFC11E717E89F4842BDA231C68B8",
+          "compressedSize": 3910291
+        },
+        {
+          "md5": "465CEB4A378F823C5AED139F27BD4AF7",
+          "size": 8388608,
+          "compressedMd5": "834E19E33499F7AE9EF1B76A3F8BD645",
+          "compressedSize": 3790734
+        },
+        {
+          "md5": "BDAD66D3BF0EDBBF85E82AE2041B3F6B",
+          "size": 8388608,
+          "compressedMd5": "BC7838AE971BDB7EF68C8EE48D9CEB23",
+          "compressedSize": 4048324
+        },
+        {
+          "md5": "B1E3B4D079485B8B5856E20E2BEBC95B",
+          "size": 8388608,
+          "compressedMd5": "99B168AA970373AA9874525DB75AB760",
+          "compressedSize": 4083980
+        },
+        {
+          "md5": "39A31989B92DB33F833E9A23298BFE70",
+          "size": 8388608,
+          "compressedMd5": "48F82C226229E8CB66232AB4B6061F8E",
+          "compressedSize": 3759984
+        },
+        {
+          "md5": "7D486D8B2259D7A7A5114566ACDBDFAE",
+          "size": 8388608,
+          "compressedMd5": "7FF6642AE3BBB4534CC09D63E9B09297",
+          "compressedSize": 4330104
+        },
+        {
+          "md5": "788F9EA49F7133707CC794C6DA7E3DF9",
+          "size": 8388608,
+          "compressedMd5": "5B9027DADFBBE308694391D23C8C4B69",
+          "compressedSize": 3927564
+        },
+        {
+          "md5": "818F412FF46144A0BB33CFB1DA7498AB",
+          "size": 8388608,
+          "compressedMd5": "246DDE01A2A886A5AB786B4BEA4FE69E",
+          "compressedSize": 4153747
+        },
+        {
+          "md5": "A6E02577086113A256352555A838A3C5",
+          "size": 8388608,
+          "compressedMd5": "B630919031CD075A48F60CCDCFC7DA95",
+          "compressedSize": 3779708
+        },
+        {
+          "md5": "F7D9094977B4188C28E4D258570D4DBB",
+          "size": 8388608,
+          "compressedMd5": "3BE46E94B9021C38C4E3DA20B7DFF772",
+          "compressedSize": 3744118
+        },
+        {
+          "md5": "D7EB7139279C92FEDBA71BE0197C545D",
+          "size": 8388608,
+          "compressedMd5": "4E5E7933CE6FF8070EAC32F2D3F29730",
+          "compressedSize": 3300140
+        },
+        {
+          "md5": "130BC4E954F31058CDF4763FCE48B9F0",
+          "size": 8388608,
+          "compressedMd5": "9692664CFC9FE5EC2F4C6D50D0B75FC4",
+          "compressedSize": 4074467
+        },
+        {
+          "md5": "E3D74876112F5D0A60FD8C4CE2F19FC2",
+          "size": 8388608,
+          "compressedMd5": "666C1041940E484A152738E3C394C27E",
+          "compressedSize": 4252854
+        },
+        {
+          "md5": "61071ABDA23ED276CE9E39B00AE92614",
+          "size": 8388608,
+          "compressedMd5": "90CA41F47A23D5C3ADAFF979A346DA39",
+          "compressedSize": 4614039
+        },
+        {
+          "md5": "079A63754955E6964F87E4A1D05A6953",
+          "size": 8388608,
+          "compressedMd5": "EAF77BB7293AD55221E82545A1308211",
+          "compressedSize": 4678122
+        },
+        {
+          "md5": "71A49621326E4289E753683ABC6A8AC4",
+          "size": 8388608,
+          "compressedMd5": "06697B7F532A09480485EC037FAF67BD",
+          "compressedSize": 5121315
+        },
+        {
+          "md5": "DA212D63FD4AF92CC93FB54442CDBA8D",
+          "size": 8388608,
+          "compressedMd5": "484907E3672769C5CC0ECF32B0013BA3",
+          "compressedSize": 4110296
+        },
+        {
+          "md5": "4A54272DF5A05350EB6A5D2596734306",
+          "size": 8388608,
+          "compressedMd5": "A1E663901FBFF56B0038CBD42AEE64B6",
+          "compressedSize": 3048541
+        },
+        {
+          "md5": "46156C1522BD94A894B2EB38C611BD3D",
+          "size": 8388608,
+          "compressedMd5": "C6C85C6BDA2E8278CC0454109540158A",
+          "compressedSize": 3492888
+        },
+        {
+          "md5": "59C92260FA98C4FC150AAC2DFC7D8D33",
+          "size": 8388608,
+          "compressedMd5": "B5A3B037B3CA811BE4DE2F5E5D933F46",
+          "compressedSize": 2676970
+        },
+        {
+          "md5": "181F86B26E59B5D10BE54F55454659E9",
+          "size": 8388608,
+          "compressedMd5": "42DAC17E7D9EF230C177EB457C209254",
+          "compressedSize": 2637701
+        },
+        {
+          "md5": "F5098E304D3F8A6565A746B7BB1A3C59",
+          "size": 8388608,
+          "compressedMd5": "A81D002A772DBCE76BDCD676163FAEE0",
+          "compressedSize": 3601571
+        },
+        {
+          "md5": "FBA75C9304967A6A8718ED5810014FBB",
+          "size": 8388608,
+          "compressedMd5": "18B5AE15B67F5AF5C67B2E36D5FDA27D",
+          "compressedSize": 3309281
+        },
+        {
+          "md5": "89DBAFE49254172456D02B2C69C1D6D3",
+          "size": 8388608,
+          "compressedMd5": "D1631056148FA2C5D9EE85F6AE061993",
+          "compressedSize": 1997658
+        },
+        {
+          "md5": "BE16DB96BFD0223C79CDCFB725B1BD8B",
+          "size": 8388608,
+          "compressedMd5": "96DE03F732A29268CD7B418F421D1E65",
+          "compressedSize": 3911031
+        },
+        {
+          "md5": "29C69C050A449EFFAAE83AF8CB977B30",
+          "size": 8388608,
+          "compressedMd5": "BB97C0CFB0655B638828F41B2A72A88E",
+          "compressedSize": 3243950
+        },
+        {
+          "md5": "D18B80E3EC4CDD477476A6B553C69E17",
+          "size": 8388608,
+          "compressedMd5": "396D9308860058542F054EE06550A03C",
+          "compressedSize": 3595216
+        },
+        {
+          "md5": "BBB58901EF78B30E47C031E05AE8B152",
+          "size": 8388608,
+          "compressedMd5": "D958ABDAEF8AE5F22DA9BD32A6930E73",
+          "compressedSize": 3601835
+        },
+        {
+          "md5": "47323E3F9AC5DD051B67F6C8CA22A972",
+          "size": 8388608,
+          "compressedMd5": "6BB5B3C44135D39EF68F28FA50E46DCC",
+          "compressedSize": 3556761
+        },
+        {
+          "md5": "8DD9788B5506A0BFAF451422EED0EAB9",
+          "size": 8388608,
+          "compressedMd5": "8CC3F9C58989CAB28EA6066F79C75C4C",
+          "compressedSize": 3569210
+        },
+        {
+          "md5": "F41E7171CC680A44D9F7DBA85ADCFBC8",
+          "size": 8388608,
+          "compressedMd5": "2A8B503BB9C3EA5E1B5C7EF1BC6CDAF1",
+          "compressedSize": 3667992
+        },
+        {
+          "md5": "443ABC7EECC6A174207A1544BEF94B7A",
+          "size": 8388608,
+          "compressedMd5": "567C495C6FADDAA0DA06A52D42D5DD9B",
+          "compressedSize": 3607327
+        },
+        {
+          "md5": "756FF9F679ACAF3AED8BF748E951A0F1",
+          "size": 8388608,
+          "compressedMd5": "11EB4A3E3D12142A2C6875172212EAED",
+          "compressedSize": 3555624
+        },
+        {
+          "md5": "F7BB19BD6112461BF9528766E577EE16",
+          "size": 8388608,
+          "compressedMd5": "B34C6B0DFC94EC430F12C3372A31519E",
+          "compressedSize": 3639707
+        },
+        {
+          "md5": "D2EA05D6FAD232ED022DF0A00A55877A",
+          "size": 8388608,
+          "compressedMd5": "431ED1D842754C707A739319C434E3B6",
+          "compressedSize": 3566847
+        },
+        {
+          "md5": "C89DA0D4C9EE54ECD952C6610F97295D",
+          "size": 8388608,
+          "compressedMd5": "5572A121920AAA1BDF08919F31880696",
+          "compressedSize": 3686793
+        },
+        {
+          "md5": "52C67CDB63390792D7700C5605D3DABF",
+          "size": 8388608,
+          "compressedMd5": "28E954175E25C0DF8D1D0D1D8F8F1FE3",
+          "compressedSize": 3589843
+        },
+        {
+          "md5": "5D03BD07EC7EC5073B905065D3E06B78",
+          "size": 8388608,
+          "compressedMd5": "449C8683E82348523D645DE920A0652F",
+          "compressedSize": 3616215
+        },
+        {
+          "md5": "FDB6587F06EA117129EF25B969EF3714",
+          "size": 8388608,
+          "compressedMd5": "9F476AABBE46C22B965BF033649C6956",
+          "compressedSize": 3697923
+        },
+        {
+          "md5": "C0988368E89ACC9B508D5CF8BE7BACD4",
+          "size": 8388608,
+          "compressedMd5": "28032CF7BCC79391FE6DE918A3E6EA93",
+          "compressedSize": 3623644
+        },
+        {
+          "md5": "26FA8E8FD8C8B6379B436F62763BA358",
+          "size": 8388608,
+          "compressedMd5": "EFCAE8061B47DE75C69DAAA343E64232",
+          "compressedSize": 3728326
+        },
+        {
+          "md5": "266B4B1EE18E96C4BF4261156AF971BD",
+          "size": 8388608,
+          "compressedMd5": "A59B3FEA132C505EC7F0CF01E0AF7344",
+          "compressedSize": 3539966
+        },
+        {
+          "md5": "28B94F480217C0E7769AE9F8669DEF37",
+          "size": 8388608,
+          "compressedMd5": "7185FE0342F3C9F4D7D9C1C6C9F548CB",
+          "compressedSize": 3604494
+        },
+        {
+          "md5": "48FE5E138E7862BAB363101321CC7B40",
+          "size": 8388608,
+          "compressedMd5": "C6D651D518180F12100FE514903A97B8",
+          "compressedSize": 3615368
+        },
+        {
+          "md5": "CADC3ACB34E5F841D3AB00CB42BB5EE7",
+          "size": 8388608,
+          "compressedMd5": "16181DB7009E1A59FF900CC9BA7F8B5E",
+          "compressedSize": 3626923
+        },
+        {
+          "md5": "CAFAAF7E6D33B68534E55DCA42E974AC",
+          "size": 8388608,
+          "compressedMd5": "9D2DD289592D1A67A760D67A9FF5A110",
+          "compressedSize": 3558384
+        },
+        {
+          "md5": "E1E3A04DB045E37FBB922D15390752B4",
+          "size": 8388608,
+          "compressedMd5": "E823EF07258A1564345D9D6F1765461D",
+          "compressedSize": 3615524
+        },
+        {
+          "md5": "49DCAD2705C50EC418BB5C50AAF78F42",
+          "size": 8388608,
+          "compressedMd5": "2A3FFBFA624C93C64C2DFBAF1C67116C",
+          "compressedSize": 3560923
+        },
+        {
+          "md5": "57A17BAC64790BD4D55271A222D54DEB",
+          "size": 8388608,
+          "compressedMd5": "80C1FBAB308C6F778FAC0BC0D3033210",
+          "compressedSize": 3564537
+        },
+        {
+          "md5": "535425FFFF80E66236700CC76CFC0EAB",
+          "size": 8388608,
+          "compressedMd5": "71C27131B7EED77A36B2F9AEF1C3086D",
+          "compressedSize": 3631369
+        },
+        {
+          "md5": "F04A30BC0FD65CBFC02BE67452F5AE0E",
+          "size": 8388608,
+          "compressedMd5": "D0B4F5400EA7DBE017AB06FEC10CB194",
+          "compressedSize": 3563982
+        },
+        {
+          "md5": "BA1361D6BFFD3D60CA874905214FDC0A",
+          "size": 8388608,
+          "compressedMd5": "51FB33C675E0487D92E31FA08D939C4B",
+          "compressedSize": 3559961
+        },
+        {
+          "md5": "A381598FAB6533EDCD6D5584595AEBA2",
+          "size": 8388608,
+          "compressedMd5": "18DD5A4B00EEDB622E5D8253B1C6CEE3",
+          "compressedSize": 3564018
+        },
+        {
+          "md5": "39F18A5DC7699693E9BB8FBD0652A15F",
+          "size": 8388608,
+          "compressedMd5": "BD0A307A90E1645EA2DCAA478CB5CC32",
+          "compressedSize": 3574564
+        },
+        {
+          "md5": "24A396126E01D36E46AA9EC1A324F941",
+          "size": 8388608,
+          "compressedMd5": "3A6DCB10103951704460DC8299A292AF",
+          "compressedSize": 3471846
+        },
+        {
+          "md5": "F89AB060366DD86E62DE88666738DFD8",
+          "size": 8388608,
+          "compressedMd5": "72F2DBFFEECC586B6A487ED1C751838A",
+          "compressedSize": 3510951
+        },
+        {
+          "md5": "1AAAE15008095A7820F625C558AC5E19",
+          "size": 8388608,
+          "compressedMd5": "0CD8D74297F9710E711341F9CDCAD477",
+          "compressedSize": 3568684
+        },
+        {
+          "md5": "F6A8BFDCEEE0102FFCE1D7F431EFE56B",
+          "size": 8388608,
+          "compressedMd5": "61C0375BD066CC40355A6E54453CBF1E",
+          "compressedSize": 3650960
+        },
+        {
+          "md5": "5D652E49290AE7F5B42A236E0B950295",
+          "size": 8388608,
+          "compressedMd5": "379F7C99C960D68DC7F9A016E8DC4AEE",
+          "compressedSize": 3642839
+        },
+        {
+          "md5": "31B5F1169C1D52A7777FDC239D5A0891",
+          "size": 12124525,
+          "compressedMd5": "8B9DB343160F5D29D6023531A947C001",
+          "compressedSize": 4536594
+        }
+      ]
+    },
+    {
+      "path": "Data/DLCRobot - Main.ba2",
+      "md5": "FD314CCB81FC39AA10318F88B8BD60F9",
+      "chunks": [
+        {
+          "md5": "1FA8EB3886C40D3BDA9D00643A7F1BAC",
+          "size": 8388608,
+          "compressedMd5": "3DFD1B2FC5E547245DCC147569D96627",
+          "compressedSize": 4566721
+        },
+        {
+          "md5": "0D999DA83BA1968D53AA2B2AB1E0EF9C",
+          "size": 8388608,
+          "compressedMd5": "6C9417F43936F2BFFC1C612A807B52AB",
+          "compressedSize": 3412028
+        },
+        {
+          "md5": "8640C2F892EA384BE5A182D976289F93",
+          "size": 8388608,
+          "compressedMd5": "C88DFA939B44F5A7F43668F0C744DF29",
+          "compressedSize": 4091487
+        },
+        {
+          "md5": "17C1F4CBDA969C3F2F6EFB849F4D8EE3",
+          "size": 8388608,
+          "compressedMd5": "4EA9763B4121546CC769F4C7D1F6370E",
+          "compressedSize": 3918599
+        },
+        {
+          "md5": "4B549CF394F5838BE490C2CF89A849C6",
+          "size": 8388608,
+          "compressedMd5": "084D6F1CFB3253083BE7513235C9DCCA",
+          "compressedSize": 2614538
+        },
+        {
+          "md5": "B3009635611362C72783C58F5E00BD30",
+          "size": 8388608,
+          "compressedMd5": "8D627614DD314D69356149D248CC32F6",
+          "compressedSize": 3049445
+        },
+        {
+          "md5": "7726649BA0DD905FF60C6B8AADAA5699",
+          "size": 8388608,
+          "compressedMd5": "7A89688DA7AADCDB55CF8604D6B3125E",
+          "compressedSize": 415823
+        },
+        {
+          "md5": "8575BC6F094EB37F95BA13EFF0974331",
+          "size": 8388608,
+          "compressedMd5": "2EEE3CB2D1B641702AE07AB0A415CA5E",
+          "compressedSize": 588850
+        },
+        {
+          "md5": "5894EF984C21C76A2681FA6BAD8C595F",
+          "size": 8388608,
+          "compressedMd5": "8E09A6ADE4413E662616006C837FA958",
+          "compressedSize": 5913129
+        },
+        {
+          "md5": "6E07990A9865274E008909AE3FA5C997",
+          "size": 8388608,
+          "compressedMd5": "171BD9BF53F8708F04452DF3B2D7F542",
+          "compressedSize": 4723185
+        },
+        {
+          "md5": "2E038CD97E65AEFC66B22F06CCB188B3",
+          "size": 8388608,
+          "compressedMd5": "F87C559FAF51BD61A0BE011893F44375",
+          "compressedSize": 5404620
+        },
+        {
+          "md5": "2F01D5A5F8827D7D227005BB261617C4",
+          "size": 8388608,
+          "compressedMd5": "371A2D1EF92CF0C20C9AFDDAA2B9A5DA",
+          "compressedSize": 4809787
+        },
+        {
+          "md5": "0D3ECCFB572B2AA35EFD86A938B7A541",
+          "size": 8388608,
+          "compressedMd5": "277A53330A493D7FCFABC967FFA5569F",
+          "compressedSize": 4639050
+        },
+        {
+          "md5": "A69518E5117BE7B82A3621049E751839",
+          "size": 8388608,
+          "compressedMd5": "C975D04E190C23739FD55EAB62B923FF",
+          "compressedSize": 3467283
+        },
+        {
+          "md5": "E1DBC9E2969082F9FACF88A8C6165A69",
+          "size": 8388608,
+          "compressedMd5": "C83EC5DC24A842BD112D82041717B9F0",
+          "compressedSize": 1531953
+        },
+        {
+          "md5": "4B6D61BDC32E7E318E09CF446FB56AB4",
+          "size": 8388608,
+          "compressedMd5": "AB9D50BD96E045BB01EE8E3763ABCA1A",
+          "compressedSize": 1443309
+        },
+        {
+          "md5": "C7AD3336EF11B78BDD4FDE04D210D9CF",
+          "size": 8388608,
+          "compressedMd5": "F47A8AF9987999E76E040E2A9D4600BE",
+          "compressedSize": 1411857
+        },
+        {
+          "md5": "963A125D6FEDA45116D5F7F9EA038218",
+          "size": 8388608,
+          "compressedMd5": "758E64A8102080FF0D9B0D4BD42F80C5",
+          "compressedSize": 6111278
+        },
+        {
+          "md5": "1CA4A10ADD97C3AF40D884FDF8837E9C",
+          "size": 8388608,
+          "compressedMd5": "D4CCAE55095EAF7302E2E7D7458B6E29",
+          "compressedSize": 3658569
+        },
+        {
+          "md5": "AFA569F789D889CDE5746CFF22E5E64C",
+          "size": 8388608,
+          "compressedMd5": "FD4B1FE15B556DBF6027A8AAB429C33E",
+          "compressedSize": 3140051
+        },
+        {
+          "md5": "153177127957071804946463F4705159",
+          "size": 8388608,
+          "compressedMd5": "11912E512BA41CA1DCC83F903463D5DA",
+          "compressedSize": 3372683
+        },
+        {
+          "md5": "87F2932AB005C27704088C5F60FFBEE9",
+          "size": 8388608,
+          "compressedMd5": "9CDD347E70E47A15060915BEE810D662",
+          "compressedSize": 3170582
+        },
+        {
+          "md5": "BC2D2E5624F5F78B6330D106D5F3EDA2",
+          "size": 8388608,
+          "compressedMd5": "70526C52F6F85950B5102A2895D89ACD",
+          "compressedSize": 2968685
+        },
+        {
+          "md5": "E0832CCC81F32698F1C80469CF7FC5DD",
+          "size": 8388608,
+          "compressedMd5": "8F3094CE67C1728DD407203A5C678120",
+          "compressedSize": 2978811
+        },
+        {
+          "md5": "AAD4E034CAC9765B6F7436B86DD7F2F9",
+          "size": 8388608,
+          "compressedMd5": "F07E9D60575E6A7787A7FD3432B86711",
+          "compressedSize": 3298695
+        },
+        {
+          "md5": "6AD36C8421BAF0D7EACE019B540803B5",
+          "size": 8388608,
+          "compressedMd5": "D4B3793FF17D6DFC2B65C38EEBE9269C",
+          "compressedSize": 3422708
+        },
+        {
+          "md5": "8DF78DAC3DB456755988BC9D9EB81AF8",
+          "size": 8388608,
+          "compressedMd5": "8A1D9B0567ECBAE6FF0A0D87CFF3E8A3",
+          "compressedSize": 3158893
+        },
+        {
+          "md5": "89225A5BCE36732848678F7A9A2CB83E",
+          "size": 8388608,
+          "compressedMd5": "78D41C613ABBFC12846E606BABEE895A",
+          "compressedSize": 3008963
+        },
+        {
+          "md5": "308C05426A1CC94F326CB49C564FA3C5",
+          "size": 8388608,
+          "compressedMd5": "49D2CE04DF007B073FFFD7865F5BD053",
+          "compressedSize": 6196818
+        },
+        {
+          "md5": "C674379234E0229D4452F947B76A8E4A",
+          "size": 8388608,
+          "compressedMd5": "17F212255CDB875EA484E084925A0024",
+          "compressedSize": 4847600
+        },
+        {
+          "md5": "2F212A617748C596BF1557D168DC095C",
+          "size": 8388608,
+          "compressedMd5": "34955054A7270BCD2D587D7B4AB718D5",
+          "compressedSize": 7034253
+        },
+        {
+          "md5": "B31FCBA96081D089D4E162C20D9C8A9A",
+          "size": 8388608,
+          "compressedMd5": "C94BFEFB117EB110522B9B48C3990E8E",
+          "compressedSize": 7201305
+        },
+        {
+          "md5": "FFBCC7651C0D2F61161D202F29FAEB67",
+          "size": 8388608,
+          "compressedMd5": "8EB1B9E59CE5D3D471BCD94DCA3AECF7",
+          "compressedSize": 6929301
+        },
+        {
+          "md5": "177E9792621DE3934C2F404246D0AE01",
+          "size": 8388608,
+          "compressedMd5": "2A90C8F05E6AD1782CD71EE9B786DCE5",
+          "compressedSize": 6842946
+        },
+        {
+          "md5": "9D246EC4973DE51D088DD52C71D777F5",
+          "size": 8388608,
+          "compressedMd5": "3F2268146FBDDE13823E2632D91AFDB7",
+          "compressedSize": 6856592
+        },
+        {
+          "md5": "589D32B8E6B2B91950154FDEA84BD27F",
+          "size": 8388608,
+          "compressedMd5": "D745FA5896C5C9EFA65B19192AD4EC46",
+          "compressedSize": 6631528
+        },
+        {
+          "md5": "11F45655DB46F190DC6A4A38002CEB06",
+          "size": 8388608,
+          "compressedMd5": "6D7710E1B2A0B9EE70B34EA9EAA43BED",
+          "compressedSize": 5459486
+        },
+        {
+          "md5": "F7AF4B5A1B899D065EBCD28648691357",
+          "size": 8388608,
+          "compressedMd5": "D9CCACD03ED4771447B984D79F214F70",
+          "compressedSize": 6812398
+        },
+        {
+          "md5": "F7C8C1AAA8FB76FA3FDE99D42F178BB9",
+          "size": 8388608,
+          "compressedMd5": "67AF61430E98E057976B997AD00EA93A",
+          "compressedSize": 7198278
+        },
+        {
+          "md5": "E0C3A32DB38AB882C11A1851CE17A1BC",
+          "size": 8388608,
+          "compressedMd5": "3230C3841CCA1D5F275424A0F1FD9489",
+          "compressedSize": 5632678
+        },
+        {
+          "md5": "0A7A01423EDF7630B61D8ACF880BA311",
+          "size": 8388608,
+          "compressedMd5": "5A18E93F314804C4F868C2EDA437B525",
+          "compressedSize": 3837353
+        },
+        {
+          "md5": "688672C99741E0C84A25631B2A84BC5E",
+          "size": 8388608,
+          "compressedMd5": "A1500DA1231D7C5B8D0DA7739E0796AD",
+          "compressedSize": 3784982
+        },
+        {
+          "md5": "6FF87A2A6E97FEA4B6B2256566E7D0F1",
+          "size": 10972912,
+          "compressedMd5": "46E25817B810D034048D8748E669AA7E",
+          "compressedSize": 5001855
+        }
+      ]
+    },
+    {
+      "path": "Data/Fallout4 - Interface.ba2",
+      "md5": "C061AE858C215B8113AAEE6EEA9834CD",
+      "chunks": [
+        {
+          "md5": "73DADA676FC68A0407E55D3F278CB7FC",
+          "size": 8388608,
+          "compressedMd5": "841DE2D83E7E4AEC1847ABDC505C0BF2",
+          "compressedSize": 7885517
+        },
+        {
+          "md5": "ECA423CC67DEE62B91F3E9254F9DD805",
+          "size": 8388608,
+          "compressedMd5": "B8F121953AFF6EEAB4FC69DA175B33C0",
+          "compressedSize": 8384697
+        },
+        {
+          "md5": "85609B735C5AD714491D2D510220B57A",
+          "size": 8388608,
+          "compressedMd5": "DB3F8184D0C247EB66045025B1822F6F",
+          "compressedSize": 7927747
+        },
+        {
+          "md5": "CE853F7EE6F24F90AEA17DC7BC7F27A6",
+          "size": 8388608,
+          "compressedMd5": "DA140EED40DD4A3A4A6752F8E2C03BA1",
+          "compressedSize": 5901671
+        },
+        {
+          "md5": "BF32B5E51B08D78F59359D64D12F9039",
+          "size": 8388608,
+          "compressedMd5": "22D2B0F6A2EAB869EA617B7FC6BADD05",
+          "compressedSize": 6052701
+        },
+        {
+          "md5": "44442F16A09434FB31ACA9CE9DE9331C",
+          "size": 8388608,
+          "compressedMd5": "C4210476884B52010A67769C7B03A7F1",
+          "compressedSize": 5987341
+        },
+        {
+          "md5": "2FFF43AAFE2F01060882D9EA887EA3FB",
+          "size": 8388608,
+          "compressedMd5": "7D1E16C9C7872085A075F41EB87EB37E",
+          "compressedSize": 5817013
+        },
+        {
+          "md5": "CB43CD6576994D633B1E4353A177A19D",
+          "size": 8388608,
+          "compressedMd5": "79ECF49E396B5991A49CA5EF69AC7FF2",
+          "compressedSize": 5853549
+        },
+        {
+          "md5": "8CCE1AD0A7F4773C1085AA55543D95D2",
+          "size": 8388608,
+          "compressedMd5": "2592BBCF3DD4849368210C0A9517CF43",
+          "compressedSize": 6065960
+        },
+        {
+          "md5": "01A04220C188CA99A9B8A51481171BB1",
+          "size": 8388608,
+          "compressedMd5": "A61FE717116C27E264218B0AD3AFB81C",
+          "compressedSize": 5854590
+        },
+        {
+          "md5": "4900B655476410125086A093047CB27D",
+          "size": 8388608,
+          "compressedMd5": "63BF5CCC799E8EFF84872D9CADFAFC70",
+          "compressedSize": 6913163
+        },
+        {
+          "md5": "8965A41A827447140C13D3162437F275",
+          "size": 8388608,
+          "compressedMd5": "794361E628857FA330E4743CF63F78A0",
+          "compressedSize": 7009023
+        },
+        {
+          "md5": "051478C5BE3A94913CF8BF9D6F50A9A8",
+          "size": 8388608,
+          "compressedMd5": "6216536D8AB4D40E19CC1EBB7021296F",
+          "compressedSize": 6995621
+        },
+        {
+          "md5": "7187FEAEDB3A514312A017BC858F2E7B",
+          "size": 8388608,
+          "compressedMd5": "3E9425DECC4D25E5C9A36711633E3AE1",
+          "compressedSize": 7304892
+        },
+        {
+          "md5": "02E0BBCFFF4EBF7C4943A84711BC7392",
+          "size": 8388608,
+          "compressedMd5": "AF8E07A7AE739B9593520E547C2B209C",
+          "compressedSize": 6990683
+        },
+        {
+          "md5": "821EF24F46AD82793172BAA9D04EF281",
+          "size": 8388608,
+          "compressedMd5": "4625A8D70C4616A3EC74B0F7A6D72488",
+          "compressedSize": 6148745
+        },
+        {
+          "md5": "27A4B8CFBAFFA692E7CEB45E9A8595EE",
+          "size": 8388608,
+          "compressedMd5": "19E8D56A8580CDEF452EE83750C46D2C",
+          "compressedSize": 5060525
+        },
+        {
+          "md5": "F86B5018C1744B45C5A561DAD7A877D1",
+          "size": 8388608,
+          "compressedMd5": "DDB15E4F579DC99CF52E45E381B940C8",
+          "compressedSize": 5785174
+        },
+        {
+          "md5": "C6242A1C6050B849DBD5B9B682EB7DAB",
+          "size": 8388608,
+          "compressedMd5": "25431199CB0AEB68B2101FA50EDAB31B",
+          "compressedSize": 6959933
+        },
+        {
+          "md5": "383BC3633DCA1759D9A8019FBDE33AC1",
+          "size": 8388608,
+          "compressedMd5": "92186054B72F9C1DFA5DA0D8D743F2AF",
+          "compressedSize": 6147907
+        },
+        {
+          "md5": "23561F63E2ACA23518F8FF6E86B091C4",
+          "size": 8388608,
+          "compressedMd5": "2B864214374E5AFB718510E49377DF11",
+          "compressedSize": 7021296
+        },
+        {
+          "md5": "0CC7C81BD8A8629BA3E03BEB28002ED1",
+          "size": 8388608,
+          "compressedMd5": "AE032982E6AE80B0FA47FE1E8A4AEE88",
+          "compressedSize": 5123254
+        },
+        {
+          "md5": "7ADBD95F0E695EB52162A7F9F590D207",
+          "size": 8388608,
+          "compressedMd5": "673ED7BD5D98F484E8B0B7EF53A3560D",
+          "compressedSize": 5130817
+        },
+        {
+          "md5": "2011DB31863F392FFD8BF1555CF4ECAA",
+          "size": 8388608,
+          "compressedMd5": "1231552FF2E298CBA8D962E66C7B6E33",
+          "compressedSize": 5350283
+        },
+        {
+          "md5": "8F84E7B7DCD1B88C18D02F61C080C81F",
+          "size": 8388608,
+          "compressedMd5": "C1BBD0B1462CD82C90253BAFDD2086C6",
+          "compressedSize": 4754986
+        },
+        {
+          "md5": "4DD20C985A112C44663889AAEA68208A",
+          "size": 8388608,
+          "compressedMd5": "A0C997C66BB0FA39F5C8DACCA7508A14",
+          "compressedSize": 6108176
+        },
+        {
+          "md5": "BCD32D9825D70D4D92059E5849E72B36",
+          "size": 8388608,
+          "compressedMd5": "9A54417A7285C4640E779316A0C953DD",
+          "compressedSize": 6250223
+        },
+        {
+          "md5": "FF031BE8BF4FF802F2BB62FBFB708AAB",
+          "size": 8388608,
+          "compressedMd5": "8F19712D0BCDB61D0727E17089CCC1E9",
+          "compressedSize": 5684894
+        },
+        {
+          "md5": "FA3537E2A5FA8AD425F75C0B6280863C",
+          "size": 8388608,
+          "compressedMd5": "BA90919020F12EF090EB7426528A9521",
+          "compressedSize": 6349841
+        },
+        {
+          "md5": "F77AF760568464E23E03188E97785353",
+          "size": 8388608,
+          "compressedMd5": "92EEC51BC3E9EFFBA9CB17F15A957B9D",
+          "compressedSize": 6895205
+        },
+        {
+          "md5": "3246866E37AF625D68BEF82763E6ECEF",
+          "size": 8388608,
+          "compressedMd5": "45FF66B60718EDF7D5359795F8E8DBDB",
+          "compressedSize": 7237571
+        },
+        {
+          "md5": "54AE04B7043CEB589CDA6FB33A26B1A9",
+          "size": 8388608,
+          "compressedMd5": "FEC9BD3E9BE9D4054C171331100F5341",
+          "compressedSize": 5946383
+        },
+        {
+          "md5": "9F7DED5092C4D86283AF98C43B45A99F",
+          "size": 8388608,
+          "compressedMd5": "D5ED590C420AEFCC5FD69EAA25CBD64F",
+          "compressedSize": 6119593
+        },
+        {
+          "md5": "4B0BF9E9D46723D5C0F448DE835AEBDC",
+          "size": 8388608,
+          "compressedMd5": "2159EF02AEEACC449A35802757278FC8",
+          "compressedSize": 5472345
+        },
+        {
+          "md5": "3F39E67DCF2D9286B23CC161FF7CBC19",
+          "size": 8388608,
+          "compressedMd5": "89DF07CD4830B787EDE4581169D955B0",
+          "compressedSize": 6578287
+        },
+        {
+          "md5": "4BBC770EBFA6DE7DE8F251D2C9F426C8",
+          "size": 8388608,
+          "compressedMd5": "BF728F39872AA7728EA5FE88AAB664FB",
+          "compressedSize": 5817891
+        },
+        {
+          "md5": "02B279D88EFE88BF8680FB86C7FF2B8C",
+          "size": 8388608,
+          "compressedMd5": "EF9F4EC53F37367BB14A33C84BABDC5F",
+          "compressedSize": 6944293
+        },
+        {
+          "md5": "C19F5D8362B81B5F6F32480A3BAC1740",
+          "size": 8388608,
+          "compressedMd5": "A17AFFA8E0DBFC4253AFAC3FA1B57B1E",
+          "compressedSize": 6100735
+        },
+        {
+          "md5": "0AE03E0B1F488B6EFAE173B916F5803F",
+          "size": 8388608,
+          "compressedMd5": "7D85CCFA3F9F79DAB8824FB1D6397C4E",
+          "compressedSize": 7031981
+        },
+        {
+          "md5": "341B22DBC9D8631810E2EBB8C779568E",
+          "size": 8388608,
+          "compressedMd5": "85EF2C571181454A7AD402DAEA679066",
+          "compressedSize": 5770075
+        },
+        {
+          "md5": "BAAB91EC5DB7C092B1F7164EF98A9689",
+          "size": 8388608,
+          "compressedMd5": "728F43DBA0BBA4FB83F878A7F27A7A74",
+          "compressedSize": 4805943
+        },
+        {
+          "md5": "DD328AD31529AC8553C0A395C2A99D62",
+          "size": 8388608,
+          "compressedMd5": "F2E642CC2D1C41742799273F0415FC73",
+          "compressedSize": 5724021
+        },
+        {
+          "md5": "8DA762B654F738C1C2296B9DEC8678D1",
+          "size": 8388608,
+          "compressedMd5": "6E408E1BAD0D59E91D65535D75653BD5",
+          "compressedSize": 4576172
+        },
+        {
+          "md5": "996146D3AABC3C01510819B7011A9EDA",
+          "size": 8388608,
+          "compressedMd5": "582B7778A002FEB2514114827C79A042",
+          "compressedSize": 5955541
+        },
+        {
+          "md5": "B46AD533F171D84458324A58BEF17BD7",
+          "size": 8388608,
+          "compressedMd5": "F3FE92BEF8112D447654D0ECF8E7724C",
+          "compressedSize": 6790727
+        },
+        {
+          "md5": "A752F0DE889E837EED09C4F750BD1F61",
+          "size": 8388608,
+          "compressedMd5": "010D7900FB69004A5C446E9F5223A5A0",
+          "compressedSize": 7003613
+        },
+        {
+          "md5": "BC8AE67E9D71AB1031D1B567197FE57A",
+          "size": 8388608,
+          "compressedMd5": "4D1CF933080739052007136395FA97BB",
+          "compressedSize": 4315037
+        },
+        {
+          "md5": "39EAB66117948AB31FC8A4C966E98C75",
+          "size": 8388608,
+          "compressedMd5": "2DCB5199E259F64089A06EF170FADB05",
+          "compressedSize": 3326773
+        },
+        {
+          "md5": "9306CA357850F1B97EFEABCD7473B0C9",
+          "size": 8388608,
+          "compressedMd5": "B0E9EA9A4AD9D1CC53B0C7700EF0FBBF",
+          "compressedSize": 3429177
+        },
+        {
+          "md5": "9106230C6E8039A87868D37E206C6146",
+          "size": 8388608,
+          "compressedMd5": "7989E69D8C834453711F3098A61289B7",
+          "compressedSize": 3353828
+        },
+        {
+          "md5": "D88E9BE92E624BD8A25E817E5665936B",
+          "size": 8388608,
+          "compressedMd5": "6303AB939A8C1309052C415990FE97CF",
+          "compressedSize": 3282573
+        },
+        {
+          "md5": "BF5BE2EC9B1F9814BF13735802923C2E",
+          "size": 8388608,
+          "compressedMd5": "4A20107387C394E8ADC3D052B6C159C8",
+          "compressedSize": 3271935
+        },
+        {
+          "md5": "EE76EF18329C60472884CDAB2D801A44",
+          "size": 8388608,
+          "compressedMd5": "EF5E125853EA4EA89EB8D08AE1005AFD",
+          "compressedSize": 3147970
+        },
+        {
+          "md5": "B19B8B6C01AB920108CED05BF4B7E726",
+          "size": 8388608,
+          "compressedMd5": "7703C1409367458B37862DBF50AED487",
+          "compressedSize": 3438336
+        },
+        {
+          "md5": "5C3D63919B593E9A1BDA440D2D99C60F",
+          "size": 8388608,
+          "compressedMd5": "140AE1D798B51DD10DFCFA4678B9A980",
+          "compressedSize": 3323351
+        },
+        {
+          "md5": "06092E30BAE9D0EE6344B279516AC6CB",
+          "size": 11244441,
+          "compressedMd5": "EAA3E8A6D29CD27A00DAA9314FC182B3",
+          "compressedSize": 3554074
+        }
+      ]
+    },
+    {
+      "path": "Data/Fallout4 - Materials.ba2",
+      "chunks": [
+        {
+          "md5": "F3A19034FEB6D4A56FB8472E2A34C37C",
+          "size": 1770500,
+          "compressedMd5": "3FEEB0E1C3F0369D9554ABA172595AA7",
+          "compressedSize": 517948
+        }
+      ]
+    },
+    {
+      "path": "Data/Fallout4 - Meshes.ba2",
+      "md5": "ADBD1E99D1224A9ECD50CD9F814875C5",
+      "chunks": [
+        {
+          "md5": "84F5D88FF27084CB36CDCCDC3C173472",
+          "size": 8388608,
+          "compressedMd5": "2B98745816D8051DE81C0BF623745523",
+          "compressedSize": 7464436
+        },
+        {
+          "md5": "3785324EF7635BB92F7294E1B20AAEF2",
+          "size": 8388608,
+          "compressedMd5": "42F8152017A019BE36CF9328B28FF22B",
+          "compressedSize": 8382494
+        },
+        {
+          "md5": "031FCD18EFD0B59B13B492C231984AF3",
+          "size": 8388608,
+          "compressedMd5": "FD56A8497E2B07B27F57DA1CE73797E3",
+          "compressedSize": 8320170
+        },
+        {
+          "md5": "5C98FA92B1D9558090E8C0C578EEEB25",
+          "size": 8388608,
+          "compressedMd5": "12C2332AACD912882F25EB1D4B4FAF3F",
+          "compressedSize": 8309326
+        },
+        {
+          "md5": "29376DF36F3C0010EB9C2A7B18B40F6F",
+          "size": 8388608,
+          "compressedMd5": "4383779A9177C5CF4A1291705912D26B",
+          "compressedSize": 8317242
+        },
+        {
+          "md5": "2BCD2B23FB747142DB6A6262A716D7D2",
+          "size": 8388608,
+          "compressedMd5": "4088DD948FF17D19963A761ED6472553",
+          "compressedSize": 8250495
+        },
+        {
+          "md5": "CB1587D8053328CF3738B8CC62E3EE39",
+          "size": 8388608,
+          "compressedMd5": "4209BC8CAD907DFCE1D1234F0BE0592E",
+          "compressedSize": 8222295
+        },
+        {
+          "md5": "C6A5A7C7B2F308CB4AB19ABDC83F5294",
+          "size": 8388608,
+          "compressedMd5": "0456BD37B85415C5D19163F72B43CB11",
+          "compressedSize": 8287084
+        },
+        {
+          "md5": "D160965FAAC50648FA441D9B17798FEE",
+          "size": 8388608,
+          "compressedMd5": "14800D2A259A05BB72C0346F6402C75C",
+          "compressedSize": 8364093
+        },
+        {
+          "md5": "931222A89ACF3152DA0455153E857B9E",
+          "size": 8388608,
+          "compressedMd5": "EE6039EEE4C2F2890812F52ED8449A45",
+          "compressedSize": 8340141
+        },
+        {
+          "md5": "257F029559D2F30658CE8ACD40C11DC9",
+          "size": 8388608,
+          "compressedMd5": "2CE8D95B4C673A9ED5A71F2ECD1BBB5D",
+          "compressedSize": 8321300
+        },
+        {
+          "md5": "B8717DD0BA75099FF5A2ECEA60784F1C",
+          "size": 8388608,
+          "compressedMd5": "80A5C699964AC06589A10A770D7E3D01",
+          "compressedSize": 8330956
+        },
+        {
+          "md5": "DD44A5119225335955ACB764E7D124C9",
+          "size": 8388608,
+          "compressedMd5": "26D99901D6D966C6CFC6549F755A57A6",
+          "compressedSize": 8282154
+        },
+        {
+          "md5": "E5E2AB340DCD6A8DD10D98CF3AD320BE",
+          "size": 8388608,
+          "compressedMd5": "D2AE0F7CD71DC72E762DA6D1A277EAB3",
+          "compressedSize": 8233259
+        },
+        {
+          "md5": "AE15895A3A5BBBD2E9803A0DA0A3BF53",
+          "size": 8388608,
+          "compressedMd5": "38A49D64CAB4BA6ADEFAC284D2F2D266",
+          "compressedSize": 8251130
+        },
+        {
+          "md5": "2AE14D545AAA72B8C0C4B6F51A360F57",
+          "size": 8388608,
+          "compressedMd5": "B352E29FDCF46B07BE8ADD08C40C6F4E",
+          "compressedSize": 8157166
+        },
+        {
+          "md5": "BA00955A609BB649531011C8C688E974",
+          "size": 8388608,
+          "compressedMd5": "50667D30729A480989E0637ECE187530",
+          "compressedSize": 8263948
+        },
+        {
+          "md5": "67952A81F12F3EC8A93F49C3D90E9D99",
+          "size": 8388608,
+          "compressedMd5": "7775EDD44B26EE3C86AE1700649CE4DB",
+          "compressedSize": 8293464
+        },
+        {
+          "md5": "4DFC1E8669A88F7FFFBB1FCFC1756BBA",
+          "size": 8388608,
+          "compressedMd5": "1E2265BD3E975033DB5086C2ED93F7A9",
+          "compressedSize": 8275120
+        },
+        {
+          "md5": "21A19C43D8BF216C9E959320A48369AE",
+          "size": 8388608,
+          "compressedMd5": "CF09386346642C04E08A6ACD71856A2C",
+          "compressedSize": 8327743
+        },
+        {
+          "md5": "DD212EC412CDA02D56A29F91D826EB8C",
+          "size": 8388608,
+          "compressedMd5": "7009FED12FF2BF739A70ACA8F9861929",
+          "compressedSize": 8317200
+        },
+        {
+          "md5": "41AA46AD08170A7CEE3B3770BD3EAEDE",
+          "size": 8388608,
+          "compressedMd5": "DD16C0121BA0424C89550944BDD2BE3A",
+          "compressedSize": 8290705
+        },
+        {
+          "md5": "18C03DA0C8BE759B24157CDF89622A6E",
+          "size": 8388608,
+          "compressedMd5": "D098279E755E24B65A7C57ECC5641E84",
+          "compressedSize": 8311699
+        },
+        {
+          "md5": "ACAC662851C8EE03CA6F82581DCA0502",
+          "size": 8388608,
+          "compressedMd5": "930E028812728B87BA76F7BF532C4A49",
+          "compressedSize": 8267108
+        },
+        {
+          "md5": "08E57889C90402F6F5A33E531FE64979",
+          "size": 8388608,
+          "compressedMd5": "CC1198B26198DFBC40C88366782274C6",
+          "compressedSize": 8256478
+        },
+        {
+          "md5": "0CD93B6E18ED07B572C2FFC7566AD4A0",
+          "size": 8388608,
+          "compressedMd5": "6768DD6C54D3849603346C79B6ED3A44",
+          "compressedSize": 8337997
+        },
+        {
+          "md5": "AC4C1C085E28DD97876CEF9267F17C32",
+          "size": 8388608,
+          "compressedMd5": "BA18B9821E50F3C79D9A7359D2C8D9A8",
+          "compressedSize": 8222695
+        },
+        {
+          "md5": "C024514695B1708573630AFC59FC80E0",
+          "size": 8388608,
+          "compressedMd5": "309298D39397DDB477FF3183329E016B",
+          "compressedSize": 8239893
+        },
+        {
+          "md5": "72FCFA37B18E82E09ADFAD81086FDA6A",
+          "size": 8388608,
+          "compressedMd5": "3C8E31E397D8E4ABCC4DF2D6EFE183B3",
+          "compressedSize": 8259316
+        },
+        {
+          "md5": "2E46DECA9B51EC8690B2AF4DEA6D183F",
+          "size": 8388608,
+          "compressedMd5": "3B984FD42C8BE89E2065B3C90891B6C7",
+          "compressedSize": 8236755
+        },
+        {
+          "md5": "5587C7B7057A240CE0FEEDC842459A21",
+          "size": 8388608,
+          "compressedMd5": "82E1A4E27C9E2FECA9EA249B207C5DB8",
+          "compressedSize": 8134291
+        },
+        {
+          "md5": "33541C1373F62E6EE9B529530C1AD33D",
+          "size": 8388608,
+          "compressedMd5": "9CBBE40CE49C466AED3D2CB36835D94B",
+          "compressedSize": 8189189
+        },
+        {
+          "md5": "636248F554055BE3D6F89BC309B2FD48",
+          "size": 8388608,
+          "compressedMd5": "BB93E8BA4718229F607DF7A3C3B63956",
+          "compressedSize": 8202600
+        },
+        {
+          "md5": "77DC371253E5DBF7F31646F69480A2A2",
+          "size": 8388608,
+          "compressedMd5": "703E7584622395747B1753C1BA6311F3",
+          "compressedSize": 8314374
+        },
+        {
+          "md5": "E34A524EA0948667C2D846966E0BF652",
+          "size": 8388608,
+          "compressedMd5": "92326B4A29768EA2E5D7EA3C59B8964D",
+          "compressedSize": 8230208
+        },
+        {
+          "md5": "65274CACCC1BF09D5CDA7E634671947D",
+          "size": 8388608,
+          "compressedMd5": "787999D011A8280DBF7499CD4D8ED0AF",
+          "compressedSize": 8317036
+        },
+        {
+          "md5": "592DD78EB5A25FBD6414BCB849760989",
+          "size": 8388608,
+          "compressedMd5": "70FB5973117E522B8324DB42493869F6",
+          "compressedSize": 8230941
+        },
+        {
+          "md5": "4B5B5685AA97EADC1C6D4F85D8B3F4C8",
+          "size": 8388608,
+          "compressedMd5": "15D62C6D1693B04BD3A7CA79CF81290F",
+          "compressedSize": 8259281
+        },
+        {
+          "md5": "957B01318BAD9081ED6F1825A9E46CF8",
+          "size": 8388608,
+          "compressedMd5": "088D3AF74965832023C0DB88D8D6FBEA",
+          "compressedSize": 8123892
+        },
+        {
+          "md5": "BC2AA8FA562BD9F5E66DF5ED330E6429",
+          "size": 8388608,
+          "compressedMd5": "33A355E39395B6A51E3AA5FEF5CE37EB",
+          "compressedSize": 8112295
+        },
+        {
+          "md5": "AE5DBB3589645B43F7D2725A7F7B7825",
+          "size": 8388608,
+          "compressedMd5": "89F61F05F2C863339B1FD582A975783F",
+          "compressedSize": 8180971
+        },
+        {
+          "md5": "E7E5B2D2CFA24EAC0405443E5A7BD87C",
+          "size": 8388608,
+          "compressedMd5": "626C6D03B7A06C2F264F91D481733065",
+          "compressedSize": 8235669
+        },
+        {
+          "md5": "342D5F49199134B963D0DD63ECB8A1C1",
+          "size": 8388608,
+          "compressedMd5": "D1B82DCD5041739A083692068531364B",
+          "compressedSize": 8159649
+        },
+        {
+          "md5": "EBEAEA8D7431F647761F75CA95B4CD33",
+          "size": 8388608,
+          "compressedMd5": "7DCCEAEF81CAD613F561741F426D00EC",
+          "compressedSize": 8247562
+        },
+        {
+          "md5": "BC627D4607D2EE5C6B00315603119111",
+          "size": 8388608,
+          "compressedMd5": "9F5096ADD2055776099EBA1C09B8BF13",
+          "compressedSize": 8173166
+        },
+        {
+          "md5": "E6EBD8A05D644960FBC7F58D9F28F9F2",
+          "size": 8388608,
+          "compressedMd5": "6A142405CD4D88C53FDE94DF1CEC6F1B",
+          "compressedSize": 8256698
+        },
+        {
+          "md5": "B90391356EF28494FA424D9680D143B0",
+          "size": 8388608,
+          "compressedMd5": "6BDD05FDC226C0F50C23F31A1BDEA4A1",
+          "compressedSize": 8080510
+        },
+        {
+          "md5": "0CE8161107FAF939CC49711AF379E94A",
+          "size": 8388608,
+          "compressedMd5": "AACBA2767D1A67823AC4725D87B86719",
+          "compressedSize": 8265241
+        },
+        {
+          "md5": "52BB6364A0ABE9C9C9F82819EBC2B86F",
+          "size": 8388608,
+          "compressedMd5": "51251A62E4D2049F10CE282A71344085",
+          "compressedSize": 8079897
+        },
+        {
+          "md5": "C3DA1C2C62B151413D6391FDFB394088",
+          "size": 8388608,
+          "compressedMd5": "F410750E31C82EC8B3B92C93C0BB1DE0",
+          "compressedSize": 8278370
+        },
+        {
+          "md5": "C7DC0847AB34BE496590B92B7E5706C4",
+          "size": 8388608,
+          "compressedMd5": "B568DAD653AB6643046790181FCE1837",
+          "compressedSize": 8151416
+        },
+        {
+          "md5": "A366861442448E30C01197BA0B60FDC7",
+          "size": 8388608,
+          "compressedMd5": "35A76B3E7CE34003B06ABD6632D8EE45",
+          "compressedSize": 8336184
+        },
+        {
+          "md5": "C03BCF05A6F99A3B75D41167A8E888FB",
+          "size": 8388608,
+          "compressedMd5": "6F43019E436C0BDE9F755197E5EC07CD",
+          "compressedSize": 8261430
+        },
+        {
+          "md5": "C7A4F629540FEA387653451215669365",
+          "size": 8388608,
+          "compressedMd5": "210593F28A40AA5A6DB1D64C7B49AC8A",
+          "compressedSize": 8276821
+        },
+        {
+          "md5": "0961993D4066C292EB82C61672A9FC17",
+          "size": 8388608,
+          "compressedMd5": "DA09CDEBB703A6075148C3DA2554CC34",
+          "compressedSize": 8318963
+        },
+        {
+          "md5": "15544B593A6814FDA55E8965663C09CD",
+          "size": 8388608,
+          "compressedMd5": "ED58E3F552145C6B58864EC950BEDEE9",
+          "compressedSize": 8348312
+        },
+        {
+          "md5": "DC5C49A18865E41F5B8431C791398878",
+          "size": 8388608,
+          "compressedMd5": "255AD54A373B8F26C5B9588A08B1027F",
+          "compressedSize": 8273647
+        },
+        {
+          "md5": "99663409C84CDEECC8AFF0475F50848F",
+          "size": 8388608,
+          "compressedMd5": "161B5DB53E4B2912EA7D6C2296EB0350",
+          "compressedSize": 8193014
+        },
+        {
+          "md5": "A5E03130C0D074D90C9287516E60E6E9",
+          "size": 8388608,
+          "compressedMd5": "6458740D683A4FDE6E0669167884EEDF",
+          "compressedSize": 8238846
+        },
+        {
+          "md5": "A4B0C05B5A113C0454A8A685D35E130C",
+          "size": 8388608,
+          "compressedMd5": "653C302538254E0E29E90782962A5159",
+          "compressedSize": 8247374
+        },
+        {
+          "md5": "C91E08D12265B8C4DCC1E7727EB40D3F",
+          "size": 8388608,
+          "compressedMd5": "A366B66A07983C2D87DE0F964339CAEF",
+          "compressedSize": 8270604
+        },
+        {
+          "md5": "D8A4560D9C03CBDCB3D1B195A5556EA2",
+          "size": 8388608,
+          "compressedMd5": "594690AF54265A08DE4B023B8B28E2CE",
+          "compressedSize": 8281466
+        },
+        {
+          "md5": "59EA31209C1054705D1A72050F396D30",
+          "size": 8388608,
+          "compressedMd5": "AA74BCA77D10B0B58FD94EDF271B504F",
+          "compressedSize": 8290980
+        },
+        {
+          "md5": "AE8BB8470FAB23A909057E7787D8F847",
+          "size": 8388608,
+          "compressedMd5": "94F1A087687B7397ADE5ED9A3AA37A51",
+          "compressedSize": 8328666
+        },
+        {
+          "md5": "396ACE462BFB57251B646103C3C301C8",
+          "size": 8388608,
+          "compressedMd5": "AF5089040C490262D52C0F28D46EAC8C",
+          "compressedSize": 8342948
+        },
+        {
+          "md5": "27A2904EEBF51F295F868FE1B9129C10",
+          "size": 8388608,
+          "compressedMd5": "76756B339F0C62BAEB844579D0A78897",
+          "compressedSize": 8328981
+        },
+        {
+          "md5": "514F90339E3BD024859CA3D74C68EFC3",
+          "size": 8388608,
+          "compressedMd5": "F9DA86BBF29F007CC22B9AFB5C9521C3",
+          "compressedSize": 8322415
+        },
+        {
+          "md5": "475AE91BAC288DC73B9A2C807488760B",
+          "size": 8388608,
+          "compressedMd5": "38CEA7826FF74DC3E70573EA01F9DBC0",
+          "compressedSize": 8310224
+        },
+        {
+          "md5": "DA80F823D7EA2162BE9FA354A038AC54",
+          "size": 8388608,
+          "compressedMd5": "B3DFA98C73340A5F79014273C7E5278B",
+          "compressedSize": 8367279
+        },
+        {
+          "md5": "639635583E182A29CAE94FB5A8CE6042",
+          "size": 8388608,
+          "compressedMd5": "0BEA9DF5E9B2CBC3E652F4F39ECAB798",
+          "compressedSize": 8338924
+        },
+        {
+          "md5": "BA9726405EAE8ABB6DFDE465A3C873CC",
+          "size": 8388608,
+          "compressedMd5": "9898BF9088E59A8F67F66BCB8ECE42DD",
+          "compressedSize": 8345393
+        },
+        {
+          "md5": "C378A9DDCFE2EB5C5FAE2D9C45E7C6E5",
+          "size": 8388608,
+          "compressedMd5": "9613DF4D465118551E33BCAF8DF6E3FD",
+          "compressedSize": 8219364
+        },
+        {
+          "md5": "BCA35E1270B871FBE6FFA115C6B6E29B",
+          "size": 8388608,
+          "compressedMd5": "0960A189F45E5E15238B495697207FBC",
+          "compressedSize": 8312495
+        },
+        {
+          "md5": "2F23645E62A147D9BE951F23129DCC3C",
+          "size": 8388608,
+          "compressedMd5": "CD4DE4BCD2179585A44E51510F7F3E29",
+          "compressedSize": 8358069
+        },
+        {
+          "md5": "A3A81278EA042372705CC027C5497891",
+          "size": 8388608,
+          "compressedMd5": "DCE124CBF5044EBB805205BEEEC1D4DA",
+          "compressedSize": 8356464
+        },
+        {
+          "md5": "3EC492279148BAF5FBA50CA10DD25C9F",
+          "size": 8388608,
+          "compressedMd5": "43AEC7F8B08C175B103164F88F65DFDA",
+          "compressedSize": 8368196
+        },
+        {
+          "md5": "2429CF6B57D3C4F01CBE6CDAD7445D02",
+          "size": 8388608,
+          "compressedMd5": "913C05B3B21180DD9B1174C140724F15",
+          "compressedSize": 8386596
+        },
+        {
+          "md5": "889A42B457493CF7308A7B2B1F3B176F",
+          "size": 8388608,
+          "compressedMd5": "5F6B872314424B87F2C73A9986627CC2",
+          "compressedSize": 8384452
+        },
+        {
+          "md5": "6DB3E5D114B96B06732C620964DD4326",
+          "size": 8388608,
+          "compressedMd5": "847080AE9E7ED1052FAD837C365365BC",
+          "compressedSize": 8381028
+        },
+        {
+          "md5": "5D874FC67E72FB36D97892C1A5022D3E",
+          "size": 8388608,
+          "compressedMd5": "251E5134DD5B62F422835FFF6D39872A",
+          "compressedSize": 8386854
+        },
+        {
+          "md5": "11B857031D0654A80C59ECA073DCD970",
+          "size": 8388608,
+          "compressedMd5": "95ACA380BF0140E2223DE14AF5BE3B3F",
+          "compressedSize": 8387994
+        },
+        {
+          "md5": "ED39700463E5492D5FA4E3902DC0370D",
+          "size": 8388608,
+          "compressedMd5": "076C84CFCC57F08D67D754D392CD9936",
+          "compressedSize": 8385328
+        },
+        {
+          "md5": "0BC9951D9001476FCC49CDAC62560EDF",
+          "size": 8388608,
+          "compressedMd5": "99340B4B44F140FD092E66F5ED7C3143",
+          "compressedSize": 8385974
+        },
+        {
+          "md5": "BABC9FE0D8EC1DF25D852E7AFCC4D097",
+          "size": 8388608,
+          "compressedMd5": "675CE2B7C23F07CA9F160D868C955AC5",
+          "compressedSize": 8386875
+        },
+        {
+          "md5": "BFBDD394F3E21836C971B62F4B36F3C7",
+          "size": 8388608,
+          "compressedMd5": "C343B7170C407ECEE82BADDE63E4214A",
+          "compressedSize": 8387497
+        },
+        {
+          "md5": "4BA80C5D330BB05482BDE73A266EAE78",
+          "size": 8388608,
+          "compressedMd5": "642ACB9DEFBCD2335DFF037C5124B8FD",
+          "compressedSize": 8386203
+        },
+        {
+          "md5": "C6462F51F6171A26714C2E58AB7FF493",
+          "size": 8388608,
+          "compressedMd5": "5210EAA6C30130FE6C1D181E1B3D4222",
+          "compressedSize": 8384765
+        },
+        {
+          "md5": "B2EAAB4600636A5175973F13995EE06B",
+          "size": 8388608,
+          "compressedMd5": "1E8011E4763D5C92AF8C941228A7616F",
+          "compressedSize": 8386687
+        },
+        {
+          "md5": "93EC362A7C9FD6372CC277A64B1B8609",
+          "size": 8388608,
+          "compressedMd5": "C7531B1154E83DC2B5906DE54738072D",
+          "compressedSize": 8385902
+        },
+        {
+          "md5": "E44609E4C0B093526F7C9D9488C28539",
+          "size": 8388608,
+          "compressedMd5": "8EA969D29E503850974F832B00705058",
+          "compressedSize": 8383115
+        },
+        {
+          "md5": "4F70EA8880F7C168D1C45D041BADACDD",
+          "size": 8388608,
+          "compressedMd5": "C9934F6B029F76BBA62C037806B6C6A2",
+          "compressedSize": 8386947
+        },
+        {
+          "md5": "1EF74DD2E5AFCD6742D9C8BA6A56491B",
+          "size": 8388608,
+          "compressedMd5": "C3A68947E2B6872AD10B8D4DED3240DF",
+          "compressedSize": 8387471
+        },
+        {
+          "md5": "C069CCAC4755FC656362212EDC10E966",
+          "size": 8388608,
+          "compressedMd5": "77FD3A827B77634C7DBDE17591FEB96D",
+          "compressedSize": 8386156
+        },
+        {
+          "md5": "1F2C573128742373CF62E8E638E540C3",
+          "size": 8388608,
+          "compressedMd5": "C59C60FB2774652D32045BDEBAC28A39",
+          "compressedSize": 8385916
+        },
+        {
+          "md5": "D4F3D409D5E587AB00899A649B5EAEE7",
+          "size": 8388608,
+          "compressedMd5": "DFFB764AE1CEC779850BA446F47344AB",
+          "compressedSize": 8306115
+        },
+        {
+          "md5": "1AC13B0D6E1CA8B58CA947BB2B17F4D8",
+          "size": 8388608,
+          "compressedMd5": "27982D5930FD5EECBEBEA1D2BC0E9B11",
+          "compressedSize": 8266914
+        },
+        {
+          "md5": "58DF1A8005210FF9F38DCEF782912E16",
+          "size": 8388608,
+          "compressedMd5": "B037D60FD84CCA8BF4BDB75B2A5CDD1E",
+          "compressedSize": 8301066
+        },
+        {
+          "md5": "D1A7EABD6EA4F3C7FB91540DE1BB7399",
+          "size": 8388608,
+          "compressedMd5": "D33AEA6C260E5F1506164C2CE9BD08C1",
+          "compressedSize": 8250809
+        },
+        {
+          "md5": "8AFBB5AE8326A03BADF41AD9BAE9CFF6",
+          "size": 8388608,
+          "compressedMd5": "4BE1855B96C71F8E81362BE95C19F7B7",
+          "compressedSize": 8168248
+        },
+        {
+          "md5": "D5896066753F94EB0585A5635E6E4464",
+          "size": 8388608,
+          "compressedMd5": "4BAAA3BF8910D6CCBD4D4AAEFDEF7A51",
+          "compressedSize": 8265892
+        },
+        {
+          "md5": "53A0820B500AE0126A249DD7530F89B7",
+          "size": 8388608,
+          "compressedMd5": "617DF27E3524218C9DC7CE1325BC29F4",
+          "compressedSize": 8185294
+        },
+        {
+          "md5": "0DB6B286CC62787D459E1555792A126C",
+          "size": 8388608,
+          "compressedMd5": "65853BDD861A1068B3BB1008F730E57D",
+          "compressedSize": 8159527
+        },
+        {
+          "md5": "8C5D08E8ED8E00F7B48235FE6F44906D",
+          "size": 8388608,
+          "compressedMd5": "CE63143AFD7DE5BCDE50B3B64623B989",
+          "compressedSize": 8285438
+        },
+        {
+          "md5": "6420839B901BB5B8CD57E434A3F278EC",
+          "size": 8388608,
+          "compressedMd5": "00270FBAC083E0B7D083BBFC45B63D86",
+          "compressedSize": 8355423
+        },
+        {
+          "md5": "AD96CDAFC16512CC839AE72F602E36FF",
+          "size": 8388608,
+          "compressedMd5": "9E8FB7C0F5B0A90EF230370EAE7AB2D0",
+          "compressedSize": 8344748
+        },
+        {
+          "md5": "DFF332C7CAA75533E7A3E86D90F53F96",
+          "size": 8388608,
+          "compressedMd5": "FF202C6541D10981569C30058E31D423",
+          "compressedSize": 8330639
+        },
+        {
+          "md5": "3D2147C3827279818F32A1F61938108C",
+          "size": 8388608,
+          "compressedMd5": "E6EA73985A5C92827ED15F3C769E0B33",
+          "compressedSize": 8371721
+        },
+        {
+          "md5": "ED1E54E50B1172ECAFFA4E756C90A805",
+          "size": 8388608,
+          "compressedMd5": "237649690D0C29E81C6A523F116E0C35",
+          "compressedSize": 8354982
+        },
+        {
+          "md5": "325AE9FCF244D780ADE3CD5D8F3C1F91",
+          "size": 8388608,
+          "compressedMd5": "2A87966F143929F63CBC6348026EAC64",
+          "compressedSize": 8255777
+        },
+        {
+          "md5": "E34EC04C5824C8178B58CB57113E572D",
+          "size": 8388608,
+          "compressedMd5": "56E40B1AEB2B49122598DA930A9293D8",
+          "compressedSize": 8019474
+        },
+        {
+          "md5": "910CCB537689C3D5A3C401BA16FF7B6B",
+          "size": 8388608,
+          "compressedMd5": "D18EF84CAD33C4BB80150D383C1F4F34",
+          "compressedSize": 8162467
+        },
+        {
+          "md5": "098DA3DB8A066DE41DD653D9D2A0B930",
+          "size": 8388608,
+          "compressedMd5": "6C6A06814010FF42B38D244524D2A903",
+          "compressedSize": 8261658
+        },
+        {
+          "md5": "2B8B7FA37E24E9B6E9E1D5A8E3E12910",
+          "size": 8388608,
+          "compressedMd5": "15071D143C4081A4D7ED5293B579991C",
+          "compressedSize": 8289279
+        },
+        {
+          "md5": "57824DF95075A127669933648DD3D588",
+          "size": 8388608,
+          "compressedMd5": "315F9FF9156F7EAA89481E05D41018D8",
+          "compressedSize": 8162260
+        },
+        {
+          "md5": "8EDEC4650B8775A0B62A2C4153244214",
+          "size": 8388608,
+          "compressedMd5": "80FE3EDB27A75436FBB6DB248DF0275D",
+          "compressedSize": 8270446
+        },
+        {
+          "md5": "CBA768B66A4EF13753A593043CB6971E",
+          "size": 8388608,
+          "compressedMd5": "D7A6011BBCA01CA34E656DC383505771",
+          "compressedSize": 8273082
+        },
+        {
+          "md5": "FCBC4A93D850F1FA1C9E593327B0EB9A",
+          "size": 8388608,
+          "compressedMd5": "A3FA726BBD1C1ED649ADCB208AC05EF9",
+          "compressedSize": 8260461
+        },
+        {
+          "md5": "210B30ABECA92AE28C5B055C8A5CB473",
+          "size": 8388608,
+          "compressedMd5": "60D31AD041B20F6489A10A92CFB65E0B",
+          "compressedSize": 8159364
+        },
+        {
+          "md5": "E3CC3E54B4E7A7D2CF1575798D2EE85D",
+          "size": 8388608,
+          "compressedMd5": "F7AA2B527843D57AC1ABA142CC764465",
+          "compressedSize": 8140282
+        },
+        {
+          "md5": "8F9D93E58E511569612B597BD4DCC91A",
+          "size": 8388608,
+          "compressedMd5": "8631E5947F34F78A441CE98C4A0F7D92",
+          "compressedSize": 8215333
+        },
+        {
+          "md5": "3D0D287A60DB8102E65D9599C564775F",
+          "size": 8388608,
+          "compressedMd5": "0EF1CBE0BD1FF725ED98E713E9958B8C",
+          "compressedSize": 8145609
+        },
+        {
+          "md5": "26325C82A1EA23431C09619AE93452A6",
+          "size": 8388608,
+          "compressedMd5": "F433484B4022B3261969232238DF9EB5",
+          "compressedSize": 8241376
+        },
+        {
+          "md5": "5E0C7B8FD03C768F070AF19A0C8DF875",
+          "size": 8388608,
+          "compressedMd5": "65019F8965AFA8C13DDCB997D544955C",
+          "compressedSize": 8040557
+        },
+        {
+          "md5": "1C292E84346E2F877002564E69FE0037",
+          "size": 8388608,
+          "compressedMd5": "B40CF8C6B2DB57A9D5775694D45265E7",
+          "compressedSize": 8220655
+        },
+        {
+          "md5": "C4FE468BADF8109BA99AD14B15B333D5",
+          "size": 8388608,
+          "compressedMd5": "03E571C8A7BAE9B07ADF9EE3ACCD188B",
+          "compressedSize": 8138984
+        },
+        {
+          "md5": "F4A3934DAFD4717BB06947070413A5D8",
+          "size": 8388608,
+          "compressedMd5": "77C7BFF0293E05F3E2DA6DB768784DCB",
+          "compressedSize": 8094131
+        },
+        {
+          "md5": "6815BF5C60563F7964CDFDA89D0A5399",
+          "size": 8388608,
+          "compressedMd5": "9462056501AD15238379F9FF2DC429C8",
+          "compressedSize": 8140495
+        },
+        {
+          "md5": "7143DBFB6E1616EC83C1673EF4D60FCC",
+          "size": 8388608,
+          "compressedMd5": "0C9A4B8189B9E86F2DC72F336A5FE8EA",
+          "compressedSize": 8280005
+        },
+        {
+          "md5": "665FE049C4C6CAB982640BA8FB9B369A",
+          "size": 8388608,
+          "compressedMd5": "C79464CF99311F343BC1BC2167E8DD73",
+          "compressedSize": 8306717
+        },
+        {
+          "md5": "E07F4C7DB179A2887CC3B91C1843D4C8",
+          "size": 8388608,
+          "compressedMd5": "CE5CBF9BDC71467934F479CA50EFA9F3",
+          "compressedSize": 8060000
+        },
+        {
+          "md5": "2C316AFCEB9E711C267422C84E22689A",
+          "size": 8388608,
+          "compressedMd5": "4C836571C5F2BA5088432E0BB2A2C175",
+          "compressedSize": 8160681
+        },
+        {
+          "md5": "D112DD4F330A959EBAE8275260A261B1",
+          "size": 8388608,
+          "compressedMd5": "148F6110FD16DFE769A431488BCA0EAB",
+          "compressedSize": 8276328
+        },
+        {
+          "md5": "1F9FF4B2738CC84DC4A931108A21E43F",
+          "size": 8388608,
+          "compressedMd5": "9CA84E3D85B79F5A1DD14B42F27FF97C",
+          "compressedSize": 8325449
+        },
+        {
+          "md5": "6648DDE7AF0843EBD768072252923005",
+          "size": 8388608,
+          "compressedMd5": "2B79768F17E445E72015D83BE2FC2ADF",
+          "compressedSize": 8302651
+        },
+        {
+          "md5": "044F300513532D9F41B7BB87C4334883",
+          "size": 8388608,
+          "compressedMd5": "304E83835ED793186F88BFBAE4C1FE37",
+          "compressedSize": 8364874
+        },
+        {
+          "md5": "C77E99B47A4ECFC4115CA48E329D1726",
+          "size": 8388608,
+          "compressedMd5": "7BECC7931FCA9738E903B0431AD49F60",
+          "compressedSize": 8346656
+        },
+        {
+          "md5": "2C77D8D9B817DFDA9A25288DC7E619D3",
+          "size": 8388608,
+          "compressedMd5": "2BF308DC58DC3D3B531884902ECF78B0",
+          "compressedSize": 8359637
+        },
+        {
+          "md5": "6F2F0132410A194101E91831EA47E1A4",
+          "size": 8388608,
+          "compressedMd5": "264CBC1FC89A0DBCE75CA09A901562E1",
+          "compressedSize": 8222831
+        },
+        {
+          "md5": "0D04DB993E02511911252AD55003CA0F",
+          "size": 8388608,
+          "compressedMd5": "9B2A67D60CFEBE629CD3AFA4B988B776",
+          "compressedSize": 8298297
+        },
+        {
+          "md5": "AEFE867DB772C5F7477783F7B4CFCC77",
+          "size": 8388608,
+          "compressedMd5": "D25B33264CBABD44405270112F97652E",
+          "compressedSize": 8359162
+        },
+        {
+          "md5": "632811ECAD0DB5088E5A3AA0DAF37506",
+          "size": 8388608,
+          "compressedMd5": "7C9A6ABAFB077C363AE9ADC9FCCB34CE",
+          "compressedSize": 8371509
+        },
+        {
+          "md5": "88A68FA360872CACDB7DFB2A6D94E12D",
+          "size": 8388608,
+          "compressedMd5": "F61683861F528816C7DD9E3019BD7087",
+          "compressedSize": 8382432
+        },
+        {
+          "md5": "3336F8A48E01C7E9B07172FFCB058997",
+          "size": 8388608,
+          "compressedMd5": "ABCF3B48D60DE4C63690115AEE4041BE",
+          "compressedSize": 8346143
+        },
+        {
+          "md5": "17D8FB3F8DE3157C7ADF2813D5E70B5F",
+          "size": 8388608,
+          "compressedMd5": "5BA1A0D8A6BF131428243E15F5B47F35",
+          "compressedSize": 8361367
+        },
+        {
+          "md5": "F60BD2DDD376436410AB7867806D2037",
+          "size": 8388608,
+          "compressedMd5": "FBB2C84BDE1845E182525065367B9703",
+          "compressedSize": 8275337
+        },
+        {
+          "md5": "69266C7098BC3FCA125A225AD8F87DE7",
+          "size": 8388608,
+          "compressedMd5": "77610AD65C3AA3F5DA77D72B9FC3B1EE",
+          "compressedSize": 8220322
+        },
+        {
+          "md5": "1603E89567562FC56ED015FA746E361C",
+          "size": 8388608,
+          "compressedMd5": "0F4D976C211276FD50633CB36BFC05C9",
+          "compressedSize": 8186528
+        },
+        {
+          "md5": "B46BF8739A59DEC766381E3F9AD99235",
+          "size": 8388608,
+          "compressedMd5": "A77465B4DE2F33807A442AA3BBFCF3B1",
+          "compressedSize": 8308989
+        },
+        {
+          "md5": "8872C40F9999D9401CB3A42D0E53635F",
+          "size": 8388608,
+          "compressedMd5": "3FD01DD84A21877AA5202ED290920417",
+          "compressedSize": 8179397
+        },
+        {
+          "md5": "CBB30C003F60025774CC08F778AFFCF8",
+          "size": 8388608,
+          "compressedMd5": "0F6ECA196857BC75821417E665C8EC71",
+          "compressedSize": 8159935
+        },
+        {
+          "md5": "DC13129B09DF249A9E2ABFE502E01D5E",
+          "size": 8388608,
+          "compressedMd5": "CBC6DC3BAFA03F654AC1AE2FFB5E34E0",
+          "compressedSize": 8045204
+        },
+        {
+          "md5": "B797793432E7D82C993DE650C8D02811",
+          "size": 8388608,
+          "compressedMd5": "B93876BF3D9B7AE363A362DCBFE263CB",
+          "compressedSize": 7936961
+        },
+        {
+          "md5": "5E3E2DD216B1AE9034E93FFE497118A5",
+          "size": 8388608,
+          "compressedMd5": "696560ACAF358DADFE0995E94121FF02",
+          "compressedSize": 8168679
+        },
+        {
+          "md5": "C60326E4C8CDA277B3A0466878C4EAB9",
+          "size": 8388608,
+          "compressedMd5": "7D0FB919160E0005683C408FCB7CD5B5",
+          "compressedSize": 8003742
+        },
+        {
+          "md5": "F4C3CC9731995B3B470A81249380CCF9",
+          "size": 8388608,
+          "compressedMd5": "C3331A56F6869E5BFF2E555F7DC0DFCB",
+          "compressedSize": 8269701
+        },
+        {
+          "md5": "06F84D57E3EF88DBEC74B0C7D6F03FFD",
+          "size": 8388608,
+          "compressedMd5": "CB671EF66E8126E2D7F15D8F2D76735F",
+          "compressedSize": 8210444
+        },
+        {
+          "md5": "F6D10D02B0C2571657601BECE4014393",
+          "size": 8388608,
+          "compressedMd5": "3F43C8F8C51326C531AD19B8B2313B32",
+          "compressedSize": 8028927
+        },
+        {
+          "md5": "7815E2233348B733D9BA655C8816F2AA",
+          "size": 8388608,
+          "compressedMd5": "674575269557BAA9F99DEC90A3B5390C",
+          "compressedSize": 7748531
+        },
+        {
+          "md5": "64BA139B06D4065E594940497132E995",
+          "size": 8388608,
+          "compressedMd5": "265FFFCA80A5EE00316E9A6D9A7F8ADE",
+          "compressedSize": 8047489
+        },
+        {
+          "md5": "9D3D53DDDF723D617FEA3D129D7C48A0",
+          "size": 8388608,
+          "compressedMd5": "72362EF6502EF2F9DC6B7F224089A829",
+          "compressedSize": 8094739
+        },
+        {
+          "md5": "7C1E2C546E75ED62A786B1629A869998",
+          "size": 8388608,
+          "compressedMd5": "1D911C6D022B9740378F4655541956C0",
+          "compressedSize": 8257683
+        },
+        {
+          "md5": "418391ECCD8799C03A85772763D45664",
+          "size": 8388608,
+          "compressedMd5": "37B42558B28C10A2E0F618CB20523229",
+          "compressedSize": 8270554
+        },
+        {
+          "md5": "506D596B27A01853CAF27C92A00FB253",
+          "size": 8388608,
+          "compressedMd5": "D8E8CF99BE3B148E2A37049E4CB6EC4C",
+          "compressedSize": 8307926
+        },
+        {
+          "md5": "12D0917F332E06796060BA49371B7F7E",
+          "size": 8388608,
+          "compressedMd5": "70C45E2BBCB5C0B3CDE56E4B79BAB910",
+          "compressedSize": 8271571
+        },
+        {
+          "md5": "46A30A9DF7E3BCBB00A52D681B2570AA",
+          "size": 8388608,
+          "compressedMd5": "B599D812AACEE93D0CAF90718E3B30E0",
+          "compressedSize": 8259648
+        },
+        {
+          "md5": "CCCED3AE379ADEA8B4B17EE5EB8CFE68",
+          "size": 8388608,
+          "compressedMd5": "3DD08C355B6EEA364647B42DAE1121B2",
+          "compressedSize": 8385089
+        },
+        {
+          "md5": "5A07815364658148AF860FCE1C2A4F7C",
+          "size": 8388608,
+          "compressedMd5": "E8F314B7127E547B3AE45107A9CDE7A1",
+          "compressedSize": 8369394
+        },
+        {
+          "md5": "C7DC8DECF982FB770CFC643EE1BD790B",
+          "size": 8388608,
+          "compressedMd5": "756C47251FFEB4C4870173A31CD3A996",
+          "compressedSize": 8317928
+        },
+        {
+          "md5": "7445C6DF904DC6B9E4011AC1C0CAA1D8",
+          "size": 8388608,
+          "compressedMd5": "3867D28C4465A2F242438AE59157C10E",
+          "compressedSize": 8303056
+        },
+        {
+          "md5": "0566E124ABF6282D0DBD82C4908F6DCD",
+          "size": 8388608,
+          "compressedMd5": "6B2EF991F026FE1343463AAB1DCEA5D4",
+          "compressedSize": 8333041
+        },
+        {
+          "md5": "7E0E986515A9E89747DB6CFE12819694",
+          "size": 8388608,
+          "compressedMd5": "9FFCC25420570D42208F4A79DA9A9231",
+          "compressedSize": 8387536
+        },
+        {
+          "md5": "3C469286C7295F716DF8C7206573AB30",
+          "size": 8388608,
+          "compressedMd5": "EA9AACAD55D529952BDA35CA0546035B",
+          "compressedSize": 8372897
+        },
+        {
+          "md5": "06F82980A600A23C6AC210E5B995A052",
+          "size": 8388608,
+          "compressedMd5": "9655D6F8CE6D4DD3D6DF47D2BB748FF9",
+          "compressedSize": 8313156
+        },
+        {
+          "md5": "1094273808D9301A71AC70BC94D51C60",
+          "size": 8388608,
+          "compressedMd5": "B2A11C234B386FE3BEE087A95F150ED4",
+          "compressedSize": 8242948
+        },
+        {
+          "md5": "5320F337D890D89F28F980D6A43DAD2B",
+          "size": 8388608,
+          "compressedMd5": "022B0878B952D58BB0046D7987D39F9B",
+          "compressedSize": 8314482
+        },
+        {
+          "md5": "B4404E9ED0124F1B8EC5D6EA990EE2BA",
+          "size": 8388608,
+          "compressedMd5": "314A93C1EDECD79AD7A627CDACE1C981",
+          "compressedSize": 8276531
+        },
+        {
+          "md5": "F01FD328C9702E9209D32E489E9696B9",
+          "size": 8388608,
+          "compressedMd5": "40751228C6A3ADB2AD1BFDF2F2A5BF25",
+          "compressedSize": 8286392
+        },
+        {
+          "md5": "643913181C2CE8561D7AFAF30791418E",
+          "size": 8556921,
+          "compressedMd5": "DEA5C7CEF48DDD887C361803B9B46F9E",
+          "compressedSize": 6252037
+        }
+      ]
+    },
+    {
+      "path": "Data/Fallout4 - Misc.ba2",
+      "md5": "C4F391A8E3543C983B1C114C1A16FD04",
+      "chunks": [
+        {
+          "md5": "831FB92439272658EBE3C18AC0561794",
+          "size": 8388608,
+          "compressedMd5": "6AF7B0B15BDB44DD61D65180F179DFB8",
+          "compressedSize": 2866726
+        },
+        {
+          "md5": "7177AA66179AEE92FC47B7C369B20236",
+          "size": 9011264,
+          "compressedMd5": "2530DA715A532153CDAB927B82C4AAA6",
+          "compressedSize": 5169252
+        }
+      ]
+    },
+    {
+      "path": "Data/Fallout4 - Startup.ba2",
+      "md5": "6476CDD46AC3F543E0424D365595823A",
+      "chunks": [
+        {
+          "md5": "6B75A56DBA4215ED20A004B4E12981FE",
+          "size": 8388608,
+          "compressedMd5": "847808A46A9E40F202C0CD331D7E4132",
+          "compressedSize": 7985336
+        },
+        {
+          "md5": "F1CBF09C0265DA778A7D7AC0BD53BFDC",
+          "size": 8388608,
+          "compressedMd5": "94344932394CE4417B57D9EFA99BF435",
+          "compressedSize": 8319701
+        },
+        {
+          "md5": "D94E9169BF91AC2CA2616DE4F8B314E5",
+          "size": 8388608,
+          "compressedMd5": "BE25F2A6F32B4791094F6A600C05256F",
+          "compressedSize": 7325313
+        },
+        {
+          "md5": "99372BC835A4E29B88EC56AD3CBDBE4B",
+          "size": 8388608,
+          "compressedMd5": "2A5B0AEFC447FDDF5F1EBC548273FA92",
+          "compressedSize": 5194463
+        },
+        {
+          "md5": "253809AF6C48887B5920FAF7D0697A2A",
+          "size": 8388608,
+          "compressedMd5": "CD5F5A3C4B4FA828FD7F946FBEABBEF5",
+          "compressedSize": 6315028
+        },
+        {
+          "md5": "F957D3D27E2775830E46B5E1F3E61A66",
+          "size": 14081958,
+          "compressedMd5": "659978FEFBAA9D248E10F94251E9E5A5",
+          "compressedSize": 3798107
+        }
+      ]
+    },
+    {
+      "path": "Data/Fallout4.esm",
+      "md5": "0E53EA9BC7854FD65224DC8CEE2A69CE",
+      "chunks": [
+        {
+          "md5": "9813BC8135EBA30681095C043C5AFBFE",
+          "size": 8388608,
+          "compressedMd5": "FDCCB97967AB02212869659FC8DC7D46",
+          "compressedSize": 1253694
+        },
+        {
+          "md5": "DCCE451376810CB4BA677A003B626E00",
+          "size": 8388608,
+          "compressedMd5": "431F548F63D70AC21256821A6A9A5C96",
+          "compressedSize": 1241417
+        },
+        {
+          "md5": "5DF744E9F4E82F150E23BE8F47C4A356",
+          "size": 8388608,
+          "compressedMd5": "CCB3457BCD9EB53D0B734E8379C12DA0",
+          "compressedSize": 4318431
+        },
+        {
+          "md5": "36B0DCE15D379B4399A4D4CC9AFB7DFA",
+          "size": 8388608,
+          "compressedMd5": "C733EFD65BFF8185E0A93D4FBF5AAC6F",
+          "compressedSize": 3360481
+        },
+        {
+          "md5": "D5B2F34AF767E0780B45A4FB1351596A",
+          "size": 8388608,
+          "compressedMd5": "9BFF7D5B65A2BCB1DD23FC3924F46E99",
+          "compressedSize": 3259073
+        },
+        {
+          "md5": "781E096839F62F5E542F8C5243C1B8A9",
+          "size": 8388608,
+          "compressedMd5": "9070E23EE5DA596F39567C03F891E0D8",
+          "compressedSize": 3227383
+        },
+        {
+          "md5": "9E66E951DDA0D76E0EA7D2D9BC9EF415",
+          "size": 8388608,
+          "compressedMd5": "8E1B28E89A9207BBE6A2C18C72005816",
+          "compressedSize": 3329709
+        },
+        {
+          "md5": "B285474C5771221E0C38FD9B4F1D0F64",
+          "size": 8388608,
+          "compressedMd5": "519DE633B3117A46FB3F7C6BD2BE97E5",
+          "compressedSize": 3309143
+        },
+        {
+          "md5": "6C9CBCEC13A17710E46F8A717A675028",
+          "size": 8388608,
+          "compressedMd5": "07B31381EC0A228428A473DE8EA1B59B",
+          "compressedSize": 3263814
+        },
+        {
+          "md5": "4D876B778639997CFE28A7CEAB7B7D72",
+          "size": 8388608,
+          "compressedMd5": "A53637F455D0D242DD6772A85877186C",
+          "compressedSize": 4459043
+        },
+        {
+          "md5": "F89E3E40C30379281FF0A97E9FEEF543",
+          "size": 8388608,
+          "compressedMd5": "6E0B46D7EF6F23D53DC1E44D3C5FE58C",
+          "compressedSize": 7078553
+        },
+        {
+          "md5": "2CDF3763B72E34E224D1F5857AFC2179",
+          "size": 8388608,
+          "compressedMd5": "F8D2654011BFC6CE4B2AE04AD864109A",
+          "compressedSize": 6696829
+        },
+        {
+          "md5": "03DDB2806101B37571FC1C07326205AF",
+          "size": 8388608,
+          "compressedMd5": "7A14A70F42ACE5EFCF10DB9E04D5DF64",
+          "compressedSize": 7141738
+        },
+        {
+          "md5": "9A69BB98A11C822B11558CF857BE28FD",
+          "size": 8388608,
+          "compressedMd5": "4CC5CBB45AA48B1D06E315421DD65BBF",
+          "compressedSize": 7240692
+        },
+        {
+          "md5": "D91497654C7C247318E99A9CE2E76EAD",
+          "size": 8388608,
+          "compressedMd5": "800B1A7102E0A2581539C3D148CE4FA6",
+          "compressedSize": 7811860
+        },
+        {
+          "md5": "20B1DB6DBD9B33FAD66920701F81FAB1",
+          "size": 8388608,
+          "compressedMd5": "0011B177B027F596C71EFC6EE8757C82",
+          "compressedSize": 6272781
+        },
+        {
+          "md5": "A91988ADE210F6657877C79A49E6C753",
+          "size": 8388608,
+          "compressedMd5": "9445C0AAFDEB6204C4BFE1965320A9A4",
+          "compressedSize": 4064032
+        },
+        {
+          "md5": "EDA0C116503C26EF17A9A89F74CE5CB1",
+          "size": 8388608,
+          "compressedMd5": "0219ACB32D0E4764099E1FCF627AC159",
+          "compressedSize": 6098221
+        },
+        {
+          "md5": "DA9E7EC44981AB85FF8BAAC29B2D6A58",
+          "size": 8388608,
+          "compressedMd5": "7DEB6E3DF76E74CEB943D0B7E6E50FBA",
+          "compressedSize": 7267983
+        },
+        {
+          "md5": "4763F0030CA7BA07CE2103E92E48955C",
+          "size": 8388608,
+          "compressedMd5": "58EB5BAF80B520DD7417714F2DAD5A6B",
+          "compressedSize": 7121947
+        },
+        {
+          "md5": "3892D43558B466E03947711E7BA9B60B",
+          "size": 8388608,
+          "compressedMd5": "E06F21140744286E99F319750758BDB1",
+          "compressedSize": 6061330
+        },
+        {
+          "md5": "4D9CF16A79E8F3DD653F77FC6329551A",
+          "size": 8388608,
+          "compressedMd5": "2171588598DAA703096D248EAA59C2C9",
+          "compressedSize": 8028520
+        },
+        {
+          "md5": "36855EAFFA2622CA95EC45FBB920D037",
+          "size": 8388608,
+          "compressedMd5": "FC8032F644454784B625698700905A4A",
+          "compressedSize": 7924826
+        },
+        {
+          "md5": "7CE9EA0A4E89578AE6CE279358909D0D",
+          "size": 8388608,
+          "compressedMd5": "1A35FF2FF815F3F8B48139D20DDDC36F",
+          "compressedSize": 7743248
+        },
+        {
+          "md5": "B05C92FB14AA3F153E7B52B8A2C582A4",
+          "size": 8388608,
+          "compressedMd5": "63F7D57DDAAB23A68D1145A9D55B0210",
+          "compressedSize": 7414002
+        },
+        {
+          "md5": "EC788EFF45F19D57311802628E045BFB",
+          "size": 8388608,
+          "compressedMd5": "5AABD5AD6A8CE571C84D6D69D7958A6E",
+          "compressedSize": 7328898
+        },
+        {
+          "md5": "F1B9E9DD55B5D4C54DABBCB4C4F453B0",
+          "size": 8388608,
+          "compressedMd5": "D319DDB562D289597E4ABBBA8F9F1944",
+          "compressedSize": 7129481
+        },
+        {
+          "md5": "43C4D4D0EF594E716FCA265475E46A33",
+          "size": 8388608,
+          "compressedMd5": "14B3D6DA83F1828A6D3A4F44DAE62B98",
+          "compressedSize": 5929005
+        },
+        {
+          "md5": "1D5560A0BBFA6270CDDDAF83183DCA87",
+          "size": 8388608,
+          "compressedMd5": "0E73BDB27C5A1782BC0A8E256D934CBB",
+          "compressedSize": 7738671
+        },
+        {
+          "md5": "4AF7778AB387D8261F528E3646CF3068",
+          "size": 8388608,
+          "compressedMd5": "09AB2CA9A42F8DF69FE711075CF63971",
+          "compressedSize": 7739727
+        },
+        {
+          "md5": "0B6FF761704AB73C9508F29DD94C5DA3",
+          "size": 8388608,
+          "compressedMd5": "A58025AB8DE3245C8F0AF0F7100AD5DC",
+          "compressedSize": 7450978
+        },
+        {
+          "md5": "4258A2AA0B21A8DCEBC9C068EC03EECA",
+          "size": 8388608,
+          "compressedMd5": "D7F398C73EC61D84552BDA3584792A25",
+          "compressedSize": 7070798
+        },
+        {
+          "md5": "9716A01E92F891B035A8D604666FD423",
+          "size": 8388608,
+          "compressedMd5": "B220DDDDE29645C0D2D596CBC41EFEF5",
+          "compressedSize": 7419432
+        },
+        {
+          "md5": "F565762F75EE192FCE224473FFD83F7D",
+          "size": 8388608,
+          "compressedMd5": "9D5E167D15107DA824285874079C6289",
+          "compressedSize": 7133054
+        },
+        {
+          "md5": "4FE818E71BE32088BC98A93CC7406BF4",
+          "size": 8388608,
+          "compressedMd5": "94EEC840EB084E6E6C52DA13272F38A0",
+          "compressedSize": 5600292
+        },
+        {
+          "md5": "490BC24814937A19CC5A74A2D6D80893",
+          "size": 8388608,
+          "compressedMd5": "69D0E9CC35E94F359B83B7B810B41A2B",
+          "compressedSize": 2367859
+        },
+        {
+          "md5": "FD48EBEF7EFA60A6ED30940BB3823FBB",
+          "size": 8388608,
+          "compressedMd5": "21E7166C6DC6EFC24C88032F73269960",
+          "compressedSize": 1427669
+        },
+        {
+          "md5": "4423660B172D1CC2341A0C28A4BD4E11",
+          "size": 8388608,
+          "compressedMd5": "8CACADA0F1C9BAB2544BD7050A488574",
+          "compressedSize": 1387899
+        },
+        {
+          "md5": "707F3C607ADA45311AA68735251BB1D1",
+          "size": 11978269,
+          "compressedMd5": "AF7B61F747157FDCE822D3AE9B0A4117",
+          "compressedSize": 1906262
+        }
+      ]
+    }
+  ]
+}

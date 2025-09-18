@@ -1,0 +1,52 @@
+{
+  "baseProductId": 1453375253,
+  "buildId": 58211148168413492,
+  "dependencies": [
+    "XNA_40",
+    "dotNet45",
+    "MSVC2013",
+    "MSVC2013_x64"
+  ],
+  "depots": [
+    {
+      "compressedSize": 501080407,
+      "languages": [
+        "*"
+      ],
+      "manifest": "d326314cedcfd75f30ca6250e40380e0",
+      "osBitness": [],
+      "productId": 1453375253,
+      "size": 732527845
+    },
+    {
+      "compressedSize": 97,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "0c782f71ac3a0eff37eb01b44b7233c4",
+      "osBitness": [],
+      "productId": 1453375253,
+      "size": 157
+    },
+    {
+      "compressedSize": 309,
+      "languages": [
+        "en-US"
+      ],
+      "manifest": "81da452e8d8b15eb7e454d866f5e89d2",
+      "osBitness": [],
+      "productId": 1453375253,
+      "size": 783
+    },
+    {
+      "compressedSize": 184,
+      "languages": [
+        "*"
+      ],
+      "manifest": "472acf454cedcd8c4fdc71d892814918",
+      "osBitness": [],
+      "productId": 1453375253,
+      "size": 400
+    }
+  ]
+}

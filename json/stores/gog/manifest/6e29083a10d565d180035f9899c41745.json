@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "path": "Contents/Resources/goggame-1423049311.hashdb",
+      "chunks": [
+        {
+          "md5": "7770E3505B2301AE51C1FF282A664F81",
+          "size": 2797,
+          "compressedMd5": "E334FD2C0716320C62A81CD7FB52AD88",
+          "compressedSize": 2784
+        }
+      ],
+      "sfcRef": {
+        "offset": 907,
+        "size": 2797
+      }
+    },
+    {
+      "path": "Contents/Resources/goggame-1423049311.info",
+      "chunks": [
+        {
+          "md5": "6BB95BE2CFF516D3341E7785FF4E51F6",
+          "size": 907,
+          "compressedMd5": "FB3DCC24E5614235F0171D447F0636D9",
+          "compressedSize": 327
+        }
+      ],
+      "sfcRef": {
+        "size": 907
+      }
+    }
+  ],
+  "smallFilesContainer": {
+    "chunks": [
+      {
+        "md5": "A3A6AE6FC8BFBF3F53766EA6DE80FD80",
+        "size": 3704,
+        "compressedMd5": "07341DC6A1090F0921B7F83174969A3C",
+        "compressedSize": 3137
+      }
+    ]
+  }
+}

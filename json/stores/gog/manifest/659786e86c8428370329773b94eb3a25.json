@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "path": "Data/Localization/language.lsx",
+      "chunks": [
+        {
+          "md5": "EB8AD72D11F004861A96DD92AA57BF40",
+          "size": 574,
+          "compressedMd5": "4B49514C7D09219E55541713EE79F91D",
+          "compressedSize": 261
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Japanese/Japanese.pak",
+      "chunks": [
+        {
+          "md5": "3DACACBF35F90D3032A5B30930EB0E9F",
+          "size": 15494801,
+          "compressedMd5": "1575ADE412F653890DAF92DD33663980",
+          "compressedSize": 14011585
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Japanese/JapaneseData.pak",
+      "chunks": [
+        {
+          "md5": "A79872DAA790B050440B271CA5D31D4E",
+          "size": 5642152,
+          "compressedMd5": "92A6196BB77CCC76BC89FE1AF2B638A1",
+          "compressedSize": 5313108
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "path": "Data/Localization/language.lsx",
+      "chunks": [
+        {
+          "md5": "3AE8C38C4951117413E66DA6AB5ABF3E",
+          "size": 584,
+          "compressedMd5": "8FE0E7F2B80AF61E538330A809EC918F",
+          "compressedSize": 266
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/ChineseTraditional/ChineseTraditional.pak",
+      "chunks": [
+        {
+          "md5": "04AAA0E5E49BEAE8108AB51F1620750C",
+          "size": 14343200,
+          "compressedMd5": "688BC8CFF45220C9803B7D06F863A431",
+          "compressedSize": 12961289
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/ChineseTraditional/ChineseTraditionalData.pak",
+      "chunks": [
+        {
+          "md5": "C1702DA54EA145F1F59971A817E5972E",
+          "size": 18610794,
+          "compressedMd5": "AE70FD87A05D6B84188A3DF0F113662C",
+          "compressedSize": 16986592
+        }
+      ]
+    }
+  ]
+}

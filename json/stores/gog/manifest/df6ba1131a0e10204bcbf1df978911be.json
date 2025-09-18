@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "path": "Data/Localization/language.lsx",
+      "chunks": [
+        {
+          "md5": "D1E71D8B45AEF4FD7EECD3CA8C051739",
+          "size": 573,
+          "compressedMd5": "FD2B21F4046FDFBC4473D9940F8239F5",
+          "compressedSize": 261
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Russian/Russian.pak",
+      "chunks": [
+        {
+          "md5": "5A4A7929003414C5A98DC4441FF0A60A",
+          "size": 17065970,
+          "compressedMd5": "7A2A5291C1D9F38303C70211BE5176A8",
+          "compressedSize": 15427147
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "path": "Data/Localization/language.lsx",
+      "chunks": [
+        {
+          "md5": "4D93B0CA6AD9C6005556EC4BA1304204",
+          "size": 575,
+          "compressedMd5": "D536A2CB5DD52FD4A4AE619C41B29C6B",
+          "compressedSize": 261
+        }
+      ]
+    },
+    {
+      "path": "Data/Localization/Ukrainian/Ukrainian.pak",
+      "chunks": [
+        {
+          "md5": "F93373B208ACAFB0A551D600764999E6",
+          "size": 16277292,
+          "compressedMd5": "C8F8AC65748D56A7AADEA2D450B77306",
+          "compressedSize": 14694640
+        }
+      ]
+    }
+  ]
+}
