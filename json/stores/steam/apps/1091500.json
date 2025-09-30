@@ -1,5 +1,5 @@
 {
-  "ChangeNumber": 31055140,
+  "ChangeNumber": 31155712,
   "AppId": 1091500,
   "Depots": [
     {
@@ -9,9 +9,9 @@
       "DepotId": 1091501,
       "Manifests": {
         "public": {
-          "ManifestId": 4104611899910011352,
+          "ManifestId": 3389237510439361019,
           "Size": 66366228927,
-          "DownloadSize": 62838340640
+          "DownloadSize": 62838340624
         },
         "1_63_legacy_patch": {
           "ManifestId": 6594873489665865240,
@@ -372,9 +372,9 @@
       "DepotId": 2060310,
       "Manifests": {
         "public": {
-          "ManifestId": 1714552057592262783,
-          "Size": 98789712,
-          "DownloadSize": 23591760
+          "ManifestId": 2810178366748735393,
+          "Size": 97226064,
+          "DownloadSize": 22920704
         },
         "1_63_legacy_patch": {
           "ManifestId": 2805771300199462784,
